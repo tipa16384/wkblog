@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tipa16384.github.io/wkblog/sitemap.xml
