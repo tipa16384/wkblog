@@ -6,15 +6,8 @@
     <description>Recent content in Tags on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 23:50:30 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 10:26:41 -0500</lastBuildDate>
     <atom:link href="https://tipa16384.github.io/wkblog/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PvP</title>
-      <link>https://tipa16384.github.io/wkblog/tags/pvp/</link>
-      <pubDate>Sun, 15 Mar 2026 23:50:30 -0400</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/pvp/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Dominus Automa</title>
       <link>https://tipa16384.github.io/wkblog/tags/dominus-automa/</link>
@@ -828,6 +821,13 @@
       <description></description>
     </item>
     <item>
+      <title>PvP</title>
+      <link>https://tipa16384.github.io/wkblog/tags/pvp/</link>
+      <pubDate>Sat, 30 Aug 2025 16:49:36 -0500</pubDate>
+      <guid>https://tipa16384.github.io/wkblog/tags/pvp/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Suno</title>
       <link>https://tipa16384.github.io/wkblog/tags/suno/</link>
       <pubDate>Fri, 29 Aug 2025 18:39:28 -0500</pubDate>
@@ -996,10 +996,10 @@
       <description></description>
     </item>
     <item>
-      <title>Action Adventure Game</title>
-      <link>https://tipa16384.github.io/wkblog/tags/action-adventure-game/</link>
+      <title>Action Adventure Games</title>
+      <link>https://tipa16384.github.io/wkblog/tags/action-adventure-games/</link>
       <pubDate>Sun, 03 Aug 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/action-adventure-game/</guid>
+      <guid>https://tipa16384.github.io/wkblog/tags/action-adventure-games/</guid>
       <description></description>
     </item>
     <item>
@@ -2137,13 +2137,6 @@
       <description></description>
     </item>
     <item>
-      <title>Action Adventure Games</title>
-      <link>https://tipa16384.github.io/wkblog/tags/action-adventure-games/</link>
-      <pubDate>Wed, 27 Nov 2024 14:04:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/action-adventure-games/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Action RPG</title>
       <link>https://tipa16384.github.io/wkblog/tags/action-rpg/</link>
       <pubDate>Wed, 27 Nov 2024 14:04:28 -0500</pubDate>
@@ -2445,7 +2438,7 @@
       <description></description>
     </item>
     <item>
-      <title>Obs</title>
+      <title>OBS</title>
       <link>https://tipa16384.github.io/wkblog/tags/obs/</link>
       <pubDate>Thu, 12 Sep 2024 07:00:00 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/obs/</guid>
@@ -2932,13 +2925,6 @@
       <link>https://tipa16384.github.io/wkblog/tags/gate-keeper-games/</link>
       <pubDate>Wed, 26 Jun 2024 07:00:00 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/gate-keeper-games/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Origins 2024</title>
-      <link>https://tipa16384.github.io/wkblog/tags/origins-2024/</link>
-      <pubDate>Wed, 26 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/origins-2024/</guid>
       <description></description>
     </item>
     <item>
@@ -3670,10 +3656,10 @@
       <description></description>
     </item>
     <item>
-      <title>AoC2023</title>
-      <link>https://tipa16384.github.io/wkblog/tags/aoc2023/</link>
+      <title>AoC 2023</title>
+      <link>https://tipa16384.github.io/wkblog/tags/aoc-2023/</link>
       <pubDate>Fri, 22 Dec 2023 17:28:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/aoc2023/</guid>
+      <guid>https://tipa16384.github.io/wkblog/tags/aoc-2023/</guid>
       <description></description>
     </item>
     <item>
@@ -8108,7 +8094,7 @@
       <description></description>
     </item>
     <item>
-      <title>Youtube</title>
+      <title>YouTube</title>
       <link>https://tipa16384.github.io/wkblog/tags/youtube/</link>
       <pubDate>Mon, 28 Sep 2020 07:50:22 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/youtube/</guid>
@@ -8990,7 +8976,7 @@
       <description></description>
     </item>
     <item>
-      <title>Snap</title>
+      <title>SNAP</title>
       <link>https://tipa16384.github.io/wkblog/tags/snap/</link>
       <pubDate>Sun, 26 Apr 2020 17:52:23 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/snap/</guid>
@@ -9816,7 +9802,7 @@
       <description></description>
     </item>
     <item>
-      <title>Lego Universe</title>
+      <title>LEGO Universe</title>
       <link>https://tipa16384.github.io/wkblog/tags/lego-universe/</link>
       <pubDate>Wed, 12 Jan 2011 06:00:02 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/lego-universe/</guid>
@@ -11160,7 +11146,7 @@
       <description></description>
     </item>
     <item>
-      <title>Latale</title>
+      <title>LaTale</title>
       <link>https://tipa16384.github.io/wkblog/tags/latale/</link>
       <pubDate>Fri, 31 Jul 2009 07:59:32 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/latale/</guid>
@@ -11958,13 +11944,6 @@
       <description></description>
     </item>
     <item>
-      <title>Spellborn Nav</title>
-      <link>https://tipa16384.github.io/wkblog/tags/spellborn-nav/</link>
-      <pubDate>Fri, 27 Feb 2009 17:55:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/spellborn-nav/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Voon</title>
       <link>https://tipa16384.github.io/wkblog/tags/voon/</link>
       <pubDate>Thu, 26 Feb 2009 20:10:56 -0500</pubDate>
@@ -12511,7 +12490,7 @@
       <description></description>
     </item>
     <item>
-      <title>Nxe</title>
+      <title>NXE</title>
       <link>https://tipa16384.github.io/wkblog/tags/nxe/</link>
       <pubDate>Fri, 21 Nov 2008 11:27:35 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/nxe/</guid>
@@ -12861,10 +12840,10 @@
       <description></description>
     </item>
     <item>
-      <title>Wtfcomics</title>
-      <link>https://tipa16384.github.io/wkblog/tags/wtfcomics/</link>
+      <title>WTF Comics</title>
+      <link>https://tipa16384.github.io/wkblog/tags/wtf-comics/</link>
       <pubDate>Tue, 28 Oct 2008 06:46:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/wtfcomics/</guid>
+      <guid>https://tipa16384.github.io/wkblog/tags/wtf-comics/</guid>
       <description></description>
     </item>
     <item>
@@ -12959,7 +12938,7 @@
       <description></description>
     </item>
     <item>
-      <title>Wru Bloggers</title>
+      <title>WRU Bloggers</title>
       <link>https://tipa16384.github.io/wkblog/tags/wru-bloggers/</link>
       <pubDate>Wed, 22 Oct 2008 12:14:46 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/wru-bloggers/</guid>
@@ -13148,10 +13127,10 @@
       <description></description>
     </item>
     <item>
-      <title>Littlebig Planet</title>
-      <link>https://tipa16384.github.io/wkblog/tags/littlebig-planet/</link>
+      <title>Little Big Planet</title>
+      <link>https://tipa16384.github.io/wkblog/tags/little-big-planet/</link>
       <pubDate>Thu, 09 Oct 2008 08:30:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/tags/littlebig-planet/</guid>
+      <guid>https://tipa16384.github.io/wkblog/tags/little-big-planet/</guid>
       <description></description>
     </item>
     <item>
@@ -15066,7 +15045,7 @@
       <description></description>
     </item>
     <item>
-      <title>Ncsoft</title>
+      <title>NCsoft</title>
       <link>https://tipa16384.github.io/wkblog/tags/ncsoft/</link>
       <pubDate>Thu, 18 Oct 2007 07:17:00 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/tags/ncsoft/</guid>
