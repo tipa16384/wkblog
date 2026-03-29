@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A* on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/a/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/a/</link>
     <description>Recent content in A* on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Dec 2023 16:50:55 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/a/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code Day 17 -- Clumsy Crucible</title>
-      <link>http://localhost:1313/wkblog/2023/12/advent-of-code-day-17--clumsy-crucible/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-17--clumsy-crucible/</link>
       <pubDate>Sun, 17 Dec 2023 16:50:55 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/12/advent-of-code-day-17--clumsy-crucible/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-17--clumsy-crucible/</guid>
       <description>Edsger Dijkstra is laughing at me from his grave.</description>
     </item>
     <item>
       <title>Advent of Code Day 24 -- Blizzard Basin</title>
-      <link>http://localhost:1313/wkblog/2022/12/advent-of-code-day-24--blizzard-basin/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-24--blizzard-basin/</link>
       <pubDate>Sat, 24 Dec 2022 16:02:44 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/advent-of-code-day-24--blizzard-basin/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-24--blizzard-basin/</guid>
       <description>The Christmas elves don&amp;rsquo;t like the snow for some reason? They have the wrong boss, I think. Well, we better help them get through those couple hundred blizzards.</description>
     </item>
     <item>
       <title>7DRL: Building an Engine -- Path Finding</title>
-      <link>http://localhost:1313/wkblog/2022/02/7drl-building-an-engine--path-finding/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine--path-finding/</link>
       <pubDate>Thu, 17 Feb 2022 23:30:32 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/02/7drl-building-an-engine--path-finding/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine--path-finding/</guid>
       <description>Path finding is central to all rogue-likes. If an enemy can&amp;rsquo;t find you, they can&amp;rsquo;t fight you&amp;hellip; and that wouldn&amp;rsquo;t be any fun. Tonight, I&amp;hellip;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bumptop on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/bumptop/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/bumptop/</link>
     <description>Recent content in Bumptop on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Apr 2009 08:03:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/bumptop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/bumptop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>And then I tried... BumpTop</title>
-      <link>http://localhost:1313/wkblog/2009/04/and-then-i-tried...-bumptop/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/04/and-then-i-tried...-bumptop/</link>
       <pubDate>Thu, 09 Apr 2009 08:03:42 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/04/and-then-i-tried...-bumptop/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/04/and-then-i-tried...-bumptop/</guid>
       <description>A few years ago, there was this cool demo of a new desktop metaphor where your files were actual objects you could shove around, stack,&amp;hellip;</description>
     </item>
   </channel>

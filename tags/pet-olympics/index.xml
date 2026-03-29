@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pet Olympics on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/pet-olympics/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/pet-olympics/</link>
     <description>Recent content in Pet Olympics on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Aug 2008 07:00:31 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/pet-olympics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/pet-olympics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard101&#39;s subscription plan and item shop</title>
-      <link>http://localhost:1313/wkblog/2008/08/wizard101s-subscription-plan-and-item-shop/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/08/wizard101s-subscription-plan-and-item-shop/</link>
       <pubDate>Thu, 28 Aug 2008 07:00:31 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/08/wizard101s-subscription-plan-and-item-shop/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/08/wizard101s-subscription-plan-and-item-shop/</guid>
       <description>Judgement Robes and Ninja Pigs in the world of Moo Shu&amp;hellip;</description>
     </item>
   </channel>

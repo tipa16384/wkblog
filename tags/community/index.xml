@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/community/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/community/</link>
     <description>Recent content in Community on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Aug 2020 09:24:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blaugust #29: Communities</title>
-      <link>http://localhost:1313/wkblog/2020/08/blaugust-%2329-communities/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2329-communities/</link>
       <pubDate>Sat, 29 Aug 2020 09:24:42 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/08/blaugust-%2329-communities/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2329-communities/</guid>
       <description>I thought and thought and thought about what I would want to use as the header image to this post. Communities&amp;hellip; I was watching the&amp;hellip;</description>
     </item>
   </channel>

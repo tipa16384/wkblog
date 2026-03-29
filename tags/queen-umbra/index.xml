@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Queen Umbra on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/queen-umbra/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/queen-umbra/</link>
     <description>Recent content in Queen Umbra on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Nov 2010 08:01:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/queen-umbra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/queen-umbra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard101: Halfway through Celestia!</title>
-      <link>http://localhost:1313/wkblog/2010/11/wizard101-halfway-through-celestia/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/11/wizard101-halfway-through-celestia/</link>
       <pubDate>Fri, 12 Nov 2010 08:01:02 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/11/wizard101-halfway-through-celestia/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/11/wizard101-halfway-through-celestia/</guid>
       <description>We&amp;rsquo;ve been through the Stellarium, the Lunarium, the Floating Island, the Celestia Base Camp, the Grotto and half a dozen other mini-worlds in Celestia. Quests&amp;hellip;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Widget&#39;s Workshop on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/widgets-workshop/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/widgets-workshop/</link>
     <description>Recent content in Widget&#39;s Workshop on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Dec 2025 09:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/widgets-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/widgets-workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Widget&#39;s Workshop: Build Robots Better.</title>
-      <link>http://localhost:1313/wkblog/2025/12/widgets-workshop-build-robots-better./</link>
+      <link>https://tipa16384.github.io/wkblog/2025/12/widgets-workshop-build-robots-better./</link>
       <pubDate>Tue, 23 Dec 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/12/widgets-workshop-build-robots-better./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/12/widgets-workshop-build-robots-better./</guid>
       <description>If you&amp;rsquo;ve been fomenting a drop-style card crafting revolution, this might be the game for you.</description>
     </item>
   </channel>

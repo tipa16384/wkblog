@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shiba Inu on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/shiba-inu/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/shiba-inu/</link>
     <description>Recent content in Shiba Inu on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Nov 2021 00:15:44 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/shiba-inu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/shiba-inu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I&#39;m just here to bring joy and melt your brain.</title>
-      <link>http://localhost:1313/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</link>
+      <link>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</link>
       <pubDate>Thu, 18 Nov 2021 00:15:44 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</guid>
       <description>Not necessarily in that order. I have a lot to talk about and I just have to put it down in the blog, and I&amp;hellip;</description>
     </item>
     <item>
       <title>Cryptogaming: A Brief Adventure</title>
-      <link>http://localhost:1313/wkblog/2021/11/cryptogaming-a-brief-adventure/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</link>
       <pubDate>Mon, 01 Nov 2021 00:29:18 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/11/cryptogaming-a-brief-adventure/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</guid>
       <description>I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames&amp;hellip;.</description>
     </item>
   </channel>

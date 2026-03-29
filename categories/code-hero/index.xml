@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Hero on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/code-hero/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/code-hero/</link>
     <description>Recent content in Code Hero on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Mar 2013 07:50:23 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/code-hero/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/code-hero/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Hero (alpha)</title>
-      <link>http://localhost:1313/wkblog/2013/03/code-hero-alpha/</link>
+      <link>https://tipa16384.github.io/wkblog/2013/03/code-hero-alpha/</link>
       <pubDate>Wed, 06 Mar 2013 07:50:23 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2013/03/code-hero-alpha/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2013/03/code-hero-alpha/</guid>
       <description>Last year, or maybe the year before by now, I helped fund an innovative game on Kickstarter, Primer&amp;rsquo;s Code Hero. This game would teach you&amp;hellip;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Featured Episodes on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/featured-episodes/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/featured-episodes/</link>
     <description>Recent content in Featured Episodes on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2011 07:37:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/featured-episodes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/featured-episodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star Trek Online FE303: Frozen (Spoilers)</title>
-      <link>http://localhost:1313/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</link>
+      <link>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</link>
       <pubDate>Mon, 21 Feb 2011 07:37:29 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</guid>
       <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>Star Trek Online: Featured episodes start TOMORROW</title>
-      <link>http://localhost:1313/wkblog/2010/08/star-trek-online-featured-episodes-start-tomorrow/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/08/star-trek-online-featured-episodes-start-tomorrow/</link>
       <pubDate>Fri, 27 Aug 2010 20:21:55 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/08/star-trek-online-featured-episodes-start-tomorrow/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/08/star-trek-online-featured-episodes-start-tomorrow/</guid>
       <description>Cryptic starts their new weekly episode tomorrow, with &amp;ldquo;Cold Call&amp;rdquo;. I&amp;rsquo;m pretty excited to see what they&amp;rsquo;ve come up with! I&amp;rsquo;m not sure any subscription&amp;hellip;</description>
     </item>
   </channel>

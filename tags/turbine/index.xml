@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turbine on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/turbine/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/turbine/</link>
     <description>Recent content in Turbine on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Sep 2008 13:07:32 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/turbine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/turbine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What would a Turbine Harry Potter MMO look like?</title>
-      <link>http://localhost:1313/wkblog/2008/09/what-would-a-turbine-harry-potter-mmo-look-like/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/what-would-a-turbine-harry-potter-mmo-look-like/</link>
       <pubDate>Sun, 07 Sep 2008 13:07:32 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/what-would-a-turbine-harry-potter-mmo-look-like/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/what-would-a-turbine-harry-potter-mmo-look-like/</guid>
       <description>Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn&amp;rsquo;t the&amp;hellip;</description>
     </item>
   </channel>

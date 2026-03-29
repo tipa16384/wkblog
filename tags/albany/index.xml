@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Albany on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/albany/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/albany/</link>
     <description>Recent content in Albany on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Nov 2007 14:37:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/albany/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/albany/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tomorrow: I must remember to bring the aqualung.</title>
-      <link>http://localhost:1313/wkblog/2007/11/tomorrow-i-must-remember-to-bring-the-aqualung./</link>
+      <link>https://tipa16384.github.io/wkblog/2007/11/tomorrow-i-must-remember-to-bring-the-aqualung./</link>
       <pubDate>Fri, 30 Nov 2007 14:37:42 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2007/11/tomorrow-i-must-remember-to-bring-the-aqualung./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2007/11/tomorrow-i-must-remember-to-bring-the-aqualung./</guid>
       <description>It&amp;rsquo;s been months since I bought the tickets, and I have to remember that tomorrow is December 1st, and the Jethro Tull concert down in&amp;hellip;</description>
     </item>
   </channel>

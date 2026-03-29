@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vscode on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/vscode/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/vscode/</link>
     <description>Recent content in Vscode on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Dec 2022 20:11:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code Day 12 -- Hill Climbing Algorithm</title>
-      <link>http://localhost:1313/wkblog/2022/12/advent-of-code-day-12--hill-climbing-algorithm/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-12--hill-climbing-algorithm/</link>
       <pubDate>Thu, 15 Dec 2022 20:11:29 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/advent-of-code-day-12--hill-climbing-algorithm/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-12--hill-climbing-algorithm/</guid>
       <description>The title says it all. It&amp;rsquo;s a &amp;ldquo;shortest path&amp;rdquo; puzzle, you&amp;rsquo;re meant to use Dijkstra&amp;rsquo;s algorithm, and the puzzle has no curve balls to toss at you.</description>
     </item>
   </channel>

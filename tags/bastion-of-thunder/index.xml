@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bastion of Thunder on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/bastion-of-thunder/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/bastion-of-thunder/</link>
     <description>Recent content in Bastion of Thunder on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Nov 2008 08:41:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/bastion-of-thunder/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/bastion-of-thunder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ: The Attack of the Killer Bees</title>
-      <link>http://localhost:1313/wkblog/2008/11/eq-the-attack-of-the-killer-bees/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/11/eq-the-attack-of-the-killer-bees/</link>
       <pubDate>Sat, 08 Nov 2008 08:41:02 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/11/eq-the-attack-of-the-killer-bees/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/11/eq-the-attack-of-the-killer-bees/</guid>
       <description>The plan was to go to some experience hot zone last night for Nostalgia&amp;rsquo;s weekly meet-up. But Mantis decided to just farm some of the&amp;hellip;</description>
     </item>
     <item>
       <title>EQ: The Bastion of Thunder</title>
-      <link>http://localhost:1313/wkblog/2008/10/eq-the-bastion-of-thunder/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</link>
       <pubDate>Sat, 25 Oct 2008 08:48:27 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/10/eq-the-bastion-of-thunder/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</guid>
       <description>Because FRAPS conked out on me, and I didn&amp;rsquo;t notice until after. there&amp;rsquo;s no screen shots of our night in the Bastion of Thunder&amp;hellip;.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anime on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/anime/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/anime/</link>
     <description>Recent content in Anime on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Oct 2020 07:34:04 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/anime/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/anime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Night: Heart of Crown</title>
-      <link>http://localhost:1313/wkblog/2020/10/game-night-heart-of-crown/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/10/game-night-heart-of-crown/</link>
       <pubDate>Thu, 29 Oct 2020 07:34:04 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/10/game-night-heart-of-crown/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/10/game-night-heart-of-crown/</guid>
       <description>I&amp;rsquo;d forgotten we&amp;rsquo;d discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game&amp;hellip;.</description>
     </item>
   </channel>

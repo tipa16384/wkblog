@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bloggers on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/bloggers/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/bloggers/</link>
     <description>Recent content in Bloggers on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Aug 2022 21:33:57 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/bloggers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/bloggers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blaugust 2022: Staying (un)Motivated</title>
-      <link>http://localhost:1313/wkblog/2022/08/blaugust-2022-staying-unmotivated/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</link>
       <pubDate>Mon, 29 Aug 2022 21:33:57 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/08/blaugust-2022-staying-unmotivated/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</guid>
       <description>Keeping a blog alive is a lot of pressure. Wouldn&amp;rsquo;t it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?</description>
     </item>
     <item>
       <title>How to start an EverQuest blog.</title>
-      <link>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</link>
+      <link>https://tipa16384.github.io/wkblog/2008/10/how-to-start-an-everquest-blog./</link>
       <pubDate>Wed, 22 Oct 2008 12:14:46 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/10/how-to-start-an-everquest-blog./</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;Be an EverQuest player of any level, experience, anything. This is the tough step&amp;hellip;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;</description>
     </item>
   </channel>

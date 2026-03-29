@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Delusions of Grandeur on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/delusions-of-grandeur/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/delusions-of-grandeur/</link>
     <description>Recent content in Delusions of Grandeur on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 May 2008 10:07:57 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/delusions-of-grandeur/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/delusions-of-grandeur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Taking Flight</title>
-      <link>http://localhost:1313/wkblog/2008/05/eq2-taking-flight/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/05/eq2-taking-flight/</link>
       <pubDate>Tue, 13 May 2008 10:07:57 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/05/eq2-taking-flight/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/05/eq2-taking-flight/</guid>
       <description>With my EQ2 raiding career at an end &amp;ndash; I just don&amp;rsquo;t have the time for a six day a week raiding commitment any more&amp;hellip;</description>
     </item>
   </channel>

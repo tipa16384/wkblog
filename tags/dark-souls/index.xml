@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dark Souls on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/dark-souls/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/dark-souls/</link>
     <description>Recent content in Dark Souls on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 May 2022 23:44:51 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/dark-souls/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/dark-souls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What if Elden, but Ring?</title>
-      <link>http://localhost:1313/wkblog/2022/05/what-if-elden-but-ring/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/05/what-if-elden-but-ring/</link>
       <pubDate>Mon, 30 May 2022 23:44:51 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/05/what-if-elden-but-ring/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/05/what-if-elden-but-ring/</guid>
       <description>I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over&amp;hellip;</description>
     </item>
   </channel>

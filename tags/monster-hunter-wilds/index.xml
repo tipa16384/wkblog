@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monster Hunter Wilds on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/monster-hunter-wilds/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/monster-hunter-wilds/</link>
     <description>Recent content in Monster Hunter Wilds on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Mar 2025 08:19:36 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/monster-hunter-wilds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/monster-hunter-wilds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monster Hunters Wilding</title>
-      <link>http://localhost:1313/wkblog/2025/03/monster-hunters-wilding/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/03/monster-hunters-wilding/</link>
       <pubDate>Mon, 24 Mar 2025 08:19:36 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/03/monster-hunters-wilding/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/03/monster-hunters-wilding/</guid>
       <description>I like to think of the Monster Hunter series being set in the same world as the Pokemon games.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Observatory on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/observatory/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/observatory/</link>
     <description>Recent content in Observatory on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Dec 2023 07:49:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/observatory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/observatory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code Day 11 -- Cosmic Expansion</title>
-      <link>http://localhost:1313/wkblog/2023/12/advent-of-code-day-11--cosmic-expansion/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-11--cosmic-expansion/</link>
       <pubDate>Mon, 11 Dec 2023 07:49:29 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/12/advent-of-code-day-11--cosmic-expansion/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-11--cosmic-expansion/</guid>
       <description>This is why Santa shouldn&amp;rsquo;t let elves do astrophysics.</description>
     </item>
   </channel>

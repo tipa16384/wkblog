@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kobold on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/kobold/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/kobold/</link>
     <description>Recent content in Kobold on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Apr 2009 22:19:44 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/kobold/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/kobold/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Epic encounter in my bedroom</title>
-      <link>http://localhost:1313/wkblog/2009/04/eq2-epic-encounter-in-my-bedroom/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/04/eq2-epic-encounter-in-my-bedroom/</link>
       <pubDate>Sun, 05 Apr 2009 22:19:44 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/04/eq2-epic-encounter-in-my-bedroom/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/04/eq2-epic-encounter-in-my-bedroom/</guid>
       <description>It was really cool! See, Kasul and I were kinda bored, and we were alone in the guild hall, and we got to thinking about&amp;hellip;</description>
     </item>
   </channel>

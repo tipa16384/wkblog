@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crayon Chronicles on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/crayon-chronicles/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/crayon-chronicles/</link>
     <description>Recent content in Crayon Chronicles on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 May 2013 07:10:04 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/crayon-chronicles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/crayon-chronicles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crayon Chronicles: A Roguelike for your Inner Second Grader</title>
-      <link>http://localhost:1313/wkblog/2013/05/crayon-chronicles-a-roguelike-for-your-inner-second-grader/</link>
+      <link>https://tipa16384.github.io/wkblog/2013/05/crayon-chronicles-a-roguelike-for-your-inner-second-grader/</link>
       <pubDate>Fri, 24 May 2013 07:10:04 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2013/05/crayon-chronicles-a-roguelike-for-your-inner-second-grader/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2013/05/crayon-chronicles-a-roguelike-for-your-inner-second-grader/</guid>
       <description>I should have called this &amp;ldquo;A Child&amp;rsquo;s First Roguelike&amp;rdquo;. Or, &amp;ldquo;How to get through school with only an Owl on a Stick&amp;rdquo;. Whatever. Outer Grid&amp;hellip;</description>
     </item>
   </channel>

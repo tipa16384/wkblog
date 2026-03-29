@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nexona on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/nexona/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/nexona/</link>
     <description>Recent content in Nexona on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jan 2009 08:00:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/nexona/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/nexona/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Dragon Wars</title>
-      <link>http://localhost:1313/wkblog/2009/01/eq2-dragon-wars/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/01/eq2-dragon-wars/</link>
       <pubDate>Wed, 28 Jan 2009 08:00:33 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/01/eq2-dragon-wars/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/01/eq2-dragon-wars/</guid>
       <description>This isn&amp;rsquo;t Veeshan&amp;rsquo;s Peak. That&amp;rsquo;s Thomas Lionblood, the Friendly Necromancer, on the left, though&amp;hellip;.</description>
     </item>
     <item>
       <title>EQ2: My Nexona</title>
-      <link>http://localhost:1313/wkblog/2009/01/eq2-my-nexona/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/01/eq2-my-nexona/</link>
       <pubDate>Sun, 18 Jan 2009 09:26:40 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/01/eq2-my-nexona/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/01/eq2-my-nexona/</guid>
       <description>Hey we&amp;rsquo;re gonna quickly run, quickly run&amp;hellip;</description>
     </item>
   </channel>

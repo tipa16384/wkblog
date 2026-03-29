@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backups on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/backups/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/backups/</link>
     <description>Recent content in Backups on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Aug 2024 08:29:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/backups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/backups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again</title>
-      <link>http://localhost:1313/wkblog/2024/08/not-gonna-lose-my-blog-backups-saved-me-once-and-will-save-me-again/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/08/not-gonna-lose-my-blog-backups-saved-me-once-and-will-save-me-again/</link>
       <pubDate>Mon, 05 Aug 2024 08:29:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/08/not-gonna-lose-my-blog-backups-saved-me-once-and-will-save-me-again/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/08/not-gonna-lose-my-blog-backups-saved-me-once-and-will-save-me-again/</guid>
       <description>I lost my blog. Backups saved me. Now I&amp;rsquo;m taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive.</description>
     </item>
   </channel>

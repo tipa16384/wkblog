@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonaparte on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/bonaparte/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/bonaparte/</link>
     <description>Recent content in Bonaparte on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/bonaparte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/bonaparte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bonaparte: A Mechanized Revolution</title>
-      <link>http://localhost:1313/wkblog/2024/12/bonaparte-a-mechanized-revolution/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</link>
       <pubDate>Fri, 06 Dec 2024 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/12/bonaparte-a-mechanized-revolution/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</guid>
       <description>Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs&amp;hellip;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dark Stone on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/dark-stone/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/dark-stone/</link>
     <description>Recent content in Dark Stone on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jul 2022 23:27:41 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/dark-stone/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/dark-stone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dark Stone, Retroarch, and Steam.</title>
-      <link>http://localhost:1313/wkblog/2022/07/dark-stone-retroarch-and-steam./</link>
+      <link>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam./</link>
       <pubDate>Mon, 04 Jul 2022 23:27:41 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/07/dark-stone-retroarch-and-steam./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam./</guid>
       <description>I was looking for a game to keep me occupied during the long holiday weekend, and my partner handed me an old RPG from the&amp;hellip;</description>
     </item>
   </channel>

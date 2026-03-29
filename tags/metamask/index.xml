@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metamask on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/metamask/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/metamask/</link>
     <description>Recent content in Metamask on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Oct 2021 08:26:25 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/metamask/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/metamask/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dragonereum: If NeoPets Cost $7,000</title>
-      <link>http://localhost:1313/wkblog/2021/10/dragonereum-if-neopets-cost-7000/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/10/dragonereum-if-neopets-cost-7000/</link>
       <pubDate>Wed, 20 Oct 2021 08:26:25 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/10/dragonereum-if-neopets-cost-7000/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/10/dragonereum-if-neopets-cost-7000/</guid>
       <description>Am I just too stupid to play crypto browser games? Or just too poor?&amp;hellip;</description>
     </item>
   </channel>

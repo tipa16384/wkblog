@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Critical Role on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/critical-role/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/critical-role/</link>
     <description>Recent content in Critical Role on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Dec 2025 09:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/critical-role/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/critical-role/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steam Winter Sale: Dispatch</title>
-      <link>http://localhost:1313/wkblog/2025/12/steam-winter-sale-dispatch/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/12/steam-winter-sale-dispatch/</link>
       <pubDate>Fri, 26 Dec 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/12/steam-winter-sale-dispatch/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/12/steam-winter-sale-dispatch/</guid>
       <description>Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses.</description>
     </item>
   </channel>

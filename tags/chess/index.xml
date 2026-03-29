@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chess on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/chess/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/chess/</link>
     <description>Recent content in Chess on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Nov 2021 23:31:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/chess/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/chess/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick Look: Pawnbarian</title>
-      <link>http://localhost:1313/wkblog/2021/11/quick-look-pawnbarian/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/11/quick-look-pawnbarian/</link>
       <pubDate>Tue, 02 Nov 2021 23:31:03 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/11/quick-look-pawnbarian/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/11/quick-look-pawnbarian/</guid>
       <description>A lot of indie developers of turn-based, tactical RPGs were strutting their stuff on Twitter yesterday. So wait a second &amp;ndash; Pawnbarian is a card&amp;hellip;</description>
     </item>
     <item>
       <title>Game Night: Christmas! Chess and Small World of Warcraft</title>
-      <link>http://localhost:1313/wkblog/2020/12/game-night-christmas-chess-and-small-world-of-warcraft/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/12/game-night-christmas-chess-and-small-world-of-warcraft/</link>
       <pubDate>Sat, 26 Dec 2020 11:57:17 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/12/game-night-christmas-chess-and-small-world-of-warcraft/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/12/game-night-christmas-chess-and-small-world-of-warcraft/</guid>
       <description>Gamers gotta game, even on Christmas Day&amp;hellip;</description>
     </item>
   </channel>

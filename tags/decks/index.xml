@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decks on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/decks/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/decks/</link>
     <description>Recent content in Decks on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Aug 2010 22:49:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/decks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/decks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard101: It&#39;s all about the Ninja Pig</title>
-      <link>http://localhost:1313/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</link>
       <pubDate>Mon, 23 Aug 2010 22:49:33 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</guid>
       <description>My friend Michael Stormpyre and I were farming for grandmaster gear the other night. I was on my myth wizard, Marissa Spiritcaller, and I was&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: Building a deck</title>
-      <link>http://localhost:1313/wkblog/2009/02/wizard-101-building-a-deck/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/02/wizard-101-building-a-deck/</link>
       <pubDate>Thu, 26 Feb 2009 08:50:13 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/02/wizard-101-building-a-deck/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/02/wizard-101-building-a-deck/</guid>
       <description>Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was talking&amp;hellip;</description>
     </item>
   </channel>

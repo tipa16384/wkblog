@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elephant on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/elephant/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/elephant/</link>
     <description>Recent content in Elephant on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Dec 2022 22:08:13 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/elephant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/elephant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code Day 21 -- Monkey Math</title>
-      <link>http://localhost:1313/wkblog/2022/12/advent-of-code-day-21--monkey-math/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-21--monkey-math/</link>
       <pubDate>Wed, 21 Dec 2022 22:08:13 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/advent-of-code-day-21--monkey-math/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-21--monkey-math/</guid>
       <description>Hey, monkeys again! Shouting! Luckily, we have an elephant to interpret. I feel&amp;hellip; morally uneasy about today&amp;rsquo;s solution.</description>
     </item>
     <item>
       <title>Advent of Code Day 17 -- Pyroclastic Flow</title>
-      <link>http://localhost:1313/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</link>
       <pubDate>Sat, 17 Dec 2022 23:06:06 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</guid>
       <description>They say &amp;ldquo;Pyroclastic Flow&amp;rdquo;, but it&amp;rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.</description>
     </item>
     <item>
       <title>Advent of Code Day 16 -- Proboscidea Volcanium</title>
-      <link>http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</link>
       <pubDate>Fri, 16 Dec 2022 23:17:07 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</guid>
       <description>Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&amp;rsquo;s, so let&amp;rsquo;s try something a little different.</description>
     </item>
   </channel>

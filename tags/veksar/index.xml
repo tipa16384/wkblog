@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veksar on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/veksar/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/veksar/</link>
     <description>Recent content in Veksar on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Sep 2008 11:20:16 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/veksar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/veksar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Game update 48 is live</title>
-      <link>http://localhost:1313/wkblog/2008/09/eq2-game-update-48-is-live/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/eq2-game-update-48-is-live/</link>
       <pubDate>Wed, 03 Sep 2008 11:20:16 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/eq2-game-update-48-is-live/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/eq2-game-update-48-is-live/</guid>
       <description>I guess I know what I&amp;rsquo;ll be doing tonight&amp;hellip;&amp;hellip;</description>
     </item>
     <item>
       <title>EQ: Veksar Rising</title>
-      <link>http://localhost:1313/wkblog/2008/08/eq-veksar-rising/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/08/eq-veksar-rising/</link>
       <pubDate>Fri, 08 Aug 2008 08:13:29 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/08/eq-veksar-rising/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/08/eq-veksar-rising/</guid>
       <description>The number one rule of Nostalgia the Guild is that we level together and nobody gets left behind (unless they stop showing up). Last night&amp;hellip;</description>
     </item>
     <item>
       <title>The Deep Ones</title>
-      <link>http://localhost:1313/wkblog/2007/10/the-deep-ones/</link>
+      <link>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</link>
       <pubDate>Fri, 12 Oct 2007 12:24:28 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2007/10/the-deep-ones/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</guid>
       <description>And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant&amp;hellip;</description>
     </item>
   </channel>

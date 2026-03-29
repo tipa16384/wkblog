@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nintendo 64 on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/nintendo-64/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/nintendo-64/</link>
     <description>Recent content in Nintendo 64 on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jul 2022 14:58:23 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/nintendo-64/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/nintendo-64/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
-      <link>http://localhost:1313/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
       <pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
       <description>Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;</description>
     </item>
     <item>
       <title>Streaming from the Nintendo 64</title>
-      <link>http://localhost:1313/wkblog/2022/07/streaming-from-the-nintendo-64/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/07/streaming-from-the-nintendo-64/</link>
       <pubDate>Tue, 12 Jul 2022 07:42:43 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/07/streaming-from-the-nintendo-64/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/07/streaming-from-the-nintendo-64/</guid>
       <description>It&amp;rsquo;s not pretty and it could be better, but I&amp;rsquo;m able to stream from my unmodified Nintendo 64 at an acceptable resolution using about $50&amp;hellip;</description>
     </item>
     <item>
       <title>Project64 and Beetle Adventure Racing</title>
-      <link>http://localhost:1313/wkblog/2020/05/project64-and-beetle-adventure-racing/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/05/project64-and-beetle-adventure-racing/</link>
       <pubDate>Fri, 08 May 2020 11:39:04 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/05/project64-and-beetle-adventure-racing/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/05/project64-and-beetle-adventure-racing/</guid>
       <description>It&amp;rsquo;s 1999, my old broken down Super Beetle is sitting in the driveway, probably waiting on another rebuilt part for its underpowered engine, and Volkswagen&amp;hellip;</description>
     </item>
   </channel>

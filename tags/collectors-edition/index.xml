@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collector&#39;s Edition on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/collectors-edition/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/collectors-edition/</link>
     <description>Recent content in Collector&#39;s Edition on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/collectors-edition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/collectors-edition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>October retro finds!</title>
-      <link>http://localhost:1313/wkblog/2024/10/october-retro-finds/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/10/october-retro-finds/</link>
       <pubDate>Sun, 13 Oct 2024 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/10/october-retro-finds/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/10/october-retro-finds/</guid>
       <description>We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly.</description>
     </item>
     <item>
       <title>How far would I go to play Spellborn?</title>
-      <link>http://localhost:1313/wkblog/2008/11/how-far-would-i-go-to-play-spellborn/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/11/how-far-would-i-go-to-play-spellborn/</link>
       <pubDate>Thu, 20 Nov 2008 01:14:40 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/11/how-far-would-i-go-to-play-spellborn/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/11/how-far-would-i-go-to-play-spellborn/</guid>
       <description>Would I order the mainland European version of the game from Amazon Europe? And pay extra for the collector&amp;rsquo;s edition?&amp;hellip;</description>
     </item>
   </channel>

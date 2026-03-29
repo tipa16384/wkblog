@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Characters on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/characters/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/characters/</link>
     <description>Recent content in Characters on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Sep 2008 19:00:31 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/characters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/characters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vanguard&#39;s character model update? BIG WIN.</title>
-      <link>http://localhost:1313/wkblog/2008/09/vanguards-character-model-update-big-win./</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/vanguards-character-model-update-big-win./</link>
       <pubDate>Thu, 11 Sep 2008 19:00:31 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/vanguards-character-model-update-big-win./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/vanguards-character-model-update-big-win./</guid>
       <description>Vanguard offered its Game Update #6 yesterday, finally fixing and updating their character models, something promised pretty much from launch. Worth it? Definitely&amp;hellip;.</description>
     </item>
   </channel>

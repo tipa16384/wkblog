@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/go/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/go/</link>
     <description>Recent content in Go on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jun 2011 20:51:09 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/go/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go: Absolute Beginner</title>
-      <link>http://localhost:1313/wkblog/2011/06/go-absolute-beginner/</link>
+      <link>https://tipa16384.github.io/wkblog/2011/06/go-absolute-beginner/</link>
       <pubDate>Mon, 20 Jun 2011 20:51:09 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2011/06/go-absolute-beginner/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2011/06/go-absolute-beginner/</guid>
       <description>My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her&amp;hellip;</description>
     </item>
   </channel>

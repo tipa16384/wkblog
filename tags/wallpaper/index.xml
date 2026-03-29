@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wallpaper on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/wallpaper/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/wallpaper/</link>
     <description>Recent content in Wallpaper on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Oct 2010 06:33:19 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/wallpaper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/wallpaper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Treasure Abyss: Some exclusive wallpaper!</title>
-      <link>http://localhost:1313/wkblog/2010/10/treasure-abyss-some-exclusive-wallpaper/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/10/treasure-abyss-some-exclusive-wallpaper/</link>
       <pubDate>Tue, 19 Oct 2010 06:33:19 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/10/treasure-abyss-some-exclusive-wallpaper/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/10/treasure-abyss-some-exclusive-wallpaper/</guid>
       <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>*EXCLUSIVE* Wizard 101 wallpaper!</title>
-      <link>http://localhost:1313/wkblog/2009/06/exclusive-wizard-101-wallpaper/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/06/exclusive-wizard-101-wallpaper/</link>
       <pubDate>Tue, 30 Jun 2009 17:56:54 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/06/exclusive-wizard-101-wallpaper/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/06/exclusive-wizard-101-wallpaper/</guid>
       <description>[&amp;hellip;</description>
     </item>
   </channel>

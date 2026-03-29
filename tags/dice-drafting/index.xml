@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dice Drafting on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/dice-drafting/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/dice-drafting/</link>
     <description>Recent content in Dice Drafting on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jan 2021 23:36:31 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/dice-drafting/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/dice-drafting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Night: Roll Player</title>
-      <link>http://localhost:1313/wkblog/2021/01/game-night-roll-player/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/01/game-night-roll-player/</link>
       <pubDate>Wed, 20 Jan 2021 23:36:31 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/01/game-night-roll-player/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/01/game-night-roll-player/</guid>
       <description>It&amp;rsquo;s a game about rolling up a character for a tabletop fantasy RPG. You just roll up the character. That&amp;rsquo;s it. It&amp;rsquo;s amazing, though.</description>
     </item>
   </channel>

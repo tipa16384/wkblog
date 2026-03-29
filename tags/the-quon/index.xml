@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Quon on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/the-quon/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/the-quon/</link>
     <description>Recent content in The Quon on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Sep 2008 12:09:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/the-quon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/the-quon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ: The Quon explains your class to you</title>
-      <link>http://localhost:1313/wkblog/2008/09/eq-the-quon-explains-your-class-to-you/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/eq-the-quon-explains-your-class-to-you/</link>
       <pubDate>Fri, 19 Sep 2008 12:09:02 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/eq-the-quon-explains-your-class-to-you/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/eq-the-quon-explains-your-class-to-you/</guid>
       <description>Back in 2003, The Quon was having trouble getting people to realize that their class was crap because they were not a cleric, the class&amp;hellip;</description>
     </item>
   </channel>

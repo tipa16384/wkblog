@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test Driven Development on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/test-driven-development/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/test-driven-development/</link>
     <description>Recent content in Test Driven Development on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Feb 2022 00:20:41 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/test-driven-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/test-driven-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>7DRL: Building an Engine -- Refactoring</title>
-      <link>http://localhost:1313/wkblog/2022/02/7drl-building-an-engine--refactoring/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine--refactoring/</link>
       <pubDate>Thu, 17 Feb 2022 00:20:41 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/02/7drl-building-an-engine--refactoring/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine--refactoring/</guid>
       <description>I didn&amp;rsquo;t make a lot of visible progress today, but I decided it was time to take a step back and do a vital step&amp;hellip;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/game/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/game/</link>
     <description>Recent content in Game on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Aug 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Seven Sages: A Masterclass in Metroidvania Design</title>
-      <link>http://localhost:1313/wkblog/2022/08/the-seven-sages-a-masterclass-in-metroidvania-design/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/08/the-seven-sages-a-masterclass-in-metroidvania-design/</link>
       <pubDate>Sun, 07 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/08/the-seven-sages-a-masterclass-in-metroidvania-design/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/08/the-seven-sages-a-masterclass-in-metroidvania-design/</guid>
       <description>In &amp;ldquo;The Seven Sages&amp;rdquo;, you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entropia Universe on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/entropia-universe/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/entropia-universe/</link>
     <description>Recent content in Entropia Universe on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 00:29:18 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/entropia-universe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/entropia-universe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cryptogaming: A Brief Adventure</title>
-      <link>http://localhost:1313/wkblog/2021/11/cryptogaming-a-brief-adventure/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</link>
       <pubDate>Mon, 01 Nov 2021 00:29:18 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/11/cryptogaming-a-brief-adventure/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</guid>
       <description>I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames&amp;hellip;.</description>
     </item>
     <item>
       <title>An hour in Next Island</title>
-      <link>http://localhost:1313/wkblog/2010/12/an-hour-in-next-island/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/12/an-hour-in-next-island/</link>
       <pubDate>Fri, 10 Dec 2010 23:14:31 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/12/an-hour-in-next-island/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/12/an-hour-in-next-island/</guid>
       <description>[&amp;hellip;</description>
     </item>
   </channel>

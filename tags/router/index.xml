@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Router on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/router/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/router/</link>
     <description>Recent content in Router on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Aug 2021 07:33:01 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/router/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/router/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DCUO: Disconnected</title>
-      <link>http://localhost:1313/wkblog/2021/08/dcuo-disconnected/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/08/dcuo-disconnected/</link>
       <pubDate>Mon, 30 Aug 2021 07:33:01 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/08/dcuo-disconnected/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/08/dcuo-disconnected/</guid>
       <description>I mean that literally. Since House of Legends launched, I haven&amp;rsquo;t been able to play reliably. Here&amp;rsquo;s what I&amp;rsquo;ve been able to find out&amp;hellip;.</description>
     </item>
   </channel>

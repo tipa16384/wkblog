@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Capcom on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/capcom/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/capcom/</link>
     <description>Recent content in Capcom on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 08:02:36 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/capcom/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/capcom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dragon&#39;s Dogma II: Now Playing</title>
-      <link>http://localhost:1313/wkblog/2024/03/dragons-dogma-ii-now-playing/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/03/dragons-dogma-ii-now-playing/</link>
       <pubDate>Mon, 25 Mar 2024 08:02:36 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/03/dragons-dogma-ii-now-playing/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/03/dragons-dogma-ii-now-playing/</guid>
       <description>I really, genuinely need to blog more promptly about the games I&amp;rsquo;m playing. Unicorn Overlord is done; I&amp;rsquo;m drowning in the world of Dragon&amp;rsquo;s Dogma II now.</description>
     </item>
   </channel>

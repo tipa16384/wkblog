@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weighted Companion Cube on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/weighted-companion-cube/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/weighted-companion-cube/</link>
     <description>Recent content in Weighted Companion Cube on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Nov 2007 08:31:24 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/weighted-companion-cube/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/weighted-companion-cube/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final Weighted Companion Cube model</title>
-      <link>http://localhost:1313/wkblog/2007/11/final-weighted-companion-cube-model/</link>
+      <link>https://tipa16384.github.io/wkblog/2007/11/final-weighted-companion-cube-model/</link>
       <pubDate>Sun, 04 Nov 2007 08:31:24 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2007/11/final-weighted-companion-cube-model/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2007/11/final-weighted-companion-cube-model/</guid>
       <description>Woke up early this morning due to the time change, so I thought I&amp;rsquo;d correct my Weighted Companion Cube model&amp;hellip; here it is, rendered with&amp;hellip;</description>
     </item>
   </channel>

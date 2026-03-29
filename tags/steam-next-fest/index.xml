@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steam Next Fest on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/steam-next-fest/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/steam-next-fest/</link>
     <description>Recent content in Steam Next Fest on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Oct 2025 19:21:36 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/steam-next-fest/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/steam-next-fest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steam Next Fested</title>
-      <link>http://localhost:1313/wkblog/2025/10/steam-next-fested/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/10/steam-next-fested/</link>
       <pubDate>Mon, 20 Oct 2025 19:21:36 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/10/steam-next-fested/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/10/steam-next-fested/</guid>
       <description>Steam suggested 30+ games to me in Next Fest that it thought I would enjoy. They think I enjoy survival crafting games, that much is clear.</description>
     </item>
     <item>
       <title>Steam Next Fest: Day 1, the Weird Stuff</title>
-      <link>http://localhost:1313/wkblog/2025/02/steam-next-fest-day-1-the-weird-stuff/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/02/steam-next-fest-day-1-the-weird-stuff/</link>
       <pubDate>Tue, 25 Feb 2025 08:15:36 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/02/steam-next-fest-day-1-the-weird-stuff/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/02/steam-next-fest-day-1-the-weird-stuff/</guid>
       <description>It&amp;rsquo;s the day when indies strut their stuff! Quick looks at Infinity Cats Project, Desktop Survivors 98, Inconceivable Rat Endeavor and Make Your Choice.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Halfling on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/halfling/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/halfling/</link>
     <description>Recent content in Halfling on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Dec 2023 20:39:44 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/halfling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/halfling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monsters &amp; Memories: Wish you were here?</title>
-      <link>http://localhost:1313/wkblog/2023/12/monsters-memories-wish-you-were-here/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/12/monsters-memories-wish-you-were-here/</link>
       <pubDate>Sat, 09 Dec 2023 20:39:44 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/12/monsters-memories-wish-you-were-here/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/12/monsters-memories-wish-you-were-here/</guid>
       <description>Got a notice on Discord that Monsters &amp;amp; Memories was open for testing again, so in I went.</description>
     </item>
   </channel>

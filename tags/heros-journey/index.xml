@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hero&#39;s Journey on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/heros-journey/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/heros-journey/</link>
     <description>Recent content in Hero&#39;s Journey on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Aug 2008 17:08:55 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/heros-journey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/heros-journey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HeroEngine licensed again, but where is Hero&#39;s Journey?</title>
-      <link>http://localhost:1313/wkblog/2008/08/heroengine-licensed-again-but-where-is-heros-journey/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/08/heroengine-licensed-again-but-where-is-heros-journey/</link>
       <pubDate>Tue, 05 Aug 2008 17:08:55 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/08/heroengine-licensed-again-but-where-is-heros-journey/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/08/heroengine-licensed-again-but-where-is-heros-journey/</guid>
       <description>The number one, market leader middleware for MMO development? Unreal Engine? No, sorry, though I would have thought that. MMOs like DC Universe Online, Stargate&amp;hellip;</description>
     </item>
   </channel>

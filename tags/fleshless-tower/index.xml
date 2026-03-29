@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fleshless Tower on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/fleshless-tower/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/fleshless-tower/</link>
     <description>Recent content in Fleshless Tower on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Feb 2009 09:25:30 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/fleshless-tower/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/fleshless-tower/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard 101: Orin Grimcaster update</title>
-      <link>http://localhost:1313/wkblog/2009/02/wizard-101-orin-grimcaster-update/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/02/wizard-101-orin-grimcaster-update/</link>
       <pubDate>Tue, 17 Feb 2009 09:25:30 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/02/wizard-101-orin-grimcaster-update/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/02/wizard-101-orin-grimcaster-update/</guid>
       <description>Just got an email from Mr. Lincoln, the fine-feathered tech contact for Wizard 101, about my troubles getting into Orin Grimcaster&amp;rsquo;s lair, the Fleshless Tower:&amp;hellip;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phandalin on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/phandalin/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/phandalin/</link>
     <description>Recent content in Phandalin on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Sep 2023 16:29:36 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/phandalin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/phandalin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D&amp;D Session 1: The Lost Mine of Phandelver</title>
-      <link>http://localhost:1313/wkblog/2023/09/dd-session-1-the-lost-mine-of-phandelver/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/09/dd-session-1-the-lost-mine-of-phandelver/</link>
       <pubDate>Sun, 24 Sep 2023 16:29:36 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/09/dd-session-1-the-lost-mine-of-phandelver/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/09/dd-session-1-the-lost-mine-of-phandelver/</guid>
       <description>This is a ChatGPT-written description of our first D&amp;amp;D session in the 5e starter adventure, The Lost Mine of Phandelver.</description>
     </item>
   </channel>

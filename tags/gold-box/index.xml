@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gold Box on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/gold-box/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/gold-box/</link>
     <description>Recent content in Gold Box on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Oct 2020 08:16:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/gold-box/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/gold-box/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Solasta: Crown of the Magister -- A fun but buggy mess in early access</title>
-      <link>http://localhost:1313/wkblog/2020/10/solasta-crown-of-the-magister--a-fun-but-buggy-mess-in-early-access/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister--a-fun-but-buggy-mess-in-early-access/</link>
       <pubDate>Mon, 26 Oct 2020 08:16:33 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/10/solasta-crown-of-the-magister--a-fun-but-buggy-mess-in-early-access/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister--a-fun-but-buggy-mess-in-early-access/</guid>
       <description>I am done with the early access content in Solasta: Crown of the Magister. I think Solasta did what it set out to do. It&amp;hellip;</description>
     </item>
   </channel>

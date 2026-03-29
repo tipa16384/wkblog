@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lovecraft on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/lovecraft/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/lovecraft/</link>
     <description>Recent content in Lovecraft on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Oct 2007 12:24:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/lovecraft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/lovecraft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Deep Ones</title>
-      <link>http://localhost:1313/wkblog/2007/10/the-deep-ones/</link>
+      <link>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</link>
       <pubDate>Fri, 12 Oct 2007 12:24:28 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2007/10/the-deep-ones/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</guid>
       <description>And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant&amp;hellip;</description>
     </item>
   </channel>

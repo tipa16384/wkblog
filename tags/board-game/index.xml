@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Board Game on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/board-game/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/board-game/</link>
     <description>Recent content in Board Game on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Jan 2024 07:50:53 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/board-game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/board-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HeroQuest: The Stone Hunter</title>
-      <link>http://localhost:1313/wkblog/2024/01/heroquest-the-stone-hunter/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/01/heroquest-the-stone-hunter/</link>
       <pubDate>Tue, 09 Jan 2024 07:50:53 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/01/heroquest-the-stone-hunter/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/01/heroquest-the-stone-hunter/</guid>
       <description>Taking the dwarf from solving crossword puzzles to kicking skellie butt.</description>
     </item>
     <item>
       <title>Jurassic World: The Legacy of Isla Nublar: Finished!</title>
-      <link>http://localhost:1313/wkblog/2023/09/jurassic-world-the-legacy-of-isla-nublar-finished/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/09/jurassic-world-the-legacy-of-isla-nublar-finished/</link>
       <pubDate>Tue, 05 Sep 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/09/jurassic-world-the-legacy-of-isla-nublar-finished/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/09/jurassic-world-the-legacy-of-isla-nublar-finished/</guid>
       <description>Racing a band of mercenaries and an exploding volcano in a desperate bid to save the dinos of Isla Nublar.</description>
     </item>
     <item>
       <title>Retro World Find: Othello World</title>
-      <link>http://localhost:1313/wkblog/2023/09/retro-world-find-othello-world/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</link>
       <pubDate>Mon, 04 Sep 2023 16:21:26 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/09/retro-world-find-othello-world/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</guid>
       <description>This Othello game for the Super Famicom is funny and surprisingly challenging.</description>
     </item>
     <item>
       <title>Jurassic World: The Legacy of Isla Nublar</title>
-      <link>http://localhost:1313/wkblog/2023/08/jurassic-world-the-legacy-of-isla-nublar/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/jurassic-world-the-legacy-of-isla-nublar/</link>
       <pubDate>Tue, 15 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/jurassic-world-the-legacy-of-isla-nublar/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/jurassic-world-the-legacy-of-isla-nublar/</guid>
       <description>Today is the day we evacuated Isla Nublar. But, the adventure isn&amp;rsquo;t yet over.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Act III on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/act-iii/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/act-iii/</link>
     <description>Recent content in Act III on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jul 2008 06:59:20 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/act-iii/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/act-iii/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Horrible act III.</title>
-      <link>http://localhost:1313/wkblog/2008/07/dr.-horrible-act-iii./</link>
+      <link>https://tipa16384.github.io/wkblog/2008/07/dr.-horrible-act-iii./</link>
       <pubDate>Sat, 19 Jul 2008 06:59:20 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/07/dr.-horrible-act-iii./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/07/dr.-horrible-act-iii./</guid>
       <description>W. T. F&amp;hellip;.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spiders on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/spiders/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/spiders/</link>
     <description>Recent content in Spiders on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/spiders/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/spiders/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bonaparte: A Mechanized Revolution</title>
-      <link>http://localhost:1313/wkblog/2024/12/bonaparte-a-mechanized-revolution/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</link>
       <pubDate>Fri, 06 Dec 2024 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/12/bonaparte-a-mechanized-revolution/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</guid>
       <description>Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs&amp;hellip;</description>
     </item>
     <item>
       <title>Steelrising: A Souls-Like for Revolutionary Spirits</title>
-      <link>http://localhost:1313/wkblog/2022/10/steelrising-a-souls-like-for-revolutionary-spirits/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/10/steelrising-a-souls-like-for-revolutionary-spirits/</link>
       <pubDate>Sat, 08 Oct 2022 12:19:41 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/10/steelrising-a-souls-like-for-revolutionary-spirits/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/10/steelrising-a-souls-like-for-revolutionary-spirits/</guid>
       <description>Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI&amp;rsquo;s tyranny in this dark souls-like game set during the French Revolution.</description>
     </item>
   </channel>

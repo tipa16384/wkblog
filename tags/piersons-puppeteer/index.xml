@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierson&#39;s Puppeteer on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/piersons-puppeteer/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/piersons-puppeteer/</link>
     <description>Recent content in Pierson&#39;s Puppeteer on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Sep 2008 01:22:43 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/piersons-puppeteer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/piersons-puppeteer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spore, the Widget</title>
-      <link>http://localhost:1313/wkblog/2008/09/spore-the-widget/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/spore-the-widget/</link>
       <pubDate>Thu, 11 Sep 2008 01:22:43 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/spore-the-widget/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/spore-the-widget/</guid>
       <description>I promise, after this, no more Spore posts&amp;hellip;.</description>
     </item>
   </channel>

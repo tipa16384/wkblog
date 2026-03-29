@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crowfall on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/crowfall/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/crowfall/</link>
     <description>Recent content in Crowfall on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Aug 2021 10:11:39 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/crowfall/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/crowfall/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MMOs on the Bubble</title>
-      <link>http://localhost:1313/wkblog/2021/08/mmos-on-the-bubble/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</link>
       <pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/08/mmos-on-the-bubble/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</guid>
       <description>I don&amp;rsquo;t play every MMO that comes out &amp;ndash; not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and&amp;hellip;</description>
     </item>
     <item>
       <title>MMO updates: Crowfall, EverQuest, Chocobo&#39;s Mystery Dungeon, DCUO</title>
-      <link>http://localhost:1313/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
       <pubDate>Thu, 07 May 2020 11:20:10 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
       <description>I apologize for the brief news on Crowfall. I&amp;rsquo;d meant to get deeper into the PvE, but while I was building up my kingdom in&amp;hellip;</description>
     </item>
   </channel>

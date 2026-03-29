@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arcadian Atlas on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/arcadian-atlas/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/arcadian-atlas/</link>
     <description>Recent content in Arcadian Atlas on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Aug 2022 21:04:09 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/arcadian-atlas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/arcadian-atlas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blaugust 2022: Dev Appreciation Week</title>
-      <link>http://localhost:1313/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</link>
       <pubDate>Thu, 25 Aug 2022 21:04:09 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</guid>
       <description>We highlight some of the great turn-based RPGs that are currently in development by independent developers. These are games that are being made with passion and care, and it shows in the quality of the games. If you&amp;rsquo;re a fan of turn-based RPGs, be sure to check out these games!</description>
     </item>
   </channel>

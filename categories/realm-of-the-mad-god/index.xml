@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Realm of the Mad God on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/realm-of-the-mad-god/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/realm-of-the-mad-god/</link>
     <description>Recent content in Realm of the Mad God on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 May 2023 18:39:04 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/realm-of-the-mad-god/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/realm-of-the-mad-god/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
-      <link>http://localhost:1313/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
       <pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
       <description>Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.</description>
     </item>
     <item>
       <title>D3: You&#39;ve Defeated Diablo III</title>
-      <link>http://localhost:1313/wkblog/2013/01/d3-youve-defeated-diablo-iii/</link>
+      <link>https://tipa16384.github.io/wkblog/2013/01/d3-youve-defeated-diablo-iii/</link>
       <pubDate>Mon, 14 Jan 2013 07:08:17 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2013/01/d3-youve-defeated-diablo-iii/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2013/01/d3-youve-defeated-diablo-iii/</guid>
       <description>As hellspawn go, Diablo has to be feeling pretty useless. We didn&amp;rsquo;t beat Diablo 3 last night; we beat Diablo #412. He dies so often,&amp;hellip;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Achiever on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/achiever/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/achiever/</link>
     <description>Recent content in Achiever on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Apr 2009 07:33:50 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/achiever/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/achiever/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Achiever games: Legends of Zork and Progress Quest</title>
-      <link>http://localhost:1313/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</link>
       <pubDate>Fri, 17 Apr 2009 07:33:50 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</guid>
       <description>On February 17th, 1980, around 10PM, I was so frustrated with some puzzles in Dungeon (which would later become Infocom&amp;rsquo;s flagship game, Zork), that I&amp;hellip;</description>
     </item>
   </channel>

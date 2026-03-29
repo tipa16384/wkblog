@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xenogears on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/xenogears/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/xenogears/</link>
     <description>Recent content in Xenogears on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/xenogears/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/xenogears/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SacriFire: A love letter to the golden age of JRPGS</title>
-      <link>http://localhost:1313/wkblog/2024/06/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/06/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</link>
       <pubDate>Mon, 10 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/06/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/06/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</guid>
       <description>Pixelated Milk&amp;rsquo;s new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game&amp;rsquo;s Kickstarter backers have&amp;hellip;</description>
     </item>
   </channel>

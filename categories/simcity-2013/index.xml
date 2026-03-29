@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simcity 2013 on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/simcity-2013/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/simcity-2013/</link>
     <description>Recent content in Simcity 2013 on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2013 07:22:37 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/simcity-2013/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/simcity-2013/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SimCity: The Game that Corrupted Hadleyburg</title>
-      <link>http://localhost:1313/wkblog/2013/03/simcity-the-game-that-corrupted-hadleyburg/</link>
+      <link>https://tipa16384.github.io/wkblog/2013/03/simcity-the-game-that-corrupted-hadleyburg/</link>
       <pubDate>Fri, 15 Mar 2013 07:22:37 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2013/03/simcity-the-game-that-corrupted-hadleyburg/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2013/03/simcity-the-game-that-corrupted-hadleyburg/</guid>
       <description>It&amp;rsquo;s more than a little unfair to complain so much when I couldn&amp;rsquo;t play SimCity 2013, and then say nothing once I was able to&amp;hellip;</description>
     </item>
     <item>
       <title>SimCity: My Contest Entry</title>
-      <link>http://localhost:1313/wkblog/2013/03/simcity-my-contest-entry/</link>
+      <link>https://tipa16384.github.io/wkblog/2013/03/simcity-my-contest-entry/</link>
       <pubDate>Wed, 06 Mar 2013 18:20:47 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2013/03/simcity-my-contest-entry/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2013/03/simcity-my-contest-entry/</guid>
       <description>During work today, I&amp;rsquo;d log into Google+ and read about the adventures my friends who were stuck at home were having in SimCity. Weather is&amp;hellip;</description>
     </item>
   </channel>

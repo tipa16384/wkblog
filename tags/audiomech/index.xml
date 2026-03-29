@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audiomech on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/audiomech/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/audiomech/</link>
     <description>Recent content in Audiomech on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Dec 2025 08:25:57 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/audiomech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/audiomech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Know What I Did Last Weekend</title>
-      <link>http://localhost:1313/wkblog/2025/12/i-know-what-i-did-last-weekend/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</link>
       <pubDate>Mon, 15 Dec 2025 08:25:57 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/12/i-know-what-i-did-last-weekend/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</guid>
       <description>Time for another round-up of my recent gaming adventures.</description>
     </item>
   </channel>

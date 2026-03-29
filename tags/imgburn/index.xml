@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imgburn on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/imgburn/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/imgburn/</link>
     <description>Recent content in Imgburn on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 May 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/imgburn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/imgburn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PCSX2 has gone and done it this time...</title>
-      <link>http://localhost:1313/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time.../</link>
+      <link>https://tipa16384.github.io/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time.../</link>
       <pubDate>Fri, 03 May 2024 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time.../</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time.../</guid>
       <description>The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility.</description>
     </item>
   </channel>

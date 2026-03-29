@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Commander on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/commander/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/commander/</link>
     <description>Recent content in Commander on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2020 11:15:53 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/commander/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/commander/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Night: Magic: the Gathering (Commander)</title>
-      <link>http://localhost:1313/wkblog/2020/06/game-night-magic-the-gathering-commander/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/06/game-night-magic-the-gathering-commander/</link>
       <pubDate>Mon, 15 Jun 2020 11:15:53 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/06/game-night-magic-the-gathering-commander/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/06/game-night-magic-the-gathering-commander/</guid>
       <description>First meeting of the full game group since the pandemic started! The governor of our state recently allowed family groups of up to ten people,&amp;hellip;</description>
     </item>
   </channel>

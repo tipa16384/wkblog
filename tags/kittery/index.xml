@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kittery on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/kittery/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/kittery/</link>
     <description>Recent content in Kittery on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/kittery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/kittery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sam Portsmouth Bridges</title>
-      <link>http://localhost:1313/wkblog/2023/08/sam-portsmouth-bridges/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/sam-portsmouth-bridges/</link>
       <pubDate>Tue, 08 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/sam-portsmouth-bridges/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/sam-portsmouth-bridges/</guid>
       <description>I really don&amp;rsquo;t know what else you would call a blog post on a gaming blog about bridges in Portsmouth, NH. It&amp;rsquo;s introduction week, so get ready.</description>
     </item>
   </channel>

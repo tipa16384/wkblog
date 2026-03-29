@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gauntlet on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/gauntlet/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/gauntlet/</link>
     <description>Recent content in Gauntlet on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Dec 2014 01:46:50 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/gauntlet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/gauntlet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gauntlet: Throwing Down.</title>
-      <link>http://localhost:1313/wkblog/2014/12/gauntlet-throwing-down./</link>
+      <link>https://tipa16384.github.io/wkblog/2014/12/gauntlet-throwing-down./</link>
       <pubDate>Tue, 23 Dec 2014 01:46:50 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2014/12/gauntlet-throwing-down./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2014/12/gauntlet-throwing-down./</guid>
       <description>I thought I would just dive into Gauntlet in &amp;ldquo;Normal&amp;rdquo; mode. I was okay at this, in the arcades, thirty years ago. Nothing much has&amp;hellip;</description>
     </item>
   </channel>

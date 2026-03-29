@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krokosphinx on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/krokosphinx/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/krokosphinx/</link>
     <description>Recent content in Krokosphinx on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Oct 2008 12:00:35 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/krokosphinx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/krokosphinx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>W101: Krokosphinx and October 1 patch notes</title>
-      <link>http://localhost:1313/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</link>
       <pubDate>Wed, 01 Oct 2008 12:00:35 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</guid>
       <description>After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished&amp;hellip;</description>
     </item>
     <item>
       <title>W101: Entering the Palace of Fire</title>
-      <link>http://localhost:1313/wkblog/2008/09/w101-entering-the-palace-of-fire/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/w101-entering-the-palace-of-fire/</link>
       <pubDate>Thu, 25 Sep 2008 12:00:57 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/w101-entering-the-palace-of-fire/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/w101-entering-the-palace-of-fire/</guid>
       <description>Dragon Mouth Cave&amp;hellip;</description>
     </item>
   </channel>

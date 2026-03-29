@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autostitch on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/autostitch/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/autostitch/</link>
     <description>Recent content in Autostitch on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Aug 2010 07:27:53 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/autostitch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/autostitch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Runes of Magic: the Panorama</title>
-      <link>http://localhost:1313/wkblog/2010/08/runes-of-magic-the-panorama/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/08/runes-of-magic-the-panorama/</link>
       <pubDate>Sun, 08 Aug 2010 07:27:53 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/08/runes-of-magic-the-panorama/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/08/runes-of-magic-the-panorama/</guid>
       <description>Massively&amp;rsquo;s Jeremy Stratton asked on Twitter what Autostitch would do with a panorama taken from an MMO like World of Warcraft or Runes of Magic&amp;hellip;.</description>
     </item>
     <item>
       <title>Frontierville: the Panorama</title>
-      <link>http://localhost:1313/wkblog/2010/08/frontierville-the-panorama/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/08/frontierville-the-panorama/</link>
       <pubDate>Sat, 07 Aug 2010 12:55:08 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/08/frontierville-the-panorama/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/08/frontierville-the-panorama/</guid>
       <description>[&amp;hellip;</description>
     </item>
   </channel>

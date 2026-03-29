@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyrus Drake on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/cyrus-drake/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/cyrus-drake/</link>
     <description>Recent content in Cyrus Drake on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Jan 2009 02:14:31 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/cyrus-drake/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/cyrus-drake/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard 101: Dragonspyre Unleashed</title>
-      <link>http://localhost:1313/wkblog/2009/01/wizard-101-dragonspyre-unleashed/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/01/wizard-101-dragonspyre-unleashed/</link>
       <pubDate>Tue, 20 Jan 2009 02:14:31 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/01/wizard-101-dragonspyre-unleashed/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/01/wizard-101-dragonspyre-unleashed/</guid>
       <description>KingsIsle brought the servers down. When they came back up again, Bartleby had discovered he now knew the way to the world of Dragonspyre, the&amp;hellip;</description>
     </item>
   </channel>

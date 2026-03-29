@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Jail on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/google-jail/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/google-jail/</link>
     <description>Recent content in Google Jail on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Aug 2021 22:44:25 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/google-jail/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/google-jail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Most Interesting Game of All Time!</title>
-      <link>http://localhost:1313/wkblog/2021/08/the-most-interesting-game-of-all-time/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-game-of-all-time/</link>
       <pubDate>Wed, 11 Aug 2021 22:44:25 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/08/the-most-interesting-game-of-all-time/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-game-of-all-time/</guid>
       <description>I was playing around with Google Trends last week, trying to see how a few MMOs compared to each on the &amp;lsquo;Trends. It was fun&amp;hellip;</description>
     </item>
   </channel>

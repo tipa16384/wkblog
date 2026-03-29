@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nekomancer on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/nekomancer/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/nekomancer/</link>
     <description>Recent content in Nekomancer on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 May 2025 19:52:49 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/nekomancer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/nekomancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PAX East 2025: Wow, kinda big, right?</title>
-      <link>http://localhost:1313/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</link>
       <pubDate>Fri, 09 May 2025 19:52:49 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</guid>
       <description>First time at PAX, having a great time, wish you were here.</description>
     </item>
   </channel>

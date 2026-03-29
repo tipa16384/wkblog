@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuecat on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/cuecat/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/cuecat/</link>
     <description>Recent content in Cuecat on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Oct 2010 09:58:13 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/cuecat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/cuecat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>West Karana goes QR Code!</title>
-      <link>http://localhost:1313/wkblog/2010/10/west-karana-goes-qr-code/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/10/west-karana-goes-qr-code/</link>
       <pubDate>Sun, 17 Oct 2010 09:58:13 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/10/west-karana-goes-qr-code/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/10/west-karana-goes-qr-code/</guid>
       <description>[qrcodetag]If you can read this, then welcome to West Karana![/qrcodetag]&amp;hellip;</description>
     </item>
   </channel>

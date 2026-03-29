@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stress Test on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/stress-test/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/stress-test/</link>
     <description>Recent content in Stress Test on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Nov 2023 20:20:05 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/stress-test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/stress-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monsters &amp; Memories is not EverQuest</title>
-      <link>http://localhost:1313/wkblog/2023/11/monsters-memories-is-not-everquest/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/11/monsters-memories-is-not-everquest/</link>
       <pubDate>Sat, 11 Nov 2023 20:20:05 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/11/monsters-memories-is-not-everquest/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/11/monsters-memories-is-not-everquest/</guid>
       <description>&amp;hellip;except in all the ways it IS EverQuest, of course.</description>
     </item>
   </channel>

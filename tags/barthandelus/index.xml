@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barthandelus on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/barthandelus/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/barthandelus/</link>
     <description>Recent content in Barthandelus on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Aug 2023 15:23:23 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/barthandelus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/barthandelus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final Fantasy XIII goes Chapter 11</title>
-      <link>http://localhost:1313/wkblog/2023/08/final-fantasy-xiii-goes-chapter-11/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/final-fantasy-xiii-goes-chapter-11/</link>
       <pubDate>Sun, 20 Aug 2023 15:23:23 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/final-fantasy-xiii-goes-chapter-11/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/final-fantasy-xiii-goes-chapter-11/</guid>
       <description>Our crafty band of l&amp;rsquo;Cie defeat the big bad for the second time and head back to Cocoon to either save or destroy the floating world.</description>
     </item>
   </channel>

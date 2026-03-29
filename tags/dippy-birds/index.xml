@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dippy Birds on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/dippy-birds/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/dippy-birds/</link>
     <description>Recent content in Dippy Birds on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Nov 2008 08:59:26 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/dippy-birds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/dippy-birds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LittleBigPlanet: Dippy Birds and Rocket Sleds</title>
-      <link>http://localhost:1313/wkblog/2008/11/littlebigplanet-dippy-birds-and-rocket-sleds/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/11/littlebigplanet-dippy-birds-and-rocket-sleds/</link>
       <pubDate>Mon, 03 Nov 2008 08:59:26 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/11/littlebigplanet-dippy-birds-and-rocket-sleds/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/11/littlebigplanet-dippy-birds-and-rocket-sleds/</guid>
       <description>I got frustrated trying to make my fire beetles for my Befallen Level 0 &amp;ndash; Commonlands level. They are supposed to be hard to kill&amp;hellip;</description>
     </item>
   </channel>

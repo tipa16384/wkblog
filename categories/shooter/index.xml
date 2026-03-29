@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shooter on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/shooter/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/shooter/</link>
     <description>Recent content in Shooter on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Aug 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/shooter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/shooter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steve, the Fifth Horseman of the Apocalypse</title>
-      <link>http://localhost:1313/wkblog/2022/08/steve-the-fifth-horseman-of-the-apocalypse/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/08/steve-the-fifth-horseman-of-the-apocalypse/</link>
       <pubDate>Fri, 05 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/08/steve-the-fifth-horseman-of-the-apocalypse/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/08/steve-the-fifth-horseman-of-the-apocalypse/</guid>
       <description>I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;</description>
     </item>
     <item>
       <title>Outriders: What is Hulk if not smash?</title>
-      <link>http://localhost:1313/wkblog/2021/02/outriders-what-is-hulk-if-not-smash/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/02/outriders-what-is-hulk-if-not-smash/</link>
       <pubDate>Sun, 28 Feb 2021 09:35:15 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/02/outriders-what-is-hulk-if-not-smash/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/02/outriders-what-is-hulk-if-not-smash/</guid>
       <description>Square Enix&amp;rsquo;s new co-op third person shooter RPG, &amp;ldquo;Outriders&amp;rdquo;, doesn&amp;rsquo;t have anything to do with the Marvel heroes. Just, the last demo I played of&amp;hellip;</description>
     </item>
   </channel>

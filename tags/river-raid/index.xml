@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>River Raid on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/river-raid/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/river-raid/</link>
     <description>Recent content in River Raid on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/river-raid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/river-raid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Resurrection of the Atari 2600</title>
-      <link>http://localhost:1313/wkblog/2023/08/the-resurrection-of-the-atari-2600/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/the-resurrection-of-the-atari-2600/</link>
       <pubDate>Wed, 23 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/the-resurrection-of-the-atari-2600/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/the-resurrection-of-the-atari-2600/</guid>
       <description>No, this isn&amp;rsquo;t about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new.</description>
     </item>
   </channel>

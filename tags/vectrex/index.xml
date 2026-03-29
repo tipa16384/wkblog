@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vectrex on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/vectrex/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/vectrex/</link>
     <description>Recent content in Vectrex on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/vectrex/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/vectrex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Staying Motivated for Retro World Expo 2023</title>
-      <link>http://localhost:1313/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</link>
       <pubDate>Thu, 24 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</guid>
       <description>This weekend in glorious Hartford, Connecticut. Could I be more motivated?</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/author/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/author/</link>
     <description>Recent content in Author on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Jul 2022 14:28:30 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Blaugust 2022: 31 game ideas from AI</title>
-      <link>http://localhost:1313/wkblog/2022/07/welcome-to-blaugust-2022-31-game-ideas-from-ai/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/07/welcome-to-blaugust-2022-31-game-ideas-from-ai/</link>
       <pubDate>Sun, 31 Jul 2022 14:28:30 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/07/welcome-to-blaugust-2022-31-game-ideas-from-ai/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/07/welcome-to-blaugust-2022-31-game-ideas-from-ai/</guid>
       <description>This article is about the author&amp;rsquo;s plan to use AI to help write their blog posts for Blaugust.</description>
     </item>
   </channel>

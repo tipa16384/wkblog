@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>You Can Blog on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/you-can-blog/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/you-can-blog/</link>
     <description>Recent content in You Can Blog on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Oct 2008 12:14:46 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/you-can-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/you-can-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to start an EverQuest blog.</title>
-      <link>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</link>
+      <link>https://tipa16384.github.io/wkblog/2008/10/how-to-start-an-everquest-blog./</link>
       <pubDate>Wed, 22 Oct 2008 12:14:46 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/10/how-to-start-an-everquest-blog./</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;Be an EverQuest player of any level, experience, anything. This is the tough step&amp;hellip;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;</description>
     </item>
   </channel>

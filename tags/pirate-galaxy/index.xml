@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pirate Galaxy on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/pirate-galaxy/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/pirate-galaxy/</link>
     <description>Recent content in Pirate Galaxy on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Dec 2010 16:36:23 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/pirate-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/pirate-galaxy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gimme Some Space: Star Trek Online, Pirate Galaxy, Space Paranoids</title>
-      <link>http://localhost:1313/wkblog/2010/12/gimme-some-space-star-trek-online-pirate-galaxy-space-paranoids/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/12/gimme-some-space-star-trek-online-pirate-galaxy-space-paranoids/</link>
       <pubDate>Sat, 04 Dec 2010 16:36:23 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/12/gimme-some-space-star-trek-online-pirate-galaxy-space-paranoids/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/12/gimme-some-space-star-trek-online-pirate-galaxy-space-paranoids/</guid>
       <description>[&amp;hellip;</description>
     </item>
   </channel>

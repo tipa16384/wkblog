@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xbox 360 on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/xbox-360/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/xbox-360/</link>
     <description>Recent content in Xbox 360 on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Nov 2007 06:06:17 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/xbox-360/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/xbox-360/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rock Band: Naming my fake band.</title>
-      <link>http://localhost:1313/wkblog/2007/11/rock-band-naming-my-fake-band./</link>
+      <link>https://tipa16384.github.io/wkblog/2007/11/rock-band-naming-my-fake-band./</link>
       <pubDate>Sun, 04 Nov 2007 06:06:17 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2007/11/rock-band-naming-my-fake-band./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2007/11/rock-band-naming-my-fake-band./</guid>
       <description>We got a little closer to being the most famous fake cover band in our living room yesterday when we finally bought an Xbox 360&amp;hellip;</description>
     </item>
   </channel>

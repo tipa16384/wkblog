@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hellgate London on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/hellgate-london/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/hellgate-london/</link>
     <description>Recent content in Hellgate London on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jul 2008 03:12:47 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/hellgate-london/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/hellgate-london/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flagship Studios is dead, alas.</title>
-      <link>http://localhost:1313/wkblog/2008/07/flagship-studios-is-dead-alas./</link>
+      <link>https://tipa16384.github.io/wkblog/2008/07/flagship-studios-is-dead-alas./</link>
       <pubDate>Sun, 13 Jul 2008 03:12:47 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/07/flagship-studios-is-dead-alas./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/07/flagship-studios-is-dead-alas./</guid>
       <description>My thoughts and good wishes go out to the folks at Flagship Studios, developers of Hellgate: London and Mythos. Word came today that they&amp;rsquo;ve closed&amp;hellip;</description>
     </item>
   </channel>

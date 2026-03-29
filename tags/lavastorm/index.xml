@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lavastorm on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/lavastorm/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/lavastorm/</link>
     <description>Recent content in Lavastorm on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2009 23:57:42 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/lavastorm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/lavastorm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EverQuest 2: The Sootfoot Experience.</title>
-      <link>http://localhost:1313/wkblog/2009/04/everquest-2-the-sootfoot-experience./</link>
+      <link>https://tipa16384.github.io/wkblog/2009/04/everquest-2-the-sootfoot-experience./</link>
       <pubDate>Wed, 01 Apr 2009 23:57:42 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/04/everquest-2-the-sootfoot-experience./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/04/everquest-2-the-sootfoot-experience./</guid>
       <description>Dina shows off the new Weapon Appearance slots and some Sootfoot Magma armor&amp;hellip;.</description>
     </item>
     <item>
       <title>EverQuest 2: Lavastorm revamp</title>
-      <link>http://localhost:1313/wkblog/2009/04/everquest-2-lavastorm-revamp/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/04/everquest-2-lavastorm-revamp/</link>
       <pubDate>Wed, 01 Apr 2009 08:05:34 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/04/everquest-2-lavastorm-revamp/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/04/everquest-2-lavastorm-revamp/</guid>
       <description>Flying over the newly redesigned Lavastorm on my elemental horse, I kinda feel a little like Santa, except if instead of riding Rudolph, Santa was&amp;hellip;</description>
     </item>
   </channel>

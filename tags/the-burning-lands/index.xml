@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Burning Lands on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/the-burning-lands/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/the-burning-lands/</link>
     <description>Recent content in The Burning Lands on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Dec 2008 09:42:18 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/the-burning-lands/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/the-burning-lands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ &#39;Cide edition: Raticide, Spearicide, Gianticide.</title>
-      <link>http://localhost:1313/wkblog/2008/12/eq-cide-edition-raticide-spearicide-gianticide./</link>
+      <link>https://tipa16384.github.io/wkblog/2008/12/eq-cide-edition-raticide-spearicide-gianticide./</link>
       <pubDate>Mon, 15 Dec 2008 09:42:18 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/12/eq-cide-edition-raticide-spearicide-gianticide./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/12/eq-cide-edition-raticide-spearicide-gianticide./</guid>
       <description>Rejected post titles: &amp;ldquo;The Spear-it of Christmas&amp;rdquo;, &amp;ldquo;The Mob that Dis-speared&amp;rdquo;, &amp;ldquo;Spear-ritually yours&amp;rdquo;&amp;hellip;.</description>
     </item>
     <item>
       <title>EQ: Doomfire, the Burning Lands (Part II)</title>
-      <link>http://localhost:1313/wkblog/2008/12/eq-doomfire-the-burning-lands-part-ii/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/12/eq-doomfire-the-burning-lands-part-ii/</link>
       <pubDate>Sat, 06 Dec 2008 01:53:41 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/12/eq-doomfire-the-burning-lands-part-ii/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/12/eq-doomfire-the-burning-lands-part-ii/</guid>
       <description>Last time we came to the Plane of Fire, we scurried back and forth in front of the zone, kiting mobs, a good portion of&amp;hellip;</description>
     </item>
     <item>
       <title>EQ: Burning in the Plane of Fire</title>
-      <link>http://localhost:1313/wkblog/2008/10/eq-burning-in-the-plane-of-fire/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/10/eq-burning-in-the-plane-of-fire/</link>
       <pubDate>Sat, 18 Oct 2008 10:32:57 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/10/eq-burning-in-the-plane-of-fire/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-burning-in-the-plane-of-fire/</guid>
       <description>Doomfire, the Burning Lands&amp;hellip;</description>
     </item>
   </channel>

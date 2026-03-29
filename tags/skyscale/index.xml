@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skyscale on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/skyscale/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/skyscale/</link>
     <description>Recent content in Skyscale on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 May 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/skyscale/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/skyscale/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GW2: I TAMED A SKYSCALE!*</title>
-      <link>http://localhost:1313/wkblog/2025/05/gw2-i-tamed-a-skyscale/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/05/gw2-i-tamed-a-skyscale/</link>
       <pubDate>Tue, 06 May 2025 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/05/gw2-i-tamed-a-skyscale/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/05/gw2-i-tamed-a-skyscale/</guid>
       <description>*Well, it was a team effort.</description>
     </item>
     <item>
       <title>GW2: Unmounted Asura ISO Skyscale</title>
-      <link>http://localhost:1313/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</link>
       <pubDate>Mon, 06 Nov 2023 07:34:02 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</guid>
       <description>All my friends have skyscales and I am jealous and also lazy.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magic the Gathering on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/magic-the-gathering/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/magic-the-gathering/</link>
     <description>Recent content in Magic the Gathering on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2020 11:15:53 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/magic-the-gathering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/magic-the-gathering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Night: Magic: the Gathering (Commander)</title>
-      <link>http://localhost:1313/wkblog/2020/06/game-night-magic-the-gathering-commander/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/06/game-night-magic-the-gathering-commander/</link>
       <pubDate>Mon, 15 Jun 2020 11:15:53 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/06/game-night-magic-the-gathering-commander/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/06/game-night-magic-the-gathering-commander/</guid>
       <description>First meeting of the full game group since the pandemic started! The governor of our state recently allowed family groups of up to ten people,&amp;hellip;</description>
     </item>
     <item>
       <title>Facebook game roundup: Warstorm and City of Wonder</title>
-      <link>http://localhost:1313/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</link>
       <pubDate>Tue, 14 Sep 2010 07:03:37 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</guid>
       <description>[&amp;hellip;</description>
     </item>
   </channel>

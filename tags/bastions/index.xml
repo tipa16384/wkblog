@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bastions on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/bastions/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/bastions/</link>
     <description>Recent content in Bastions on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Oct 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/bastions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/bastions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D&amp;D: Deanna, the Bastion Cleric</title>
-      <link>http://localhost:1313/wkblog/2023/10/dd-deanna-the-bastion-cleric/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/10/dd-deanna-the-bastion-cleric/</link>
       <pubDate>Thu, 12 Oct 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/10/dd-deanna-the-bastion-cleric/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/10/dd-deanna-the-bastion-cleric/</guid>
       <description>Sometimes, the silliest rules in Dungeons &amp;amp; Dragons can be a blessing in disguise&amp;hellip;</description>
     </item>
     <item>
       <title>D&amp;D: Bastions</title>
-      <link>http://localhost:1313/wkblog/2023/10/dd-bastions/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/10/dd-bastions/</link>
       <pubDate>Wed, 11 Oct 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/10/dd-bastions/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/10/dd-bastions/</guid>
       <description>Finally, after fifty years, housing comes to Dungeons &amp;amp; Dragons. Innkeepers across the land protest.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mount Week on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/mount-week/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/mount-week/</link>
     <description>Recent content in Mount Week on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Mar 2011 00:28:56 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/mount-week/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/mount-week/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard101: It&#39;s MOUNT WEEK!</title>
-      <link>http://localhost:1313/wkblog/2011/03/wizard101-its-mount-week/</link>
+      <link>https://tipa16384.github.io/wkblog/2011/03/wizard101-its-mount-week/</link>
       <pubDate>Wed, 30 Mar 2011 00:28:56 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2011/03/wizard101-its-mount-week/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2011/03/wizard101-its-mount-week/</guid>
       <description>Discovery Channel may have their Shark Week, but that&amp;rsquo;s kinda lame, if you ask me. They&amp;rsquo;d be better off having a Manta Ray week&amp;hellip;.</description>
     </item>
   </channel>

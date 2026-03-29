@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dominus Automa on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/dominus-automa/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/dominus-automa/</link>
     <description>Recent content in Dominus Automa on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Jan 2026 10:26:41 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/dominus-automa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/dominus-automa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dominus Automa: An Idle MMO for Busy Dads</title>
-      <link>http://localhost:1313/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</link>
+      <link>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</link>
       <pubDate>Sat, 24 Jan 2026 10:26:41 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</guid>
       <description>Someday it&amp;rsquo;ll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday.</description>
     </item>
   </channel>

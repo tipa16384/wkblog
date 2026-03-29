@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palworld on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/palworld/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/palworld/</link>
     <description>Recent content in Palworld on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Mar 2024 10:07:26 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/palworld/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/palworld/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HeroQuest: The Castle of Mystery</title>
-      <link>http://localhost:1313/wkblog/2024/03/heroquest-the-castle-of-mystery/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/03/heroquest-the-castle-of-mystery/</link>
       <pubDate>Sat, 16 Mar 2024 10:07:26 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/03/heroquest-the-castle-of-mystery/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/03/heroquest-the-castle-of-mystery/</guid>
       <description>This teleporting puzzle box separated the heroes across a deadly dungeon. How many would survive to escape?</description>
     </item>
   </channel>

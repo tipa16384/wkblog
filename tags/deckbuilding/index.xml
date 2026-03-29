@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deckbuilding on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/deckbuilding/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/deckbuilding/</link>
     <description>Recent content in Deckbuilding on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Aug 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/deckbuilding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/deckbuilding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micro Hero: Hercules</title>
-      <link>http://localhost:1313/wkblog/2025/08/micro-hero-hercules/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/08/micro-hero-hercules/</link>
       <pubDate>Thu, 14 Aug 2025 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/08/micro-hero-hercules/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/08/micro-hero-hercules/</guid>
       <description>Hercules has to complete a dozen tough jobs to atone for killing his family. Only you can help him in this solo deckbuilding game!</description>
     </item>
     <item>
       <title>Game Night: Game of Thrones: the Card Game</title>
-      <link>http://localhost:1313/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</link>
       <pubDate>Fri, 29 May 2020 11:46:57 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</guid>
       <description>Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When&amp;hellip;</description>
     </item>
   </channel>

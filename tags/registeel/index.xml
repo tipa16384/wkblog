@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Registeel on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/registeel/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/registeel/</link>
     <description>Recent content in Registeel on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2023 08:19:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/registeel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/registeel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PokeReport: Giovanni defeated, and some raids...</title>
-      <link>http://localhost:1313/wkblog/2023/02/pokereport-giovanni-defeated-and-some-raids.../</link>
+      <link>https://tipa16384.github.io/wkblog/2023/02/pokereport-giovanni-defeated-and-some-raids.../</link>
       <pubDate>Thu, 23 Feb 2023 08:19:14 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/02/pokereport-giovanni-defeated-and-some-raids.../</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/02/pokereport-giovanni-defeated-and-some-raids.../</guid>
       <description>Okay, what is actually UP with that Latias raid?</description>
     </item>
   </channel>

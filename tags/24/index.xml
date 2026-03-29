@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>24 on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/24/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/24/</link>
     <description>Recent content in 24 on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Dec 2022 23:17:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/24/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/24/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code Day 16 -- Proboscidea Volcanium</title>
-      <link>http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</link>
       <pubDate>Fri, 16 Dec 2022 23:17:07 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</guid>
       <description>Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&amp;rsquo;s, so let&amp;rsquo;s try something a little different.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WRU Bloggers on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/wru-bloggers/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/wru-bloggers/</link>
     <description>Recent content in WRU Bloggers on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Oct 2008 12:14:46 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/wru-bloggers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/wru-bloggers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to start an EverQuest blog.</title>
-      <link>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</link>
+      <link>https://tipa16384.github.io/wkblog/2008/10/how-to-start-an-everquest-blog./</link>
       <pubDate>Wed, 22 Oct 2008 12:14:46 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/10/how-to-start-an-everquest-blog./</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;Be an EverQuest player of any level, experience, anything. This is the tough step&amp;hellip;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;</description>
     </item>
     <item>
       <title>EQ: Do you PLAY EverQuest and also BLOG about it?</title>
-      <link>http://localhost:1313/wkblog/2008/10/eq-do-you-play-everquest-and-also-blog-about-it/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/10/eq-do-you-play-everquest-and-also-blog-about-it/</link>
       <pubDate>Sat, 04 Oct 2008 09:26:23 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/10/eq-do-you-play-everquest-and-also-blog-about-it/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-do-you-play-everquest-and-also-blog-about-it/</guid>
       <description>If I type &amp;ldquo;EverQuest Blog&amp;rdquo; into Google, I get pages and pages of plat seller spam, sites like Ten Ton Hammer and Warcry reblogging SOE&amp;hellip;</description>
     </item>
   </channel>

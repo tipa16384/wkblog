@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stats on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/stats/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/stats/</link>
     <description>Recent content in Stats on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Nov 2021 21:35:54 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/stats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Valheim: Murder Swamp Online</title>
-      <link>http://localhost:1313/wkblog/2021/11/valheim-murder-swamp-online/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</link>
       <pubDate>Fri, 26 Nov 2021 21:35:54 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/11/valheim-murder-swamp-online/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</guid>
       <description>The swamp biome was already Valheim&amp;rsquo;s deadliest, in my opinion. A new &amp;ldquo;stirring in the mist&amp;rdquo; just made it a little bit deadlier &amp;ndash; but&amp;hellip;</description>
     </item>
   </channel>

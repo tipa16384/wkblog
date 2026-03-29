@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odus on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/odus/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/odus/</link>
     <description>Recent content in Odus on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jun 2009 22:15:58 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/odus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/odus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SOE Fan Faire news -- some shocking surprises!</title>
-      <link>http://localhost:1313/wkblog/2009/06/soe-fan-faire-news--some-shocking-surprises/</link>
+      <link>https://tipa16384.github.io/wkblog/2009/06/soe-fan-faire-news--some-shocking-surprises/</link>
       <pubDate>Fri, 26 Jun 2009 22:15:58 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2009/06/soe-fan-faire-news--some-shocking-surprises/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2009/06/soe-fan-faire-news--some-shocking-surprises/</guid>
       <description>EverQuest II&amp;rsquo;s next expansion is not Velious, as widely assumed based on the (now known to be) red herrings seen in Kunark. EQ2&amp;rsquo;s next expansion,&amp;hellip;</description>
     </item>
   </channel>

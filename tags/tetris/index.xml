@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tetris on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/tetris/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/tetris/</link>
     <description>Recent content in Tetris on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Dec 2022 08:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/tetris/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/tetris/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Woody, the Tetris-playing Woodpecker</title>
-      <link>http://localhost:1313/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</link>
       <pubDate>Sun, 18 Dec 2022 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</guid>
       <description>True story of how a Tetris-playing bird made humanity examine its role in the universe. Plus: an exclusive interview with Woody about his marriage to a human woman!</description>
     </item>
     <item>
       <title>Advent of Code Day 17 -- Pyroclastic Flow</title>
-      <link>http://localhost:1313/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</link>
       <pubDate>Sat, 17 Dec 2022 23:06:06 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</guid>
       <description>They say &amp;ldquo;Pyroclastic Flow&amp;rdquo;, but it&amp;rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.</description>
     </item>
   </channel>

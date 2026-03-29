@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frontierville on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/frontierville/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/frontierville/</link>
     <description>Recent content in Frontierville on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Aug 2010 07:07:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/frontierville/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/frontierville/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Treasure Abyss: Not your ordinary social game</title>
-      <link>http://localhost:1313/wkblog/2010/08/treasure-abyss-not-your-ordinary-social-game/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/08/treasure-abyss-not-your-ordinary-social-game/</link>
       <pubDate>Tue, 31 Aug 2010 07:07:29 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/08/treasure-abyss-not-your-ordinary-social-game/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/08/treasure-abyss-not-your-ordinary-social-game/</guid>
       <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>Thoughts on the social gaming explosion</title>
-      <link>http://localhost:1313/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</link>
+      <link>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</link>
       <pubDate>Fri, 27 Aug 2010 18:52:43 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</guid>
       <description>[&amp;hellip;</description>
     </item>
   </channel>

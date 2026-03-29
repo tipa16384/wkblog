@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Point and Click on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/point-and-click/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/point-and-click/</link>
     <description>Recent content in Point and Click on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Apr 2024 07:58:49 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/point-and-click/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/point-and-click/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond Shadowgate -- the Demo</title>
-      <link>http://localhost:1313/wkblog/2024/04/beyond-shadowgate--the-demo/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/04/beyond-shadowgate--the-demo/</link>
       <pubDate>Fri, 19 Apr 2024 07:58:49 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/04/beyond-shadowgate--the-demo/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/04/beyond-shadowgate--the-demo/</guid>
       <description>Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost.</description>
     </item>
     <item>
       <title>Breaking the 4th Wall: A Mysterious Point-and-Click Adventure</title>
-      <link>http://localhost:1313/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</link>
       <pubDate>Fri, 29 Jul 2022 08:06:45 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</guid>
       <description>I ran across this gem by accident, actually &amp;ndash; an AI told me about it&amp;hellip;.</description>
     </item>
   </channel>

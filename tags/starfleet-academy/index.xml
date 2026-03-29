@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Starfleet Academy on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/starfleet-academy/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/starfleet-academy/</link>
     <description>Recent content in Starfleet Academy on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Jan 2026 11:19:11 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/starfleet-academy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/starfleet-academy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starfleet Academy: Your Billionaire Future</title>
-      <link>http://localhost:1313/wkblog/2026/01/starfleet-academy-your-billionaire-future/</link>
+      <link>https://tipa16384.github.io/wkblog/2026/01/starfleet-academy-your-billionaire-future/</link>
       <pubDate>Sat, 17 Jan 2026 11:19:11 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2026/01/starfleet-academy-your-billionaire-future/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2026/01/starfleet-academy-your-billionaire-future/</guid>
       <description>There&amp;rsquo;s an interesting story in Starfleet Academy, but it&amp;rsquo;s not a story billionaires would want to tell.</description>
     </item>
   </channel>

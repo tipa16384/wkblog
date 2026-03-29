@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/uncategorized/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2020 11:39:04 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project64 and Beetle Adventure Racing</title>
-      <link>http://localhost:1313/wkblog/2020/05/project64-and-beetle-adventure-racing/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/05/project64-and-beetle-adventure-racing/</link>
       <pubDate>Fri, 08 May 2020 11:39:04 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/05/project64-and-beetle-adventure-racing/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/05/project64-and-beetle-adventure-racing/</guid>
       <description>It&amp;rsquo;s 1999, my old broken down Super Beetle is sitting in the driveway, probably waiting on another rebuilt part for its underpowered engine, and Volkswagen&amp;hellip;</description>
     </item>
     <item>
       <title>MMO updates: Crowfall, EverQuest, Chocobo&#39;s Mystery Dungeon, DCUO</title>
-      <link>http://localhost:1313/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
       <pubDate>Thu, 07 May 2020 11:20:10 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
       <description>I apologize for the brief news on Crowfall. I&amp;rsquo;d meant to get deeper into the PvE, but while I was building up my kingdom in&amp;hellip;</description>
     </item>
     <item>
       <title>Playing around with the template</title>
-      <link>http://localhost:1313/wkblog/2020/04/playing-around-with-the-template/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/04/playing-around-with-the-template/</link>
       <pubDate>Thu, 23 Apr 2020 00:08:01 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/04/playing-around-with-the-template/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/04/playing-around-with-the-template/</guid>
       <description>Blog is starting to look more like &amp;ldquo;my blog&amp;rdquo; now&amp;hellip;.</description>
     </item>
     <item>
       <title>So, you&#39;re back.</title>
-      <link>http://localhost:1313/wkblog/2020/04/so-youre-back./</link>
+      <link>https://tipa16384.github.io/wkblog/2020/04/so-youre-back./</link>
       <pubDate>Tue, 21 Apr 2020 03:42:35 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/04/so-youre-back./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/04/so-youre-back./</guid>
       <description>Practicing a lot and trying very hard&amp;hellip;.</description>
     </item>
     <item>
       <title>Hello world!</title>
-      <link>http://localhost:1313/wkblog/2013/04/hello-world/</link>
+      <link>https://tipa16384.github.io/wkblog/2013/04/hello-world/</link>
       <pubDate>Fri, 26 Apr 2013 02:14:47 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2013/04/hello-world/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2013/04/hello-world/</guid>
       <description>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!&amp;hellip;</description>
     </item>
   </channel>

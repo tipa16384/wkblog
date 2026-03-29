@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diablo on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/diablo/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/diablo/</link>
     <description>Recent content in Diablo on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 May 2023 08:47:56 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/diablo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/diablo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slamming the Diablo.</title>
-      <link>http://localhost:1313/wkblog/2023/05/slamming-the-diablo./</link>
+      <link>https://tipa16384.github.io/wkblog/2023/05/slamming-the-diablo./</link>
       <pubDate>Mon, 15 May 2023 08:47:56 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/05/slamming-the-diablo./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/05/slamming-the-diablo./</guid>
       <description>The Diablo series evolved from dungeon crawler to dungeon brawler. Diablo IV brings it one step further&amp;hellip;</description>
     </item>
   </channel>

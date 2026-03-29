@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Povray on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/povray/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/povray/</link>
     <description>Recent content in Povray on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/povray/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/povray/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Day In Blogging: August 1, 2006</title>
-      <link>http://localhost:1313/wkblog/2023/08/this-day-in-blogging-august-1-2006/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/this-day-in-blogging-august-1-2006/</link>
       <pubDate>Tue, 01 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/this-day-in-blogging-august-1-2006/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/this-day-in-blogging-august-1-2006/</guid>
       <description>I&amp;rsquo;ve been blogging for 25 years. Here&amp;rsquo;s the things I was blogging about on the first day of August in 1998-ish, 2006, 2008, 2012, and 2020. Enjoy!</description>
     </item>
     <item>
       <title>Final Weighted Companion Cube model</title>
-      <link>http://localhost:1313/wkblog/2007/11/final-weighted-companion-cube-model/</link>
+      <link>https://tipa16384.github.io/wkblog/2007/11/final-weighted-companion-cube-model/</link>
       <pubDate>Sun, 04 Nov 2007 08:31:24 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2007/11/final-weighted-companion-cube-model/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2007/11/final-weighted-companion-cube-model/</guid>
       <description>Woke up early this morning due to the time change, so I thought I&amp;rsquo;d correct my Weighted Companion Cube model&amp;hellip; here it is, rendered with&amp;hellip;</description>
     </item>
   </channel>

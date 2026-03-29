@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vandal Hearts on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/vandal-hearts/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/vandal-hearts/</link>
     <description>Recent content in Vandal Hearts on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 08:08:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/vandal-hearts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/vandal-hearts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New &#34;Now Playing&#34; Widget</title>
-      <link>http://localhost:1313/wkblog/2024/01/new-now-playing-widget/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/01/new-now-playing-widget/</link>
       <pubDate>Fri, 19 Jan 2024 08:08:03 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/01/new-now-playing-widget/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/01/new-now-playing-widget/</guid>
       <description>Check out the new widget!</description>
     </item>
   </channel>

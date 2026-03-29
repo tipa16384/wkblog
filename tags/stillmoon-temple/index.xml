@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stillmoon Temple on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/stillmoon-temple/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/stillmoon-temple/</link>
     <description>Recent content in Stillmoon Temple on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Sep 2008 10:49:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/stillmoon-temple/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/stillmoon-temple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ: The Lurkers of Lavaspinner&#39;s Lair &amp; more</title>
-      <link>http://localhost:1313/wkblog/2008/09/eq-the-lurkers-of-lavaspinners-lair-more/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/eq-the-lurkers-of-lavaspinners-lair-more/</link>
       <pubDate>Sat, 27 Sep 2008 10:49:29 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/eq-the-lurkers-of-lavaspinners-lair-more/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/eq-the-lurkers-of-lavaspinners-lair-more/</guid>
       <description>Another Friday, another entirely new zone, and we still are ages from seeing more than a fraction of the game&amp;hellip;.</description>
     </item>
     <item>
       <title>EQ: Stillmoon Temple and the Dragons of Norrath</title>
-      <link>http://localhost:1313/wkblog/2008/09/eq-stillmoon-temple-and-the-dragons-of-norrath/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/eq-stillmoon-temple-and-the-dragons-of-norrath/</link>
       <pubDate>Sat, 20 Sep 2008 03:03:15 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/eq-stillmoon-temple-and-the-dragons-of-norrath/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/eq-stillmoon-temple-and-the-dragons-of-norrath/</guid>
       <description>It was another light night, but we had a cleric, warrior, ranger and enchanter and that was enough to make a group. But where?&amp;hellip;</description>
     </item>
   </channel>

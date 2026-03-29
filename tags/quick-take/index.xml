@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quick Take on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/quick-take/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/quick-take/</link>
     <description>Recent content in Quick Take on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Dec 2020 13:15:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/quick-take/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/quick-take/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick Takes: Fallout Shelter</title>
-      <link>http://localhost:1313/wkblog/2020/12/quick-takes-fallout-shelter/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/12/quick-takes-fallout-shelter/</link>
       <pubDate>Tue, 22 Dec 2020 13:15:02 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/12/quick-takes-fallout-shelter/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/12/quick-takes-fallout-shelter/</guid>
       <description>A &amp;ldquo;Fallout&amp;rdquo;-branded worker placement mobile game in the vein of Ellison&amp;rsquo;s &amp;ldquo;A Boy and His Dog&amp;rdquo;</description>
     </item>
   </channel>

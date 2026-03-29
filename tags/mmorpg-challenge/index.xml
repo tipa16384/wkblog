@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MMORPG Challenge on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/mmorpg-challenge/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/mmorpg-challenge/</link>
     <description>Recent content in MMORPG Challenge on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Aug 2022 13:19:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/mmorpg-challenge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/mmorpg-challenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 5 Best MMOs to Play in 2022</title>
-      <link>http://localhost:1313/wkblog/2022/08/the-5-best-mmos-to-play-in-2022/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/08/the-5-best-mmos-to-play-in-2022/</link>
       <pubDate>Mon, 22 Aug 2022 13:19:07 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/08/the-5-best-mmos-to-play-in-2022/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/08/the-5-best-mmos-to-play-in-2022/</guid>
       <description>With so many MMOs on the market, it can be hard to decide which one is right for you. Here are the 5 best MMOs to play in 2022 to help you make your decision!</description>
     </item>
     <item>
       <title>The MMO Challenge, Revisited.</title>
-      <link>http://localhost:1313/wkblog/2011/01/the-mmo-challenge-revisited./</link>
+      <link>https://tipa16384.github.io/wkblog/2011/01/the-mmo-challenge-revisited./</link>
       <pubDate>Tue, 11 Jan 2011 22:41:19 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2011/01/the-mmo-challenge-revisited./</guid>
+      <guid>https://tipa16384.github.io/wkblog/2011/01/the-mmo-challenge-revisited./</guid>
       <description>[&amp;hellip;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stream on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/stream/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/stream/</link>
     <description>Recent content in Stream on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Jul 2022 07:42:43 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/stream/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/stream/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streaming from the Nintendo 64</title>
-      <link>http://localhost:1313/wkblog/2022/07/streaming-from-the-nintendo-64/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/07/streaming-from-the-nintendo-64/</link>
       <pubDate>Tue, 12 Jul 2022 07:42:43 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/07/streaming-from-the-nintendo-64/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/07/streaming-from-the-nintendo-64/</guid>
       <description>It&amp;rsquo;s not pretty and it could be better, but I&amp;rsquo;m able to stream from my unmodified Nintendo 64 at an acceptable resolution using about $50&amp;hellip;</description>
     </item>
     <item>
       <title>Is playing on the original hardware worth the trouble?</title>
-      <link>http://localhost:1313/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</link>
       <pubDate>Mon, 11 Jul 2022 08:24:06 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
       <description>I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today&amp;rsquo;s high resolution, digital monitors&amp;hellip;.</description>
     </item>
   </channel>

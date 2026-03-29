@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raspberry Pi on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/raspberry-pi/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/raspberry-pi/</link>
     <description>Recent content in Raspberry Pi on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Aug 2025 08:37:34 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Downsizing!</title>
-      <link>http://localhost:1313/wkblog/2025/08/downsizing/</link>
+      <link>https://tipa16384.github.io/wkblog/2025/08/downsizing/</link>
       <pubDate>Mon, 18 Aug 2025 08:37:34 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2025/08/downsizing/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2025/08/downsizing/</guid>
       <description>Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?</description>
     </item>
   </channel>

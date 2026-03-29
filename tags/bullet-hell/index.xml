@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bullet Hell on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/bullet-hell/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/bullet-hell/</link>
     <description>Recent content in Bullet Hell on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Aug 2020 14:49:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/bullet-hell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/bullet-hell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Polymega and Viewpoint(PSX)</title>
-      <link>http://localhost:1313/wkblog/2020/08/the-polymega-and-viewpointpsx/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/08/the-polymega-and-viewpointpsx/</link>
       <pubDate>Sat, 22 Aug 2020 14:49:33 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/08/the-polymega-and-viewpointpsx/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/08/the-polymega-and-viewpointpsx/</guid>
       <description>I was so excited when I saw a video on the Polymega this morning. The Polymega is a sort of uber-emulator console that can take&amp;hellip;</description>
     </item>
   </channel>

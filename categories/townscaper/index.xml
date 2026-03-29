@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Townscaper on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/categories/townscaper/</link>
+    <link>https://tipa16384.github.io/wkblog/categories/townscaper/</link>
     <description>Recent content in Townscaper on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Aug 2021 17:16:55 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/categories/townscaper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/categories/townscaper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Townscaper 1.0 and 3D Printing</title>
-      <link>http://localhost:1313/wkblog/2021/08/townscaper-1.0-and-3d-printing/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/08/townscaper-1.0-and-3d-printing/</link>
       <pubDate>Sat, 28 Aug 2021 17:16:55 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/08/townscaper-1.0-and-3d-printing/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/08/townscaper-1.0-and-3d-printing/</guid>
       <description>Townscaper has left early access and hit app stores all around the world with the peaceful grooves of Swedish seaside villages&amp;hellip;.</description>
     </item>
     <item>
       <title>Townscaper</title>
-      <link>http://localhost:1313/wkblog/2020/08/townscaper/</link>
+      <link>https://tipa16384.github.io/wkblog/2020/08/townscaper/</link>
       <pubDate>Tue, 04 Aug 2020 01:34:51 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2020/08/townscaper/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2020/08/townscaper/</guid>
       <description>I like Townscaper&amp;hellip;.</description>
     </item>
   </channel>

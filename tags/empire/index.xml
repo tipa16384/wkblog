@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Empire on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/empire/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/empire/</link>
     <description>Recent content in Empire on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/empire/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/empire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Games That Defined Me (Part 1)</title>
-      <link>http://localhost:1313/wkblog/2023/08/games-that-defined-me-part-1/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/games-that-defined-me-part-1/</link>
       <pubDate>Wed, 09 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/games-that-defined-me-part-1/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/games-that-defined-me-part-1/</guid>
       <description>It&amp;rsquo;s an interesting question, stated a few different ways &amp;ndash; 10 games to know me, or games that defined me. The question has been bouncing around Mastodon for a few days. Here&amp;rsquo;s mine.</description>
     </item>
   </channel>

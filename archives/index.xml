@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/archives/</link>
+    <link>https://tipa16384.github.io/wkblog/archives/</link>
     <description>Recent content in Archives on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/wkblog/archives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

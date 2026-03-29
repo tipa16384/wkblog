@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dina on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/dina/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/dina/</link>
     <description>Recent content in Dina on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Sep 2008 12:20:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/dina/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/dina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Tomb of Thuuga and the Shard of Hate</title>
-      <link>http://localhost:1313/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</link>
       <pubDate>Sun, 14 Sep 2008 12:20:02 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</guid>
       <description>Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning&amp;hellip;.</description>
     </item>
   </channel>

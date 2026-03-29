@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skyrim on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/skyrim/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/skyrim/</link>
     <description>Recent content in Skyrim on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Dec 2022 20:38:48 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/skyrim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/skyrim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skyrim, except it&#39;s a board game</title>
-      <link>http://localhost:1313/wkblog/2022/12/skyrim-except-its-a-board-game/</link>
+      <link>https://tipa16384.github.io/wkblog/2022/12/skyrim-except-its-a-board-game/</link>
       <pubDate>Wed, 28 Dec 2022 20:38:48 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2022/12/skyrim-except-its-a-board-game/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2022/12/skyrim-except-its-a-board-game/</guid>
       <description>We&amp;rsquo;ve been really enjoying this board game version of Skyrim the last couple of family game nights&amp;hellip; but maybe it is a little TOO faithful to the videogame?</description>
     </item>
   </channel>

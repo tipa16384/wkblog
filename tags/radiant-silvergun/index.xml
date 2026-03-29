@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Radiant Silvergun on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/radiant-silvergun/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/radiant-silvergun/</link>
     <description>Recent content in Radiant Silvergun on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/radiant-silvergun/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/radiant-silvergun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Games that Defined Me, Part 2 -- Arcade</title>
-      <link>http://localhost:1313/wkblog/2023/08/the-games-that-defined-me-part-2--arcade/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/the-games-that-defined-me-part-2--arcade/</link>
       <pubDate>Thu, 17 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/the-games-that-defined-me-part-2--arcade/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/the-games-that-defined-me-part-2--arcade/</guid>
       <description>In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles.</description>
     </item>
   </channel>

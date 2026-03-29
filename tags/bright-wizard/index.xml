@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bright Wizard on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/bright-wizard/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/bright-wizard/</link>
     <description>Recent content in Bright Wizard on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Sep 2008 07:16:47 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/bright-wizard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/bright-wizard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Straight Talk Warhammer: The Bright Wizard</title>
-      <link>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-bright-wizard/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-bright-wizard/</link>
       <pubDate>Mon, 22 Sep 2008 07:16:47 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-bright-wizard/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-bright-wizard/</guid>
       <description>We&amp;rsquo;re baaaaaaaack&amp;hellip;..!&amp;hellip;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hash on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/hash/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/hash/</link>
     <description>Recent content in Hash on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Dec 2023 21:02:37 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/hash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/hash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code Day 15 -- Lens Library</title>
-      <link>http://localhost:1313/wkblog/2023/12/advent-of-code-day-15--lens-library/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15--lens-library/</link>
       <pubDate>Fri, 15 Dec 2023 21:02:37 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/12/advent-of-code-day-15--lens-library/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15--lens-library/</guid>
       <description>The lack of hands is all that is keeping the world&amp;rsquo;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.</description>
     </item>
   </channel>

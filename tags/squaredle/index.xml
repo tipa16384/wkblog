@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Squaredle on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/squaredle/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/squaredle/</link>
     <description>Recent content in Squaredle on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Aug 2023 09:19:16 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/squaredle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/squaredle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Cheater&#39;s Guide to Wordle, Waffle and Squaredle</title>
-      <link>http://localhost:1313/wkblog/2023/08/a-cheaters-guide-to-wordle-waffle-and-squaredle/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/a-cheaters-guide-to-wordle-waffle-and-squaredle/</link>
       <pubDate>Sat, 12 Aug 2023 09:19:16 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/a-cheaters-guide-to-wordle-waffle-and-squaredle/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/a-cheaters-guide-to-wordle-waffle-and-squaredle/</guid>
       <description>There&amp;rsquo;s a really good reason why I solve these daily puzzles in full view of my family, at the kitchen table, now. It&amp;rsquo;s to stop me from cheating.</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/github/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/github/</link>
     <description>Recent content in Github on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Aug 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI has transformed the way I code</title>
-      <link>http://localhost:1313/wkblog/2024/08/ai-has-transformed-the-way-i-code/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</link>
       <pubDate>Sat, 10 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/08/ai-has-transformed-the-way-i-code/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</guid>
       <description>Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it&amp;rsquo;s here to stay.</description>
     </item>
     <item>
       <title>My Non-Controversial Take on the AI Revolution</title>
-      <link>http://localhost:1313/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</link>
       <pubDate>Mon, 14 Aug 2023 08:10:52 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</guid>
       <description>At least, I haven&amp;rsquo;t heard anyone contravene my take, yet.</description>
     </item>
     <item>
       <title>Resurrecting West Karana</title>
-      <link>http://localhost:1313/wkblog/2021/09/resurrecting-west-karana/</link>
+      <link>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</link>
       <pubDate>Wed, 01 Sep 2021 07:48:11 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2021/09/resurrecting-west-karana/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</guid>
       <description>I was fascinated by UltrViolet&amp;rsquo;s DevOps-ification of his blog, &amp;ldquo;Endgame Viable&amp;rdquo;. The sort of stuff he&amp;rsquo;s doing is the sort of stuff I do every&amp;hellip;</description>
     </item>
   </channel>

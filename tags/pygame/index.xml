@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pygame on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/pygame/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/pygame/</link>
     <description>Recent content in Pygame on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 May 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/pygame/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/pygame/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADVENT: Twisty Passages, All Alike</title>
-      <link>http://localhost:1313/wkblog/2024/05/advent-twisty-passages-all-alike/</link>
+      <link>https://tipa16384.github.io/wkblog/2024/05/advent-twisty-passages-all-alike/</link>
       <pubDate>Thu, 09 May 2024 07:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2024/05/advent-twisty-passages-all-alike/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2024/05/advent-twisty-passages-all-alike/</guid>
       <description>A pirate stole our treasure! Time to steal it BACK. But first, we have to find our way through one of the most notorious mazes of all time&amp;hellip;</description>
     </item>
     <item>
       <title>Advent of Code Day 22 -- Sand Slabs</title>
-      <link>http://localhost:1313/wkblog/2023/12/advent-of-code-day-22--sand-slabs/</link>
+      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-22--sand-slabs/</link>
       <pubDate>Fri, 22 Dec 2023 17:28:03 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2023/12/advent-of-code-day-22--sand-slabs/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-22--sand-slabs/</guid>
       <description>I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue.</description>
     </item>
   </channel>

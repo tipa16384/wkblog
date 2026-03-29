@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atticus on Chasing Dings!</title>
-    <link>http://localhost:1313/wkblog/tags/atticus/</link>
+    <link>https://tipa16384.github.io/wkblog/tags/atticus/</link>
     <description>Recent content in Atticus on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Jul 2008 06:17:17 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/wkblog/tags/atticus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tipa16384.github.io/wkblog/tags/atticus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happy birthday, Atticus David Shimkin</title>
-      <link>http://localhost:1313/wkblog/2008/07/happy-birthday-atticus-david-shimkin/</link>
+      <link>https://tipa16384.github.io/wkblog/2008/07/happy-birthday-atticus-david-shimkin/</link>
       <pubDate>Fri, 18 Jul 2008 06:17:17 -0500</pubDate>
-      <guid>http://localhost:1313/wkblog/2008/07/happy-birthday-atticus-david-shimkin/</guid>
+      <guid>https://tipa16384.github.io/wkblog/2008/07/happy-birthday-atticus-david-shimkin/</guid>
       <description>Happy dad Brian writes:&amp;hellip;</description>
     </item>
   </channel>
