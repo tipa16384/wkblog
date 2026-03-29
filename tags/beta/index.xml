@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beta on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/beta/</link>
+    <link>http://localhost:1313/wkblog/tags/beta/</link>
     <description>Recent content in Beta on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 22 Aug 2021 23:45:47 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/beta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ship of Heroes: Superheroes IN SPAAAAAACE!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/</link>
+      <link>http://localhost:1313/wkblog/2021/08/ship-of-heroes-superheroes-in-spaaaaaace/</link>
       <pubDate>Sun, 22 Aug 2021 23:45:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/</guid>
-      <description>...or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that...</description>
+      <guid>http://localhost:1313/wkblog/2021/08/ship-of-heroes-superheroes-in-spaaaaaace/</guid>
+      <description>&amp;hellip;or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that&amp;hellip;</description>
     </item>
     <item>
       <title>Rift Beta 4: In Search of... a Spec.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/10/rift-beta-4-in-search-of-a-spec/</link>
+      <link>http://localhost:1313/wkblog/2011/01/rift-beta-4-in-search-of...-a-spec./</link>
       <pubDate>Mon, 10 Jan 2011 07:54:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/10/rift-beta-4-in-search-of-a-spec/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2011/01/rift-beta-4-in-search-of...-a-spec./</guid>
+      <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>Rift: 3rd beta event, &#34;Sealing the Rift&#34;</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/24/rift-3rd-beta-event-sealing-the-rift/</link>
+      <link>http://localhost:1313/wkblog/2010/12/rift-3rd-beta-event-sealing-the-rift/</link>
       <pubDate>Fri, 24 Dec 2010 08:14:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/24/rift-3rd-beta-event-sealing-the-rift/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2010/12/rift-3rd-beta-event-sealing-the-rift/</guid>
+      <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>Next Rift Beta event: Guardians of the Vigil</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/15/next-rift-beta-event-guardians-of-the-vigil/</link>
+      <link>http://localhost:1313/wkblog/2010/12/next-rift-beta-event-guardians-of-the-vigil/</link>
       <pubDate>Wed, 15 Dec 2010 08:00:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/15/next-rift-beta-event-guardians-of-the-vigil/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2010/12/next-rift-beta-event-guardians-of-the-vigil/</guid>
+      <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>Free Realms: SOE discovers Technicolor</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/23/free-realms-soe-discovers-technicolor/</link>
+      <link>http://localhost:1313/wkblog/2009/04/free-realms-soe-discovers-technicolor/</link>
       <pubDate>Thu, 23 Apr 2009 08:32:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/23/free-realms-soe-discovers-technicolor/</guid>
-      <description>Time to put on your shades, spin the name wheels and step into your time machine, because it&amp;#39;s 2004 and SOE has just released World...</description>
+      <guid>http://localhost:1313/wkblog/2009/04/free-realms-soe-discovers-technicolor/</guid>
+      <description>Time to put on your shades, spin the name wheels and step into your time machine, because it&amp;rsquo;s 2004 and SOE has just released World&amp;hellip;</description>
     </item>
     <item>
       <title>Free Realms NDA drops!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/22/free-realms-nda-drops/</link>
+      <link>http://localhost:1313/wkblog/2009/04/free-realms-nda-drops/</link>
       <pubDate>Wed, 22 Apr 2009 18:17:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/22/free-realms-nda-drops/</guid>
-      <description>You can talk about it now! Expect an article about it for tomorrow, but if you&amp;#39;ve been playing -- how did you like it?...</description>
+      <guid>http://localhost:1313/wkblog/2009/04/free-realms-nda-drops/</guid>
+      <description>You can talk about it now! Expect an article about it for tomorrow, but if you&amp;rsquo;ve been playing &amp;ndash; how did you like it?&amp;hellip;</description>
     </item>
     <item>
       <title>How are you enjoying the Spellborn closed beta?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/03/05/how-are-you-enjoying-the-spellborn-closed-beta/</link>
+      <link>http://localhost:1313/wkblog/2009/03/how-are-you-enjoying-the-spellborn-closed-beta/</link>
       <pubDate>Thu, 05 Mar 2009 08:09:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/03/05/how-are-you-enjoying-the-spellborn-closed-beta/</guid>
-      <description>It&amp;#39;s just one day shy of a week since the folks at Acclaim proudly stated Spellborn would be entering closed beta this very week. Has...</description>
+      <guid>http://localhost:1313/wkblog/2009/03/how-are-you-enjoying-the-spellborn-closed-beta/</guid>
+      <description>It&amp;rsquo;s just one day shy of a week since the folks at Acclaim proudly stated Spellborn would be entering closed beta this very week. Has&amp;hellip;</description>
     </item>
     <item>
       <title>Runes of Magic claims 450,000 players</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/02/17/runes-of-magic-claims-450000-players/</link>
+      <link>http://localhost:1313/wkblog/2009/02/runes-of-magic-claims-450000-players/</link>
       <pubDate>Tue, 17 Feb 2009 07:16:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/02/17/runes-of-magic-claims-450000-players/</guid>
-      <description>[Runes of Magic](http://www.runesofmagic.com/us/index.html) has been getting [a lot of attention](http://adingworld.wordpress.com/2009/02/15/aslan-valley-crafting-and-outfits/) from [the blogosphere](http://notadiary.typepad.com/mysticworlds/runes-of-magic/) lately. Though obviously heavily inspired by World of Warcraft, this Taiwan import...</description>
+      <guid>http://localhost:1313/wkblog/2009/02/runes-of-magic-claims-450000-players/</guid>
+      <description>Runes of Magic has been getting a lot of attention from the blogosphere lately. Though obviously heavily inspired by World of Warcraft, this Taiwan import&amp;hellip;</description>
     </item>
     <item>
       <title>*Anthro* MMO Earth Eternal launches new web site</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/02/17/anthro-mmo-earth-eternal-launches-new-web-site/</link>
+      <link>http://localhost:1313/wkblog/2009/02/anthro-mmo-earth-eternal-launches-new-web-site/</link>
       <pubDate>Tue, 17 Feb 2009 07:01:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/02/17/anthro-mmo-earth-eternal-launches-new-web-site/</guid>
-      <description>There&amp;#39;s a slim possibility [I may have been dismissive](http://www.massively.com/2008/07/25/furries-let-their-tails-down-in-earth-eternal/) of Sparkplay&amp;#39;s Anthro (not Furry) MMO, [Earth Eternal](http://www.eartheternal.com/), in the past, but --...</description>
+      <guid>http://localhost:1313/wkblog/2009/02/anthro-mmo-earth-eternal-launches-new-web-site/</guid>
+      <description>There&amp;rsquo;s a slim possibility I may have been dismissive of Sparkplay&amp;rsquo;s Anthro (not Furry) MMO, Earth Eternal, in the past, but &amp;ndash;&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101 beta is nearly over</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/27/wizard-101-beta-is-nearly-over/</link>
+      <link>http://localhost:1313/wkblog/2008/08/wizard-101-beta-is-nearly-over/</link>
       <pubDate>Wed, 27 Aug 2008 01:30:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/27/wizard-101-beta-is-nearly-over/</guid>
-      <description>Wizard 101&amp;#39;s beta is ending, and all characters will be deleted prior to the game going live. So this is a goodbye to Tara Mythcrafter,...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/wizard-101-beta-is-nearly-over/</guid>
+      <description>Wizard 101&amp;rsquo;s beta is ending, and all characters will be deleted prior to the game going live. So this is a goodbye to Tara Mythcrafter,&amp;hellip;</description>
     </item>
     <item>
       <title>EverQuest expansion beta registration is now open</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/07/everquest-expansion-beta-registration-is-now-open/</link>
+      <link>http://localhost:1313/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</link>
       <pubDate>Thu, 07 Aug 2008 23:29:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/07/everquest-expansion-beta-registration-is-now-open/</guid>
-      <description>Play EverQuest? Want to get in on the ground floor for the next expansion, Seeds of Destruction? Now&amp;#39;s your chance to [sign up to get...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</guid>
+      <description>Play EverQuest? Want to get in on the ground floor for the next expansion, Seeds of Destruction? Now&amp;rsquo;s your chance to sign up to get&amp;hellip;</description>
     </item>
   </channel>
 </rss>

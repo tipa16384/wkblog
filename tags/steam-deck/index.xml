@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steam Deck on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/steam-deck/</link>
+    <link>http://localhost:1313/wkblog/tags/steam-deck/</link>
     <description>Recent content in Steam Deck on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 18 Jul 2022 08:25:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/steam-deck/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</link>
+      <link>http://localhost:1313/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</link>
       <pubDate>Mon, 18 Jul 2022 08:25:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</guid>
-      <description>Each of these probably should get their own posts, but I am exceedingly lazy....</description>
+      <guid>http://localhost:1313/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</guid>
+      <description>Each of these probably should get their own posts, but I am exceedingly lazy&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

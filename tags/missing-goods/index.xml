@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Missing Goods on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/missing-goods/</link>
+    <link>http://localhost:1313/wkblog/tags/missing-goods/</link>
     <description>Recent content in Missing Goods on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 24 Nov 2021 10:25:52 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/missing-goods/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/missing-goods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Night: Jaws of the Lion, &#34;Misplaced Goods&#34;</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/11/24/game-night-jaws-of-the-lion-misplaced-goods/</link>
+      <link>http://localhost:1313/wkblog/2021/11/game-night-jaws-of-the-lion-misplaced-goods/</link>
       <pubDate>Wed, 24 Nov 2021 10:25:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/11/24/game-night-jaws-of-the-lion-misplaced-goods/</guid>
-      <description>Our Jaws of the Lion campaign continues. We&amp;#39;re nearing the end, and all of our characters have gotten their late game power ups. We&amp;#39;re clearing...</description>
+      <guid>http://localhost:1313/wkblog/2021/11/game-night-jaws-of-the-lion-misplaced-goods/</guid>
+      <description>Our Jaws of the Lion campaign continues. We&amp;rsquo;re nearing the end, and all of our characters have gotten their late game power ups. We&amp;rsquo;re clearing&amp;hellip;</description>
     </item>
   </channel>
 </rss>

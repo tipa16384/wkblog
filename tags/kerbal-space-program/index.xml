@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kerbal Space Program on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/kerbal-space-program/</link>
+    <link>http://localhost:1313/wkblog/tags/kerbal-space-program/</link>
     <description>Recent content in Kerbal Space Program on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Dec 2012 07:45:40 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/kerbal-space-program/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/kerbal-space-program/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kerbal Space Program: To the Mun and Back</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/12/17/kerbal-space-program-to-the-mun-and-back/</link>
+      <link>http://localhost:1313/wkblog/posts/2012/12/17/kerbal-space-program-to-the-mun-and-back/</link>
       <pubDate>Mon, 17 Dec 2012 07:45:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/12/17/kerbal-space-program-to-the-mun-and-back/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2012/12/17/kerbal-space-program-to-the-mun-and-back/</guid>
       <description>It&amp;#39;s not that there&amp;#39;s not a lot to do in Kerbal Space Program; it&amp;#39;s that it takes so long to do....</description>
     </item>
     <item>
       <title>Kerbal Space Program: Marooned</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/12/13/kerbal-space-program-marooned/</link>
+      <link>http://localhost:1313/wkblog/posts/2012/12/13/kerbal-space-program-marooned/</link>
       <pubDate>Thu, 13 Dec 2012 08:12:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/12/13/kerbal-space-program-marooned/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2012/12/13/kerbal-space-program-marooned/</guid>
       <description>There&amp;#39;s this movie that used to come on TV occasionally when I was a kid called &amp;#34;[Marooned](http://en.wikipedia.org/wiki/Marooned_(film))&amp;#34; -- stars Richard Crenna, Gene Hackman and other...</description>
     </item>
     <item>
       <title>Kerbal Space Program: Lost in Space</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/12/07/kerbal-space-program-lost-in-space/</link>
+      <link>http://localhost:1313/wkblog/posts/2012/12/07/kerbal-space-program-lost-in-space/</link>
       <pubDate>Fri, 07 Dec 2012 13:57:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/12/07/kerbal-space-program-lost-in-space/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2012/12/07/kerbal-space-program-lost-in-space/</guid>
       <description>It&amp;#39;s a tense day for the [Kerbal Space Program](http://kerbalspaceprogram.com/). Three intrepid explorers have been strapped into the Super Booster 3, charitably described in the Kerb...</description>
     </item>
   </channel>

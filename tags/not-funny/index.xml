@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Not Funny on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/not-funny/</link>
+    <link>http://localhost:1313/wkblog/tags/not-funny/</link>
     <description>Recent content in Not Funny on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 04 Jan 2011 23:03:37 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/not-funny/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/not-funny/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1 Hour Review of: Your Life</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/04/1-hour-review-of-your-life/</link>
+      <link>http://localhost:1313/wkblog/2011/01/1-hour-review-of-your-life/</link>
       <pubDate>Tue, 04 Jan 2011 23:03:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/04/1-hour-review-of-your-life/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2011/01/1-hour-review-of-your-life/</guid>
+      <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>A Parent&#39;s Guide to MMO Gaming</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/09/03/a-parents-guide-to-mmo-gaming/</link>
+      <link>http://localhost:1313/wkblog/2010/09/a-parents-guide-to-mmo-gaming/</link>
       <pubDate>Fri, 03 Sep 2010 20:59:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/09/03/a-parents-guide-to-mmo-gaming/</guid>
-      <description>Someone needs to tell the truth about MMOs. I guess it falls to me to explain to parents about the games their children are playing...</description>
+      <guid>http://localhost:1313/wkblog/2010/09/a-parents-guide-to-mmo-gaming/</guid>
+      <description>Someone needs to tell the truth about MMOs. I guess it falls to me to explain to parents about the games their children are playing&amp;hellip;</description>
     </item>
     <item>
       <title>Five Better Concepts for EverQuest Next?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/08/18/five-better-concepts-for-everquest-next/</link>
+      <link>http://localhost:1313/wkblog/2010/08/five-better-concepts-for-everquest-next/</link>
       <pubDate>Wed, 18 Aug 2010 07:37:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/08/18/five-better-concepts-for-everquest-next/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2010/08/five-better-concepts-for-everquest-next/</guid>
+      <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>Straight Talk Warhammer: The Warrior Priest</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/23/straight-talk-warhammer-the-warrior-priest/</link>
+      <link>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-warrior-priest/</link>
       <pubDate>Tue, 23 Sep 2008 08:00:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/23/straight-talk-warhammer-the-warrior-priest/</guid>
-      <description>Do you remember what life was like before Warhammer Online: The Age of Reckoning? I sure can&amp;#39;t. Well, sometimes it comes in little bits and...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-warrior-priest/</guid>
+      <description>Do you remember what life was like before Warhammer Online: The Age of Reckoning? I sure can&amp;rsquo;t. Well, sometimes it comes in little bits and&amp;hellip;</description>
     </item>
     <item>
       <title>Straight Talk Warhammer: The Bright Wizard</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/22/straight-talk-warhammer-the-bright-wizard/</link>
+      <link>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-bright-wizard/</link>
       <pubDate>Mon, 22 Sep 2008 07:16:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/22/straight-talk-warhammer-the-bright-wizard/</guid>
-      <description>We&amp;#39;re baaaaaaaack.....!...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-bright-wizard/</guid>
+      <description>We&amp;rsquo;re baaaaaaaack&amp;hellip;..!&amp;hellip;</description>
     </item>
     <item>
       <title>Straight Talk Warhammer: The Inevitable City</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/18/straight-talk-warhammer-the-inevitable-city/</link>
+      <link>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-inevitable-city/</link>
       <pubDate>Thu, 18 Sep 2008 08:00:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/18/straight-talk-warhammer-the-inevitable-city/</guid>
-      <description>40 long years ago, an [intrepid Swiss scientist](http://en.wikipedia.org/wiki/Erich_von_D%C3%A4niken) first discovered that aliens had come to Earth many times in our past, always guiding mankind toward...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-inevitable-city/</guid>
+      <description>40 long years ago, an intrepid Swiss scientist first discovered that aliens had come to Earth many times in our past, always guiding mankind toward&amp;hellip;</description>
     </item>
     <item>
       <title>Straight Talk Warhammer: Realm vs Realm</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/17/straight-talk-warhammer-realm-vs-realm/</link>
+      <link>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-realm-vs-realm/</link>
       <pubDate>Wed, 17 Sep 2008 08:00:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/17/straight-talk-warhammer-realm-vs-realm/</guid>
-      <description>Hey, welcome back to the second in our exclusive series about the exciting innovative gameplay of Mythic&amp;#39;s Warhammer Online: Age of Reckoning....</description>
+      <guid>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-realm-vs-realm/</guid>
+      <description>Hey, welcome back to the second in our exclusive series about the exciting innovative gameplay of Mythic&amp;rsquo;s Warhammer Online: Age of Reckoning&amp;hellip;.</description>
     </item>
     <item>
       <title>Straight Talk Warhammer: The White Lion profession.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/16/straight-talk-warhammer-the-white-lion-profession/</link>
+      <link>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-white-lion-profession./</link>
       <pubDate>Tue, 16 Sep 2008 01:18:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/16/straight-talk-warhammer-the-white-lion-profession/</guid>
-      <description>Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-white-lion-profession./</guid>
+      <description>Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game&amp;hellip;</description>
     </item>
     <item>
       <title>Stout Henry at the Market</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/26/stout-henry-at-the-market/</link>
+      <link>http://localhost:1313/wkblog/2008/08/stout-henry-at-the-market/</link>
       <pubDate>Tue, 26 Aug 2008 20:36:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/26/stout-henry-at-the-market/</guid>
-      <description>Stout Henry walked with a quick step toward Cotsberry Market, leading a beautiful brown mare. He looked up at the morning sun, adjusted his broad...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/stout-henry-at-the-market/</guid>
+      <description>Stout Henry walked with a quick step toward Cotsberry Market, leading a beautiful brown mare. He looked up at the morning sun, adjusted his broad&amp;hellip;</description>
     </item>
     <item>
       <title>Stout Henry</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/21/stout-henry/</link>
+      <link>http://localhost:1313/wkblog/2008/08/stout-henry/</link>
       <pubDate>Thu, 21 Aug 2008 01:00:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/21/stout-henry/</guid>
-      <description>This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/stout-henry/</guid>
+      <description>This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far&amp;hellip;</description>
     </item>
   </channel>
 </rss>

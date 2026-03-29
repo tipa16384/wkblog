@@ -1,68 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PS3 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/ps3/</link>
+    <link>http://localhost:1313/wkblog/tags/ps3/</link>
     <description>Recent content in PS3 on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 27 Nov 2024 14:04:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/ps3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/ps3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Odin Sphere: Two dimensions is more than enough</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/</link>
+      <link>http://localhost:1313/wkblog/2024/11/odin-sphere-two-dimensions-is-more-than-enough/</link>
       <pubDate>Wed, 27 Nov 2024 14:04:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/</guid>
-      <description>It&amp;#39;s a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin.</description>
-    </item>
-    <item>
-      <title>The Lord of the Rings: War in the North</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/10/07/the-lord-of-the-rings-war-in-the-north/</link>
-      <pubDate>Mon, 07 Oct 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/10/07/the-lord-of-the-rings-war-in-the-north/</guid>
-      <description>Snowblind Studios&amp;#39; swan song might have been the best RPG they ever made.</description>
+      <guid>http://localhost:1313/wkblog/2024/11/odin-sphere-two-dimensions-is-more-than-enough/</guid>
+      <description>It&amp;rsquo;s a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin.</description>
     </item>
     <item>
       <title>White Knight Chronicles -- best RPG I never heard of?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/07/01/white-knight-chronicles-best-rpg-i-never-heard-of/</link>
+      <link>http://localhost:1313/wkblog/2023/07/white-knight-chronicles--best-rpg-i-never-heard-of/</link>
       <pubDate>Sat, 01 Jul 2023 21:53:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/07/01/white-knight-chronicles-best-rpg-i-never-heard-of/</guid>
+      <guid>http://localhost:1313/wkblog/2023/07/white-knight-chronicles--best-rpg-i-never-heard-of/</guid>
       <description>White Knight Chronicles, a 2009 PS3 RPG exclusive, shut down its servers a decade ago, leaving it with only half a game. But that half a game is deeply customizable and surprisingly fun.</description>
     </item>
     <item>
       <title>Playstation 3 Home beta</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/12/playstation-3-home-beta/</link>
+      <link>http://localhost:1313/wkblog/2008/12/playstation-3-home-beta/</link>
       <pubDate>Fri, 12 Dec 2008 09:51:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/12/playstation-3-home-beta/</guid>
-      <description>Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation...</description>
+      <guid>http://localhost:1313/wkblog/2008/12/playstation-3-home-beta/</guid>
+      <description>Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation&amp;hellip;</description>
     </item>
     <item>
       <title>LBP: The Littlest, Biggest Planet in the galaxy.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy/</link>
+      <link>http://localhost:1313/wkblog/2008/10/lbp-the-littlest-biggest-planet-in-the-galaxy./</link>
       <pubDate>Thu, 30 Oct 2008 12:26:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy/</guid>
-      <description>Last night was a LittleBigPlanet night. I didn&amp;#39;t know that it was going to be a LBP night, but when I sat down to play,...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/lbp-the-littlest-biggest-planet-in-the-galaxy./</guid>
+      <description>Last night was a LittleBigPlanet night. I didn&amp;rsquo;t know that it was going to be a LBP night, but when I sat down to play,&amp;hellip;</description>
     </item>
     <item>
       <title>PS3: LittleBig Planet in stores October 21</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/19/ps3-littlebig-planet-in-stores-october-21/</link>
+      <link>http://localhost:1313/wkblog/2008/09/ps3-littlebig-planet-in-stores-october-21/</link>
       <pubDate>Fri, 19 Sep 2008 16:46:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/19/ps3-littlebig-planet-in-stores-october-21/</guid>
-      <description>While I sit and stew because I can&amp;#39;t play Rock Band 2 on my PS3 yet, news comes that LittleBig Planet, the multi-player platformer where...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/ps3-littlebig-planet-in-stores-october-21/</guid>
+      <description>While I sit and stew because I can&amp;rsquo;t play Rock Band 2 on my PS3 yet, news comes that LittleBig Planet, the multi-player platformer where&amp;hellip;</description>
     </item>
     <item>
       <title>PS3: Valkyrie Chronicles</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/07/ps3-valkyrie-chronicles/</link>
+      <link>http://localhost:1313/wkblog/2008/07/ps3-valkyrie-chronicles/</link>
       <pubDate>Mon, 07 Jul 2008 18:46:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/07/ps3-valkyrie-chronicles/</guid>
-      <description>I&amp;#39;m not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a *game* machine, as...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/ps3-valkyrie-chronicles/</guid>
+      <description>I&amp;rsquo;m not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a game machine, as&amp;hellip;</description>
     </item>
     <item>
       <title>Slave to marketing.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/06/30/slave-to-marketing/</link>
+      <link>http://localhost:1313/wkblog/2008/06/slave-to-marketing./</link>
       <pubDate>Mon, 30 Jun 2008 09:45:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/06/30/slave-to-marketing/</guid>
-      <description>I almost -- ALMOST -- bought Guitar Hero: Aerosmith this weekend, for the PS3. And I probably would have, if I&amp;#39;d gone there Sunday instead...</description>
+      <guid>http://localhost:1313/wkblog/2008/06/slave-to-marketing./</guid>
+      <description>I almost &amp;ndash; ALMOST &amp;ndash; bought Guitar Hero: Aerosmith this weekend, for the PS3. And I probably would have, if I&amp;rsquo;d gone there Sunday instead&amp;hellip;</description>
     </item>
   </channel>
 </rss>

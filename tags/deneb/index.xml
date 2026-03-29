@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deneb on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/deneb/</link>
+    <link>http://localhost:1313/wkblog/tags/deneb/</link>
     <description>Recent content in Deneb on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 28 Nov 2022 20:50:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/deneb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/deneb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code 2022 and other exciting news you should totally read!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</link>
+      <link>http://localhost:1313/wkblog/2022/11/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</link>
       <pubDate>Mon, 28 Nov 2022 20:50:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</guid>
-      <description>Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don&amp;#39;t forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!</description>
+      <guid>http://localhost:1313/wkblog/2022/11/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</guid>
+      <description>Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don&amp;rsquo;t forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!</description>
     </item>
     <item>
       <title>Ogre Battle: Curse your sudden, but inevitable, betrayal</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/07/13/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</link>
+      <link>http://localhost:1313/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</link>
       <pubDate>Wed, 13 Jul 2022 08:16:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/07/13/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</guid>
-      <description>Now that I&amp;#39;ve gotten the game so that it works and looks decent, it&amp;#39;s time to ask the big question: How do I get Deneb...</description>
+      <guid>http://localhost:1313/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</guid>
+      <description>Now that I&amp;rsquo;ve gotten the game so that it works and looks decent, it&amp;rsquo;s time to ask the big question: How do I get Deneb&amp;hellip;</description>
     </item>
   </channel>
 </rss>

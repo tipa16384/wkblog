@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basketball on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/basketball/</link>
+    <link>http://localhost:1313/wkblog/tags/basketball/</link>
     <description>Recent content in Basketball on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 03 Aug 2022 07:31:47 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dall-E 2 vs Craiyon: Which AI program generates better images?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/08/03/dall-e-2-vs-craiyon-which-ai-program-generates-better-images/</link>
-      <pubDate>Wed, 03 Aug 2022 07:31:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/08/03/dall-e-2-vs-craiyon-which-ai-program-generates-better-images/</guid>
-      <description>I&amp;#39;ve been using AI to generate images for articles and I&amp;#39;m really impressed with the results.</description>
-    </item>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2022 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/wkblog/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Three Frow: A deep, tactical basketball RPG</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/08/03/three-throw-a-deep-tactical-basketball-rpg/</link>
+      <link>http://localhost:1313/wkblog/2022/08/three-frow-a-deep-tactical-basketball-rpg/</link>
       <pubDate>Wed, 03 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/08/03/three-throw-a-deep-tactical-basketball-rpg/</guid>
-      <description>I asked OpenAI&amp;#39;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...</description>
+      <guid>http://localhost:1313/wkblog/2022/08/three-frow-a-deep-tactical-basketball-rpg/</guid>
+      <description>I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;</description>
     </item>
   </channel>
 </rss>

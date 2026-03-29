@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spode on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/spode/</link>
+    <link>http://localhost:1313/wkblog/tags/spode/</link>
     <description>Recent content in Spode on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 06 Dec 2010 20:20:59 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/spode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/spode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDO: Taking a Wight at the Ghast Station</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/</link>
+      <link>http://localhost:1313/wkblog/2010/12/ddo-taking-a-wight-at-the-ghast-station/</link>
       <pubDate>Mon, 06 Dec 2010 20:20:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/</guid>
-      <description>*Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene*...</description>
+      <guid>http://localhost:1313/wkblog/2010/12/ddo-taking-a-wight-at-the-ghast-station/</guid>
+      <description>Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene&amp;hellip;</description>
     </item>
     <item>
       <title>Dungeons &amp; Dragons Online: Endless Trials</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/11/08/dungeons-dragons-online-endless-trials/</link>
+      <link>http://localhost:1313/wkblog/2010/11/dungeons-dragons-online-endless-trials/</link>
       <pubDate>Mon, 08 Nov 2010 23:05:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/11/08/dungeons-dragons-online-endless-trials/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2010/11/dungeons-dragons-online-endless-trials/</guid>
+      <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>DDO Weekly Recap: Tangleroot Gorge</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/10/11/ddo-weekly-recap-tangleroot-gorge/</link>
+      <link>http://localhost:1313/wkblog/2010/10/ddo-weekly-recap-tangleroot-gorge/</link>
       <pubDate>Mon, 11 Oct 2010 06:44:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/10/11/ddo-weekly-recap-tangleroot-gorge/</guid>
-      <description>Whatever else you say about the game, one thing you have to admit -- Dungeons &amp;amp; Dragons Online has some really cool armor looks. My...</description>
+      <guid>http://localhost:1313/wkblog/2010/10/ddo-weekly-recap-tangleroot-gorge/</guid>
+      <description>Whatever else you say about the game, one thing you have to admit &amp;ndash; Dungeons &amp;amp; Dragons Online has some really cool armor looks. My&amp;hellip;</description>
     </item>
   </channel>
 </rss>

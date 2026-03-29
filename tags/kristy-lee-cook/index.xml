@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kristy Lee Cook on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/kristy-lee-cook/</link>
+    <link>http://localhost:1313/wkblog/tags/kristy-lee-cook/</link>
     <description>Recent content in Kristy Lee Cook on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 09 Aug 2008 10:05:50 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/kristy-lee-cook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/kristy-lee-cook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>American Idol Tour -- Hartford, CT</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/09/american-idol-tour-hartford-ct/</link>
+      <link>http://localhost:1313/wkblog/2008/08/american-idol-tour--hartford-ct/</link>
       <pubDate>Sat, 09 Aug 2008 10:05:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/09/american-idol-tour-hartford-ct/</guid>
-      <description>I don&amp;#39;t have any video and not many pictures because the indicator on my camera&amp;#39;s battery lies. My camera is so happy to be taking...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/american-idol-tour--hartford-ct/</guid>
+      <description>I don&amp;rsquo;t have any video and not many pictures because the indicator on my camera&amp;rsquo;s battery lies. My camera is so happy to be taking&amp;hellip;</description>
     </item>
   </channel>
 </rss>

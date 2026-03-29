@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topwar: Battlegame on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/topwar-battlegame/</link>
+    <link>http://localhost:1313/wkblog/tags/topwar-battlegame/</link>
     <description>Recent content in Topwar: Battlegame on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 23 Mar 2022 23:16:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/topwar-battlegame/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/topwar-battlegame/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Destructive Parasocial Relationship with TopWar: BattleGame.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/03/23/my-destructive-parasocial-relationship-with-topwar-battlegame/</link>
+      <link>http://localhost:1313/wkblog/2022/03/my-destructive-parasocial-relationship-with-topwar-battlegame./</link>
       <pubDate>Wed, 23 Mar 2022 23:16:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/03/23/my-destructive-parasocial-relationship-with-topwar-battlegame/</guid>
-      <description>Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much...</description>
+      <guid>http://localhost:1313/wkblog/2022/03/my-destructive-parasocial-relationship-with-topwar-battlegame./</guid>
+      <description>Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much&amp;hellip;</description>
     </item>
   </channel>
 </rss>

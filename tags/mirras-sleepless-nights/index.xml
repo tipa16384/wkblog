@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mirra&#39;s Sleepless Nights on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mirras-sleepless-nights/</link>
+    <link>http://localhost:1313/wkblog/tags/mirras-sleepless-nights/</link>
     <description>Recent content in Mirra&#39;s Sleepless Nights on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 06 Dec 2010 20:20:59 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mirras-sleepless-nights/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/mirras-sleepless-nights/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DDO: Taking a Wight at the Ghast Station</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/</link>
+      <link>http://localhost:1313/wkblog/2010/12/ddo-taking-a-wight-at-the-ghast-station/</link>
       <pubDate>Mon, 06 Dec 2010 20:20:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/</guid>
-      <description>*Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene*...</description>
+      <guid>http://localhost:1313/wkblog/2010/12/ddo-taking-a-wight-at-the-ghast-station/</guid>
+      <description>Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene&amp;hellip;</description>
     </item>
   </channel>
 </rss>

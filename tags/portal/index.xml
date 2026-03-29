@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portal on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/portal/</link>
+    <link>http://localhost:1313/wkblog/tags/portal/</link>
     <description>Recent content in Portal on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 25 Nov 2023 19:32:11 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/portal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/portal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Superliminal: The return of GLaDOS</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/11/25/superliminal-the-return-of-glados/</link>
+      <link>http://localhost:1313/wkblog/2023/11/superliminal-the-return-of-glados/</link>
       <pubDate>Sat, 25 Nov 2023 19:32:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/11/25/superliminal-the-return-of-glados/</guid>
-      <description>The snarky computer guiding you through Superliminal might not actually be Portal&amp;#39;s GLaDOS. but they at least went to the same school.</description>
+      <guid>http://localhost:1313/wkblog/2023/11/superliminal-the-return-of-glados/</guid>
+      <description>The snarky computer guiding you through Superliminal might not actually be Portal&amp;rsquo;s GLaDOS. but they at least went to the same school.</description>
     </item>
     <item>
       <title>Favorite Game Series #4: Portal</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/27/favorite-game-series-4-portal/</link>
+      <link>http://localhost:1313/wkblog/2020/04/favorite-game-series-%234-portal/</link>
       <pubDate>Mon, 27 Apr 2020 11:17:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/27/favorite-game-series-4-portal/</guid>
-      <description>The rules of the &amp;#34;favorite game series&amp;#34; posts, as I understand them, is that there must have been more than one game, the games must...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/favorite-game-series-%234-portal/</guid>
+      <description>The rules of the &amp;ldquo;favorite game series&amp;rdquo; posts, as I understand them, is that there must have been more than one game, the games must&amp;hellip;</description>
     </item>
     <item>
       <title>Final Weighted Companion Cube model</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/11/04/final-weighted-companion-cube-model/</link>
+      <link>http://localhost:1313/wkblog/2007/11/final-weighted-companion-cube-model/</link>
       <pubDate>Sun, 04 Nov 2007 08:31:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/11/04/final-weighted-companion-cube-model/</guid>
-      <description>Woke up early this morning due to the time change, so I thought I&amp;#39;d correct my Weighted Companion Cube model... here it is, rendered with...</description>
+      <guid>http://localhost:1313/wkblog/2007/11/final-weighted-companion-cube-model/</guid>
+      <description>Woke up early this morning due to the time change, so I thought I&amp;rsquo;d correct my Weighted Companion Cube model&amp;hellip; here it is, rendered with&amp;hellip;</description>
     </item>
   </channel>
 </rss>

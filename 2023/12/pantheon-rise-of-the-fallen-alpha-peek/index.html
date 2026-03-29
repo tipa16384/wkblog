@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/wkblog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=wkblog/livereload" data-no-instant defer></script>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Pantheon: Rise of the Fallen (alpha peek)",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png",
+  
+  "datePublished": "2023-12-21T07:41:59-05:00",
+  "dateModified": "2023-12-21T07:41:59-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "http:\/\/localhost:1313\/wkblog\/2023\/12\/pantheon-rise-of-the-fallen-alpha-peek\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.157.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.">
+
+
+<meta property="og:description" content="More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Pantheon: Rise of the Fallen (alpha peek)">
+<meta name="twitter:title" content="Pantheon: Rise of the Fallen (alpha peek)">
+<meta property="og:url" content="http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/">
+<meta property="twitter:url" content="http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.">
+<meta name="twitter:description" content="More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2023-12-21T07:41:59">
+  
+  
+    <meta property="article:modified_time" content="2023-12-21T07:41:59">
+  
+  
+  
+    
+      <meta property="article:section" content="EverQuest">
+    
+      <meta property="article:section" content="Monsters &amp; Memories">
+    
+      <meta property="article:section" content="Pantheon: Rise of the Fallen">
+    
+      <meta property="article:section" content="Vanguard">
+    
+  
+  
+    
+      <meta property="article:tag" content="Alpha">
+    
+      <meta property="article:tag" content="MMORPG">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png">
+
+
+
+    <title>Pantheon: Rise of the Fallen (alpha peek)</title>
+
+    <link rel="icon" href="http://localhost:1313/wkblog/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="http://localhost:1313/wkblog/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="http://localhost:1313/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://localhost:1313/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="http://localhost:1313/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/kakawait" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener" title="Stack Overflow">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Pantheon: Rise of the Fallen (alpha peek)
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-21T07:41:59-05:00">
+        
+  December 21, 2023
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/everquest">EverQuest</a>, 
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/monsters-memories">Monsters &amp; Memories</a>, 
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/pantheon-rise-of-the-fallen">Pantheon: Rise of the Fallen</a>, 
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/vanguard">Vanguard</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>Alpha testers weren&rsquo;t allowed to use in-game footage or screenshots, and so any illustrations here are the fevered imaginings of Dall-E 3 or Midjourney.</p>
+<p>I thought about just using screenshots from EverQuest and calling it a day, but that&rsquo;s not fair. Where Monsters &amp; Memories is really trying to duplicate that 1999 aesthetic &ndash; and nailing it, even in their early state &ndash; Visionary Realms is looking more to EverQuest&rsquo;s spiritual successor Vanguard for inspiration. I also see a bit of Dragon&rsquo;s Dogma in the game.</p>
+<p>Still, the game has very, very far to go before it can be considered a complete game. What I saw today was more of a vertical slice of the starting zone for human characters.</p>
+<p><strong>Character creation</strong></p>
+<p>Only humans were available for testing, and only one character description per gender. The classes available were a subset of those to be released in the full game; Fighter, rogue, cleric, and dire lord were there for sure. I don&rsquo;t remember any others, but there might have been a few more. Dire Lord is a dual-wielding, spell-using fighter type that cannot use shields, but is otherwise very familiar to anyone who played a shadow knight back in EverQuest. According to the race/class matrix on the web site, halflings will be able to be dire lords. This was something you could certainly do in EverQuest II, but EQ1 limited halflings to good classes. So I thought I would test out this new halfling opportunity (though, again, only humans for this test).</p>
+<p>There are two points to spend on stats, and there were hints on what each stat affected, but it wasn&rsquo;t clear to me which stats affected the DL spell casting, so I opted to use the &ldquo;auto assign&rdquo; button and YOLO it.</p>
+<p>Character creation brings you in game to your guild hall. Your starting spells are in your inventory and can be scribed and then added to your hot bar by right clicking them. Some skills and spells can be upgraded using mastery points; mastery points are earned alongside normal experience, and power up the spells and abilities in various ways.</p>
+<p><strong>The UI</strong></p>
+<p>I wasn&rsquo;t able to find any explanation for the UI in game. There is a box that shows your health as a line; if you have a magical shield, an additional, smaller line shows how much additional damage can be absorbed. Beneath that is a light gray line that is consumed by using melee special abilities. It recharges by fighting. Below that was, for the dire lord at least, a red spiky line representing mana. It recharges to half full by resting, but can be fully charged through fighting. You&rsquo;ll see the problem with this.</p>
+<p>Targeting an enemy brings up a small panel showing the buffs and debuffs on them. You can <em>consider</em> enemies in the same way you do for EQ, and the colors mean the same. If you&rsquo;re soloing, white/even level is the best you can handle. Targeting someone in your group lets you see their general position, even if they are far away. This is handy for a game without a map.</p>
+<p>The spell/ability book echoes EQ. The character window shows your current experience, how much more to level, your mastery points, your skill levels and so on. There&rsquo;s quite a lot.</p>
+<p>Your combat log can be filtered in many ways to ensure you&rsquo;re only seeing the information you care to see. I didn&rsquo;t try to rearrange the UI, but the wiki says it is possible to do some measure of customization here.</p>
+
+
+
+<div class="figure " >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/24f93952-f88c-4be3-8f8c-560b1036f148-300x300.webp"  alt="Grouping at the thug camp">
+  
+   
+    <span class="caption">Grouping at the thug camp</span>
+  
+</div>
+
+<p><strong>The World</strong></p>
+<p>The one zone available was centered by a village where, after an hour or so of leveling, a new character could make their way to learn the ins and outs of gathering and crafting, as guided by the quest in their inventory when they first enter Terminus. The starting areas for the various classes are arranged around it. I&rsquo;m not sure if the remoteness of the dire lord guild (atop cliffs) was typical, but once you know where the village is, it&rsquo;s not a far run.</p>
+<p>It is not currently possible to change your bind point (your guild hall), which makes it convenient to learn spells by just having a one-on-one conversation with a high level bandit or cultists. After level 5, though, there is an experience penalty for dying. I only got to level 4 during my time in game, so I don&rsquo;t know if that penalty is toward gaining more experience, as in EQ2, or straight losing experience (and possibly your level) as in EQ1.</p>
+<p><strong>Grouping</strong></p>
+<p>Grouping is very familiar to EQ players. There is a small experience penalty for grouping, more than made up for by faster killing. There does not seem to be any auto coin split or rolling for loot, which is unfortunate. You can make macros for group-friendly actions like assisting the main tank or turning on auto-attack (which is normally bound to the &lsquo;`&rsquo; key). All keys can be rebound.</p>
+
+
+
+<div class="figure " >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-19-300x226.png"  alt="Harvesting herbs">
+  
+   
+    <span class="caption">Harvesting herbs</span>
+  
+</div>
+
+<p><strong>Skills</strong></p>
+<p>Combat and magical skills gain power through using them, just as in EQ. Normally, you wouldn&rsquo;t need to do any particular grinding.</p>
+<p>The Dire Lord skills I had by the end of my play time were Heavy Slash, a strike that does double damage from the front (and, I believe, some aggro), and Cross Slash, which (IIRC) has some armor piercing ability and is stronger from behind.</p>
+<p>For spells, Sanguine Shield adds a shield that can take some amount of damage (10% health base, more with mastery), and is on a long cool down. Boiling Blood adds a small fire damage-over-time and also aggro to a mob for thirty seconds. Phantoms is a taunt. Life tap damages a mob for some amount, returning half that amount to the caster as hit points.</p>
+<p>Once you have done the quest to get gathering unlocked, killing animals allows you to continue and skin them. This is a lengthy process that results in one resource. The same is true for mining nodes, trees, and herb gathering. I imagine better mining tools will make this go faster and return more resources. If two people work together in a group to gather resources, only one person will be able to gather that resource at the end.</p>
+<p><strong>The Combat Loop</strong></p>
+<p>I&rsquo;m not really sure about the combat loop. In order to use your best attacks, you need to fight a few things without using any abilities or spells in order to max out your skill and magic bars. This severely impacts the grouping flow. Many times in a group I would find I wouldn&rsquo;t be able to use my Sanguine Shield because pulling with Boiling Blood would wipe out my mana. Plus some of the skill timeouts were insanely long. Next time I plan to try a caster and see how things work when spells are your only option.</p>
+<p>It does appear that all classes will be required to med as often as possible. Respawn times for static mobs were on the slow side, slower than I remember EverQuest being (where you would normally always be racing to keep ahead of the spawn). This might just be the example of the newbie zone.</p>
+<p><strong>Other People</strong></p>
+<p>When I logged in to create my character Tuesday near the beginning of the play test, the zones were jumping and groups were forming. I unfortunately had other things (like work) to do, so I wasn&rsquo;t able to play much Tuesday. Wednesday I had off, and was able to play quite a lot. The game was very much quieter, and groups had trouble forming. I imagine groups will tend to form in that central village, but they might struggle to find things to do.</p>
+<p>However, the people were friendly and helpful, the GMs were active in the world chats, and people seemed eager to explore and learn about the classes. There wasn&rsquo;t the whining you see in the forums or on Reddit. People appreciated the chance to get a look at the game.</p>
+<p><strong>TL;DR</strong></p>
+<p>I got a lot of Vanguard vibes from the game, although with the systems I&rsquo;ve seen, Vanguard was more fully developed. This game doesn&rsquo;t carry as much water for EverQuest as Monsters &amp; Memories does; those looking for a more authentic early EQ experience should look to M&amp;M.</p>
+<p>It&rsquo;s tough NOT to compare it to Monsters &amp; Memories. Though still in proof of concept stage, M&amp;M provides several dungeons in the starter zone, one that groups as low as level 3 can enter. I didn&rsquo;t hear of any dungeons in Pantheon (though I know from the videos that they do exist, or at one time existed). M&amp;M has several races live, Pantheon has only humans. M&amp;M has character customization, Pantheon does not. M&amp;M just feels like it is further along, even though it has not been in development nearly as long.</p>
+<p>I enjoyed my time in Pantheon, and there is another test for Alpha players coming up Friday that I look forward to. But, I&rsquo;m not yet <em>excited</em> by the game.</p>
+<p>Both Pantheon and M&amp;M have to struggle with the fact that Daybreak Games is at least annually starting new-from-scratch legacy servers that allow people to have that authentic early EQ experience in the actual game. The difference being that EQ is a solved game. People know every part of it. There&rsquo;s still mystery shrouding Pantheon&rsquo;s world of Terminus. But mystery alone won&rsquo;t seal the deal.</p>
+<p>Pantheon has to give players something new; something we can only get there. I haven&rsquo;t seen that, yet. Starting a new MMO is <em>hard</em>. Especially for crowdfunded MMOs. So many have tried, and failed. Shroud of the Avatar, Crowfall, Camelot Unchained, all games that built off successful older MMOs (Ultima Online, Shadowbane, and Dark Age of Camelot respectively) but didn&rsquo;t catch fire with the player base. I said earlier that it reminded me more of Vanguard than EQ, and I stand by that. If VR said that they were looking to replicate Vanguard, I would definitely be excited. But then again, Vanguard was another MMO, full of innovation, that also failed to win traction in the marketplace.</p>
+<p>I hope the team at Visionary Realms can blow my mind once they reveal the scope of the world outside the newbie zones.</p>
+
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/alpha/">Alpha</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/mmorpg/">MMORPG</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/advent-of-code-day-21--step-counter/" data-tooltip="Advent of Code Day 21 -- Step Counter" aria-label="NEXT: Advent of Code Day 21 -- Step Counter">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/advent-of-code-day-20--pulse-propagation/" data-tooltip="Advent of Code Day 20 -- Pulse Propagation" aria-label="PREVIOUS: Advent of Code Day 20 -- Pulse Propagation">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'http:\/\/localhost:1313\/wkblog\/2023\/12\/pantheon-rise-of-the-fallen-alpha-peek\/';
+        
+          this.page.identifier = '\/2023\/12\/pantheon-rise-of-the-fallen-alpha-peek\/'
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = '';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/advent-of-code-day-21--step-counter/" data-tooltip="Advent of Code Day 21 -- Step Counter" aria-label="NEXT: Advent of Code Day 21 -- Step Counter">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/advent-of-code-day-20--pulse-propagation/" data-tooltip="Advent of Code Day 20 -- Pulse Propagation" aria-label="PREVIOUS: Advent of Code Day 20 -- Pulse Propagation">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2023/12/pantheon-rise-of-the-fallen-alpha-peek/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2023%2F12%2Fpantheon-rise-of-the-fallen-alpha-peek%2F" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2023%2F12%2Fpantheon-rise-of-the-fallen-alpha-peek%2F" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2023%2F12%2Fpantheon-rise-of-the-fallen-alpha-peek%2F" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="http://localhost:1313/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

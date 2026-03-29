@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shan to Kor on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/shan-to-kor/</link>
+    <link>http://localhost:1313/wkblog/tags/shan-to-kor/</link>
     <description>Recent content in Shan to Kor on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 18 Oct 2010 23:19:12 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/shan-to-kor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/shan-to-kor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dungeons &amp; Dragons Online: The Seal of Shan-To-Kor</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/10/18/dungeons-dragons-online-the-seal-of-shan-to-kor/</link>
+      <link>http://localhost:1313/wkblog/2010/10/dungeons-dragons-online-the-seal-of-shan-to-kor/</link>
       <pubDate>Mon, 18 Oct 2010 23:19:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/10/18/dungeons-dragons-online-the-seal-of-shan-to-kor/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2010/10/dungeons-dragons-online-the-seal-of-shan-to-kor/</guid>
+      <description>[&amp;hellip;</description>
     </item>
   </channel>
 </rss>

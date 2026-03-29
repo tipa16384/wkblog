@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poop on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/poop/</link>
+    <link>http://localhost:1313/wkblog/tags/poop/</link>
     <description>Recent content in Poop on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 28 Dec 2024 11:08:43 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/poop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/poop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Best of 2024: Adventure Games</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/12/28/the-best-of-2024-adventure-games/</link>
+      <link>http://localhost:1313/wkblog/2024/12/the-best-of-2024-adventure-games/</link>
       <pubDate>Sat, 28 Dec 2024 11:08:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/12/28/the-best-of-2024-adventure-games/</guid>
+      <guid>http://localhost:1313/wkblog/2024/12/the-best-of-2024-adventure-games/</guid>
       <description>They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer.</description>
     </item>
   </channel>

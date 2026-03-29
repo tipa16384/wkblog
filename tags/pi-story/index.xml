@@ -1,40 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pi Story on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/pi-story/</link>
+    <link>http://localhost:1313/wkblog/tags/pi-story/</link>
     <description>Recent content in Pi Story on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 12 Oct 2008 12:55:15 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/pi-story/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pi Story: one in a thousand</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/12/pi-story-one-in-a-thousand/</link>
-      <pubDate>Sun, 12 Oct 2008 12:55:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/12/pi-story-one-in-a-thousand/</guid>
-      <description>*The game is lying.*...</description>
-    </item>
-    <item>
-      <title>Pi Story, because everyone likes Pi(e)</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/10/pi-story-because-everyone-likes-pie/</link>
-      <pubDate>Fri, 10 Oct 2008 08:16:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/10/pi-story-because-everyone-likes-pie/</guid>
-      <description>I&amp;#39;ve been wanting to get into Pi Story for months. Yeah, it&amp;#39;s a 2D game in the vein of old Playstation action RPGs like &amp;#39;Legend...</description>
-    </item>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jul 2008 09:07:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/wkblog/tags/pi-story/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Free-to-play game of the month?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/24/free-to-play-game-of-the-month/</link>
+      <link>http://localhost:1313/wkblog/2008/07/free-to-play-game-of-the-month/</link>
       <pubDate>Thu, 24 Jul 2008 09:07:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/24/free-to-play-game-of-the-month/</guid>
-      <description>As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/free-to-play-game-of-the-month/</guid>
+      <description>As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my&amp;hellip;</description>
     </item>
     <item>
       <title>What I am playing 7/23</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/23/what-i-am-playing-723/</link>
+      <link>http://localhost:1313/wkblog/2008/07/what-i-am-playing-7/23/</link>
       <pubDate>Wed, 23 Jul 2008 14:18:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/23/what-i-am-playing-723/</guid>
-      <description>I haven&amp;#39;t done a &amp;#34;what I&amp;#39;m playing&amp;#34; thing for awhile. So here&amp;#39;s my current roster of games, and I&amp;#39;ll start off with what I&amp;#39;m NOT...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/what-i-am-playing-7/23/</guid>
+      <description>I haven&amp;rsquo;t done a &amp;ldquo;what I&amp;rsquo;m playing&amp;rdquo; thing for awhile. So here&amp;rsquo;s my current roster of games, and I&amp;rsquo;ll start off with what I&amp;rsquo;m NOT&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Free on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/free/</link>
+    <link>http://localhost:1313/wkblog/tags/free/</link>
     <description>Recent content in Free on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 23 Sep 2010 21:31:27 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/free/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/free/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard101: A Chat with KI VP of Marketing, Fred Howard</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</link>
+      <link>http://localhost:1313/wkblog/2010/09/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</link>
       <pubDate>Thu, 23 Sep 2010 21:31:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</guid>
-      <description>Sure, Wizard101 is free... for certain values of free. I guess I&amp;#39;m just going to have to fall back on definitions, here....</description>
+      <guid>http://localhost:1313/wkblog/2010/09/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</guid>
+      <description>Sure, Wizard101 is free&amp;hellip; for certain values of free. I guess I&amp;rsquo;m just going to have to fall back on definitions, here&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

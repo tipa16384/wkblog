@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Limited Run on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/limited-run/</link>
+    <link>http://localhost:1313/wkblog/tags/limited-run/</link>
     <description>Recent content in Limited Run on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 06 Sep 2021 10:22:53 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/limited-run/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/limited-run/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Panzer Dragoon: The Remake</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/09/06/panzer-dragoon-the-remake/</link>
+      <link>http://localhost:1313/wkblog/2021/09/panzer-dragoon-the-remake/</link>
       <pubDate>Mon, 06 Sep 2021 10:22:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/09/06/panzer-dragoon-the-remake/</guid>
-      <description>Needle drop some {{&amp;lt; youtube m2wN9myIOGw &amp;gt;}}, and you could pretend this post-apocalyptic arcade shooter is the iconic Taarna segment from the Heavy Metal movie....</description>
+      <guid>http://localhost:1313/wkblog/2021/09/panzer-dragoon-the-remake/</guid>
+      <description>Needle drop some , and you could pretend this post-apocalyptic arcade shooter is the iconic Taarna segment from the Heavy Metal movie. It&amp;rsquo;s all the&amp;hellip;</description>
     </item>
   </channel>
 </rss>

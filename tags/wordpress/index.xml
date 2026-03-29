@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/wordpress/</link>
+    <link>http://localhost:1313/wkblog/tags/wordpress/</link>
     <description>Recent content in Wordpress on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 16 Oct 2025 08:46:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taking Control of my Skeets and Toots</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/10/16/taking-control-of-my-skeets-and-toots/</link>
+      <link>http://localhost:1313/wkblog/2025/10/taking-control-of-my-skeets-and-toots/</link>
       <pubDate>Thu, 16 Oct 2025 08:46:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/10/16/taking-control-of-my-skeets-and-toots/</guid>
-      <description>I lost so much stuff when I left Twitter, and again when G&#43; shut down. Never again. I&amp;#39;m using WordLand to control my social media.</description>
+      <guid>http://localhost:1313/wkblog/2025/10/taking-control-of-my-skeets-and-toots/</guid>
+      <description>I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I&amp;rsquo;m using WordLand to control my social media.</description>
     </item>
     <item>
       <title>Chasing Dings! goes to West Karana</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/09/08/chasing-dings-goes-to-west-karana/</link>
+      <link>http://localhost:1313/wkblog/2021/09/chasing-dings-goes-to-west-karana/</link>
       <pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/09/08/chasing-dings-goes-to-west-karana/</guid>
-      <description>I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to...</description>
+      <guid>http://localhost:1313/wkblog/2021/09/chasing-dings-goes-to-west-karana/</guid>
+      <description>I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to&amp;hellip;</description>
     </item>
     <item>
       <title>XFire Wordpress Plugin -- first release</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/03/26/xfire-wordpress-plugin-first-release/</link>
+      <link>http://localhost:1313/wkblog/2009/03/xfire-wordpress-plugin--first-release/</link>
       <pubDate>Thu, 26 Mar 2009 23:53:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/03/26/xfire-wordpress-plugin-first-release/</guid>
-      <description>Announcing the [XFire Stats Wordpress Plugin](https://tipa16384.github.io/wkblog/uploads/2009/03/xfirestats.zip). This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your...</description>
+      <guid>http://localhost:1313/wkblog/2009/03/xfire-wordpress-plugin--first-release/</guid>
+      <description>Announcing the XFire Stats Wordpress Plugin. This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your&amp;hellip;</description>
     </item>
     <item>
       <title>How to start an EverQuest blog.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/22/how-to-start-an-everquest-blog/</link>
+      <link>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</link>
       <pubDate>Wed, 22 Oct 2008 12:14:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/22/how-to-start-an-everquest-blog/</guid>
-      <description>1) Be an EverQuest player of any level, experience, anything. This is the tough step....</description>
+      <guid>http://localhost:1313/wkblog/2008/10/how-to-start-an-everquest-blog./</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;Be an EverQuest player of any level, experience, anything. This is the tough step&amp;hellip;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

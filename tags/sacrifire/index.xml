@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sacrifire on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/sacrifire/</link>
+    <link>http://localhost:1313/wkblog/tags/sacrifire/</link>
     <description>Recent content in Sacrifire on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/sacrifire/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/sacrifire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SacriFire: A love letter to the golden age of JRPGS</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/06/10/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</link>
+      <link>http://localhost:1313/wkblog/2024/06/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</link>
       <pubDate>Mon, 10 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/06/10/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</guid>
-      <description>Pixelated Milk&amp;#39;s new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game&amp;#39;s Kickstarter backers have...</description>
+      <guid>http://localhost:1313/wkblog/2024/06/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/</guid>
+      <description>Pixelated Milk&amp;rsquo;s new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game&amp;rsquo;s Kickstarter backers have&amp;hellip;</description>
     </item>
     <item>
       <title>The Kickstarter Addiction</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/29/the-kickstarter-addiction/</link>
+      <link>http://localhost:1313/wkblog/2021/08/the-kickstarter-addiction/</link>
       <pubDate>Sun, 29 Aug 2021 21:36:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/29/the-kickstarter-addiction/</guid>
-      <description>I buy too much stuff on Kickstarter. And so can you. Might be fun to look into some of the recent projects I&amp;#39;ve backed... especially...</description>
+      <guid>http://localhost:1313/wkblog/2021/08/the-kickstarter-addiction/</guid>
+      <description>I buy too much stuff on Kickstarter. And so can you. Might be fun to look into some of the recent projects I&amp;rsquo;ve backed&amp;hellip; especially&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hawksmouth on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/hawksmouth/</link>
+    <link>http://localhost:1313/wkblog/tags/hawksmouth/</link>
     <description>Recent content in Hawksmouth on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2009 07:59:49 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/hawksmouth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/hawksmouth/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chronicles of Spellborn: Grouped!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/03/24/chronicles-of-spellborn-grouped/</link>
+      <link>http://localhost:1313/wkblog/2009/03/chronicles-of-spellborn-grouped/</link>
       <pubDate>Tue, 24 Mar 2009 07:59:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/03/24/chronicles-of-spellborn-grouped/</guid>
-      <description>The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it&amp;#39;s possible, it&amp;#39;s not a really...</description>
+      <guid>http://localhost:1313/wkblog/2009/03/chronicles-of-spellborn-grouped/</guid>
+      <description>The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it&amp;rsquo;s possible, it&amp;rsquo;s not a really&amp;hellip;</description>
     </item>
     <item>
       <title>The many worlds of Chronicles of Spellborn</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/</link>
+      <link>http://localhost:1313/wkblog/2009/01/the-many-worlds-of-chronicles-of-spellborn/</link>
       <pubDate>Sat, 03 Jan 2009 17:35:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/</guid>
-      <description>I&amp;#39;ve been very, very many places in Spellborn. I&amp;#39;ve reached level 11 and am closing in on level 12, working on Quarterstone quests while I...</description>
+      <guid>http://localhost:1313/wkblog/2009/01/the-many-worlds-of-chronicles-of-spellborn/</guid>
+      <description>I&amp;rsquo;ve been very, very many places in Spellborn. I&amp;rsquo;ve reached level 11 and am closing in on level 12, working on Quarterstone quests while I&amp;hellip;</description>
     </item>
     <item>
       <title>Spellborn soundscape</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/01/spellborn-soundscape/</link>
+      <link>http://localhost:1313/wkblog/2008/11/spellborn-soundscape/</link>
       <pubDate>Sat, 01 Nov 2008 16:16:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/01/spellborn-soundscape/</guid>
-      <description>Saw this on [WarCry](http://www.warcry.com/news/view/87141-Chronicles-of-Spellborn-Hawksmouth-Soundscapes); it&amp;#39;s a video of the shard of Hawksmouth in Spellborn with the ambient sound and music going. It&amp;#39;s... strangely relaxing. The...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/spellborn-soundscape/</guid>
+      <description>Saw this on WarCry; it&amp;rsquo;s a video of the shard of Hawksmouth in Spellborn with the ambient sound and music going. It&amp;rsquo;s&amp;hellip; strangely relaxing. The&amp;hellip;</description>
     </item>
   </channel>
 </rss>

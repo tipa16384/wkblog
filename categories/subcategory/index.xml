@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subcategory on Chasing Dings!</title>
+    <link>http://localhost:1313/wkblog/categories/subcategory/</link>
+    <description>Recent content in Subcategory on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2026 23:16:23 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/wkblog/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Is the Other Post</title>
+      <link>http://localhost:1313/wkblog/2026/03/this-is-the-other-post/</link>
+      <pubDate>Sat, 28 Mar 2026 23:16:23 -0400</pubDate>
+      <guid>http://localhost:1313/wkblog/2026/03/this-is-the-other-post/</guid>
+      <description>&lt;p&gt;I do not have a really great feeling about any of this.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

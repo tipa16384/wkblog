@@ -1,628 +1,145 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DC Universe Online on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dc-universe-online/</link>
+    <link>http://localhost:1313/wkblog/tags/dc-universe-online/</link>
     <description>Recent content in DC Universe Online on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2024 07:19:55 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dc-universe-online/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>City of Heroes: Homecoming...</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/01/16/city-of-heroes-homecoming/</link>
-      <pubDate>Tue, 16 Jan 2024 07:19:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/01/16/city-of-heroes-homecoming/</guid>
-      <description>It&amp;#39;s probably been 15 years since I last played City of Heroes... and now it&amp;#39;s come back. Should I?</description>
-    </item>
-    <item>
-      <title>The final days of Blaugust</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/08/31/the-final-days-of-blaugust/</link>
-      <pubDate>Thu, 31 Aug 2023 07:35:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/08/31/the-final-days-of-blaugust/</guid>
-      <description>...and I&amp;#39;m ending it as I began it...</description>
-    </item>
-    <item>
-      <title>From Hydaelyn to Veeshan: A Tribute to Creators</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/08/16/a-tribute-to-creators/</link>
-      <pubDate>Wed, 16 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/08/16/a-tribute-to-creators/</guid>
-      <description>It&amp;#39;s creator appreciation week, and I&amp;#39;m appreciating the creation myths of the most popular MMOs in the world!</description>
-    </item>
-    <item>
-      <title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
-      <pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
-      <description>Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.</description>
-    </item>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 23:55:47 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/wkblog/tags/dc-universe-online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gotham Knights completed</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/11/14/gotham-knights-completed/</link>
+      <link>http://localhost:1313/wkblog/2022/11/gotham-knights-completed/</link>
       <pubDate>Mon, 14 Nov 2022 23:55:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/11/14/gotham-knights-completed/</guid>
-      <description>Finished! My PlayStation says I spent 39 hours in the game. I was taking my time at it, too, doing all the optional content, so...</description>
+      <guid>http://localhost:1313/wkblog/2022/11/gotham-knights-completed/</guid>
+      <description>Finished! My PlayStation says I spent 39 hours in the game. I was taking my time at it, too, doing all the optional content, so&amp;hellip;</description>
     </item>
     <item>
       <title>Gotham Knights - The Best Superhero Game You&#39;re Not Playing</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/</link>
+      <link>http://localhost:1313/wkblog/2022/11/gotham-knights-the-best-superhero-game-youre-not-playing/</link>
       <pubDate>Mon, 07 Nov 2022 23:42:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/</guid>
+      <guid>http://localhost:1313/wkblog/2022/11/gotham-knights-the-best-superhero-game-youre-not-playing/</guid>
       <description>Gotham Knights is the perfect game for Batman fans who want an open world game with a good story.</description>
     </item>
     <item>
-      <title>Ship of Heroes: Housing Beta #2</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/07/30/ship-of-heroes-housing-beta-2/</link>
-      <pubDate>Sat, 30 Jul 2022 21:02:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/07/30/ship-of-heroes-housing-beta-2/</guid>
-      <description>I haven&amp;#39;t played the Ship of Heroes beta in awhile, and I entirely missed the previous housing beta. I wasn&amp;#39;t going to make that same...</description>
-    </item>
-    <item>
       <title>DCUO: The Legion of Doom invades Washington D.C.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/</link>
+      <link>http://localhost:1313/wkblog/2021/10/dcuo-the-legion-of-doom-invades-washington-d.c./</link>
       <pubDate>Mon, 11 Oct 2021 21:08:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/</guid>
-      <description>And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again....</description>
-    </item>
-    <item>
-      <title>DCUO: How House of Legends is broken</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/09/03/dcuo-how-house-of-legends-is-broken/</link>
-      <pubDate>Fri, 03 Sep 2021 07:53:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/09/03/dcuo-how-house-of-legends-is-broken/</guid>
-      <description>DC Universe Online&amp;#39;s &amp;#34;House of Legends&amp;#34; expansion was meant to create a new game experience for both old heroes and new. It got halfway there....</description>
-    </item>
-    <item>
-      <title>Tipa v Internet: Part II</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/30/tipa-v-internet-part-ii/</link>
-      <pubDate>Mon, 30 Aug 2021 23:51:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/30/tipa-v-internet-part-ii/</guid>
-      <description>I bought a new router and haven&amp;#39;t crashed in DCUO all night. Is everything good now? Did I fix the issue?...</description>
+      <guid>http://localhost:1313/wkblog/2021/10/dcuo-the-legion-of-doom-invades-washington-d.c./</guid>
+      <description>And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again&amp;hellip;.</description>
     </item>
     <item>
       <title>DCUO: Disconnected</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/30/dcuo-disconnected/</link>
+      <link>http://localhost:1313/wkblog/2021/08/dcuo-disconnected/</link>
       <pubDate>Mon, 30 Aug 2021 07:33:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/30/dcuo-disconnected/</guid>
-      <description>I mean that literally. Since House of Legends launched, I haven&amp;#39;t been able to play reliably. Here&amp;#39;s what I&amp;#39;ve been able to find out....</description>
+      <guid>http://localhost:1313/wkblog/2021/08/dcuo-disconnected/</guid>
+      <description>I mean that literally. Since House of Legends launched, I haven&amp;rsquo;t been able to play reliably. Here&amp;rsquo;s what I&amp;rsquo;ve been able to find out&amp;hellip;.</description>
     </item>
     <item>
       <title>DCUO: House of Legends is LIVE!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/26/dcuo-house-of-legends-is-live/</link>
+      <link>http://localhost:1313/wkblog/2021/08/dcuo-house-of-legends-is-live/</link>
       <pubDate>Thu, 26 Aug 2021 07:52:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/26/dcuo-house-of-legends-is-live/</guid>
-      <description>This is going to be a fairly short post, as I didn&amp;#39;t get a chance last night and pretty soon I&amp;#39;ll have to get ready...</description>
-    </item>
-    <item>
-      <title>Ship of Heroes: Superheroes IN SPAAAAAACE!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/</link>
-      <pubDate>Sun, 22 Aug 2021 23:45:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/</guid>
-      <description>...or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that...</description>
+      <guid>http://localhost:1313/wkblog/2021/08/dcuo-house-of-legends-is-live/</guid>
+      <description>This is going to be a fairly short post, as I didn&amp;rsquo;t get a chance last night and pretty soon I&amp;rsquo;ll have to get ready&amp;hellip;</description>
     </item>
     <item>
       <title>Champions Online vs DCUO</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/21/champions-online-vs-dcuo/</link>
+      <link>http://localhost:1313/wkblog/2021/08/champions-online-vs-dcuo/</link>
       <pubDate>Sat, 21 Aug 2021 10:26:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/21/champions-online-vs-dcuo/</guid>
-      <description>City of Heroes cast a long shadow over the superhero MMO landscape. There&amp;#39;s easily a half dozen efforts to resurrect the game in some form,...</description>
-    </item>
-    <item>
-      <title>Developer Appreciation: Cryptic Studios</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/18/developer-appreciation-cryptic-studios/</link>
-      <pubDate>Wed, 18 Aug 2021 23:00:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/18/developer-appreciation-cryptic-studios/</guid>
-      <description>It&amp;#39;s Developer Appreciation week. Whenever these come up, I really don&amp;#39;t know what to say. The games I&amp;#39;ve played have changed my life. When things...</description>
-    </item>
-    <item>
-      <title>DCUO Episode 41: Into the House of Legends</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/08/dcuo-episode-41-into-the-house-of-legends/</link>
-      <pubDate>Sun, 08 Aug 2021 10:07:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/08/dcuo-episode-41-into-the-house-of-legends/</guid>
-      <description>So, I listened to [the DCUO livestream](https://www.twitch.tv/videos/1110360816) the other day, where they showed a preview of the House of Legends episode, packed to the rafters...</description>
-    </item>
-    <item>
-      <title>MMOs on the Bubble</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/07/mmos-on-the-bubble/</link>
-      <pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/07/mmos-on-the-bubble/</guid>
-      <description>I don&amp;#39;t play every MMO that comes out -- not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and...</description>
+      <guid>http://localhost:1313/wkblog/2021/08/champions-online-vs-dcuo/</guid>
+      <description>City of Heroes cast a long shadow over the superhero MMO landscape. There&amp;rsquo;s easily a half dozen efforts to resurrect the game in some form,&amp;hellip;</description>
     </item>
     <item>
       <title>DCUO: New Player Experience</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/07/27/dcuo-new-player-experience/</link>
+      <link>http://localhost:1313/wkblog/2021/07/dcuo-new-player-experience/</link>
       <pubDate>Tue, 27 Jul 2021 00:38:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/07/27/dcuo-new-player-experience/</guid>
-      <description>I like my main character, Teal Green, just fine. Well, most of the time. She started out as a hard light controller -- a deputy...</description>
+      <guid>http://localhost:1313/wkblog/2021/07/dcuo-new-player-experience/</guid>
+      <description>I like my main character, Teal Green, just fine. Well, most of the time. She started out as a hard light controller &amp;ndash; a deputy&amp;hellip;</description>
     </item>
     <item>
       <title>DCUO Reboots itself with House of Legends</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/07/23/dcuo-reboots-itself-with-house-of-legends/</link>
+      <link>http://localhost:1313/wkblog/2021/07/dcuo-reboots-itself-with-house-of-legends/</link>
       <pubDate>Fri, 23 Jul 2021 19:16:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/07/23/dcuo-reboots-itself-with-house-of-legends/</guid>
-      <description>DC Universe Online has had a problem. It&amp;#39;s [the most popular of Daybreak&amp;#39;s MMOs](https://massivelyop.com/2020/12/02/everything-we-just-learned-about-daybreak-thanks-to-eg7/), but its spandex tights flies under the radar of most MMO...</description>
+      <guid>http://localhost:1313/wkblog/2021/07/dcuo-reboots-itself-with-house-of-legends/</guid>
+      <description>DC Universe Online has had a problem. It&amp;rsquo;s the most popular of Daybreak&amp;rsquo;s MMOs, but its spandex tights flies under the radar of most MMO&amp;hellip;</description>
     </item>
     <item>
       <title>New World: FOMO or FOTM?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/07/22/new-world-fomo-or-fotm/</link>
+      <link>http://localhost:1313/wkblog/2021/07/new-world-fomo-or-fotm/</link>
       <pubDate>Thu, 22 Jul 2021 21:16:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/07/22/new-world-fomo-or-fotm/</guid>
-      <description>Amazon&amp;#39;s new MMO, &amp;#34;New World&amp;#34;, comes out soon. Everyone is excited -- but I don&amp;#39;t know if I&amp;#39;m ready for a new MMO commitment.</description>
+      <guid>http://localhost:1313/wkblog/2021/07/new-world-fomo-or-fotm/</guid>
+      <description>Amazon&amp;rsquo;s new MMO, &amp;ldquo;New World&amp;rdquo;, comes out soon. Everyone is excited &amp;ndash; but I don&amp;rsquo;t know if I&amp;rsquo;m ready for a new MMO commitment.</description>
     </item>
     <item>
       <title>Valheim: Friends in the Afterlife</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/03/31/valheim-friends-in-the-afterlife/</link>
+      <link>http://localhost:1313/wkblog/2021/03/valheim-friends-in-the-afterlife/</link>
       <pubDate>Wed, 31 Mar 2021 21:13:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/03/31/valheim-friends-in-the-afterlife/</guid>
-      <description>I don&amp;#39;t really play survival games. I liked Minecraft until an update broke my roller coaster. I spent a lot of time on that. I...</description>
+      <guid>http://localhost:1313/wkblog/2021/03/valheim-friends-in-the-afterlife/</guid>
+      <description>I don&amp;rsquo;t really play survival games. I liked Minecraft until an update broke my roller coaster. I spent a lot of time on that. I&amp;hellip;</description>
     </item>
     <item>
       <title>Does DCUO on the Switch make any sense?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/01/12/does-dcuo-on-the-switch-make-any-sense/</link>
+      <link>http://localhost:1313/wkblog/2021/01/does-dcuo-on-the-switch-make-any-sense/</link>
       <pubDate>Tue, 12 Jan 2021 19:04:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/01/12/does-dcuo-on-the-switch-make-any-sense/</guid>
-      <description>When you REALLY want to play DCUO, but all you have is the Switch...</description>
+      <guid>http://localhost:1313/wkblog/2021/01/does-dcuo-on-the-switch-make-any-sense/</guid>
+      <description>When you REALLY want to play DCUO, but all you have is the Switch&amp;hellip;</description>
     </item>
     <item>
       <title>DCUO: This is my Elite Weapon. There are many like it, but this is mine.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/08/28/dcuo-this-is-my-elite-weapon-there-are-many-like-it-but-this-is-mine/</link>
+      <link>http://localhost:1313/wkblog/2020/08/dcuo-this-is-my-elite-weapon.-there-are-many-like-it-but-this-is-mine./</link>
       <pubDate>Fri, 28 Aug 2020 08:20:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/08/28/dcuo-this-is-my-elite-weapon-there-are-many-like-it-but-this-is-mine/</guid>
-      <description>Last night was a good night to be superheroing in DC Universe Online. It was a Thursday, the day all the weekly quests reset. And...</description>
+      <guid>http://localhost:1313/wkblog/2020/08/dcuo-this-is-my-elite-weapon.-there-are-many-like-it-but-this-is-mine./</guid>
+      <description>Last night was a good night to be superheroing in DC Universe Online. It was a Thursday, the day all the weekly quests reset. And&amp;hellip;</description>
     </item>
     <item>
       <title>I Jump on Bandwagons</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/08/22/i-jump-on-bandwagons/</link>
+      <link>http://localhost:1313/wkblog/2020/08/i-jump-on-bandwagons/</link>
       <pubDate>Sat, 22 Aug 2020 09:28:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/08/22/i-jump-on-bandwagons/</guid>
-      <description>There&amp;#39;s a lot of issues I have with gaming. Lack of time, for one. I&amp;#39;d really like to have a lot more time for gaming,...</description>
+      <guid>http://localhost:1313/wkblog/2020/08/i-jump-on-bandwagons/</guid>
+      <description>There&amp;rsquo;s a lot of issues I have with gaming. Lack of time, for one. I&amp;rsquo;d really like to have a lot more time for gaming,&amp;hellip;</description>
     </item>
     <item>
       <title>DCUO: Lost in Wonderverse</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/08/11/dcuo-lost-in-wonderverse/</link>
+      <link>http://localhost:1313/wkblog/2020/08/dcuo-lost-in-wonderverse/</link>
       <pubDate>Tue, 11 Aug 2020 12:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/08/11/dcuo-lost-in-wonderverse/</guid>
-      <description>*I just read that [DC Comics and DC Universe have been hit with massive layoffs](https://www.hollywoodreporter.com/heat-vision/dc-comics-dc-universe-hit-by-major-layoffs-1306743). While I doubt DC Universe Online will be much affected,...</description>
+      <guid>http://localhost:1313/wkblog/2020/08/dcuo-lost-in-wonderverse/</guid>
+      <description>I just read that DC Comics and DC Universe have been hit with massive layoffs. While I doubt DC Universe Online will be much affected,&amp;hellip;</description>
     </item>
     <item>
       <title>Game Log: EQOA, DCUO, EverQuest, PCSX2</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/10/game-log-eqoa-dcuo-everquest-pcsx2/</link>
+      <link>http://localhost:1313/wkblog/2020/05/game-log-eqoa-dcuo-everquest-pcsx2/</link>
       <pubDate>Sun, 10 May 2020 03:35:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/10/game-log-eqoa-dcuo-everquest-pcsx2/</guid>
-      <description>We&amp;#39;ve been getting into EverQuest a little here, and some perfect storm of the new version of the best PS2 emulator out there, [PCSX2](https://pcsx2.net/293-pcsx2-1-6-0-is-out.html), EverQuest...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/game-log-eqoa-dcuo-everquest-pcsx2/</guid>
+      <description>We&amp;rsquo;ve been getting into EverQuest a little here, and some perfect storm of the new version of the best PS2 emulator out there, PCSX2, EverQuest&amp;hellip;</description>
     </item>
     <item>
       <title>MMO updates: Crowfall, EverQuest, Chocobo&#39;s Mystery Dungeon, DCUO</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
+      <link>http://localhost:1313/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
       <pubDate>Thu, 07 May 2020 11:20:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
-      <description>I apologize for the brief news on Crowfall. I&amp;#39;d meant to get deeper into the PvE, but while I was building up my kingdom in...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
+      <description>I apologize for the brief news on Crowfall. I&amp;rsquo;d meant to get deeper into the PvE, but while I was building up my kingdom in&amp;hellip;</description>
     </item>
     <item>
       <title>Daily Gaming Log: April 28 Royal</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/28/daily-gaming-log-april-28-royal/</link>
+      <link>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-28-royal/</link>
       <pubDate>Tue, 28 Apr 2020 22:09:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/28/daily-gaming-log-april-28-royal/</guid>
-      <description>Last night: Started off with the dailies in DCUO. Kaptain KY had told me to fly left before the final fight to escape from Lobo&amp;#39;s...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-28-royal/</guid>
+      <description>Last night: Started off with the dailies in DCUO. Kaptain KY had told me to fly left before the final fight to escape from Lobo&amp;rsquo;s&amp;hellip;</description>
     </item>
     <item>
       <title>Daily Gaming Log: April 27.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/27/daily-gaming-log-april-27/</link>
+      <link>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-27./</link>
       <pubDate>Mon, 27 Apr 2020 21:43:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/27/daily-gaming-log-april-27/</guid>
-      <description>Octopath Traveler: Made it to the second phase of Galdera, the true final boss. This was my first time making it this far. Now that...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-27./</guid>
+      <description>Octopath Traveler: Made it to the second phase of Galdera, the true final boss. This was my first time making it this far. Now that&amp;hellip;</description>
     </item>
     <item>
       <title>DCUO: What a long, strange trip it&#39;s been.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/22/dcuo-what-a-long-strange-trip-its-been/</link>
+      <link>http://localhost:1313/wkblog/2020/04/dcuo-what-a-long-strange-trip-its-been./</link>
       <pubDate>Wed, 22 Apr 2020 11:48:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/22/dcuo-what-a-long-strange-trip-its-been/</guid>
-      <description>The earliest picture I have of DC Universe Online is from 2008. It&amp;#39;s of my son standing at the DCUO booth at a (then) Sony...</description>
-    </item>
-    <item>
-      <title>Desecrated Cathedral</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/11/24/desecrated-cathedral/</link>
-      <pubDate>Tue, 24 Nov 2015 19:20:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/11/24/desecrated-cathedral/</guid>
-      <description>We&amp;#39;ve been working on the T7 DCUO alert, Desecrated Cathedral, for a few weeks. The basic plot is that the demon Trigon&amp;#39;s miscreant sons are...</description>
-    </item>
-    <item>
-      <title>That&#39;s the Power of Love</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/09/21/thats-the-power-of-love/</link>
-      <pubDate>Mon, 21 Sep 2015 19:33:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/09/21/thats-the-power-of-love/</guid>
-      <description>Team Spode kinda left GW2 and kinda went back to DC Universe Online over the past couple weeks. Apathy toward the upcoming GW2 expansion may...</description>
-    </item>
-    <item>
-      <title>DCUO: Valentine 2015!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/02/03/new-valentines-day-event-for-2015-in-soes-daybreaks-dcuo-in-this-one-tragic-lover-mister-freeze/</link>
-      <pubDate>Tue, 03 Feb 2015 16:13:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/02/03/new-valentines-day-event-for-2015-in-soes-daybreaks-dcuo-in-this-one-tragic-lover-mister-freeze/</guid>
-      <description>New Valentine&amp;#39;s Day event for 2015 in ~~SOE&amp;#39;s~~ Daybreak&amp;#39;s [#DCUO](https://plus.google.com/s/%23DCUO) . In this one, tragic lover Mister Freeze has decided to take advantage of the...</description>
-    </item>
-    <item>
-      <title>DCUO: Thanks, Internet!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/01/19/dcuo-thanks-internetokay-i-actually-went-so-far-as-to-look-up-a-dps-build-put-it-in-play-went/</link>
-      <pubDate>Mon, 19 Jan 2015 17:53:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/01/19/dcuo-thanks-internetokay-i-actually-went-so-far-as-to-look-up-a-dps-build-put-it-in-play-went/</guid>
-      <description>DCUO: Thanks, Internet!...</description>
-    </item>
-    <item>
-      <title>DCUO: War of Light II!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/01/19/dcuo-war-of-light-iiits-been-a-whirlwind-few-days-since-i-mysteriously-hit-cr-106-and-became-eligible/</link>
-      <pubDate>Mon, 19 Jan 2015 16:53:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/01/19/dcuo-war-of-light-iiits-been-a-whirlwind-few-days-since-i-mysteriously-hit-cr-106-and-became-eligible/</guid>
-      <description>It&amp;#39;s been a whirlwind few days since I mysteriously hit CR 106 and became eligible to play the newest endgame content in DC Universe Online....</description>
-    </item>
-    <item>
-      <title>DCUO: Lantern No More</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/01/05/dcuo-lantern-no-moreflush-with-the-legendary-infusion-of-station-cash-that-came-with-the-new-month/</link>
-      <pubDate>Mon, 05 Jan 2015 12:53:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/01/05/dcuo-lantern-no-moreflush-with-the-legendary-infusion-of-station-cash-that-came-with-the-new-month/</guid>
-      <description>DCUO: Lantern No More...</description>
-    </item>
-    <item>
-      <title>DCUO: Death to the Necropolis!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/12/29/dcuo-death-to-the-necropolisteam-spode-completed-the-necropolis-relics-of-urgrund-last-night-for/</link>
-      <pubDate>Mon, 29 Dec 2014 14:56:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/12/29/dcuo-death-to-the-necropolisteam-spode-completed-the-necropolis-relics-of-urgrund-last-night-for/</guid>
-      <description>Team Spode completed the Necropolis: Relics of Urgrund last night for the first time as a league, though I think most of the heroes of...</description>
-    </item>
-    <item>
-      <title>DCUO: Team Spode United</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/08/17/dcuo-team-spode-united/</link>
-      <pubDate>Sun, 17 Aug 2014 21:55:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/08/17/dcuo-team-spode-united/</guid>
-      <description>Was a huge night for Team Spode in #DCUO -- the first night we had enough people on to do a couple operations and a...</description>
-    </item>
-    <item>
-      <title>DCUO: Barda and Me</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/08/08/dcuo-barda-and-me/</link>
-      <pubDate>Fri, 08 Aug 2014 21:02:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/08/08/dcuo-barda-and-me/</guid>
-      <description>Kind of a disappointing night in DCUO, but kind of a good night as well....</description>
-    </item>
-    <item>
-      <title>DCUO: It&#39;s a Miracle!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/08/07/dcuo-its-a-miracle/</link>
-      <pubDate>Thu, 07 Aug 2014 21:17:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/08/07/dcuo-its-a-miracle/</guid>
-      <description>Mister Miracle and his wife, Big Barda, are the only two Connecticut-based superheroes I know. When these locals needed help, well, they called on me...</description>
-    </item>
-    <item>
-      <title>DCUO: Paradox Waiver</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/07/15/dcuo-paradox-waiver/</link>
-      <pubDate>Tue, 15 Jul 2014 18:57:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/07/15/dcuo-paradox-waiver/</guid>
-      <description>If you look in the forums for information about DCUO&amp;#39;s tier 5 raid, &amp;#34;Paradox Wave&amp;#34;, it makes it sound like a simple gear check. If...</description>
-    </item>
-    <item>
-      <title>DCUO: The Death of So Crates</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/07/09/dcuo-the-death-of-so-crates/</link>
-      <pubDate>Wed, 09 Jul 2014 23:09:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/07/09/dcuo-the-death-of-so-crates/</guid>
-      <description>My favorite Greek philosopher? &amp;#34;So Crates&amp;#34;....</description>
-    </item>
-    <item>
-      <title>Neverwinter: Foundries are from Mars</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/06/26/neverwinter-foundries-are-from-mars/</link>
-      <pubDate>Thu, 26 Jun 2014 18:46:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/06/26/neverwinter-foundries-are-from-mars/</guid>
-      <description>Neverwinter Foundry Night! Wind and weather conspired to give me and Kasul enough uninterrupted power to meet in Neverwinter and do some foundries. Due to...</description>
-    </item>
-    <item>
-      <title>DCUO: Defend The Mascara!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/06/26/dcuo-defend-the-mascara/</link>
-      <pubDate>Thu, 26 Jun 2014 18:40:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/06/26/dcuo-defend-the-mascara/</guid>
-      <description>Last night&amp;#39;s endlessly rescheduled Neverwinter foundry night was rescheduled, so it was off to #DCUO . Blighted had suggested a Themyscira Divided run, if I...</description>
-    </item>
-    <item>
-      <title>DCUO: Rise of Rage</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/06/23/dcuo-rise-of-rage/</link>
-      <pubDate>Mon, 23 Jun 2014 23:00:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/06/23/dcuo-rise-of-rage/</guid>
-      <description>It was a fairly eventful weekend in #DCUO -- did some sparring target bowling with &#43;John Noll , finally got my Green Lantern insignia from...</description>
-    </item>
-    <item>
-      <title>DCUO: CR 101 and still a noob.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/06/19/dcuo-cr-101-and-still-a-noob/</link>
-      <pubDate>Thu, 19 Jun 2014 07:13:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/06/19/dcuo-cr-101-and-still-a-noob/</guid>
-      <description>Combat Rating -- &amp;#34;CR&amp;#34; -- in DCUO determines where you can go, what you can do, and what kind of groups will want you. Shouting...</description>
-    </item>
-    <item>
-      <title>DCUO: Brainiac dead, Spode complicit</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/06/16/dcuo-brainiac-dead-spode-complicit/</link>
-      <pubDate>Mon, 16 Jun 2014 06:57:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/06/16/dcuo-brainiac-dead-spode-complicit/</guid>
-      <description>Soooo.... in DCUO , killing Brainiac was a thing that happened. Which very much confused me....</description>
-    </item>
-    <item>
-      <title>DCUO: CR 100!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/06/14/dcuo-cr-100/</link>
-      <pubDate>Sat, 14 Jun 2014 16:45:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/06/14/dcuo-cr-100/</guid>
-      <description>Today was going to be the day I leveled up enough to group with the league again -- without holding them back. I did enough...</description>
-    </item>
-    <item>
-      <title>Team Spode vs the Gutter Rats</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/11/18/team-spode-vs-the-gutter-rats/</link>
-      <pubDate>Mon, 18 Nov 2013 08:12:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/11/18/team-spode-vs-the-gutter-rats/</guid>
-      <description>Until Kaptain KY returns from his long sabbatical in the wilds of Canada, his spot in Team Spode is being kept warm by Stingheal&amp;#39;s wife,...</description>
-    </item>
-    <item>
-      <title>Greatest Hits from the 60s, the 70s, and Today!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/11/15/greatest-hits-from-the-60s-the-70s-and-today/</link>
-      <pubDate>Fri, 15 Nov 2013 08:08:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/11/15/greatest-hits-from-the-60s-the-70s-and-today/</guid>
-      <description>What if there was a popular MMO where it wasn&amp;#39;t clear how to level? Completing quests wouldn&amp;#39;t do the trick. Defeating enemies would not bring...</description>
-    </item>
-    <item>
-      <title>OMG, R U STILL AROUND?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/09/10/omg-r-u-still-around/</link>
-      <pubDate>Tue, 10 Sep 2013 23:28:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/09/10/omg-r-u-still-around/</guid>
-      <description>I don&amp;#39;t actually talk, or type, like that texty speak. I don&amp;#39;t know what came over me....</description>
-    </item>
-    <item>
-      <title>DCUO: The Fortress of Solitude!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/08/19/dcuo-the-fortress-of-solitude/</link>
-      <pubDate>Mon, 19 Aug 2013 07:03:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/08/19/dcuo-the-fortress-of-solitude/</guid>
-      <description>Last week, we Spodians decided to shake things up a bit by, THIS week, trying to join a raid. You kinda have to raid, at...</description>
-    </item>
-    <item>
-      <title>DCUO: Meanwhile, on Stryker&#39;s Island...</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/07/16/dcuo-meanwhile-on-strykers-island/</link>
-      <pubDate>Tue, 16 Jul 2013 06:54:42 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/07/16/dcuo-meanwhile-on-strykers-island/</guid>
-      <description>After our hard-won victory over the Supreme Justice last week at the South Gotham Courthouse, where the game kept presenting that alert as the &amp;#34;daily...</description>
-    </item>
-    <item>
-      <title>DCUO: Justice at last....</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/07/08/dcuo-justice-at-last/</link>
-      <pubDate>Mon, 08 Jul 2013 06:52:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/07/08/dcuo-justice-at-last/</guid>
-      <description>I haven&amp;#39;t written about DCUO in awhile, not because we haven&amp;#39;t been playing. We&amp;#39;ve been playing every week. I haven&amp;#39;t written about DCUO in awhile...</description>
-    </item>
-    <item>
-      <title>DCUO: The inmates are running the asylum?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/05/21/dcuo-the-inmates-are-running-the-asylum/</link>
-      <pubDate>Tue, 21 May 2013 06:01:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/05/21/dcuo-the-inmates-are-running-the-asylum/</guid>
-      <description>Before we get started, I want to draw your attention to the right bit of the screenshot above. Where we see the entrance to the...</description>
-    </item>
-    <item>
-      <title>DCUO: League of Assassins Stronghold</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/05/13/dcuo-league-of-assassins-stronghold/</link>
-      <pubDate>Mon, 13 May 2013 05:56:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/05/13/dcuo-league-of-assassins-stronghold/</guid>
-      <description>That pun wasn&amp;#39;t mine.......</description>
-    </item>
-    <item>
-      <title>DCUO: The Taking of STAR Labs 123</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/05/06/10864/</link>
-      <pubDate>Mon, 06 May 2013 06:48:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/05/06/10864/</guid>
-      <description>&amp;gt; &amp;#34;My greatest failure will become my greatest triumph!&amp;#34;...</description>
-    </item>
-    <item>
-      <title>Team Spode at the Far Side of the Universe</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/04/29/team-spode-at-the-far-side-of-the-universe/</link>
-      <pubDate>Mon, 29 Apr 2013 06:54:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/04/29/team-spode-at-the-far-side-of-the-universe/</guid>
-      <description>There&amp;#39;s just something about the Guardians that I don&amp;#39;t understand. These are the blue, gnomish creatures who, in the DC mythology, were among the first...</description>
-    </item>
-    <item>
-      <title>DCUO: Still the Walrus</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/04/22/dcuo-still-the-walrus/</link>
-      <pubDate>Mon, 22 Apr 2013 07:06:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/04/22/dcuo-still-the-walrus/</guid>
-      <description>I haven&amp;#39;t played DCUO all week. All my gaming time has been spent on EverQuest II and other, single player games that I&amp;#39;ll talk about...</description>
-    </item>
-    <item>
-      <title>DCUO: Outer Caverns and Smallville</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/04/15/dcuo-outer-caverns-and-smallville/</link>
-      <pubDate>Mon, 15 Apr 2013 06:50:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/04/15/dcuo-outer-caverns-and-smallville/</guid>
-      <description>After last week&amp;#39;s very narrow defeat by the Scion of Fear in the STAR Labs Research Facility, we were all kinda hoping that STAR Labs...</description>
-    </item>
-    <item>
-      <title>Game Dump: DCUO, EQ2, GW2</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/04/02/game-dump-dcuo-eq2-gw2/</link>
-      <pubDate>Tue, 02 Apr 2013 06:17:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/04/02/game-dump-dcuo-eq2-gw2/</guid>
-      <description>Didn&amp;#39;t take any good screen shots in our Sunday game of DC Universe Online, which was kind of a downer, because it was a really...</description>
-    </item>
-    <item>
-      <title>DCUO: Natural Born Sub-Avatar Killers</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/03/25/dcuo-natural-born-sub-avatar-killers/</link>
-      <pubDate>Mon, 25 Mar 2013 06:11:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/03/25/dcuo-natural-born-sub-avatar-killers/</guid>
-      <description>Although last night was a wildly successful night for Team Spode in DC Universe Online, it turns out I took only two screenshots last night,...</description>
-    </item>
-    <item>
-      <title>DCUO: Ace Chemicals, Vat Defective</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/03/18/dcuo-ace-chemicals-vat-defective/</link>
-      <pubDate>Mon, 18 Mar 2013 06:46:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/03/18/dcuo-ace-chemicals-vat-defective/</guid>
-      <description>Patrolmen. We can deal with violent experiments that survive on toxic waste. Special security patrols, giant, venom-infused hounds and their masters, no problem. But if...</description>
-    </item>
-    <item>
-      <title>DCUO: He&#39;s a real metal man, sitting in his metal can</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/03/12/dcuo-hes-a-real-metal-man-sitting-in-his-metal-can/</link>
-      <pubDate>Tue, 12 Mar 2013 07:04:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/03/12/dcuo-hes-a-real-metal-man-sitting-in-his-metal-can/</guid>
-      <description>What does it take to defeat the Tornado Tyrant in Oolong Island? Three weeks and nine levels. But that&amp;#39;s done. After an impromptu mid-week play...</description>
-    </item>
-    <item>
-      <title>DCUO: The Exobit-ionist</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/03/04/dcuo-the-exobit-ionist/</link>
-      <pubDate>Mon, 04 Mar 2013 07:04:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/03/04/dcuo-the-exobit-ionist/</guid>
-      <description>When Spode, after harvesting himself an exobit (an _aggressive_ one!), proclaimed himself an exobit-ionist, KY and I nearly lost it in chat. That was DDO-level...</description>
-    </item>
-    <item>
-      <title>EQ2: Leveling done, time to level. Also, some DCUO.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/28/eq2-leveling-done-time-to-level-also-some-dcuo/</link>
-      <pubDate>Thu, 28 Feb 2013 08:20:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/28/eq2-leveling-done-time-to-level-also-some-dcuo/</guid>
-      <description>I was thinking that EverQuest II&amp;#39;s double xp days last weekend would be enough to push Arda up to level 95, the current level cap....</description>
-    </item>
-    <item>
-      <title>Things to do in DCUO when you&#39;re dead.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/25/what-to-do-in-dcuo-when-youre-dead/</link>
-      <pubDate>Mon, 25 Feb 2013 23:05:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/25/what-to-do-in-dcuo-when-youre-dead/</guid>
-      <description>Just like in the original Guild Wars, the road to level cap in DC Universe Online is pretty much an extended tutorial ahead of the...</description>
-    </item>
-    <item>
-      <title>DCUO: A Taste of Oolong</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/25/dcuo-a-taste-of-oolong/</link>
-      <pubDate>Mon, 25 Feb 2013 07:01:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/25/dcuo-a-taste-of-oolong/</guid>
-      <description>Last week, our lack of Kaptain KY&amp;#39;s greasing influence made it impossible for us to finish defeating the Queen Bee and interrupting her plans to...</description>
-    </item>
-    <item>
-      <title>DCUO: Super Sunday</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/18/dcuo-super-sunday/</link>
-      <pubDate>Mon, 18 Feb 2013 08:31:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/18/dcuo-super-sunday/</guid>
-      <description>With Kaptain KY off fighting evil in Mexico this week, Team Spode was short a hero. Undeterred, we decided to make Metropolis a little bit...</description>
-    </item>
-    <item>
-      <title>DCUO: Happy Valentine&#39;s Day!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/14/dcuo-happy-valentines-day/</link>
-      <pubDate>Thu, 14 Feb 2013 07:23:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/14/dcuo-happy-valentines-day/</guid>
-      <description>Happy Valentine&amp;#39;s Day!...</description>
-    </item>
-    <item>
-      <title>Game Log: EQ2, DCUO</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/13/game-log-eq2-dcuo/</link>
-      <pubDate>Wed, 13 Feb 2013 08:37:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/13/game-log-eq2-dcuo/</guid>
-      <description>Doctor Psycho, I don&amp;#39;t think you&amp;#39;re even a _real_ doctor. But yeah, I can see that that would be a tough name to grow up...</description>
-    </item>
-    <item>
-      <title>DCUO: No time for jokes</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/12/dcuo-no-time-to-be-joking-around/</link>
-      <pubDate>Tue, 12 Feb 2013 07:46:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/12/dcuo-no-time-to-be-joking-around/</guid>
-      <description>One thing I really do love about DC Universe Online is its call-outs to all the various incarnations of the characters. For instance, Robin. In...</description>
-    </item>
-    <item>
-      <title>DCUO: Grinding for Hoodies</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/08/dcuo-grinding-for-hoodies/</link>
-      <pubDate>Fri, 08 Feb 2013 17:57:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/08/dcuo-grinding-for-hoodies/</guid>
-      <description>Ever since I heard that the only hope of my DCUO Green Lantern-&amp;#34;ish&amp;#34; character getting to wear the lantern symbol on her costume was to...</description>
-    </item>
-    <item>
-      <title>DCUO: Gorilla of their Dreams</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/02/04/dcuo-gorilla-of-their-dreams/</link>
-      <pubDate>Mon, 04 Feb 2013 22:18:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/02/04/dcuo-gorilla-of-their-dreams/</guid>
-      <description>I think we&amp;#39;re getting the hang of the game. We know how the controls work, mostly. We know our roles and how to use them,...</description>
-    </item>
-    <item>
-      <title>DCUO: Home Turf</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/01/30/dcuo-home-turf/</link>
-      <pubDate>Wed, 30 Jan 2013 07:49:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/01/30/dcuo-home-turf/</guid>
-      <description>The &amp;#34;Home Turf&amp;#34; downloadable content dropped in DC Universe Online yesterday, bringing housing to the hordes of heroes and villains of Metropolis and Gotham City....</description>
-    </item>
-    <item>
-      <title>DCUO: A Slippery Slope</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/01/28/dcuo-a-slippery-slope/</link>
-      <pubDate>Mon, 28 Jan 2013 08:22:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/01/28/dcuo-a-slippery-slope/</guid>
-      <description>Move over, Justice League. It&amp;#39;s time for Team Spode to take the stage. It was time for those old guys to take early retirement anyway,...</description>
-    </item>
-    <item>
-      <title>DCUO: A Tight Squeeze</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/01/21/dcuo-a-tight-squeeze/</link>
-      <pubDate>Mon, 21 Jan 2013 11:23:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/01/21/dcuo-a-tight-squeeze/</guid>
-      <description>Four heroes came together to rid Metropolis and Gotham City of the worst of the worst, taking on the jobs that the more noteworthy heroes...</description>
-    </item>
-    <item>
-      <title>Team Spode Decision Time: DC Universe Online</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2013/01/01/team-spode-decision-time-dc-universe-online/</link>
-      <pubDate>Tue, 01 Jan 2013 09:28:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2013/01/01/team-spode-decision-time-dc-universe-online/</guid>
-      <description>Nobody in Team Spode is actually asking me to document our choice of a new game, and it will ultimately be decided by some sort...</description>
-    </item>
-    <item>
-      <title>EQ2, DCUO, STO: Things are starting to work again</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/12/16/eq2-dcuo-sto-things-are-starting-to-work-again/</link>
-      <pubDate>Fri, 16 Dec 2011 00:40:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/12/16/eq2-dcuo-sto-things-are-starting-to-work-again/</guid>
-      <description>I have a friend who is so into Rift. &amp;#34;You have to come back!&amp;#34; he said. &amp;#34;Ember Isles is amazing; the new warfront is awesome;...</description>
-    </item>
-    <item>
-      <title>DCUO: It&#39;s a hard light</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/11/dcuo-its-a-hard-light/</link>
-      <pubDate>Fri, 11 Nov 2011 01:21:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/11/dcuo-its-a-hard-light/</guid>
-      <description>Okay, so in SOE&amp;#39;s DC Universe Online, people are getting random superpowers by being infected with some superpower thing cooked up by Brainiac. You wake...</description>
-    </item>
-    <item>
-      <title>Semi-Annual Blogroll: Sheep may safely graze edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/</link>
-      <pubDate>Thu, 12 May 2011 06:26:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/</guid>
-      <description>I work a full day in the office, then strap my laptop to my back, pedal home and work a full night as well. It&amp;#39;s...</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 1/27 -- Inevitable Backlash edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/</link>
-      <pubDate>Thu, 27 Jan 2011 06:00:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/</guid>
-      <description>[...</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 1/19 -- Game of Mass Destruction edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/19/daily-blogroll-119-game-of-mass-destruction-edition/</link>
-      <pubDate>Wed, 19 Jan 2011 06:00:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/19/daily-blogroll-119-game-of-mass-destruction-edition/</guid>
-      <description>I absolutely would love to know how many people people are REALLY playing World of Warcraft vs Lord of the Rings Online vs Warhammer Online...</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 1/16 -- Lazy Sunday edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/16/daily-blogroll-116-lazy-sunday-edition/</link>
-      <pubDate>Sun, 16 Jan 2011 06:00:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/16/daily-blogroll-116-lazy-sunday-edition/</guid>
-      <description>Yeah, I like TV. I can say that now; for years I refused to watch it. Rotting my mind and all. But having just come...</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 1/12 -- Snow Job edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/12/daily-blogroll-112-snow-job-edition/</link>
-      <pubDate>Wed, 12 Jan 2011 06:00:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/12/daily-blogroll-112-snow-job-edition/</guid>
-      <description>[...</description>
-    </item>
-    <item>
-      <title>The Magic 8 Ball predicts the losers and winners of 2011.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</link>
-      <pubDate>Thu, 30 Dec 2010 06:00:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</guid>
-      <description>I suck at predictions, but everyone else is doing them. Luckily, I have a Magic 8 Ball. I&amp;#39;m just gonna list some games, and ask...</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 12/29: Super Duper edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</link>
-      <pubDate>Wed, 29 Dec 2010 06:00:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</guid>
-      <description>I long ago pre-ordered SOE&amp;#39;s DC Universe Online, but this was my first opportunity to play it, in beta, on the PC. Though it&amp;#39;s on...</description>
-    </item>
-    <item>
-      <title>CoH: Same stuff, different day, and the DCU trailer.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/21/coh-same-stuff-different-day-and-the-dcu-trailer/</link>
-      <pubDate>Mon, 21 Jul 2008 10:53:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/21/coh-same-stuff-different-day-and-the-dcu-trailer/</guid>
-      <description>I tend to play City of Heroes/Villains in spurts. Months will go buy without anything, and then I&amp;#39;ll play for eight hours straight....</description>
+      <guid>http://localhost:1313/wkblog/2020/04/dcuo-what-a-long-strange-trip-its-been./</guid>
+      <description>The earliest picture I have of DC Universe Online is from 2008. It&amp;rsquo;s of my son standing at the DCUO booth at a (then) Sony&amp;hellip;</description>
     </item>
   </channel>
 </rss>

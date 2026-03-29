@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shadowverse on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/shadowverse/</link>
+    <link>http://localhost:1313/wkblog/tags/shadowverse/</link>
     <description>Recent content in Shadowverse on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 09 Jul 2022 11:52:15 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/shadowverse/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/shadowverse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When to say goodbye to a game?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/07/09/when-to-say-goodbye-to-a-game/</link>
+      <link>http://localhost:1313/wkblog/2022/07/when-to-say-goodbye-to-a-game/</link>
       <pubDate>Sat, 09 Jul 2022 11:52:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/07/09/when-to-say-goodbye-to-a-game/</guid>
-      <description>Some games will last forever, if you let them. You expect that in an MMO, but with mobile gacha games -- when do you just...</description>
+      <guid>http://localhost:1313/wkblog/2022/07/when-to-say-goodbye-to-a-game/</guid>
+      <description>Some games will last forever, if you let them. You expect that in an MMO, but with mobile gacha games &amp;ndash; when do you just&amp;hellip;</description>
     </item>
     <item>
       <title>Shadowverse Showdown!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/27/shadowverse-showdown/</link>
+      <link>http://localhost:1313/wkblog/2021/08/shadowverse-showdown/</link>
       <pubDate>Fri, 27 Aug 2021 00:07:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/27/shadowverse-showdown/</guid>
-      <description>Okay, picture this: A collectible card game -- except digital! And you play as one of a bunch of different classes, with cards themed to...</description>
+      <guid>http://localhost:1313/wkblog/2021/08/shadowverse-showdown/</guid>
+      <description>Okay, picture this: A collectible card game &amp;ndash; except digital! And you play as one of a bunch of different classes, with cards themed to&amp;hellip;</description>
     </item>
   </channel>
 </rss>

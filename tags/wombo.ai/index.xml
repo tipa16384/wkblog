@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wombo.ai on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/wombo.ai/</link>
+    <link>http://localhost:1313/wkblog/tags/wombo.ai/</link>
     <description>Recent content in Wombo.ai on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 27 Nov 2021 10:47:49 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/wombo.ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/wombo.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wombo.art -- create abstract fantasy art</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/11/27/wombo-art-create-abstract-fantasy-art/</link>
+      <link>http://localhost:1313/wkblog/2021/11/wombo.art--create-abstract-fantasy-art/</link>
       <pubDate>Sat, 27 Nov 2021 10:47:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/11/27/wombo-art-create-abstract-fantasy-art/</guid>
-      <description>Creating portraits with [artflow.ai](https://tipa16384.github.io/wkblog/2021/11/12/im-a-little-obsessed-with-this-ai-portrait-generator/)? Old news. Creating abstract fantasy paintings with [wombo.art](https://www.wombo.art/) -- *now* we&amp;#39;re talking....</description>
+      <guid>http://localhost:1313/wkblog/2021/11/wombo.art--create-abstract-fantasy-art/</guid>
+      <description>Creating portraits with artflow.ai? Old news. Creating abstract fantasy paintings with wombo.art &amp;ndash; now we&amp;rsquo;re talking&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

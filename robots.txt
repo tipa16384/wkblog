@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://tipa16384.github.io/wkblog/sitemap.xml
+Sitemap: http://localhost:1313/wkblog/sitemap.xml

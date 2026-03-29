@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 Billion Humans on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/7-billion-humans/</link>
+    <link>http://localhost:1313/wkblog/tags/7-billion-humans/</link>
     <description>Recent content in 7 Billion Humans on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2020 17:52:23 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/7-billion-humans/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/7-billion-humans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>While True(): Learn to teach your cat to drive.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/</link>
+      <link>http://localhost:1313/wkblog/2020/04/while-true-learn-to-teach-your-cat-to-drive./</link>
       <pubDate>Sun, 26 Apr 2020 17:52:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/</guid>
-      <description>I&amp;#39;ve got a soft spot for &amp;#34;programming&amp;#34; games. Since that&amp;#39;s my day job, I can usually convince myself that this is the one sort of...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/while-true-learn-to-teach-your-cat-to-drive./</guid>
+      <description>I&amp;rsquo;ve got a soft spot for &amp;ldquo;programming&amp;rdquo; games. Since that&amp;rsquo;s my day job, I can usually convince myself that this is the one sort of&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Euro Truck Simulator 2 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/euro-truck-simulator-2/</link>
+    <link>http://localhost:1313/wkblog/tags/euro-truck-simulator-2/</link>
     <description>Recent content in Euro Truck Simulator 2 on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Jun 2015 19:48:55 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/euro-truck-simulator-2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/euro-truck-simulator-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The trip from Hell.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/06/23/the-trip-from-hell/</link>
+      <link>http://localhost:1313/wkblog/posts/2015/06/23/the-trip-from-hell/</link>
       <pubDate>Tue, 23 Jun 2015 19:48:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/06/23/the-trip-from-hell/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2015/06/23/the-trip-from-hell/</guid>
       <description>Totally the trip from Hell....</description>
     </item>
     <item>
       <title>Love mah TRUCK!!!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/06/21/love-mah-truck-thanks/</link>
+      <link>http://localhost:1313/wkblog/posts/2015/06/21/love-mah-truck-thanks/</link>
       <pubDate>Sun, 21 Jun 2015 22:03:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/06/21/love-mah-truck-thanks/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2015/06/21/love-mah-truck-thanks/</guid>
       <description>Love mah TRUCK!!! Thanks for the rad paint, &#43;[Michael Birke](https://plus.google.com/103687334769264813247) !...</description>
     </item>
     <item>
       <title>Euro Truck Simulator 2</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/06/19/euro-truck-simulator-2n/</link>
+      <link>http://localhost:1313/wkblog/posts/2015/06/19/euro-truck-simulator-2n/</link>
       <pubDate>Fri, 19 Jun 2015 11:42:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/06/19/euro-truck-simulator-2n/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2015/06/19/euro-truck-simulator-2n/</guid>
       <description>Not really been a fan of all the recent simulator offerings -- Train Simulator, Farming Simulator... Goat Simulator... but something about Euro Truck Simulator 2...</description>
     </item>
   </channel>

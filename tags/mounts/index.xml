@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mounts on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mounts/</link>
+    <link>http://localhost:1313/wkblog/tags/mounts/</link>
     <description>Recent content in Mounts on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 02 Jun 2025 08:45:46 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mounts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/mounts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GW2: She&#39;s Found the Altar to Balthazar</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/06/02/gw2-shes-found-the-altar-to-balthazar/</link>
+      <link>http://localhost:1313/wkblog/2025/06/gw2-shes-found-the-altar-to-balthazar/</link>
       <pubDate>Mon, 02 Jun 2025 08:45:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/06/02/gw2-shes-found-the-altar-to-balthazar/</guid>
-      <description>He&amp;#39;s found the saucer news. Don&amp;#39;t report this. The end of Path of Fire was a thing that happened.</description>
+      <guid>http://localhost:1313/wkblog/2025/06/gw2-shes-found-the-altar-to-balthazar/</guid>
+      <description>He&amp;rsquo;s found the saucer news. Don&amp;rsquo;t report this. The end of Path of Fire was a thing that happened.</description>
     </item>
     <item>
       <title>Amounting to something in Guild Wars 2</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/05/30/amounting-to-something-in-guild-wars-2/</link>
+      <link>http://localhost:1313/wkblog/2025/05/amounting-to-something-in-guild-wars-2/</link>
       <pubDate>Fri, 30 May 2025 18:40:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/05/30/amounting-to-something-in-guild-wars-2/</guid>
-      <description>It&amp;#39;s about mounts. In Guild Wars 2.</description>
+      <guid>http://localhost:1313/wkblog/2025/05/amounting-to-something-in-guild-wars-2/</guid>
+      <description>It&amp;rsquo;s about mounts. In Guild Wars 2.</description>
     </item>
     <item>
       <title>Wizard101: It&#39;s MOUNT WEEK!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/03/30/wizard101-its-mount-week/</link>
+      <link>http://localhost:1313/wkblog/2011/03/wizard101-its-mount-week/</link>
       <pubDate>Wed, 30 Mar 2011 00:28:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/03/30/wizard101-its-mount-week/</guid>
-      <description>Discovery Channel may have their Shark Week, but that&amp;#39;s kinda lame, if you ask me. They&amp;#39;d be better off having a Manta Ray week....</description>
+      <guid>http://localhost:1313/wkblog/2011/03/wizard101-its-mount-week/</guid>
+      <description>Discovery Channel may have their Shark Week, but that&amp;rsquo;s kinda lame, if you ask me. They&amp;rsquo;d be better off having a Manta Ray week&amp;hellip;.</description>
     </item>
     <item>
       <title>Comparing EQ2 and Mabinogi Horse Movies</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/02/comparing-eq2-and-mabinogi-horse-movies/</link>
+      <link>http://localhost:1313/wkblog/2008/12/comparing-eq2-and-mabinogi-horse-movies/</link>
       <pubDate>Tue, 02 Dec 2008 19:48:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/02/comparing-eq2-and-mabinogi-horse-movies/</guid>
-      <description>Because the Mabinogi movie has the really annoying habit of bursting into song when all you want to do is read the article, I&amp;#39;ve hidden...</description>
+      <guid>http://localhost:1313/wkblog/2008/12/comparing-eq2-and-mabinogi-horse-movies/</guid>
+      <description>Because the Mabinogi movie has the really annoying habit of bursting into song when all you want to do is read the article, I&amp;rsquo;ve hidden&amp;hellip;</description>
     </item>
   </channel>
 </rss>

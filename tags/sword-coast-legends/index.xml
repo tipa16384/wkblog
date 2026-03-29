@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sword Coast Legends on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/sword-coast-legends/</link>
+    <link>http://localhost:1313/wkblog/tags/sword-coast-legends/</link>
     <description>Recent content in Sword Coast Legends on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Sep 2015 15:11:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/sword-coast-legends/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/sword-coast-legends/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sword Coast Legends Headstart</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2015/09/20/sword-coast-legends-headstart/</link>
+      <link>http://localhost:1313/wkblog/posts/2015/09/20/sword-coast-legends-headstart/</link>
       <pubDate>Sun, 20 Sep 2015 15:11:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2015/09/20/sword-coast-legends-headstart/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2015/09/20/sword-coast-legends-headstart/</guid>
       <description>Hey! First quest written in the &amp;#34;DM Mode&amp;#34; of Sword Coast Legends!...</description>
     </item>
   </channel>

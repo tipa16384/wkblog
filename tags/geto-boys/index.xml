@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geto Boys on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/geto-boys/</link>
+    <link>http://localhost:1313/wkblog/tags/geto-boys/</link>
     <description>Recent content in Geto Boys on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 25 Sep 2008 08:00:33 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/geto-boys/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/geto-boys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Straight Talk Warhammer: The Runepriest</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/25/straight-talk-warhammer-the-runepriest/</link>
+      <link>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-runepriest/</link>
       <pubDate>Thu, 25 Sep 2008 08:00:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/25/straight-talk-warhammer-the-runepriest/</guid>
-      <description>You love you some Warhammer Online: Age of Reckoning, but the game isn&amp;#39;t addicting enough. There should be some way of making your time away...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/straight-talk-warhammer-the-runepriest/</guid>
+      <description>You love you some Warhammer Online: Age of Reckoning, but the game isn&amp;rsquo;t addicting enough. There should be some way of making your time away&amp;hellip;</description>
     </item>
   </channel>
 </rss>

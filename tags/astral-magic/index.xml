@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Astral Magic on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/astral-magic/</link>
+    <link>http://localhost:1313/wkblog/tags/astral-magic/</link>
     <description>Recent content in Astral Magic on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 09 Oct 2010 18:49:46 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/astral-magic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/astral-magic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard101: Welcome to Celestia!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/10/09/wizard101-welcome-to-celestia/</link>
+      <link>http://localhost:1313/wkblog/2010/10/wizard101-welcome-to-celestia/</link>
       <pubDate>Sat, 09 Oct 2010 18:49:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/10/09/wizard101-welcome-to-celestia/</guid>
-      <description>**Updated! Links to information about the new spells at the end of the post.**...</description>
+      <guid>http://localhost:1313/wkblog/2010/10/wizard101-welcome-to-celestia/</guid>
+      <description>Updated! Links to information about the new spells at the end of the post&amp;hellip;.</description>
     </item>
     <item>
       <title>Headmaster Ambrose hints at Wizard 101 expansion</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/06/headmaster-ambrose-hints-at-wizard-101-expansion/</link>
+      <link>http://localhost:1313/wkblog/2008/11/headmaster-ambrose-hints-at-wizard-101-expansion/</link>
       <pubDate>Thu, 06 Nov 2008 15:23:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/06/headmaster-ambrose-hints-at-wizard-101-expansion/</guid>
-      <description>After months of speculation over the school of magic Ambrose, Headmaster of Wizard 101&amp;#39;s Ravenwood Academy, prefers, Ambrose has revealed that he is a [master...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/headmaster-ambrose-hints-at-wizard-101-expansion/</guid>
+      <description>After months of speculation over the school of magic Ambrose, Headmaster of Wizard 101&amp;rsquo;s Ravenwood Academy, prefers, Ambrose has revealed that he is a master&amp;hellip;</description>
     </item>
   </channel>
 </rss>

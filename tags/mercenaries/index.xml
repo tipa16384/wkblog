@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mercenaries on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mercenaries/</link>
+    <link>http://localhost:1313/wkblog/tags/mercenaries/</link>
     <description>Recent content in Mercenaries on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 01 Nov 2008 13:29:35 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mercenaries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/mercenaries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ: Nostalgia enters Vex Thal!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/01/eq-nostalgia-enters-vex-thal/</link>
+      <link>http://localhost:1313/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</link>
       <pubDate>Sat, 01 Nov 2008 13:29:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/01/eq-nostalgia-enters-vex-thal/</guid>
-      <description>Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;#39;t have...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</guid>
+      <description>Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;rsquo;t have&amp;hellip;</description>
     </item>
     <item>
       <title>EQ: Seeds of Destruction goes live!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/21/eq-seeds-of-destruction-goes-live/</link>
+      <link>http://localhost:1313/wkblog/2008/10/eq-seeds-of-destruction-goes-live/</link>
       <pubDate>Tue, 21 Oct 2008 11:38:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/21/eq-seeds-of-destruction-goes-live/</guid>
-      <description>Massively is reporting that [Seeds of Destruction goes live today](http://www.massively.com/2008/10/21/everquest-seeds-of-destruction-goes-live/). Since I abandoned the high level game over a year and a half ago, closer...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/eq-seeds-of-destruction-goes-live/</guid>
+      <description>Massively is reporting that Seeds of Destruction goes live today. Since I abandoned the high level game over a year and a half ago, closer&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crowns on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/crowns/</link>
+    <link>http://localhost:1313/wkblog/tags/crowns/</link>
     <description>Recent content in Crowns on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 13 Mar 2009 07:22:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/crowns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/crowns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard 101: St. Patty&#39;s day -- and new Crowns items!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items/</link>
+      <link>http://localhost:1313/wkblog/2009/03/wizard-101-st.-pattys-day--and-new-crowns-items/</link>
       <pubDate>Fri, 13 Mar 2009 07:22:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items/</guid>
-      <description>A funny little man dressed in green dragged me to my computer. &amp;#34;Log in! To Wizard 101!&amp;#34; he insisted. And when I started to do...</description>
+      <guid>http://localhost:1313/wkblog/2009/03/wizard-101-st.-pattys-day--and-new-crowns-items/</guid>
+      <description>A funny little man dressed in green dragged me to my computer. &amp;ldquo;Log in! To Wizard 101!&amp;rdquo; he insisted. And when I started to do&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: Harvest Festival is here!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/14/wizard-101-harvest-festival-is-here/</link>
+      <link>http://localhost:1313/wkblog/2008/11/wizard-101-harvest-festival-is-here/</link>
       <pubDate>Fri, 14 Nov 2008 12:00:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/14/wizard-101-harvest-festival-is-here/</guid>
-      <description>Halloween is gone from Wizard City at last, and hot on the heels of Spooky Bob comes Harvest Hannah with a whole new inventory of...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/wizard-101-harvest-festival-is-here/</guid>
+      <description>Halloween is gone from Wizard City at last, and hot on the heels of Spooky Bob comes Harvest Hannah with a whole new inventory of&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: October 30 update and the Cave of Sorrows</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/</link>
+      <link>http://localhost:1313/wkblog/2008/11/wizard-101-october-30-update-and-the-cave-of-sorrows/</link>
       <pubDate>Sat, 01 Nov 2008 11:22:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/</guid>
-      <description>Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/wizard-101-october-30-update-and-the-cave-of-sorrows/</guid>
+      <description>Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and&amp;hellip;</description>
     </item>
   </channel>
 </rss>

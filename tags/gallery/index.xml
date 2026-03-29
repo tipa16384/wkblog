@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/gallery/</link>
+    <link>http://localhost:1313/wkblog/tags/gallery/</link>
     <description>Recent content in Gallery on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 04 Jan 2009 01:37:46 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spellborn Gallery</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/01/04/spellborn-gallery/</link>
+      <link>http://localhost:1313/wkblog/2009/01/spellborn-gallery/</link>
       <pubDate>Sun, 04 Jan 2009 01:37:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/01/04/spellborn-gallery/</guid>
-      <description>I took a lot of pictures while adventuring in Spellborn. I intended to make a huge gallery post, but did a comic instead. You can...</description>
+      <guid>http://localhost:1313/wkblog/2009/01/spellborn-gallery/</guid>
+      <description>I took a lot of pictures while adventuring in Spellborn. I intended to make a huge gallery post, but did a comic instead. You can&amp;hellip;</description>
     </item>
   </channel>
 </rss>

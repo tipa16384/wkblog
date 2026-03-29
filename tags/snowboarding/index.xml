@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snowboarding on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/snowboarding/</link>
+    <link>http://localhost:1313/wkblog/tags/snowboarding/</link>
     <description>Recent content in Snowboarding on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 29 Jun 2008 07:51:49 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/snowboarding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/snowboarding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafting enhancements in Project Powder</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/06/29/crafting-enhancements-in-project-powder/</link>
+      <link>http://localhost:1313/wkblog/2008/06/crafting-enhancements-in-project-powder/</link>
       <pubDate>Sun, 29 Jun 2008 07:51:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/06/29/crafting-enhancements-in-project-powder/</guid>
-      <description>New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience...</description>
+      <guid>http://localhost:1313/wkblog/2008/06/crafting-enhancements-in-project-powder/</guid>
+      <description>New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience&amp;hellip;</description>
     </item>
     <item>
       <title>Project Powder: Shredding the Galaxy</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/06/26/project-powder-shredding-the-galaxy/</link>
+      <link>http://localhost:1313/wkblog/2008/06/project-powder-shredding-the-galaxy/</link>
       <pubDate>Thu, 26 Jun 2008 07:19:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/06/26/project-powder-shredding-the-galaxy/</guid>
-      <description>It looked like it might have been an MMO, and I wrote up [a quick article](http://www.massively.com/2008/06/20/shredding-the-galaxy-in-project-powder/) thinking it *might* be, but Project Powder really isn&amp;#39;t....</description>
+      <guid>http://localhost:1313/wkblog/2008/06/project-powder-shredding-the-galaxy/</guid>
+      <description>It looked like it might have been an MMO, and I wrote up a quick article thinking it might be, but Project Powder really isn&amp;rsquo;t&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

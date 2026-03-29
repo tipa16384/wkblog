@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/wkblog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=wkblog/livereload" data-no-instant defer></script>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Advent of Code Day 4 -- Scratchcards",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png",
+  
+  "datePublished": "2023-12-04T21:07:24-05:00",
+  "dateModified": "2023-12-04T21:07:24-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "http:\/\/localhost:1313\/wkblog\/2023\/12\/advent-of-code-day-4--scratchcards\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "So, I\u0026rsquo;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.157.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="So, I&rsquo;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.">
+
+
+<meta property="og:description" content="So, I&rsquo;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Advent of Code Day 4 -- Scratchcards">
+<meta name="twitter:title" content="Advent of Code Day 4 -- Scratchcards">
+<meta property="og:url" content="http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/">
+<meta property="twitter:url" content="http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="So, I&rsquo;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.">
+<meta name="twitter:description" content="So, I&rsquo;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2023-12-04T21:07:24">
+  
+  
+    <meta property="article:modified_time" content="2023-12-04T21:07:24">
+  
+  
+  
+    
+      <meta property="article:section" content="Advent of Code">
+    
+  
+  
+    
+      <meta property="article:tag" content="AoC 2023">
+    
+      <meta property="article:tag" content="Haskell">
+    
+      <meta property="article:tag" content="Java">
+    
+      <meta property="article:tag" content="Python">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png">
+
+
+
+    <title>Advent of Code Day 4 -- Scratchcards</title>
+
+    <link rel="icon" href="http://localhost:1313/wkblog/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="http://localhost:1313/wkblog/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="http://localhost:1313/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://localhost:1313/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="http://localhost:1313/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/kakawait" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener" title="Stack Overflow">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Advent of Code Day 4 -- Scratchcards
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-04T21:07:24-05:00">
+        
+  December 4, 2023
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/advent-of-code">Advent of Code</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>In today&rsquo;s puzzle, we&rsquo;re helping an elf figure out<a href="https://adventofcode.com/2023/day/4"> if any of the few hundred scratchcards he&rsquo;s scratched off</a> have won him anything.</p>
+
+
+
+<div class="figure " >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-1-147x300.png" >
+  
+  
+</div>
+
+<p>Why? I have <em>no idea</em>. There was a meme in the subreddit today with the top picture of a guy looking like he was totally over it all with the caption, &ldquo;When my boss asks me to solve a weird problem for money&rdquo;, and the guy on the bottom looking all excited with the caption, &ldquo;When an elf asks me to solve a weird problem for free&rdquo;.</p>
+<p>(Yes, I do recognize Robert Downey Jr and Chris Pratt. Don&rsquo;t @ me.)</p>
+<p>So yeah, elf wants our help with scratch cards, we&rsquo;re helping the elf with the scratch cards.</p>
+<p>In Part 1, we&rsquo;re explaining to him how these things work. You see the winning numbers, and the numbers you scratched off, and you get points for the number of matches &ndash; 1, 2, 4, 8 etc points, and no points for no matches. Sum them up, and you have the answer to Part 1.</p>
+<p><strong>Java</strong></p>
+<p>This seemed like a problem for sets &ndash; collections that can&rsquo;t contain any duplicate items. If the winning numbers were a set, and the card numbers were a set, then the intersection of those two sets would be the winning numbers. Then just run through them and sum up the points.</p>
+<p>`    private void part1() {
+var lines = readFile(&ldquo;2023/puzzle4.dat&rdquo;);</p>
+<pre><code>    var part1 = lines.stream().map(this::parse)
+        .map(this::intersection)
+        .filter(s -&gt; !s.isEmpty())
+        .mapToInt(s -&gt; 1 
+</code></pre>
+<p>Java has a problem with requiring extra stuff. But briefly, we read the data, go through each line and map the input into two sets &ndash; winning numbers and card numbers. We intersect them, discard losing cards, then figure out the point value and sum them up.</p>
+
+
+
+<div class="figure " >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-2-1024x585.png"  alt="I&#39;ve been using Midjourney for the header images. This is Dall-E 3.">
+  
+   
+    <span class="caption">I&#39;ve been using Midjourney for the header images. This is Dall-E 3.</span>
+  
+</div>
+
+<p><strong>Haskell</strong></p>
+<p><code>getDuplicates :: String -&gt; Int getDuplicates str = length $ filter (\x -&gt; length x &gt; 1) (group (sort (drop 2 $ words str))) </code></p>
+<p>The Haskell solution is a little different. I was trying not to be spoiled at work today by other people&rsquo;s solutions, but someone mentioned that you could parse the line just by seeing how many duplicate tokens you had, didn&rsquo;t have to split into sets or anything. So that&rsquo;s what this does. Working from right to left, <strong>words str</strong> splits the input into tokens by splitting at spaces. <strong>drop 2 $</strong> drops the first two words, which are &ldquo;Game <em>n</em>:&rdquo;. I was afraid the game number might match one of the other numbers and be a false match, though I guess since it would have a &ldquo;:&rdquo; appended, probably unnecessary. <strong>sort</strong> sorts them so that duplicates are lined up next to each other. <strong>group</strong> puts all the items in lists, and those duplicates will be in the same list. <strong>filter&hellip;</strong> filters out all the lists with only one element (non-winning numbers). We only care about the number of wins, so <strong>length</strong> just replaces the list itself with the length of it, and that&rsquo;s the number of winning numbers.</p>
+<p><code>main :: IO () main = do lines  2 ^ (x-1)) (filter (&gt; 0) duplicates)) </code></p>
+<p>We read the input, and call getDuplicates on every line, making a list of winning numbers. The last line filters out losing cards, then assigns a score, sums them up, and prints them out.</p>
+<p><code>-- function takes a list of numbers and returns the sum of the game playGame :: [Int] -&gt; Int -- if the list is empty, return 0 playGame [] = 0 -- if head is 0, return 0 playGame (0:xs) = 0 -- otherwise (x:xs) call sum playGame called with the next x elements of xs and add x playGame (x:xs) = x + sum (map (\z -&gt; playGame $ drop z xs) [0..x-1]) </code></p>
+<p>In Part 2, we discover that you only win more scratch cards when you win, the number of cards being equal to the number of winning numbers, and the cards you win are copies of the <em>n</em> next cards. Of course, you get to scratch off those copies and do the same again&hellip; it&rsquo;s recursive.</p>
+<p>This was my chance to explore Haskell&rsquo;s pattern matching. <strong>playGame</strong> take a list of integers &ndash; the number of winning numbers in each game &ndash; and returns an integer &ndash; the number of cards you got from scratching off the first card in the list.</p>
+<p><strong>playGame [] = 0</strong> says what to do with the empty list &ndash; simply return 0.</p>
+<p><strong>playGame (0:xs) = 0</strong> says what to do if the first element of the list is zero &ndash; a losing ticket. Just immediately return 0.</p>
+<p><strong>playGame (x:xs) = &hellip;</strong> is what to do if the list has at least one element. It takes the first element and binds it to <strong>x</strong>, and the rest of the list to <strong>xs</strong>. From 0 to the number of winning numbers - 1 (inclusive), skip the first <em>z</em> elements of rest of the list and call <strong>playGame</strong> on them, sum them up, add the number of winning numbers for this copy of the card, and return.</p>
+<p><code>   let part2Sum = sum $ map (\x -&gt;  1 + playGame (drop x duplicates)) [0..length duplicates - 1] putStrLn $ &quot;Part 2: &quot; ++ show part2Sum</code></p>
+<p>The first line slices the list so that every card has a chance to be first, calls <strong>playGame</strong> on them, adds 1 for the original card we&rsquo;re on to the sum of all the other cards this card won, sums all <em>those</em> up, and that&rsquo;s Part 2.</p>
+<p>It&rsquo;s recursive, so not super fast &ndash; it takes a second or two to get through Part 2. Haskell is a compiled language, unlike Java (uses virtual machine) or Python (interpreted but can compile to C). I was wondering if Haskell&rsquo;s functionality would make it faster. Let me try running it in Python.</p>
+<p>Okay, I rewrote it in Python.</p>
+<p><code>def part2(data): duplicates = [countDuplicates(line) for line in data] part2_sum = sum(1 + play_game(duplicates[x:]) for x in range(len(duplicates))) return part2_sum </code></p>
+<p>It&rsquo;s not much slower, to it&rsquo;s credit. People on Reddit were saying it was taking them over two minutes. Dunno how.</p>
+<p>Anyway. On to Day 5.</p>
+
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/aoc-2023/">AoC 2023</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/haskell/">Haskell</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/java/">Java</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/python/">Python</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/the-hobbit-gameboy-advance/" data-tooltip="The Hobbit (Gameboy Advance)" aria-label="NEXT: The Hobbit (Gameboy Advance)">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/advent-of-code-day-3--gear-ratios/" data-tooltip="Advent of Code Day 3 -- Gear Ratios" aria-label="PREVIOUS: Advent of Code Day 3 -- Gear Ratios">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'http:\/\/localhost:1313\/wkblog\/2023\/12\/advent-of-code-day-4--scratchcards\/';
+        
+          this.page.identifier = '\/2023\/12\/advent-of-code-day-4--scratchcards\/'
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = '';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/the-hobbit-gameboy-advance/" data-tooltip="The Hobbit (Gameboy Advance)" aria-label="NEXT: The Hobbit (Gameboy Advance)">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2023/12/advent-of-code-day-3--gear-ratios/" data-tooltip="Advent of Code Day 3 -- Gear Ratios" aria-label="PREVIOUS: Advent of Code Day 3 -- Gear Ratios">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2023/12/advent-of-code-day-4--scratchcards/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2023%2F12%2Fadvent-of-code-day-4--scratchcards%2F" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2023%2F12%2Fadvent-of-code-day-4--scratchcards%2F" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2023%2F12%2Fadvent-of-code-day-4--scratchcards%2F" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="http://localhost:1313/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harry Potter on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/harry-potter/</link>
+    <link>http://localhost:1313/wkblog/tags/harry-potter/</link>
     <description>Recent content in Harry Potter on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 07 Sep 2008 13:07:32 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/harry-potter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/harry-potter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What would a Turbine Harry Potter MMO look like?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/07/what-would-a-turbine-harry-potter-mmo-look-like/</link>
+      <link>http://localhost:1313/wkblog/2008/09/what-would-a-turbine-harry-potter-mmo-look-like/</link>
       <pubDate>Sun, 07 Sep 2008 13:07:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/07/what-would-a-turbine-harry-potter-mmo-look-like/</guid>
-      <description>Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn&amp;#39;t the...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/what-would-a-turbine-harry-potter-mmo-look-like/</guid>
+      <description>Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn&amp;rsquo;t the&amp;hellip;</description>
     </item>
   </channel>
 </rss>

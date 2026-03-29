@@ -1,124 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kingdoms of Amalur: Reckoning on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/kingdoms-of-amalur-reckoning/</link>
+    <link>http://localhost:1313/wkblog/tags/kingdoms-of-amalur-reckoning/</link>
     <description>Recent content in Kingdoms of Amalur: Reckoning on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 11 Dec 2020 09:23:17 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/kingdoms-of-amalur-reckoning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/kingdoms-of-amalur-reckoning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My RPGs of 2020</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/12/11/my-rpgs-of-2020/</link>
+      <link>http://localhost:1313/wkblog/2020/12/my-rpgs-of-2020/</link>
       <pubDate>Fri, 11 Dec 2020 09:23:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/12/11/my-rpgs-of-2020/</guid>
-      <description>I looked at all the RPGs I&amp;#39;ve played this year, trying to pick the one of them all that would be the best of the...</description>
+      <guid>http://localhost:1313/wkblog/2020/12/my-rpgs-of-2020/</guid>
+      <description>I looked at all the RPGs I&amp;rsquo;ve played this year, trying to pick the one of them all that would be the best of the&amp;hellip;</description>
     </item>
     <item>
       <title>Kingdoms of Amalur: Two times a failure.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/10/03/kingdoms-of-amalur-two-times-a-failure/</link>
+      <link>http://localhost:1313/wkblog/2020/10/kingdoms-of-amalur-two-times-a-failure./</link>
       <pubDate>Sat, 03 Oct 2020 15:32:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/10/03/kingdoms-of-amalur-two-times-a-failure/</guid>
-      <description>I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I&amp;#39;ve finished. According to the Steam achievement,...</description>
+      <guid>http://localhost:1313/wkblog/2020/10/kingdoms-of-amalur-two-times-a-failure./</guid>
+      <description>I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I&amp;rsquo;ve finished. According to the Steam achievement,&amp;hellip;</description>
     </item>
     <item>
       <title>Kingdoms of Amalur: Sailing to Mel Senshir</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/09/30/kingdoms-of-amalur-sailing-to-mel-senshir/</link>
+      <link>http://localhost:1313/wkblog/2020/09/kingdoms-of-amalur-sailing-to-mel-senshir/</link>
       <pubDate>Wed, 30 Sep 2020 07:58:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/09/30/kingdoms-of-amalur-sailing-to-mel-senshir/</guid>
-      <description>Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of...</description>
+      <guid>http://localhost:1313/wkblog/2020/09/kingdoms-of-amalur-sailing-to-mel-senshir/</guid>
+      <description>Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of&amp;hellip;</description>
     </item>
     <item>
       <title>Kingdoms of Amalur: I have never actually played this game</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/09/28/kingdoms-of-amalur-i-have-never-actually-played-this-game/</link>
+      <link>http://localhost:1313/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</link>
       <pubDate>Mon, 28 Sep 2020 07:50:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/09/28/kingdoms-of-amalur-i-have-never-actually-played-this-game/</guid>
-      <description>I&amp;#39;ve uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and...</description>
+      <guid>http://localhost:1313/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</guid>
+      <description>I&amp;rsquo;ve uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and&amp;hellip;</description>
     </item>
     <item>
       <title>Kingdoms of Amalur: Twitch combat</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/09/23/kingdoms-of-amalur-twitch-combat/</link>
+      <link>http://localhost:1313/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</link>
       <pubDate>Wed, 23 Sep 2020 07:57:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/09/23/kingdoms-of-amalur-twitch-combat/</guid>
-      <description>This post today isn&amp;#39;t actually about Kingdoms of Amalur: Re-Reckoning. Mostly....</description>
+      <guid>http://localhost:1313/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</guid>
+      <description>This post today isn&amp;rsquo;t actually about Kingdoms of Amalur: Re-Reckoning. Mostly&amp;hellip;.</description>
     </item>
     <item>
       <title>Kingdom of Amalur: Re-Reckoning: I reckon I remember this.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/09/22/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this/</link>
+      <link>http://localhost:1313/wkblog/2020/09/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this./</link>
       <pubDate>Tue, 22 Sep 2020 07:21:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/09/22/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this/</guid>
-      <description>When I started Kingdom of Amalur: Re-Reckoning yesterday, though I haven&amp;#39;t played for six years, it all came rushing back. I immediately remembered why I&amp;#39;ve...</description>
+      <guid>http://localhost:1313/wkblog/2020/09/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this./</guid>
+      <description>When I started Kingdom of Amalur: Re-Reckoning yesterday, though I haven&amp;rsquo;t played for six years, it all came rushing back. I immediately remembered why I&amp;rsquo;ve&amp;hellip;</description>
     </item>
     <item>
       <title>What makes an MMO an MMO?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/09/09/what-makes-an-mmo-an-mmo/</link>
+      <link>http://localhost:1313/wkblog/2020/09/what-makes-an-mmo-an-mmo/</link>
       <pubDate>Wed, 09 Sep 2020 07:54:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/09/09/what-makes-an-mmo-an-mmo/</guid>
-      <description>Yesterday, &amp;#34;Kingdoms of Amalur: The Re-Reckoning&amp;#34;, an update of 2012&amp;#39;s &amp;#34;Kingdoms of Amalur: The Reckoning&amp;#34; was released. It&amp;#39;s a refresh of a game that seemed...</description>
-    </item>
-    <item>
-      <title>Crafting in Kingdoms of Amalur: Reckoning</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/02/14/crafting-in-kingdoms-of-amalur-reckoning/</link>
-      <pubDate>Tue, 14 Feb 2012 08:11:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/02/14/crafting-in-kingdoms-of-amalur-reckoning/</guid>
-      <description>I&amp;#39;ve really been impressed with Kingdoms of Amalur: Reckoning&amp;#39;s crafting. The whole game has actually impressed me more than I thought it would, so good...</description>
-    </item>
-    <item>
-      <title>KoA:R Weapons and Armor bundle -- is it worth it?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/02/12/koar-weapons-and-armor-bundle-is-it-worth-it/</link>
-      <pubDate>Sun, 12 Feb 2012 10:23:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/02/12/koar-weapons-and-armor-bundle-is-it-worth-it/</guid>
-      <description>EA released a day 1 DLC (downloadable content) pack for their Kingdoms of Amalur: Reckoning -- the Weapon and Armor Bundle. In it are unique...</description>
-    </item>
-    <item>
-      <title>KoA:R -- What class are you supposed to be, anyway?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/02/10/koar-what-class-are-you-supposed-to-be-anyway/</link>
-      <pubDate>Fri, 10 Feb 2012 08:00:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/02/10/koar-what-class-are-you-supposed-to-be-anyway/</guid>
-      <description>I really have come to appreciate Reckoning&amp;#39;s _adaptability_....</description>
-    </item>
-    <item>
-      <title>KoAR: Fem-Shep goes Medieval</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/02/08/koar-fem-shep-goes-medieval/</link>
-      <pubDate>Wed, 08 Feb 2012 08:08:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/02/08/koar-fem-shep-goes-medieval/</guid>
-      <description>Last summer, [Electronic Arts held a contest](http://www.pcgamer.com/2011/07/25/mass-effect-vote-lets-fans-decide-femsheps-face/) to decide upon the iconic face for the lead character from Mass Effect 3. Though the lead character,...</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Reckoning: the Demo</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2012/01/21/kingdoms-of-amalur-reckoning-the-demo/</link>
-      <pubDate>Sat, 21 Jan 2012 19:29:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2012/01/21/kingdoms-of-amalur-reckoning-the-demo/</guid>
-      <description>The &amp;#34;Reckoning&amp;#34; is a special mode you can get into where you become extremely deadly and suck the Fate right out of your fallen enemies....</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 5/13: Truth in Advertising Edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/</link>
-      <pubDate>Fri, 13 May 2011 06:13:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/</guid>
-      <description>One thing you gotta say about [Dragon Age Legends](http://apps.facebook.com/dragonagelegends/): like the single player games upon which its based, in Dragon Age Legends you Get. To....</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Reckoning: The Screenshots</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/15/kingdoms-of-alura-reckoning-the-screenshots/</link>
-      <pubDate>Wed, 15 Dec 2010 19:19:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/15/kingdoms-of-alura-reckoning-the-screenshots/</guid>
-      <description>[...</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Reckoning -- The Well</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/10/07/kingdoms-of-amalur-reckoning-welcome-to-the-well/</link>
-      <pubDate>Thu, 07 Oct 2010 17:48:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/10/07/kingdoms-of-amalur-reckoning-welcome-to-the-well/</guid>
-      <description>[...</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Reckoning = God of War?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/07/23/kingdoms-of-amalur-reckoning-god-of-war/</link>
-      <pubDate>Fri, 23 Jul 2010 06:15:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/07/23/kingdoms-of-amalur-reckoning-god-of-war/</guid>
-      <description>38 Studios and Big Huge Games released the first cinematic trailer for their Kingdoms of Amalur: Reckoning at the San Diego ComicCon yesterday....</description>
+      <guid>http://localhost:1313/wkblog/2020/09/what-makes-an-mmo-an-mmo/</guid>
+      <description>Yesterday, &amp;ldquo;Kingdoms of Amalur: The Re-Reckoning&amp;rdquo;, an update of 2012&amp;rsquo;s &amp;ldquo;Kingdoms of Amalur: The Reckoning&amp;rdquo; was released. It&amp;rsquo;s a refresh of a game that seemed&amp;hellip;</description>
     </item>
   </channel>
 </rss>

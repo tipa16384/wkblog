@@ -1,42 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>City of Villains on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/city-of-villains/</link>
+    <link>http://localhost:1313/wkblog/tags/city-of-villains/</link>
     <description>Recent content in City of Villains on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 18 Aug 2021 23:00:23 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/city-of-villains/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/city-of-villains/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developer Appreciation: Cryptic Studios</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/18/developer-appreciation-cryptic-studios/</link>
+      <link>http://localhost:1313/wkblog/2021/08/developer-appreciation-cryptic-studios/</link>
       <pubDate>Wed, 18 Aug 2021 23:00:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/18/developer-appreciation-cryptic-studios/</guid>
-      <description>It&amp;#39;s Developer Appreciation week. Whenever these come up, I really don&amp;#39;t know what to say. The games I&amp;#39;ve played have changed my life. When things...</description>
+      <guid>http://localhost:1313/wkblog/2021/08/developer-appreciation-cryptic-studios/</guid>
+      <description>It&amp;rsquo;s Developer Appreciation week. Whenever these come up, I really don&amp;rsquo;t know what to say. The games I&amp;rsquo;ve played have changed my life. When things&amp;hellip;</description>
     </item>
     <item>
       <title>CoX Issue 13 takes a page out of EVE&#39;s book</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/28/cox-issue-13-takes-a-page-out-of-eves-book/</link>
+      <link>http://localhost:1313/wkblog/2008/08/cox-issue-13-takes-a-page-out-of-eves-book/</link>
       <pubDate>Thu, 28 Aug 2008 08:26:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/28/cox-issue-13-takes-a-page-out-of-eves-book/</guid>
-      <description>*Fighting evil by moonlight*...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/cox-issue-13-takes-a-page-out-of-eves-book/</guid>
+      <description>Fighting evil by moonlight&amp;hellip;</description>
     </item>
     <item>
       <title>CoV: Madame Scurry is DEAD.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/12/02/cov-madame-scurry-is-dead/</link>
+      <link>http://localhost:1313/wkblog/2007/12/cov-madame-scurry-is-dead./</link>
       <pubDate>Sun, 02 Dec 2007 19:58:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/12/02/cov-madame-scurry-is-dead/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;coh2.jpg&#34; loading=&#34;lazy&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2007/12/coh2.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;coh3.jpg&#34; loading=&#34;lazy&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2007/12/coh3.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;coh4.jpg&#34; loading=&#34;lazy&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2007/12/coh4.jpg&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/wkblog/2007/12/cov-madame-scurry-is-dead./</guid>
+      <description>&lt;div class=&#34;figure &#34; &gt;&#xA;  &#xA;    &lt;img class=&#34;fig-img&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2007/12/coh2.jpg&#34; &gt;&#xA;  &#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;figure &#34; &gt;&#xA;  &#xA;    &lt;img class=&#34;fig-img&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2007/12/coh3.jpg&#34; &gt;&#xA;  &#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;figure &#34; &gt;&#xA;  &#xA;    &lt;img class=&#34;fig-img&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2007/12/coh4.jpg&#34; &gt;&#xA;  &#xA;  &#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>CoX: Madame Scurry, Ms. Narusegawa, and the Amoy Tiger -- Villains and Heroes</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/</link>
+      <link>http://localhost:1313/wkblog/2007/12/cox-madame-scurry-ms.-narusegawa-and-the-amoy-tiger--villains-and-heroes/</link>
       <pubDate>Sat, 01 Dec 2007 14:38:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/</guid>
-      <description>I thought I&amp;#39;d say hello to my City of Heroes/Villains characters again. Now that I am not paying for a second Station Pass subscription, I...</description>
+      <guid>http://localhost:1313/wkblog/2007/12/cox-madame-scurry-ms.-narusegawa-and-the-amoy-tiger--villains-and-heroes/</guid>
+      <description>I thought I&amp;rsquo;d say hello to my City of Heroes/Villains characters again. Now that I am not paying for a second Station Pass subscription, I&amp;hellip;</description>
     </item>
   </channel>
 </rss>

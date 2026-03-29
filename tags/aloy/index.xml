@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aloy on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/aloy/</link>
+    <link>http://localhost:1313/wkblog/tags/aloy/</link>
     <description>Recent content in Aloy on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 23 Apr 2023 15:18:33 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/aloy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/aloy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Horizon Forbidden West: Aloy Finds Love</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/04/23/horizon-forbidden-west-aloy-finds-love/</link>
+      <link>http://localhost:1313/wkblog/2023/04/horizon-forbidden-west-aloy-finds-love/</link>
       <pubDate>Sun, 23 Apr 2023 15:18:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/04/23/horizon-forbidden-west-aloy-finds-love/</guid>
-      <description>After their meeting in *Frozen Wilds*, I never expected to see Gildun again -- but when he appeared again in the first DLC for Horizon...</description>
+      <guid>http://localhost:1313/wkblog/2023/04/horizon-forbidden-west-aloy-finds-love/</guid>
+      <description>After their meeting in Frozen Wilds, I never expected to see Gildun again &amp;ndash; but when he appeared again in the first DLC for Horizon&amp;hellip;</description>
     </item>
   </channel>
 </rss>

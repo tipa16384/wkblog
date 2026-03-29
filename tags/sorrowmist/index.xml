@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sorrowmist on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/sorrowmist/</link>
+    <link>http://localhost:1313/wkblog/tags/sorrowmist/</link>
     <description>Recent content in Sorrowmist on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 27 Apr 2009 12:00:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/sorrowmist/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/sorrowmist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chronicles of Spellborn: Returning to Parliament</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/27/chronicles-of-spellborn-returning-to-parliament/</link>
+      <link>http://localhost:1313/wkblog/2009/04/chronicles-of-spellborn-returning-to-parliament/</link>
       <pubDate>Mon, 27 Apr 2009 12:00:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/27/chronicles-of-spellborn-returning-to-parliament/</guid>
-      <description>I spent a couple of days wandering lost through the silver mines in Quarterstone&amp;#39;s Statue District, which ended the only way they could possibly end...</description>
+      <guid>http://localhost:1313/wkblog/2009/04/chronicles-of-spellborn-returning-to-parliament/</guid>
+      <description>I spent a couple of days wandering lost through the silver mines in Quarterstone&amp;rsquo;s Statue District, which ended the only way they could possibly end&amp;hellip;</description>
     </item>
   </channel>
 </rss>

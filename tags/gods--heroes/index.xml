@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gods &amp; Heroes on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/gods--heroes/</link>
+    <link>http://localhost:1313/wkblog/tags/gods--heroes/</link>
     <description>Recent content in Gods &amp; Heroes on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 29 Dec 2010 06:00:33 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/gods--heroes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/gods--heroes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Blogroll 12/29: Super Duper edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</link>
       <pubDate>Wed, 29 Dec 2010 06:00:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</guid>
       <description>I long ago pre-ordered SOE&amp;#39;s DC Universe Online, but this was my first opportunity to play it, in beta, on the PC. Though it&amp;#39;s on...</description>
     </item>
   </channel>

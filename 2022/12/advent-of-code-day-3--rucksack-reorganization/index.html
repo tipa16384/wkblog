@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/wkblog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=wkblog/livereload" data-no-instant defer></script>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Advent of Code Day 3 -- Rucksack Reorganization",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg",
+  
+  "datePublished": "2022-12-03T20:59:41-05:00",
+  "dateModified": "2022-12-03T20:59:41-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "http:\/\/localhost:1313\/wkblog\/2022\/12\/advent-of-code-day-3--rucksack-reorganization\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "I did this puzzle last night while writing the post about Day 2. This time I\u0026rsquo;m not in quite so much of a rush. Weekends\u0026hellip;.",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.157.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="I did this puzzle last night while writing the post about Day 2. This time I&rsquo;m not in quite so much of a rush. Weekends&hellip;.">
+
+
+<meta property="og:description" content="I did this puzzle last night while writing the post about Day 2. This time I&rsquo;m not in quite so much of a rush. Weekends&hellip;.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Advent of Code Day 3 -- Rucksack Reorganization">
+<meta name="twitter:title" content="Advent of Code Day 3 -- Rucksack Reorganization">
+<meta property="og:url" content="http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/">
+<meta property="twitter:url" content="http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="I did this puzzle last night while writing the post about Day 2. This time I&rsquo;m not in quite so much of a rush. Weekends&hellip;.">
+<meta name="twitter:description" content="I did this puzzle last night while writing the post about Day 2. This time I&rsquo;m not in quite so much of a rush. Weekends&hellip;.">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2022-12-03T20:59:41">
+  
+  
+    <meta property="article:modified_time" content="2022-12-03T20:59:41">
+  
+  
+  
+    
+      <meta property="article:section" content="Advent of Code">
+    
+      <meta property="article:section" content="OpenAI">
+    
+  
+  
+    
+      <meta property="article:tag" content="Advent">
+    
+      <meta property="article:tag" content="Java">
+    
+      <meta property="article:tag" content="Lua">
+    
+      <meta property="article:tag" content="Pico-8">
+    
+      <meta property="article:tag" content="Python">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg">
+
+
+
+    <title>Advent of Code Day 3 -- Rucksack Reorganization</title>
+
+    <link rel="icon" href="http://localhost:1313/wkblog/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="http://localhost:1313/wkblog/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="http://localhost:1313/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://localhost:1313/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="http://localhost:1313/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/kakawait" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener" title="Stack Overflow">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Advent of Code Day 3 -- Rucksack Reorganization
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2022-12-03T20:59:41-05:00">
+        
+  December 3, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/advent-of-code">Advent of Code</a>, 
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/openai">OpenAI</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>I did this puzzle last night while writing the post about Day 2. This time I&rsquo;m not in quite so much of a rush. Weekends.</p>
+<p>The puzzle description is best read <a href="https://adventofcode.com/2022/day/3">on the AoC site</a> &ndash; they&rsquo;re always fun to read :-)</p>
+<p>Advent of Code always starts out slowly, getting people used to how things go before they start pouring on the hard stuff. You can see some concepts come up that will undoubtedly become key in later puzzles. Yesterday was modulo arithmetic. Today was sets. Naturally, people did it their own ways, but typically the fast solvers will immediately focus in on the concept being introduced and doing their thing in seconds.</p>
+<p>I really don&rsquo;t know how these people are delivering their full solutions while I am still reading the story. They probably don&rsquo;t read the story. Story is the best part.</p>
+
+
+
+<div class="figure " >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2022/12/An_elf_filling_a_backpack_with_gems_at_a_camp_in_a_lush_jungle__Detailed_and_Intricate__by_Bob_Eggle_Seed-679908_Steps-100_Guidance-7.5-1024x1024.jpeg" >
+  
+  
+</div>
+
+<p>You might notice a difference in the header image. I&rsquo;ve been using Stable Diffusion for the past couple of days because it is free, but goddamn does it take a million tries to find something usable. And even then&hellip; it&rsquo;s pretty bad if you look close. Tonight I got frustrated with Stable Diffusion and just used the exact same prompt on Dall-E and&hellip; just what I wanted.</p>
+<p>The picture on the left is what Stable Diffusion gave me. Face and hands a mess as usual, the costume was all weird and what is with that hat sticking out of his neck? I&rsquo;ve got twenty that look worse. When it works, it works, but&hellip; first try with Dall-E.</p>
+
+
+
+<div class="figure " >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2022/12/image-1-1024x252.png" >
+  
+  
+</div>
+
+<p>In fact, all four options were mostly decent. A little extra leg issue on picture 3, but otherwise fine.</p>
+<p>Okay, on to the solutions.</p>
+<p><strong>Python 3.11</strong></p>
+<p>`def priority(x):
+return ord(x) - ord(&lsquo;a&rsquo;) + 1 if x &gt;= &lsquo;a&rsquo; and x</p>
+<p>The puzzle assigned a point value to the lower and upper case letters they called &ldquo;priority&rdquo;. There&rsquo;s actually a Python library which does this for free that I didn&rsquo;t know about.</p>
+<p>Part 1 was going through a series of strings and finding the common letter between the two halves of the string, calculating its priority, and summing these.</p>
+<p>Part 2 was taking strings in groups of three and finding the common letter in all three of those, calculating the priority, and taking the sum. That&rsquo;s what you see above.</p>
+<p>The <strong>zip</strong> part is fun. That bit makes a list of tuples with <strong>data[0], data[1], data[2]</strong> in the first tuple, <strong>data[3], data[4], data[5]</strong> in the second tuple and so on, with the <strong>iter(data)</strong> feeding new lines as necessary, and <strong>zip</strong> bringing everything back together.</p>
+<p>Someone mentioned on Reddit that I could have used <strong>a &amp; b &amp; c</strong> to intersect the sets in Part 2. I&rsquo;ll remember that for later.</p>
+<p>I made some mistakes, but I don&rsquo;t think it&rsquo;s worth it to turn back the clock and try to appear cleverer than I am.</p>
+<p><strong>Java 14</strong></p>
+<p>`package com.chasingdings.y2022;</p>
+<p>import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;</p>
+<p>public class Puzzle3 extends AbstractPuzzle {
+private static final String DATA_FILE = &ldquo;2022\puzzle3.dat&rdquo;;</p>
+<pre><code>@Override
+public Object solve1(String content) {
+    var rucksacks = getInputDataByLine(content);
+
+    return rucksacks.stream().mapToInt(ruck -&gt; {
+        var len = ruck.length()/2;
+        var left = getSet(ruck.substring(0, len));
+    
+        left.retainAll(getSet(ruck.substring(len)));
+        return left.iterator().next();
+    }).sum();
+}
+
+@Override
+public Object solve2(String content) {
+    var elfGroups = groupElves(getInputDataByLine(content));
+
+    return elfGroups.stream().mapToInt(eg -&gt; {
+        var elf = getSet(eg.get(0));
+        elf.retainAll(getSet(eg.get(1)));
+        elf.retainAll(getSet(eg.get(2)));
+        return elf.iterator().next();
+    }).sum();
+}
+
+@Override
+public String getDataFilePath() {
+    return DATA_FILE;
+}
+
+@Override
+public String getPuzzleName() {
+    return &quot;Day 3 - Rusksack Reorganization&quot;;
+}
+
+/**
+ * Take a string, map each character to its priority, and return them as a Set.
+ */
+private Set getSet(String s) {
+    return s.chars().mapToObj(this::priority).collect(Collectors.toSet());
+}
+
+/**
+ * Take a character and if it is a lower case character, return 1..26. 
+ * If it is an upper case character, return 27..52.
+ */
+private int priority(int c) {
+    return c &gt;= 'a' ? c - 'a' + 1 : c - 'A' + 27;
+}
+
+private List&gt; groupElves(List elves) {
+    // select elves in threes
+    var groups = elves.stream().collect(Collectors.groupingBy(s -&gt; elves.indexOf(s) / 3));
+    return groups.values().stream().collect(Collectors.toList());
+}
+</code></pre>
+<p>}
+`</p>
+<p>Java is always a lot wordier than Python. I&rsquo;m sure more than half of solvers just use Python &ndash; including me. I wouldn&rsquo;t even consider doing my leaderboard solution in Java.</p>
+<p>Java doesn&rsquo;t have the <strong>zip</strong> functionality, so I had to do it manually with <strong>Collectors.groupingBy</strong>. For the set intersections, I wanted to use Apache&rsquo;s <strong>SetUtils.intersection</strong>, but before I added it to my Maven build, I found that Java had a slightly less useful but still capable function built-in &ndash; <strong>Set.retainAll</strong>. I always prefer to use native language features over third party libraries, so I used it.</p>
+<p>As before, all the bolts and gears of the solution are abstracted into other classes, leaving just the bits specific to this puzzle here. This is one of the things that is possible in Python, but integral to Java.</p>
+<p><strong>Today&rsquo;s game &ndash; Gems</strong></p>
+<p>Still managing to make a game a day. 22 to go after this one.</p>
+<p>Since the puzzle today was about find a common letter in two strings, the game is about finding the only two gems in each screen that are identical. Select those with the arrow keys, hit X to select one and then the other, and then you get to do it again.</p>
+<p>Time limit is 30 seconds, +7 seconds for every correct match. On Game Over, the game pauses to let you find the match you were missing.</p>
+<p>I reused most of the music and sounds. Why start from scratch? It took a long time this morning to draw 64 different gems. Longer to get the frickin thing to generate the screen correctly. Turns out Pico-8&rsquo;s Lua uses 1-based indices. Pagans.</p>
+
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/advent/">Advent</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/java/">Java</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/lua/">Lua</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/pico-8/">Pico-8</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/python/">Python</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/" data-tooltip="Advent of Code Day 4 -- Camp Cleanup" aria-label="NEXT: Advent of Code Day 4 -- Camp Cleanup">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-2022-day-2--rock-paper-scissors/" data-tooltip="Advent of Code 2022 Day 2 -- Rock Paper Scissors" aria-label="PREVIOUS: Advent of Code 2022 Day 2 -- Rock Paper Scissors">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'http:\/\/localhost:1313\/wkblog\/2022\/12\/advent-of-code-day-3--rucksack-reorganization\/';
+        
+          this.page.identifier = '\/2022\/12\/advent-of-code-day-3--rucksack-reorganization\/'
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = '';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/" data-tooltip="Advent of Code Day 4 -- Camp Cleanup" aria-label="NEXT: Advent of Code Day 4 -- Camp Cleanup">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-2022-day-2--rock-paper-scissors/" data-tooltip="Advent of Code 2022 Day 2 -- Rock Paper Scissors" aria-label="PREVIOUS: Advent of Code 2022 Day 2 -- Rock Paper Scissors">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-3--rucksack-reorganization%2F" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-3--rucksack-reorganization%2F" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-3--rucksack-reorganization%2F" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="http://localhost:1313/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

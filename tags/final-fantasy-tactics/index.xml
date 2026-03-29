@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Final Fantasy Tactics on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/final-fantasy-tactics/</link>
+    <link>http://localhost:1313/wkblog/tags/final-fantasy-tactics/</link>
     <description>Recent content in Final Fantasy Tactics on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 19 Oct 2025 12:28:38 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/final-fantasy-tactics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/final-fantasy-tactics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final Fantasy Tactics: The Ivalice Chronicles, a retrospective</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</link>
+      <link>http://localhost:1313/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</link>
       <pubDate>Sun, 19 Oct 2025 12:28:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</guid>
+      <guid>http://localhost:1313/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</guid>
       <description>Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake.</description>
     </item>
     <item>
       <title>The Zen of Final Fantasy Tactics</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/10/06/the-zen-of-final-fantasy-tactics/</link>
+      <link>http://localhost:1313/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</link>
       <pubDate>Mon, 06 Oct 2025 08:12:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/10/06/the-zen-of-final-fantasy-tactics/</guid>
-      <description>There&amp;#39;s the recommended way to play Final Fantasy Tactics. And then there&amp;#39;s the way I play it.</description>
+      <guid>http://localhost:1313/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</guid>
+      <description>There&amp;rsquo;s the recommended way to play Final Fantasy Tactics. And then there&amp;rsquo;s the way I play it.</description>
     </item>
     <item>
       <title>Unicorn Overlord -- Whose Overlord Is It, Anyway?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/</link>
+      <link>http://localhost:1313/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</link>
       <pubDate>Sat, 23 Mar 2024 10:03:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/</guid>
-      <description>After playing through this amazing real-time tactics RPG, the only question I hadn&amp;#39;t answered was... were we the baddies all the time?</description>
+      <guid>http://localhost:1313/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</guid>
+      <description>After playing through this amazing real-time tactics RPG, the only question I hadn&amp;rsquo;t answered was&amp;hellip; were we the baddies all the time?</description>
     </item>
     <item>
       <title>Palworld, Vandal Hearts, Hons VR Lenses</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/01/31/palworld-vandal-hearts-hons-vr-lenses/</link>
+      <link>http://localhost:1313/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</link>
       <pubDate>Wed, 31 Jan 2024 07:56:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/01/31/palworld-vandal-hearts-hons-vr-lenses/</guid>
-      <description>Okay, there&amp;#39;s a lot of gaming stuff going on so I&amp;#39;m just going to go over some of it, briefly.</description>
+      <guid>http://localhost:1313/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</guid>
+      <description>Okay, there&amp;rsquo;s a lot of gaming stuff going on so I&amp;rsquo;m just going to go over some of it, briefly.</description>
     </item>
     <item>
       <title>Knight of Lodis: Entering the Crypt</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/11/10/knight-of-lodis-entering-the-crypt/</link>
+      <link>http://localhost:1313/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</link>
       <pubDate>Fri, 10 Nov 2023 20:21:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/11/10/knight-of-lodis-entering-the-crypt/</guid>
+      <guid>http://localhost:1313/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</guid>
       <description>It was supposed to just be a battle. It turned into a gauntlet.</description>
     </item>
     <item>
       <title>Dive into the world of Tactics Ogre with this remake of a classic</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/11/21/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic/</link>
+      <link>http://localhost:1313/wkblog/2022/11/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic/</link>
       <pubDate>Mon, 21 Nov 2022 11:26:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/11/21/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic/</guid>
+      <guid>http://localhost:1313/wkblog/2022/11/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic/</guid>
       <description>The original Tactics Ogre returns, updated and improved for a new generation. Any fan of tactical strategy games like Fire Emblem or Final Fantasy Tactics should really take a look at the game that inspired them all.</description>
     </item>
     <item>
       <title>Gladius, Day 1: Gladiators at Large</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/11/04/gladius-day-1-gladiators-at-large/</link>
+      <link>http://localhost:1313/wkblog/2021/11/gladius-day-1-gladiators-at-large/</link>
       <pubDate>Thu, 04 Nov 2021 08:06:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/11/04/gladius-day-1-gladiators-at-large/</guid>
-      <description>Welcome to the start of my playthrough of LucasArts&amp;#39; &amp;#34;Gladius&amp;#34;, a tactical arena fighting game for the PlayStation 2....</description>
+      <guid>http://localhost:1313/wkblog/2021/11/gladius-day-1-gladiators-at-large/</guid>
+      <description>Welcome to the start of my playthrough of LucasArts&amp;rsquo; &amp;ldquo;Gladius&amp;rdquo;, a tactical arena fighting game for the PlayStation 2&amp;hellip;.</description>
     </item>
     <item>
       <title>Ogre Battle &#34;The March of the Black Queen&#34; -- Night 1</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/</link>
+      <link>http://localhost:1313/wkblog/2020/10/ogre-battle-the-march-of-the-black-queen--night-1/</link>
       <pubDate>Mon, 05 Oct 2020 08:03:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/</guid>
-      <description>Before Final Fantasy Tactics, my favorite fantasy tactical battle RPG, there was the Ogre Battle series. I discovered the franchise the other way around, though:...</description>
+      <guid>http://localhost:1313/wkblog/2020/10/ogre-battle-the-march-of-the-black-queen--night-1/</guid>
+      <description>Before Final Fantasy Tactics, my favorite fantasy tactical battle RPG, there was the Ogre Battle series. I discovered the franchise the other way around, though:&amp;hellip;</description>
     </item>
     <item>
       <title>Banner of the Maid doesn&#39;t want me to sleep.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/</link>
+      <link>http://localhost:1313/wkblog/2020/08/banner-of-the-maid-doesnt-want-me-to-sleep./</link>
       <pubDate>Wed, 19 Aug 2020 20:17:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/</guid>
-      <description>I was initially a little unsure about playing Banner of the Maid. It has a lot of things in it that I like -- deeply...</description>
+      <guid>http://localhost:1313/wkblog/2020/08/banner-of-the-maid-doesnt-want-me-to-sleep./</guid>
+      <description>I was initially a little unsure about playing Banner of the Maid. It has a lot of things in it that I like &amp;ndash; deeply&amp;hellip;</description>
     </item>
     <item>
       <title>Favorite Game Series #1: Final Fantasy</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/06/favorite-game-series-1-final-fantasy/</link>
+      <link>http://localhost:1313/wkblog/2020/05/favorite-game-series-%231-final-fantasy/</link>
       <pubDate>Wed, 06 May 2020 11:23:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/06/favorite-game-series-1-final-fantasy/</guid>
-      <description>There&amp;#39;s one game series that stands above all the others, to me. It&amp;#39;s the game series that continually redefines itself in each new game and...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/favorite-game-series-%231-final-fantasy/</guid>
+      <description>There&amp;rsquo;s one game series that stands above all the others, to me. It&amp;rsquo;s the game series that continually redefines itself in each new game and&amp;hellip;</description>
     </item>
   </channel>
 </rss>

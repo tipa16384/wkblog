@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monopoly on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/monopoly/</link>
+    <link>http://localhost:1313/wkblog/tags/monopoly/</link>
     <description>Recent content in Monopoly on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 08 Sep 2020 07:07:13 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/monopoly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/monopoly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adventures in Monopoly -- Darkfall, Part II</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/09/08/adventures-in-monopoly-darkfall-part-ii/</link>
+      <link>http://localhost:1313/wkblog/2020/09/adventures-in-monopoly--darkfall-part-ii/</link>
       <pubDate>Tue, 08 Sep 2020 07:07:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/09/08/adventures-in-monopoly-darkfall-part-ii/</guid>
-      <description>The first part to the comic in the header image was [over here](https://tipa16384.github.io/wkblog/2020/08/24/adventures-in-monopoly-cash-shop/), and the second part was right [over there](https://tipa16384.github.io/wkblog/2020/09/01/adventures-in-monopoly-darkfall-pt-1/)....</description>
+      <guid>http://localhost:1313/wkblog/2020/09/adventures-in-monopoly--darkfall-part-ii/</guid>
+      <description>The first part to the comic in the header image was over here, and the second part was right over there&amp;hellip;.</description>
     </item>
     <item>
       <title>Adventures in Monopoly: The Beginning</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/08/17/adventures-in-monopoly-the-beginning/</link>
+      <link>http://localhost:1313/wkblog/2020/08/adventures-in-monopoly-the-beginning/</link>
       <pubDate>Mon, 17 Aug 2020 17:34:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/08/17/adventures-in-monopoly-the-beginning/</guid>
-      <description>A long, long time ago, I got a shiny metal bear in an EverQuest 2 expansion box. I kinda thought it looked like it could...</description>
+      <guid>http://localhost:1313/wkblog/2020/08/adventures-in-monopoly-the-beginning/</guid>
+      <description>A long, long time ago, I got a shiny metal bear in an EverQuest 2 expansion box. I kinda thought it looked like it could&amp;hellip;</description>
     </item>
     <item>
       <title>Adventures in Monopoly #1: Duke Bear</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/01/eq2-fun-with-the-dire-bear/</link>
+      <link>http://localhost:1313/wkblog/2008/12/adventures-in-monopoly-%231-duke-bear/</link>
       <pubDate>Mon, 01 Dec 2008 09:43:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/01/eq2-fun-with-the-dire-bear/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2008/12/panel2-redo.jpg&#34; title=&#34;panel2&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2008/12/panel3-redo.jpg&#34; title=&#34;panel3&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2008/12/panel4-redo.jpg&#34; title=&#34;panel4&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/wkblog/2008/12/adventures-in-monopoly-%231-duke-bear/</guid>
+      <description>&lt;div class=&#34;figure &#34; &gt;&#xA;  &#xA;    &lt;img class=&#34;fig-img&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2008/12/panel2-redo.jpg&#34;  alt=&#34;panel2&#34;&gt;&#xA;  &#xA;   &#xA;    &lt;span class=&#34;caption&#34;&gt;panel2&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;figure &#34; &gt;&#xA;  &#xA;    &lt;img class=&#34;fig-img&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2008/12/panel3-redo.jpg&#34;  alt=&#34;panel3&#34;&gt;&#xA;  &#xA;   &#xA;    &lt;span class=&#34;caption&#34;&gt;panel3&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;figure &#34; &gt;&#xA;  &#xA;    &lt;img class=&#34;fig-img&#34; src=&#34;https://tipa16384.github.io/wkblog/uploads/2008/12/panel4-redo.jpg&#34;  alt=&#34;panel4&#34;&gt;&#xA;  &#xA;   &#xA;    &lt;span class=&#34;caption&#34;&gt;panel4&lt;/span&gt;&#xA;  &#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

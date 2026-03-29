@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Duodeci on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/duodeci/</link>
+    <link>http://localhost:1313/wkblog/tags/duodeci/</link>
     <description>Recent content in Duodeci on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 29 Sep 2022 08:52:59 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/duodeci/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/duodeci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dissidia 012 Final Fantasy comes highly recommended</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/09/29/dissidia-012-final-fantasy-comes-highly-recommended/</link>
+      <link>http://localhost:1313/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</link>
       <pubDate>Thu, 29 Sep 2022 08:52:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/09/29/dissidia-012-final-fantasy-comes-highly-recommended/</guid>
-      <description>So I was chatting with Terra yesterday and... wait, no, keep reading. Because I think we&amp;#39;re in the future now....</description>
+      <guid>http://localhost:1313/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</guid>
+      <description>So I was chatting with Terra yesterday and&amp;hellip; wait, no, keep reading. Because I think we&amp;rsquo;re in the future now&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,893 @@
-<!doctype html><html lang=en dir=auto data-theme=auto><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>Advent of Code | Chasing Dings!</title><meta name=keywords content><meta name=description content="Come for the games, stay for the drama."><meta name=author content="Tipa"><link rel=canonical href=https://tipa16384.github.io/wkblog/tags/advent-of-code/><meta name=google-site-verification content="XYZabc"><meta name=yandex-verification content="XYZabc"><meta name=msvalidate.01 content="XYZabc"><link crossorigin=anonymous href=/wkblog/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css integrity="sha256-2jIR5e+Ge/K3X9WmUVz+1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as=style><link rel=icon href=https://chasingdings.com/wp-content/uploads/2022/07/cropped-bmapprofilepicture-32x32.png><link rel=icon type=image/png sizes=16x16 href=https://chasingdings.com/wp-content/uploads/2022/07/cropped-bmapprofilepicture-32x32.png><link rel=icon type=image/png sizes=32x32 href=https://chasingdings.com/wp-content/uploads/2022/07/cropped-bmapprofilepicture-32x32.png><link rel=apple-touch-icon href=https://chasingdings.com/wp-content/uploads/2022/07/cropped-bmapprofilepicture-180x180.png><link rel=mask-icon href=https://tipa16384.github.io/wkblog/safari-pinned-tab.svg><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><link rel=alternate type=application/rss+xml href=https://tipa16384.github.io/wkblog/tags/advent-of-code/index.xml title=rss><link rel=alternate hreflang=en href=https://tipa16384.github.io/wkblog/tags/advent-of-code/><noscript><style>#theme-toggle,.top-link{display:none}</style><style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--code-block-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51);color-scheme:dark}.list{background:var(--theme)}.toc{background:var(--entry)}}@media(prefers-color-scheme:light){.list::-webkit-scrollbar-thumb{border-color:var(--code-bg)}}</style></noscript><script>localStorage.getItem("pref-theme")==="dark"?document.querySelector("html").dataset.theme="dark":localStorage.getItem("pref-theme")==="light"?document.querySelector("html").dataset.theme="light":window.matchMedia("(prefers-color-scheme: dark)").matches?document.querySelector("html").dataset.theme="dark":document.querySelector("html").dataset.theme="light"</script><meta property="og:url" content="https://tipa16384.github.io/wkblog/tags/advent-of-code/"><meta property="og:site_name" content="Chasing Dings!"><meta property="og:title" content="Advent of Code"><meta property="og:description" content="Come for the games, stay for the drama."><meta property="og:locale" content="en"><meta property="og:type" content="website"><meta name=twitter:card content="summary"><meta name=twitter:title content="Advent of Code"><meta name=twitter:description content="Come for the games, stay for the drama."></head><body class=list id=top><header class=header><nav class=nav><div class=logo><a href=https://tipa16384.github.io/wkblog/ accesskey=h title="Home (Alt + H)"><img src=https://chasingdings.com/wp-content/uploads/2022/07/cropped-bmapprofilepicture-180x180.png alt aria-label=logo height=35>Home</a><div class=logo-switches><button id=theme-toggle accesskey=t title="(Alt + T)" aria-label="Toggle theme">
-<svg id="moon" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
-<svg id="sun" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></div></div><ul id=menu><li><a href=https://tipa16384.github.io/wkblog/categories/ title=categories><span>categories</span></a></li><li><a href=https://tipa16384.github.io/wkblog/tags/ title=tags><span>tags</span></a></li></ul></nav></header><main class=main><header class=page-header><div class=breadcrumbs><a href=https://tipa16384.github.io/wkblog/>Home</a>&nbsp;»&nbsp;<a href=https://tipa16384.github.io/wkblog/tags/>Tags</a></div><h1>Advent of Code
-<a href=/wkblog/tags/advent-of-code/index.xml title=RSS aria-label=RSS><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" height="23"><path d="M4 11a9 9 0 019 9"/><path d="M4 4a16 16 0 0116 16"/><circle cx="5" cy="19" r="1"/></svg></a></h1></header><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/aoc2023-15.jpeg alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 15 -- Lens Library</h2></header><div class=entry-content><p>The lack of hands is all that is keeping the world’s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.</p></div><footer class=entry-footer><span title='2023-12-15 21:02:37 -0500 EST'>December 15, 2023</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>533 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 15 -- Lens Library" href=https://tipa16384.github.io/wkblog/posts/2023/12/15/advent-of-code-day-15-lens-library/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 14 -- Parabolic Reflector Dish</h2></header><div class=entry-content><p>We’re almost to the mountaintop where everything begins… but first we need to start a little fire.</p></div><footer class=entry-footer><span title='2023-12-15 07:00:00 -0500 EST'>December 15, 2023</span>&nbsp;·&nbsp;<span>7 min</span>&nbsp;·&nbsp;<span>1315 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 14 -- Parabolic Reflector Dish" href=https://tipa16384.github.io/wkblog/posts/2023/12/15/advent-of-code-day-14-parabolic-reflector-dish/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 13 -- Point of Incidence</h2></header><div class=entry-content><p>I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world.</p></div><footer class=entry-footer><span title='2023-12-14 07:08:33 -0500 EST'>December 14, 2023</span>&nbsp;·&nbsp;<span>7 min</span>&nbsp;·&nbsp;<span>1341 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 13 -- Point of Incidence" href=https://tipa16384.github.io/wkblog/posts/2023/12/14/advent-of-code-day-13-point-of-incidence/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-12-20.48.05-A-repairman-in-a-safety-vest-and-hardhat-looking-at-a-damaged-map-in-a-landscape-reminiscent-of-Iceland-near-a-dormant-volcano.-The-scene-includes-ste.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 12 -- Hot Springs</h2></header><div class=entry-content><p>I narrowly avoided yesterday’s trap only to walk right into today’s.</p></div><footer class=entry-footer><span title='2023-12-12 21:44:16 -0500 EST'>December 12, 2023</span>&nbsp;·&nbsp;<span>6 min</span>&nbsp;·&nbsp;<span>1077 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 12 -- Hot Springs" href=https://tipa16384.github.io/wkblog/posts/2023/12/12/advent-of-code-day-12-hot-springs/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 11 -- Cosmic Expansion</h2></header><div class=entry-content><p>This is why Santa shouldn’t let elves do astrophysics.</p></div><footer class=entry-footer><span title='2023-12-11 07:49:29 -0500 EST'>December 11, 2023</span>&nbsp;·&nbsp;<span>3 min</span>&nbsp;·&nbsp;<span>596 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 11 -- Cosmic Expansion" href=https://tipa16384.github.io/wkblog/posts/2023/12/11/advent-of-code-day-11-cosmic-expansion/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 10 -- Pipe Maze</h2></header><div class=entry-content><p>Anyone else notice that this is the second puzzle in a row without any elves?</p></div><footer class=entry-footer><span title='2023-12-10 14:16:27 -0500 EST'>December 10, 2023</span>&nbsp;·&nbsp;<span>8 min</span>&nbsp;·&nbsp;<span>1619 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 10 -- Pipe Maze" href=https://tipa16384.github.io/wkblog/posts/2023/12/10/advent-of-code-day-10-pipe-maze/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Days 8 and 9 -- Ghost Story</h2></header><div class=entry-content><p>It took me so long to figure out the Day 8 puzzle that I didn’t write it up before bed, so twofer today to catch up.</p></div><footer class=entry-footer><span title='2023-12-09 10:39:23 -0500 EST'>December 9, 2023</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>989 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Days 8 and 9 -- Ghost Story" href=https://tipa16384.github.io/wkblog/posts/2023/12/09/advent-of-code-days-8-and-9-ghost-story/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-07-21.36.26-In-a-desert-setting-a-Christmas-elf-mom-and-a-repair-person-in-a-safety-vest-and-hard-hat-are-riding-camels.-Both-characters-are-holding-a-hand-of-pl.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 7 -- Camel Cards</h2></header><div class=entry-content><p>I really tried with Haskell this time. Oh well, looks like we’ll have to play Camel Poker in Python instead.</p></div><footer class=entry-footer><span title='2023-12-07 22:10:13 -0500 EST'>December 7, 2023</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>907 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 7 -- Camel Cards" href=https://tipa16384.github.io/wkblog/posts/2023/12/07/advent-of-code-day-7-camel-cards/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-06-20.55.25-A-whimsical-and-vibrant-scene-depicting-an-island-with-a-small-ferry-dock-and-numerous-toy-boats-ready-for-a-race.-The-island-is-surrounded-by-water-a.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 6 -- Wait For It</h2></header><div class=entry-content><p>This one was easy. TOO easy. Day 7 is going to be bad.</p></div><footer class=entry-footer><span title='2023-12-06 21:21:22 -0500 EST'>December 6, 2023</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>642 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 6 -- Wait For It" href=https://tipa16384.github.io/wkblog/posts/2023/12/06/advent-of-code-day-6-wait-for-it/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png alt></figure><header class=entry-header><h2 class=entry-hint-parent>Advent of Code Day 5 -- If You Give A Seed A Fertilizer</h2></header><div class=entry-content><p>This can take no time at all or an eternity.</p></div><footer class=entry-footer><span title='2023-12-05 22:37:57 -0500 EST'>December 5, 2023</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>686 words</span>&nbsp;·&nbsp;<span>Tipa</span></footer><a class=entry-link aria-label="post link to Advent of Code Day 5 -- If You Give A Seed A Fertilizer" href=https://tipa16384.github.io/wkblog/posts/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/></a></article><footer class=page-footer><nav class=pagination><a class=prev href=https://tipa16384.github.io/wkblog/tags/advent-of-code/>«&nbsp;Prev&nbsp;
-</a><a class=next href=https://tipa16384.github.io/wkblog/tags/advent-of-code/page/3/>Next&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>&copy; 2026 <a href=https://tipa16384.github.io/wkblog/>Chasing Dings!</a></span> ·
-<span>Powered by
-<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
-<a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentColor"><path d="M12 6H0l6-6z"/></svg>
-</a><script>let menu=document.getElementById("menu");if(menu){const e=localStorage.getItem("menu-scroll-position");e&&(menu.scrollLeft=parseInt(e,10)),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}}document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>document.getElementById("theme-toggle").addEventListener("click",()=>{const e=document.querySelector("html");e.dataset.theme==="dark"?(e.dataset.theme="light",localStorage.setItem("pref-theme","light")):(e.dataset.theme="dark",localStorage.setItem("pref-theme","dark"))})</script></body></html>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <script type="application/ld+json">
+
+{  
+  "@context":"http://schema.org",
+  "@type":"Website",
+  "@id":"https:\/\/tipa16384.github.io\/wkblog\/",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "name":"Chasing Dings!",
+  "description":"Chasing Dings! blog",
+  "url":"https:\/\/tipa16384.github.io\/wkblog\/tags\/advent-of-code\/",
+  "keywords":"[]"
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.157.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="Chasing Dings! blog">
+
+
+<meta property="og:description" content="Chasing Dings! blog">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Advent of Code">
+<meta name="twitter:title" content="Advent of Code">
+<meta property="og:url" content="https://tipa16384.github.io/wkblog/tags/advent-of-code/">
+<meta property="twitter:url" content="https://tipa16384.github.io/wkblog/tags/advent-of-code/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="Chasing Dings! blog">
+<meta name="twitter:description" content="Chasing Dings! blog">
+<meta property="og:locale" content="en-us">
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+
+
+    <title>Advent of Code</title>
+
+    <link rel="icon" href="https://tipa16384.github.io/wkblog/favicon.png">
+    
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://tipa16384.github.io/wkblog/tags/advent-of-code/index.xml">
+    
+
+    
+
+    <link rel="canonical" href="https://tipa16384.github.io/wkblog/tags/advent-of-code/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="https://tipa16384.github.io/wkblog/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="1">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://tipa16384.github.io/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://tipa16384.github.io/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="1">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://tipa16384.github.io/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/kakawait" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener" title="Stack Overflow">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+        
+
+      
+      <div id="main" data-behavior="1"
+        class="
+               hasCoverMetaIn
+               ">
+        
+          <section class="postShorten-group main-content-wrap">
+            
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15--lens-library/" aria-label="Open the post: Advent of Code Day 15 -- Lens Library">
+      
+          Advent of Code Day 15 -- Lens Library
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-15T21:02:37-05:00">
+        
+  December 15, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        The lack of hands is all that is keeping the world&rsquo;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15--lens-library/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 15 -- Lens Library">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-14--parabolic-reflector-dish/" aria-label="Open the post: Advent of Code Day 14 -- Parabolic Reflector Dish">
+      
+          Advent of Code Day 14 -- Parabolic Reflector Dish
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-15T07:00:00-05:00">
+        
+  December 15, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        We&rsquo;re almost to the mountaintop where everything begins&hellip; but first we need to start a little fire.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-14--parabolic-reflector-dish/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 14 -- Parabolic Reflector Dish">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-13--point-of-incidence/" aria-label="Open the post: Advent of Code Day 13 -- Point of Incidence">
+      
+          Advent of Code Day 13 -- Point of Incidence
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-14T07:08:33-05:00">
+        
+  December 14, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-13--point-of-incidence/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 13 -- Point of Incidence">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-12--hot-springs/" aria-label="Open the post: Advent of Code Day 12 -- Hot Springs">
+      
+          Advent of Code Day 12 -- Hot Springs
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-12T21:44:16-05:00">
+        
+  December 12, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        I narrowly avoided yesterday&rsquo;s trap only to walk right into today&rsquo;s.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-12--hot-springs/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 12 -- Hot Springs">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-11--cosmic-expansion/" aria-label="Open the post: Advent of Code Day 11 -- Cosmic Expansion">
+      
+          Advent of Code Day 11 -- Cosmic Expansion
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-11T07:49:29-05:00">
+        
+  December 11, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        This is why Santa shouldn&rsquo;t let elves do astrophysics.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-11--cosmic-expansion/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 11 -- Cosmic Expansion">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10--pipe-maze/" aria-label="Open the post: Advent of Code Day 10 -- Pipe Maze">
+      
+          Advent of Code Day 10 -- Pipe Maze
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-10T14:16:27-05:00">
+        
+  December 10, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        Anyone else notice that this is the second puzzle in a row without any elves?
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10--pipe-maze/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 10 -- Pipe Maze">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-days-8-and-9--ghost-story/" aria-label="Open the post: Advent of Code Days 8 and 9 -- Ghost Story">
+      
+          Advent of Code Days 8 and 9 -- Ghost Story
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-09T10:39:23-05:00">
+        
+  December 9, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        It took me so long to figure out the Day 8 puzzle that I didn&rsquo;t write it up before bed, so twofer today to catch up.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-days-8-and-9--ghost-story/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Days 8 and 9 -- Ghost Story">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-7--camel-cards/" aria-label="Open the post: Advent of Code Day 7 -- Camel Cards">
+      
+          Advent of Code Day 7 -- Camel Cards
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-07T22:10:13-05:00">
+        
+  December 7, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        I really tried with Haskell this time. Oh well, looks like we&rsquo;ll have to play Camel Poker in Python instead.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-7--camel-cards/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 7 -- Camel Cards">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-6--wait-for-it/" aria-label="Open the post: Advent of Code Day 6 -- Wait For It">
+      
+          Advent of Code Day 6 -- Wait For It
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-06T21:21:22-05:00">
+        
+  December 6, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        This one was easy. TOO easy. Day 7 is going to be bad.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-6--wait-for-it/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 6 -- Wait For It">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+              
+  
+    
+      
+        
+      
+    
+  
+
+
+  
+
+<article class="postShorten postShorten--thumbnailimg-bottom">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title">
+      
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-5--if-you-give-a-seed-a-fertilizer/" aria-label="Open the post: Advent of Code Day 5 -- If You Give A Seed A Fertilizer">
+      
+          Advent of Code Day 5 -- If You Give A Seed A Fertilizer
+        </a>
+      </h1>
+      
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-05T22:37:57-05:00">
+        
+  December 5, 2023
+
+      </time>
+    
+    
+  </div>
+
+    </div>
+    <div class="postShorten-excerpt">
+      
+        This can take no time at all or an eternity.
+      
+      <p>
+        
+          <a href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-5--if-you-give-a-seed-a-fertilizer/" class="postShorten-excerpt_link link" aria-label="Open the post: Advent of Code Day 5 -- If You Give A Seed A Fertilizer">Continue reading</a>
+        
+        
+      </p>
+    </div>
+  </div>
+  
+</article>
+
+            
+            
+  <div class="pagination-bar">
+    <ul class="pagination">
+      
+        
+          <li class="pagination-prev">
+            <a class="btn btn--default btn--small" href="https://tipa16384.github.io/wkblog/tags/advent-of-code/" aria-label="NEWER POSTS">
+              <i class="fa fa-angle-left text-base icon-mr"></i>
+              <span>NEWER POSTS</span>
+            </a>
+          </li>
+        
+        
+          <li class="pagination-next">
+            <a class="btn btn--default btn--small" href="https://tipa16384.github.io/wkblog/tags/advent-of-code/page/3/" aria-label="OLDER POSTS">
+              <span>OLDER POSTS</span>
+              <i class="fa fa-angle-right text-base icon-ml"></i>
+            </a>
+          </li>
+        
+      
+      <li class="pagination-number">page 2 of 5</li>
+    </ul>
+  </div>
+
+
+          </section>
+        
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    
+      <div id="cover" style="background-image:url('https://tipa16384.github.io/wkblog/uploads/images/fixed&#43;kerafrym.jpg');"></div>
+    
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="https://tipa16384.github.io/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

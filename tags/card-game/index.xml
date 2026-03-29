@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Card Game on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/card-game/</link>
+    <link>http://localhost:1313/wkblog/tags/card-game/</link>
     <description>Recent content in Card Game on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 07 Dec 2023 22:10:13 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/card-game/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/card-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advent of Code Day 7 -- Camel Cards</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/12/07/advent-of-code-day-7-camel-cards/</link>
+      <link>http://localhost:1313/wkblog/2023/12/advent-of-code-day-7--camel-cards/</link>
       <pubDate>Thu, 07 Dec 2023 22:10:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/12/07/advent-of-code-day-7-camel-cards/</guid>
-      <description>I really tried with Haskell this time. Oh well, looks like we&amp;#39;ll have to play Camel Poker in Python instead.</description>
+      <guid>http://localhost:1313/wkblog/2023/12/advent-of-code-day-7--camel-cards/</guid>
+      <description>I really tried with Haskell this time. Oh well, looks like we&amp;rsquo;ll have to play Camel Poker in Python instead.</description>
     </item>
     <item>
       <title>The Six Cats of Madame Miracle</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/08/06/the-six-cats-of-madame-miracle/</link>
+      <link>http://localhost:1313/wkblog/2022/08/the-six-cats-of-madame-miracle/</link>
       <pubDate>Sat, 06 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/08/06/the-six-cats-of-madame-miracle/</guid>
-      <description>The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game&amp;#39;s cute art style and cheerful music make it a joy to play.</description>
+      <guid>http://localhost:1313/wkblog/2022/08/the-six-cats-of-madame-miracle/</guid>
+      <description>The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game&amp;rsquo;s cute art style and cheerful music make it a joy to play.</description>
     </item>
     <item>
       <title>Terraforming Mars: Ares Expedition Review</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/06/terraforming-mars-ares-expedition-review/</link>
+      <link>http://localhost:1313/wkblog/2021/08/terraforming-mars-ares-expedition-review/</link>
       <pubDate>Fri, 06 Aug 2021 08:22:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/06/terraforming-mars-ares-expedition-review/</guid>
-      <description>[Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars), the big box game by [FryxGames](https://www.fryxgames.se/), is a long-time favorite board game at our kitchen table. As the name implies, it&amp;#39;s a game...</description>
+      <guid>http://localhost:1313/wkblog/2021/08/terraforming-mars-ares-expedition-review/</guid>
+      <description>Terraforming Mars, the big box game by FryxGames, is a long-time favorite board game at our kitchen table. As the name implies, it&amp;rsquo;s a game&amp;hellip;</description>
     </item>
     <item>
       <title>Game Night: Heart of Crown</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/10/29/game-night-heart-of-crown/</link>
+      <link>http://localhost:1313/wkblog/2020/10/game-night-heart-of-crown/</link>
       <pubDate>Thu, 29 Oct 2020 07:34:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/10/29/game-night-heart-of-crown/</guid>
-      <description>I&amp;#39;d forgotten we&amp;#39;d discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game....</description>
+      <guid>http://localhost:1313/wkblog/2020/10/game-night-heart-of-crown/</guid>
+      <description>I&amp;rsquo;d forgotten we&amp;rsquo;d discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

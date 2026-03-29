@@ -2,290 +2,290 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aion on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/aion/</link>
+    <link>http://localhost:1313/wkblog/tags/aion/</link>
     <description>Recent content in Aion on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 May 2023 18:39:04 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/aion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/aion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
+      <link>http://localhost:1313/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
       <pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
       <description>Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.</description>
     </item>
     <item>
       <title>Daily Blogroll 1/16 -- Lazy Sunday edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/16/daily-blogroll-116-lazy-sunday-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2011/01/16/daily-blogroll-116-lazy-sunday-edition/</link>
       <pubDate>Sun, 16 Jan 2011 06:00:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/16/daily-blogroll-116-lazy-sunday-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2011/01/16/daily-blogroll-116-lazy-sunday-edition/</guid>
       <description>Yeah, I like TV. I can say that now; for years I refused to watch it. Rotting my mind and all. But having just come...</description>
     </item>
     <item>
       <title>Daily Blogroll 1/6: Fair and Balanced edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/</link>
       <pubDate>Thu, 06 Jan 2011 06:00:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/</guid>
       <description>[...</description>
     </item>
     <item>
       <title>The Magic 8 Ball predicts the losers and winners of 2011.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</link>
+      <link>http://localhost:1313/wkblog/posts/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</link>
       <pubDate>Thu, 30 Dec 2010 06:00:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</guid>
       <description>I suck at predictions, but everyone else is doing them. Luckily, I have a Magic 8 Ball. I&amp;#39;m just gonna list some games, and ask...</description>
     </item>
     <item>
       <title>Assault on the Inbox: Independence Day Edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/07/02/assault-on-the-inbox-independence-day-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2010/07/02/assault-on-the-inbox-independence-day-edition/</link>
       <pubDate>Fri, 02 Jul 2010 06:52:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/07/02/assault-on-the-inbox-independence-day-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2010/07/02/assault-on-the-inbox-independence-day-edition/</guid>
       <description>Exciting MMO news lands in my inbox; I pass it along....</description>
     </item>
     <item>
       <title>Assault on the In Box, Friday edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/04/23/assault-on-the-in-box-friday-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2010/04/23/assault-on-the-in-box-friday-edition/</link>
       <pubDate>Fri, 23 Apr 2010 06:50:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/04/23/assault-on-the-in-box-friday-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2010/04/23/assault-on-the-in-box-friday-edition/</guid>
       <description>Lots of people really do ask me what I DO in EverQuest? Truth be told, most of the time I am either working on my...</description>
     </item>
     <item>
       <title>Daily Blogroll 10/10: Short Week edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/10/09/daily-blogroll-1010-short-week-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/10/09/daily-blogroll-1010-short-week-edition/</link>
       <pubDate>Fri, 09 Oct 2009 07:09:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/10/09/daily-blogroll-1010-short-week-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/10/09/daily-blogroll-1010-short-week-edition/</guid>
       <description>I&amp;#39;ve been playing a bit of Earth Eternal since it went into open-closed beta yesterday. Since I think we&amp;#39;re still unable to actually show the...</description>
     </item>
     <item>
       <title>Daily Blogroll 10/8: Inappropriate Birth Metaphor edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition/</link>
       <pubDate>Thu, 08 Oct 2009 07:02:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition/</guid>
       <description>Awwww, over-protective mommy ship takes cute baby alt-ship out for the first time! Yes, I&amp;#39;ve joined the ranks of EVE pilots with two accounts; the...</description>
     </item>
     <item>
       <title>A Weekend in Aion</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/29/a-weekend-in-aion/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/29/a-weekend-in-aion/</link>
       <pubDate>Tue, 29 Sep 2009 04:07:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/29/a-weekend-in-aion/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/29/a-weekend-in-aion/</guid>
       <description>[...</description>
     </item>
     <item>
       <title>Daily Blogroll 9/23 - All Queued Up Edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/23/daily-blogroll-923-all-queued-up-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/23/daily-blogroll-923-all-queued-up-edition/</link>
       <pubDate>Wed, 23 Sep 2009 06:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/23/daily-blogroll-923-all-queued-up-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/23/daily-blogroll-923-all-queued-up-edition/</guid>
       <description>&amp;#34;It would like them much; but an ye wot how dragons are esteemed, ye would not hold them blamable. They fear to come.&amp;#34; -- &amp;#34;Well,...</description>
     </item>
     <item>
       <title>Aion - Living the Dream in the Ghetto</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/22/aion-living-the-dream-in-the-ghetto/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/22/aion-living-the-dream-in-the-ghetto/</link>
       <pubDate>Tue, 22 Sep 2009 19:19:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/22/aion-living-the-dream-in-the-ghetto/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/22/aion-living-the-dream-in-the-ghetto/</guid>
       <description>*Can&amp;#39;t stop Saylah from blogging :) - Tipa*...</description>
     </item>
     <item>
       <title>Daily Blogroll 9/22 - Server is Down edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/22/daily-blogroll-922-server-is-down-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/22/daily-blogroll-922-server-is-down-edition/</link>
       <pubDate>Tue, 22 Sep 2009 05:00:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/22/daily-blogroll-922-server-is-down-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/22/daily-blogroll-922-server-is-down-edition/</guid>
       <description>Aion launched yesterday for pre-orders. [Cownose got in](http://cownosethe50poundcat.blogspot.com/2009/09/aion-is-here.html). Petter had the five hour queue ([and he&amp;#39;s under deadline](http://blog.dontfearthemutant.com/?p=828)!) [Heartless_ isn&amp;#39;t playing](http://hgamer.blogspot.com/2009/09/aion-launches-has-server-queues.html), but loves him some...</description>
     </item>
     <item>
       <title>Please be patient....</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/21/please-be-patient/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/21/please-be-patient/</link>
       <pubDate>Mon, 21 Sep 2009 21:52:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/21/please-be-patient/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/21/please-be-patient/</guid>
       <description>Picture is Maxfield Parrish&amp;#39; 1922 masterpiece, &amp;#34;Daybreak&amp;#34;. Dad had bought an old print of that from SOMEWHERE and we had it above our mantle as...</description>
     </item>
     <item>
       <title>Aion: The Price of Playing with Friends and Acquaintances</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/21/aion-the-price-of-playing-with-friends-and-acquaintances/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/21/aion-the-price-of-playing-with-friends-and-acquaintances/</link>
       <pubDate>Mon, 21 Sep 2009 17:39:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/21/aion-the-price-of-playing-with-friends-and-acquaintances/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/21/aion-the-price-of-playing-with-friends-and-acquaintances/</guid>
       <description>*Another guest post by the always awesome Saylah! -- Tipa...</description>
     </item>
     <item>
       <title>Daily Blogroll 9/17 - Kanye edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/17/daily-blogroll-917-kanye-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/17/daily-blogroll-917-kanye-edition/</link>
       <pubDate>Thu, 17 Sep 2009 21:34:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/17/daily-blogroll-917-kanye-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/17/daily-blogroll-917-kanye-edition/</guid>
       <description>[...</description>
     </item>
     <item>
       <title>Farewell, Aion Open Beta</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/14/farewell-aion-open-beta/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/14/farewell-aion-open-beta/</link>
       <pubDate>Mon, 14 Sep 2009 19:11:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/14/farewell-aion-open-beta/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/14/farewell-aion-open-beta/</guid>
       <description>*I am so very pleased to welcome [Mystic Worlds](http://notadiary.typepad.com/mysticworlds/)&amp;#39; Saylah as a guest blogger while she lets her blog lie fallow for awhile. -- Tipa*...</description>
     </item>
     <item>
       <title>Daily Blogroll 9/10 - Launch Madness edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/10/daily-blogroll-910/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/10/daily-blogroll-910/</link>
       <pubDate>Thu, 10 Sep 2009 08:00:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/10/daily-blogroll-910/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/10/daily-blogroll-910/</guid>
       <description>Was there ever a mob that you really, REALLY hated as a low level, that you just HAD to go back later on and just...</description>
     </item>
     <item>
       <title>Daily Blogroll 9/9/09 - Galaxy Express edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/09/daily-blogroll-9909-galaxy-express-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/09/daily-blogroll-9909-galaxy-express-edition/</link>
       <pubDate>Wed, 09 Sep 2009 08:08:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/09/daily-blogroll-9909-galaxy-express-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/09/daily-blogroll-9909-galaxy-express-edition/</guid>
       <description>That&amp;#39;s like Galaxy Express 999, NOT the Futurama ship. That&amp;#39;s Planet Express....</description>
     </item>
     <item>
       <title>Daily Blogroll 9/3 - Sushi day edition!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/09/03/daily-blogroll-93-sushi-day-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/09/03/daily-blogroll-93-sushi-day-edition/</link>
       <pubDate>Thu, 03 Sep 2009 07:58:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/09/03/daily-blogroll-93-sushi-day-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/09/03/daily-blogroll-93-sushi-day-edition/</guid>
       <description>I&amp;#39;ve been thinking of swapping my sidekick in [Legends of Zork](http://legendsofzork.com/) from the Gent (who made me essentially immune to traps) to the Accountant (who...</description>
     </item>
     <item>
       <title>Daily Blogroll 8/27 -- Curioser and curioser edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/27/daily-blogroll-827-curioser-and-curioser-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/08/27/daily-blogroll-827-curioser-and-curioser-edition/</link>
       <pubDate>Thu, 27 Aug 2009 07:51:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/27/daily-blogroll-827-curioser-and-curioser-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/08/27/daily-blogroll-827-curioser-and-curioser-edition/</guid>
       <description>Started on the second tier of Grizzleheim last night. The Virgil Roughlands (level 25&#43;) are a pretty significant step up from Svarstaad Pass. Even two...</description>
     </item>
     <item>
       <title>Daily Blogroll 8/21 - Gloomshine Edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/21/daily-blogroll-821-gloomshine-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/08/21/daily-blogroll-821-gloomshine-edition/</link>
       <pubDate>Fri, 21 Aug 2009 07:47:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/21/daily-blogroll-821-gloomshine-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/08/21/daily-blogroll-821-gloomshine-edition/</guid>
       <description>Is Gatheryn in open beta or not? Massively says [not yet](http://www.massively.com/2009/08/20/gatheryn-approaches-open-beta-offers-registration-page-and-clie/), but following Merry and Pippin&amp;#39;s example, I showed up where I wasn&amp;#39;t invited because...</description>
     </item>
     <item>
       <title>Daily Blogroll 8/19 - L2Test edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/19/daily-blogroll-819-l2test-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/08/19/daily-blogroll-819-l2test-edition/</link>
       <pubDate>Wed, 19 Aug 2009 08:00:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/19/daily-blogroll-819-l2test-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/08/19/daily-blogroll-819-l2test-edition/</guid>
       <description>Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into...</description>
     </item>
     <item>
       <title>Daily Blogroll 8/13: Gyrating Goo edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/13/daily-blogroll-813-gyrating-goo-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/08/13/daily-blogroll-813-gyrating-goo-edition/</link>
       <pubDate>Thu, 13 Aug 2009 08:00:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/13/daily-blogroll-813-gyrating-goo-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/08/13/daily-blogroll-813-gyrating-goo-edition/</guid>
       <description>I THINK this screen shot came while we were raiding the City of Mist for Jalanea&amp;#39;s shaman epic. Remember when guilds used to raid the...</description>
     </item>
     <item>
       <title>Daily Blogroll 8/12 - Dominix edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/12/daily-blogroll-812-dominix-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/08/12/daily-blogroll-812-dominix-edition/</link>
       <pubDate>Wed, 12 Aug 2009 07:45:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/12/daily-blogroll-812-dominix-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/08/12/daily-blogroll-812-dominix-edition/</guid>
       <description>EVE Online wants you to make money. It&amp;#39;s hard NOT to be swimming in the stuff. So your given level 3 mission might have a...</description>
     </item>
     <item>
       <title>Daily Blogroll 8/10 -- Thank God it&#39;s Monday edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/</link>
       <pubDate>Mon, 10 Aug 2009 07:48:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/</guid>
       <description>I got a spam comment today which mentioned, while complimenting me on explaining some vague idea to them, that they were unsure of this blog&amp;#39;s...</description>
     </item>
     <item>
       <title>Daily Blogroll 8/7 -- Band Camp edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/07/daily-blogroll-87-band-camp-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/08/07/daily-blogroll-87-band-camp-edition/</link>
       <pubDate>Fri, 07 Aug 2009 07:54:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/07/daily-blogroll-87-band-camp-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/08/07/daily-blogroll-87-band-camp-edition/</guid>
       <description>Back in EverQuest, the raid leader had banned all mage pets because they tended to push bosses into walls. The mages were not amused....</description>
     </item>
     <item>
       <title>Daily Blogroll 7/24 -- See You Next Wednesday edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/07/24/daily-blogroll-724-see-you-next-wednesday-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/07/24/daily-blogroll-724-see-you-next-wednesday-edition/</link>
       <pubDate>Fri, 24 Jul 2009 06:31:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/07/24/daily-blogroll-724-see-you-next-wednesday-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/07/24/daily-blogroll-724-see-you-next-wednesday-edition/</guid>
       <description>Aside from just being [a shout-out to John Landis fans](http://en.wikipedia.org/wiki/See_You_Next_Wednesday), I will be away on family business all weekend, returning Tuesday. I don&amp;#39;t know if...</description>
     </item>
     <item>
       <title>Daily Blogroll 7/23 -- Aftermath edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/07/23/daily-blogroll-723-aftermath-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/07/23/daily-blogroll-723-aftermath-edition/</link>
       <pubDate>Thu, 23 Jul 2009 07:26:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/07/23/daily-blogroll-723-aftermath-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/07/23/daily-blogroll-723-aftermath-edition/</guid>
       <description>Okay, [THAT was a day of good discussion](https://tipa16384.github.io/wkblog/index.php/2009/07/22/eq2-the-sixteenth-minute-a-rebuttal/), so [thanks, Wolfshead](http://www.wolfsheadonline.com/?p=2570) :) Why did I feel your &amp;#34;first impressions&amp;#34; article needed rebutting? Well, SOMEONE had...</description>
     </item>
     <item>
       <title>Daily Blogroll 7/20 - Much Ado about Nothing edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/07/20/daily-blogroll-720/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/07/20/daily-blogroll-720/</link>
       <pubDate>Mon, 20 Jul 2009 07:30:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/07/20/daily-blogroll-720/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/07/20/daily-blogroll-720/</guid>
       <description>The weekend went by too fast, as it always does....</description>
     </item>
     <item>
       <title>Daily Blogroll 7/16 -- Lost in Bree edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/07/16/daily-blogroll-716-lost-in-bree-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/07/16/daily-blogroll-716-lost-in-bree-edition/</link>
       <pubDate>Thu, 16 Jul 2009 07:40:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/07/16/daily-blogroll-716-lost-in-bree-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/07/16/daily-blogroll-716-lost-in-bree-edition/</guid>
       <description>What makes The Prancing Pony such a &amp;#34;must see&amp;#34; when you&amp;#39;re in Bree? Butterbur just stands in that same spot all day and all night,...</description>
     </item>
     <item>
       <title>Daily Blogroll 7/8</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/07/08/daily-blogroll-78/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/07/08/daily-blogroll-78/</link>
       <pubDate>Wed, 08 Jul 2009 08:09:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/07/08/daily-blogroll-78/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/07/08/daily-blogroll-78/</guid>
       <description>I love the feeling of peace and serenity EVE Online gives. And then sometimes weird, exciting stuff happens. A corps-mate and I were testing weapons...</description>
     </item>
     <item>
       <title>Daily Blogroll 7/1 - MMO Overload edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</link>
       <pubDate>Wed, 01 Jul 2009 07:56:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</guid>
       <description>Yesterday, EverQuest launched its new 51/50 server to [rave reviews](http://mmoquests.com/2009/07/01/random-game-news/), and this morning, Wizard 101 launches its [latest expansion, Grizzleheim](http://thefriendlynecromancer.blogspot.com/2009/06/tons-of-exclusives-mannequins-go-live.html)....</description>
     </item>
     <item>
       <title>Daily Blogroll 6/30 - Christmas edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/30/daily-blogroll-630-christmas-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/30/daily-blogroll-630-christmas-edition/</link>
       <pubDate>Tue, 30 Jun 2009 08:25:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/30/daily-blogroll-630-christmas-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/30/daily-blogroll-630-christmas-edition/</guid>
       <description>[Only 178 days till Christmas](http://www.allcapecod.com/shoptillchristmas.cfm)! With 2009 halfway gone now, I thought you&amp;#39;d want to know....</description>
     </item>
     <item>
       <title>Daily Blogroll 6/24 -- I Love Allergies edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/24/daily-blogroll-624-i-love-allergies-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/24/daily-blogroll-624-i-love-allergies-edition/</link>
       <pubDate>Wed, 24 Jun 2009 08:19:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/24/daily-blogroll-624-i-love-allergies-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/24/daily-blogroll-624-i-love-allergies-edition/</guid>
       <description>Yes, we&amp;#39;re back to the Daily Blogroll. Another allergy attack has left me asleep by 9PM, which really shortens the nights for me....</description>
     </item>
     <item>
       <title>Daily Blogroll 6/23 -- This and That edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/23/daily-blogroll-623-this-and-that-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/23/daily-blogroll-623-this-and-that-edition/</link>
       <pubDate>Tue, 23 Jun 2009 07:55:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/23/daily-blogroll-623-this-and-that-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/23/daily-blogroll-623-this-and-that-edition/</guid>
       <description>Between allergies and traveling, hasn&amp;#39;t been a lot of writing being done. When I got back home Sunday, there were nearly 200 messages in the...</description>
     </item>
     <item>
       <title>Daily Blogroll 6/18 -- Fun with your new Brad edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</link>
       <pubDate>Thu, 18 Jun 2009 07:49:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</guid>
       <description>A few days ago, the MMO blogging world burned with the news that rock star MMO developer turned lonely exile, Brad McQuaid, had returned from...</description>
     </item>
     <item>
       <title>Aion: The User Interface</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/16/aion-the-user-interface/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/16/aion-the-user-interface/</link>
       <pubDate>Tue, 16 Jun 2009 23:15:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/16/aion-the-user-interface/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/16/aion-the-user-interface/</guid>
       <description>Hudson wanted a look at the Aion UI -- and that&amp;#39;s fair....</description>
     </item>
     <item>
       <title>A first look at Aion: The Tower of Eternity</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/16/a-first-look-at-aion-the-tower-of-eternity/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/16/a-first-look-at-aion-the-tower-of-eternity/</link>
       <pubDate>Tue, 16 Jun 2009 21:25:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/16/a-first-look-at-aion-the-tower-of-eternity/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/16/a-first-look-at-aion-the-tower-of-eternity/</guid>
       <description>Aion is not an innovative MMO. Anybody will tell you that....</description>
     </item>
     <item>
       <title>Nightly Blogroll -- Though Amaryllis dance edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/</link>
       <pubDate>Mon, 08 Jun 2009 22:45:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/</guid>
       <description>The &amp;#34;Amaryllis&amp;#34; edition stuff? Well, here it is, a warm Spring night, just started writing, and &amp;#34;{{&amp;lt; youtube NEOI5Ct9DL4 &amp;gt;}}&amp;#34; comes up on the playlist,...</description>
     </item>
     <item>
       <title>The Players of Aion</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/08/the-players-of-aion/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/08/the-players-of-aion/</link>
       <pubDate>Mon, 08 Jun 2009 06:58:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/08/the-players-of-aion/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/08/the-players-of-aion/</guid>
       <description>The NDA for Aion prevents me from saying anything specific about the game; press doesn&amp;#39;t face these same limitations, so you can read some impressions...</description>
     </item>
   </channel>

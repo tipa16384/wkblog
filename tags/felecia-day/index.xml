@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felecia Day on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/felecia-day/</link>
+    <link>http://localhost:1313/wkblog/tags/felecia-day/</link>
     <description>Recent content in Felecia Day on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 16 Jul 2008 10:28:11 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/felecia-day/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/felecia-day/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Horrible&#39;s Sing-Along Blog</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/16/dr-horribles-sing-along-blog/</link>
+      <link>http://localhost:1313/wkblog/2008/07/dr.-horribles-sing-along-blog/</link>
       <pubDate>Wed, 16 Jul 2008 10:28:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/16/dr-horribles-sing-along-blog/</guid>
-      <description>If you actually CAN watch this, then I guess their servers have managed to recover from yesterday&amp;#39;s crush. After trying for awhile, I just got...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/dr.-horribles-sing-along-blog/</guid>
+      <description>If you actually CAN watch this, then I guess their servers have managed to recover from yesterday&amp;rsquo;s crush. After trying for awhile, I just got&amp;hellip;</description>
     </item>
   </channel>
 </rss>

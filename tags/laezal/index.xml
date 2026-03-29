@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lae&#39;zal on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/laezal/</link>
+    <link>http://localhost:1313/wkblog/tags/laezal/</link>
     <description>Recent content in Lae&#39;zal on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 09 Oct 2023 07:46:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/laezal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/laezal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starfield vs. Baldur&#39;s Gate 3</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/10/09/starfield-vs-baldurs-gate-3/</link>
+      <link>http://localhost:1313/wkblog/2023/10/starfield-vs.-baldurs-gate-3/</link>
       <pubDate>Mon, 09 Oct 2023 07:46:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/10/09/starfield-vs-baldurs-gate-3/</guid>
-      <description>I played Baldur&amp;#39;s Gate 3 while my partner played Starfield. Which of us had the most fun?</description>
+      <guid>http://localhost:1313/wkblog/2023/10/starfield-vs.-baldurs-gate-3/</guid>
+      <description>I played Baldur&amp;rsquo;s Gate 3 while my partner played Starfield. Which of us had the most fun?</description>
     </item>
   </channel>
 </rss>

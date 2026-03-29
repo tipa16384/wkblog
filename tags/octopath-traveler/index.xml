@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Octopath Traveler on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/octopath-traveler/</link>
+    <link>http://localhost:1313/wkblog/tags/octopath-traveler/</link>
     <description>Recent content in Octopath Traveler on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 14 Nov 2025 08:30:27 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/octopath-traveler/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/octopath-traveler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Octopath Traveler 0: You&#39;re the Octopath</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/11/14/octopath-traveler-0-youre-the-octopath/</link>
+      <link>http://localhost:1313/wkblog/2025/11/octopath-traveler-0-youre-the-octopath/</link>
       <pubDate>Fri, 14 Nov 2025 08:30:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/11/14/octopath-traveler-0-youre-the-octopath/</guid>
+      <guid>http://localhost:1313/wkblog/2025/11/octopath-traveler-0-youre-the-octopath/</guid>
       <description>In the third console release of the Octopath Traveler series, you become the hero who can rebuild your town.</description>
     </item>
     <item>
       <title>(Not) Taming the Backlog</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/08/03/not-taming-the-backlog/</link>
+      <link>http://localhost:1313/wkblog/2023/08/not-taming-the-backlog/</link>
       <pubDate>Thu, 03 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/08/03/not-taming-the-backlog/</guid>
+      <guid>http://localhost:1313/wkblog/2023/08/not-taming-the-backlog/</guid>
       <description>If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?</description>
     </item>
     <item>
       <title>Pokémon: The New(ish) Addiction</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/02/21/pokemon-the-newish-addiction/</link>
+      <link>http://localhost:1313/wkblog/2023/02/pok%C3%A9mon-the-newish-addiction/</link>
       <pubDate>Tue, 21 Feb 2023 22:16:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/02/21/pokemon-the-newish-addiction/</guid>
-      <description>With both Pokémon Go and Pokémon Sword &amp;amp; Shield going on, it&amp;#39;s pretty much peak Pokémon at the moment.</description>
+      <guid>http://localhost:1313/wkblog/2023/02/pok%C3%A9mon-the-newish-addiction/</guid>
+      <description>With both Pokémon Go and Pokémon Sword &amp;amp; Shield going on, it&amp;rsquo;s pretty much peak Pokémon at the moment.</description>
     </item>
     <item>
       <title>My RPGs of 2020</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/12/11/my-rpgs-of-2020/</link>
+      <link>http://localhost:1313/wkblog/2020/12/my-rpgs-of-2020/</link>
       <pubDate>Fri, 11 Dec 2020 09:23:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/12/11/my-rpgs-of-2020/</guid>
-      <description>I looked at all the RPGs I&amp;#39;ve played this year, trying to pick the one of them all that would be the best of the...</description>
+      <guid>http://localhost:1313/wkblog/2020/12/my-rpgs-of-2020/</guid>
+      <description>I looked at all the RPGs I&amp;rsquo;ve played this year, trying to pick the one of them all that would be the best of the&amp;hellip;</description>
     </item>
     <item>
       <title>Octomini Project Day 3: The $250 mini</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/06/02/octomini-project-day-3-the-250-mini/</link>
+      <link>http://localhost:1313/wkblog/2020/06/octomini-project-day-3-the-250-mini/</link>
       <pubDate>Tue, 02 Jun 2020 12:12:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/06/02/octomini-project-day-3-the-250-mini/</guid>
-      <description>I want to point out at the start that I did not buy a 3D printer to print miniatures....</description>
+      <guid>http://localhost:1313/wkblog/2020/06/octomini-project-day-3-the-250-mini/</guid>
+      <description>I want to point out at the start that I did not buy a 3D printer to print miniatures&amp;hellip;.</description>
     </item>
     <item>
       <title>Octomini Project Day 2: Primed and Ready</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/28/primed-and-ready/</link>
+      <link>http://localhost:1313/wkblog/2020/05/octomini-project-day-2-primed-and-ready/</link>
       <pubDate>Thu, 28 May 2020 03:27:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/28/primed-and-ready/</guid>
-      <description>I&amp;#39;d really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/octomini-project-day-2-primed-and-ready/</guid>
+      <description>I&amp;rsquo;d really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch&amp;hellip;</description>
     </item>
     <item>
       <title>Octomini Project Day 1: Minis Arrive</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/25/octomini-project-day-1-minis-arrive/</link>
+      <link>http://localhost:1313/wkblog/2020/05/octomini-project-day-1-minis-arrive/</link>
       <pubDate>Mon, 25 May 2020 20:46:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/25/octomini-project-day-1-minis-arrive/</guid>
-      <description>A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I&amp;#39;d...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/octomini-project-day-1-minis-arrive/</guid>
+      <description>A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I&amp;rsquo;d&amp;hellip;</description>
     </item>
     <item>
       <title>Am I Witchy Enough For You?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/19/am-i-witchy-enough-for-you/</link>
+      <link>http://localhost:1313/wkblog/2020/05/am-i-witchy-enough-for-you/</link>
       <pubDate>Tue, 19 May 2020 11:06:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/19/am-i-witchy-enough-for-you/</guid>
-      <description>Since I finished Octopath Traveler a few weeks ago, I&amp;#39;ve been looking for another really decent RPG in which to lose myself. My boyfriend had...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/am-i-witchy-enough-for-you/</guid>
+      <description>Since I finished Octopath Traveler a few weeks ago, I&amp;rsquo;ve been looking for another really decent RPG in which to lose myself. My boyfriend had&amp;hellip;</description>
     </item>
     <item>
       <title>I got my minis: Now Octopath Traveler is with me forever.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/14/i-got-my-minis-now-octopath-traveler-is-with-me-forever/</link>
+      <link>http://localhost:1313/wkblog/2020/05/i-got-my-minis-now-octopath-traveler-is-with-me-forever./</link>
       <pubDate>Thu, 14 May 2020 22:49:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/14/i-got-my-minis-now-octopath-traveler-is-with-me-forever/</guid>
-      <description>It wasn&amp;#39;t super long ago that I ordered these minis from [Hero Forge](https://www.heroforge.com/). I&amp;#39;d backed their latest Kickstarter and had a color mini as a...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/i-got-my-minis-now-octopath-traveler-is-with-me-forever./</guid>
+      <description>It wasn&amp;rsquo;t super long ago that I ordered these minis from Hero Forge. I&amp;rsquo;d backed their latest Kickstarter and had a color mini as a&amp;hellip;</description>
     </item>
     <item>
       <title>Octopath Traveler is Octo-Finished.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/29/octopath-traveler-is-octo-finished/</link>
+      <link>http://localhost:1313/wkblog/2020/04/octopath-traveler-is-octo-finished./</link>
       <pubDate>Wed, 29 Apr 2020 02:47:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/29/octopath-traveler-is-octo-finished/</guid>
-      <description>My Switch profile says I have been playing Octopath Traveler for about 135 hours. This is only approaching the time I spent playing Skyrim, which...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/octopath-traveler-is-octo-finished./</guid>
+      <description>My Switch profile says I have been playing Octopath Traveler for about 135 hours. This is only approaching the time I spent playing Skyrim, which&amp;hellip;</description>
     </item>
     <item>
       <title>Daily Gaming Log: April 28 Royal</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/28/daily-gaming-log-april-28-royal/</link>
+      <link>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-28-royal/</link>
       <pubDate>Tue, 28 Apr 2020 22:09:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/28/daily-gaming-log-april-28-royal/</guid>
-      <description>Last night: Started off with the dailies in DCUO. Kaptain KY had told me to fly left before the final fight to escape from Lobo&amp;#39;s...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-28-royal/</guid>
+      <description>Last night: Started off with the dailies in DCUO. Kaptain KY had told me to fly left before the final fight to escape from Lobo&amp;rsquo;s&amp;hellip;</description>
     </item>
     <item>
       <title>Daily Gaming Log: April 27.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/27/daily-gaming-log-april-27/</link>
+      <link>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-27./</link>
       <pubDate>Mon, 27 Apr 2020 21:43:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/27/daily-gaming-log-april-27/</guid>
-      <description>Octopath Traveler: Made it to the second phase of Galdera, the true final boss. This was my first time making it this far. Now that...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/daily-gaming-log-april-27./</guid>
+      <description>Octopath Traveler: Made it to the second phase of Galdera, the true final boss. This was my first time making it this far. Now that&amp;hellip;</description>
     </item>
     <item>
       <title>Ophilia is out for printing!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/21/ophilia-is-out-for-printing/</link>
+      <link>http://localhost:1313/wkblog/2020/04/ophilia-is-out-for-printing/</link>
       <pubDate>Tue, 21 Apr 2020 21:17:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/21/ophilia-is-out-for-printing/</guid>
-      <description>Hero Forge sent today the receipt for yesterday&amp;#39;s order for the printed Octopath Traveler minatures. The lighting is a lot flatter than it is in...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/ophilia-is-out-for-printing/</guid>
+      <description>Hero Forge sent today the receipt for yesterday&amp;rsquo;s order for the printed Octopath Traveler minatures. The lighting is a lot flatter than it is in&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Failure Cascade on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/failure-cascade/</link>
+    <link>http://localhost:1313/wkblog/tags/failure-cascade/</link>
     <description>Recent content in Failure Cascade on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 30 Nov 2007 08:37:16 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/failure-cascade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/failure-cascade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Failure Cascade</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/11/30/eq2-failure-cascade/</link>
+      <link>http://localhost:1313/wkblog/2007/11/eq2-failure-cascade/</link>
       <pubDate>Fri, 30 Nov 2007 08:37:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/11/30/eq2-failure-cascade/</guid>
-      <description>I didn&amp;#39;t want to talk about Winterwing before she finished the Butcherblock quest line, but while I was messing up an alliance between the Timorous...</description>
+      <guid>http://localhost:1313/wkblog/2007/11/eq2-failure-cascade/</guid>
+      <description>I didn&amp;rsquo;t want to talk about Winterwing before she finished the Butcherblock quest line, but while I was messing up an alliance between the Timorous&amp;hellip;</description>
     </item>
   </channel>
 </rss>

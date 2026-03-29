@@ -1,180 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dream of Mirror Online on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dream-of-mirror-online/</link>
+    <link>http://localhost:1313/wkblog/tags/dream-of-mirror-online/</link>
     <description>Recent content in Dream of Mirror Online on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 14 Apr 2010 06:51:40 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dream-of-mirror-online/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The best MMO for a new player?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/04/14/the-best-mmo-for-a-new-player/</link>
-      <pubDate>Wed, 14 Apr 2010 06:51:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/04/14/the-best-mmo-for-a-new-player/</guid>
-      <description>Reader Velmonte asks:...</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 8/19 - L2Test edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/08/19/daily-blogroll-819-l2test-edition/</link>
-      <pubDate>Wed, 19 Aug 2009 08:00:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/08/19/daily-blogroll-819-l2test-edition/</guid>
-      <description>Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into...</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 5/4 -- Dragon Claw Style edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/</link>
-      <pubDate>Mon, 04 May 2009 07:52:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/</guid>
-      <description>Yes, this is the Daily Blogroll MY OWN BLOG [didn&amp;#39;t want you to see](https://tipa16384.github.io/wkblog/index.php/2009/05/01/adventures-in-monopoly-wheres-the-daily-blogroll/)!...</description>
-    </item>
-    <item>
-      <title>Wizard 101: Plague Oni, why can&#39;t I quit you?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/01/09/wizard-101-plague-oni-why-cant-i-quit-you/</link>
-      <pubDate>Fri, 09 Jan 2009 07:35:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/01/09/wizard-101-plague-oni-why-cant-i-quit-you/</guid>
-      <description>*Check out that xp bar! Less than one bubble to 46...*...</description>
-    </item>
-    <item>
-      <title>A look back at 2008</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/24/a-look-back-at-2008/</link>
-      <pubDate>Wed, 24 Dec 2008 14:20:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/24/a-look-back-at-2008/</guid>
-      <description>2008 has been an absolutely amazing year for MMOs, and my personal progress through them....</description>
-    </item>
-    <item>
-      <title>DOMO Mission night</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/24/domo-mission-night/</link>
-      <pubDate>Wed, 24 Dec 2008 08:47:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/24/domo-mission-night/</guid>
-      <description>You don&amp;#39;t lose xp when you die in one of Dream of Mirror Online&amp;#39;s missions, which is very nice of the devs, because, who&amp;#39;d do...</description>
-    </item>
-    <item>
-      <title>Crayon Physics Deluxe &amp; DOMO Christmas</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/23/crayon-physics-deluxe-domo-christmas/</link>
-      <pubDate>Tue, 23 Dec 2008 07:50:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/23/crayon-physics-deluxe-domo-christmas/</guid>
-      <description>Ripped right from the refrigerator door, [Crayon Physics Deluxe](http://www.crayonphysics.com/) answers the age-old question, &amp;#34;What if those drawings I made in kindergarten were REAL? And I...</description>
-    </item>
-    <item>
-      <title>DOMO: Level 25, but Alchemy is hard :(</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/22/domo-level-25-but-alchemy-is-hard/</link>
-      <pubDate>Mon, 22 Dec 2008 08:50:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/22/domo-level-25-but-alchemy-is-hard/</guid>
-      <description>*Taking on the Giant Butterfly outside the bandit camp in Copperhorn Mountain*...</description>
-    </item>
-    <item>
-      <title>DOMO: Train to Zone!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/18/domo-train-to-zone/</link>
-      <pubDate>Thu, 18 Dec 2008 10:09:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/18/domo-train-to-zone/</guid>
-      <description>They say you can&amp;#39;t polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending...</description>
-    </item>
-    <item>
-      <title>AFK today ~</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/16/afk-today/</link>
-      <pubDate>Tue, 16 Dec 2008 09:50:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/16/afk-today/</guid>
-      <description>Computer on, online, but AFK while at work today. Today, while I am converting bond letters at work, my DOMO character will be doing a...</description>
-    </item>
-    <item>
-      <title>DOMO: Level 23 Thief/Musician, LFG</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/15/domo-level-23-thiefmusician-lfg/</link>
-      <pubDate>Mon, 15 Dec 2008 21:12:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/15/domo-level-23-thiefmusician-lfg/</guid>
-      <description>*The obviously misnamed Eversun City at sunset, outside the Planetarium.*...</description>
-    </item>
-    <item>
-      <title>DOMO: If you&#39;re gonna have RMT in your game...</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/11/domo-if-youre-gonna-have-rmt-in-your-game/</link>
-      <pubDate>Thu, 11 Dec 2008 12:00:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/11/domo-if-youre-gonna-have-rmt-in-your-game/</guid>
-      <description>If you&amp;#39;re going to have RMT in your game, make it weird, kooky and over the top -- like this Santa&amp;#39;s sleigh mount from Dream...</description>
-    </item>
-    <item>
-      <title>DOMO: I&#39;m a filthy camper.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/09/domo-im-a-filthy-camper/</link>
-      <pubDate>Tue, 09 Dec 2008 22:23:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/09/domo-im-a-filthy-camper/</guid>
-      <description>Dream of Mirror Online was down most of the night last night. When it came back up, I mostly just ran around collecting jobs --...</description>
-    </item>
-    <item>
-      <title>DOMO: The evil that is Aeria Games... EXPOSED.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/08/domo-the-evil-that-is-aeria-games-exposed/</link>
-      <pubDate>Mon, 08 Dec 2008 20:34:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/08/domo-the-evil-that-is-aeria-games-exposed/</guid>
-      <description>You think you&amp;#39;re strong. You think you can play the game without using RMT. Gonna game Aeria, gonna take all their stuff and give nothing...</description>
-    </item>
-    <item>
-      <title>DOMO&#39;s Nude Switch</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/08/domos-nude-switch/</link>
-      <pubDate>Mon, 08 Dec 2008 08:16:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/08/domos-nude-switch/</guid>
-      <description>Norikue pointed out the possible reason why everyone but me seemed to be stripped to their skivvies. The mysterious check box marked &amp;#34;Show Equipment&amp;#34; in...</description>
-    </item>
-    <item>
-      <title>Dream of Mirror Online: Learning to Fly</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/08/dream-of-mirror-online-learning-to-fly/</link>
-      <pubDate>Mon, 08 Dec 2008 02:00:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/08/dream-of-mirror-online-learning-to-fly/</guid>
-      <description>People just get looking meaner and meaner as they level in Dream of Mirror Online. Well, I do, anyway. I have NO IDEA why most...</description>
-    </item>
-    <item>
-      <title>A little this, a little that: Building a character in Dream of Mirror Online</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/04/a-little-this-a-little-that-building-a-character-in-dream-of-mirror-online/</link>
-      <pubDate>Thu, 04 Dec 2008 09:24:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/04/a-little-this-a-little-that-building-a-character-in-dream-of-mirror-online/</guid>
-      <description>In Dream of Mirror Online -- DOMO -- there&amp;#39;s no real need for alts because your character can change classes to any they have unlocked...</description>
-    </item>
-    <item>
-      <title>Dream of Mirror Online: Starting Over</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/02/dream-of-mirror-online-starting-over/</link>
-      <pubDate>Tue, 02 Dec 2008 10:10:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/02/dream-of-mirror-online-starting-over/</guid>
-      <description>With Wizard 101&amp;#39;s Dragonspyre world still in the unforeseeable future (WHEN, KingsIsle?), and Chronicles of Spellborn also months away (and the German one that should...</description>
-    </item>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jul 2008 08:15:56 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/wkblog/tags/dream-of-mirror-online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A first look at Florensia</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/25/a-first-look-at-florensia/</link>
+      <link>http://localhost:1313/wkblog/2008/07/a-first-look-at-florensia/</link>
       <pubDate>Fri, 25 Jul 2008 08:15:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/25/a-first-look-at-florensia/</guid>
-      <description>Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/a-first-look-at-florensia/</guid>
+      <description>Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?&amp;hellip;</description>
     </item>
     <item>
       <title>Free-to-play game of the month?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/24/free-to-play-game-of-the-month/</link>
+      <link>http://localhost:1313/wkblog/2008/07/free-to-play-game-of-the-month/</link>
       <pubDate>Thu, 24 Jul 2008 09:07:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/24/free-to-play-game-of-the-month/</guid>
-      <description>As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my...</description>
-    </item>
-    <item>
-      <title>5 MMOs better than World of Warcraft</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/04/01/5-mmos-better-than-world-of-warcraft/</link>
-      <pubDate>Tue, 01 Apr 2008 18:52:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/04/01/5-mmos-better-than-world-of-warcraft/</guid>
-      <description>A feature of mine about good [games that DON&amp;#39;T have Warcraft in their names](http://www.massively.com/2008/04/01/five-mmos-better-than-world-of-warcraft/) and could use some well-deserved love is up on Massively. [Check...</description>
-    </item>
-    <item>
-      <title>Bad article ideas: MMO Pinup Calendar</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/03/31/bad-article-ideas-mmo-pinup-calendar/</link>
-      <pubDate>Mon, 31 Mar 2008 08:05:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/03/31/bad-article-ideas-mmo-pinup-calendar/</guid>
-      <description>It&amp;#39;s been a little over a week since I started blogging over at Massively, and while I am really enjoying myself, I think I still...</description>
-    </item>
-    <item>
-      <title>DOMO: Sorry, I have to post this...</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/12/06/domo-sorry-i-have-to-post-this/</link>
-      <pubDate>Thu, 06 Dec 2007 02:15:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/12/06/domo-sorry-i-have-to-post-this/</guid>
-      <description>This game just turns the cute -- I mean, the *kawaii* -- up to 11... So after you choose your life&amp;#39;s destiny, all very solemn,...</description>
-    </item>
-    <item>
-      <title>Dream of Mirror Online</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/12/05/dream-of-mirror-online/</link>
-      <pubDate>Wed, 05 Dec 2007 08:49:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/12/05/dream-of-mirror-online/</guid>
-      <description>I downloaded Dream of Mirror Online (DOMO) last night, and tried to get it to work under WINE in Linux, but no dice, so I...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/free-to-play-game-of-the-month/</guid>
+      <description>As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my&amp;hellip;</description>
     </item>
   </channel>
 </rss>

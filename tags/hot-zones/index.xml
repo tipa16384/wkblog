@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hot Zones on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/hot-zones/</link>
+    <link>http://localhost:1313/wkblog/tags/hot-zones/</link>
     <description>Recent content in Hot Zones on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 10 Dec 2008 09:44:11 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/hot-zones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/hot-zones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New EverQuest hot zones. RMT, and Frostfell missions</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/</link>
+      <link>http://localhost:1313/wkblog/2008/12/new-everquest-hot-zones.-rmt-and-frostfell-missions/</link>
       <pubDate>Wed, 10 Dec 2008 09:44:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/</guid>
-      <description>Much thanks to [Danshir](http://themmoexperience.blogspot.com/) for reminding me last night that EverQuest has changed its list of hot zones, places that give extra adventure and AA...</description>
+      <guid>http://localhost:1313/wkblog/2008/12/new-everquest-hot-zones.-rmt-and-frostfell-missions/</guid>
+      <description>Much thanks to Danshir for reminding me last night that EverQuest has changed its list of hot zones, places that give extra adventure and AA&amp;hellip;</description>
     </item>
     <item>
       <title>EQ: Hot zone hoedown</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/23/eq-hot-zone-hoedown/</link>
+      <link>http://localhost:1313/wkblog/2008/08/eq-hot-zone-hoedown/</link>
       <pubDate>Sat, 23 Aug 2008 08:19:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/23/eq-hot-zone-hoedown/</guid>
-      <description>The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/eq-hot-zone-hoedown/</guid>
+      <description>The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and&amp;hellip;</description>
     </item>
     <item>
       <title>New hot zones for EverQuest</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/20/new-hot-zones-for-everquest/</link>
+      <link>http://localhost:1313/wkblog/2008/08/new-hot-zones-for-everquest/</link>
       <pubDate>Wed, 20 Aug 2008 19:02:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/20/new-hot-zones-for-everquest/</guid>
-      <description>As expected, SOE has made a whole new set of hot zones for nearly all levels. There are some old favorites, and a couple of...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/new-hot-zones-for-everquest/</guid>
+      <description>As expected, SOE has made a whole new set of hot zones for nearly all levels. There are some old favorites, and a couple of&amp;hellip;</description>
     </item>
   </channel>
 </rss>

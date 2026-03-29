@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imperial Japanese Navy on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/imperial-japanese-navy/</link>
+    <link>http://localhost:1313/wkblog/tags/imperial-japanese-navy/</link>
     <description>Recent content in Imperial Japanese Navy on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2020 15:02:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/imperial-japanese-navy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/imperial-japanese-navy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>World of Warships is the perfect MMO for someone who just can&#39;t be bothered to care any more.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/22/world-of-weebships/</link>
+      <link>http://localhost:1313/wkblog/2020/04/world-of-warships-is-the-perfect-mmo-for-someone-who-just-cant-be-bothered-to-care-any-more./</link>
       <pubDate>Wed, 22 Apr 2020 15:02:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/22/world-of-weebships/</guid>
-      <description>Back in the before times, there was a blogger who was deep into World of Tanks. I don&amp;#39;t remember who it was, but I remember...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/world-of-warships-is-the-perfect-mmo-for-someone-who-just-cant-be-bothered-to-care-any-more./</guid>
+      <description>Back in the before times, there was a blogger who was deep into World of Tanks. I don&amp;rsquo;t remember who it was, but I remember&amp;hellip;</description>
     </item>
   </channel>
 </rss>

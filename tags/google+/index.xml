@@ -1,96 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google&#43; on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/google&#43;/</link>
+    <link>http://localhost:1313/wkblog/tags/google&#43;/</link>
     <description>Recent content in Google&#43; on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 18 Nov 2011 12:43:50 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/google+/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/google+/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D&amp;D4E: Ding!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/18/dd4e-ding/</link>
+      <link>http://localhost:1313/wkblog/2011/11/dd4e-ding/</link>
       <pubDate>Fri, 18 Nov 2011 12:43:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/18/dd4e-ding/</guid>
-      <description>After last week&amp;#39;s epic battle against an Indiana Jones-style boulder trap and various drakes and kobold lords, what could possibly await us in the cavern...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/dd4e-ding/</guid>
+      <description>After last week&amp;rsquo;s epic battle against an Indiana Jones-style boulder trap and various drakes and kobold lords, what could possibly await us in the cavern&amp;hellip;</description>
     </item>
     <item>
       <title>DCUO: It&#39;s a hard light</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/11/dcuo-its-a-hard-light/</link>
+      <link>http://localhost:1313/wkblog/2011/11/dcuo-its-a-hard-light/</link>
       <pubDate>Fri, 11 Nov 2011 01:21:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/11/dcuo-its-a-hard-light/</guid>
-      <description>Okay, so in SOE&amp;#39;s DC Universe Online, people are getting random superpowers by being infected with some superpower thing cooked up by Brainiac. You wake...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/dcuo-its-a-hard-light/</guid>
+      <description>Okay, so in SOE&amp;rsquo;s DC Universe Online, people are getting random superpowers by being infected with some superpower thing cooked up by Brainiac. You wake&amp;hellip;</description>
     </item>
     <item>
       <title>I&#39;m semi-Internet famous!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/10/im-semi-internet-famous/</link>
+      <link>http://localhost:1313/wkblog/2011/11/im-semi-internet-famous/</link>
       <pubDate>Thu, 10 Nov 2011 13:20:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/10/im-semi-internet-famous/</guid>
-      <description>Stargrace of MMO Quests interviewed me about gaming :)...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/im-semi-internet-famous/</guid>
+      <description>Stargrace of MMO Quests interviewed me about gaming :)&amp;hellip;</description>
     </item>
     <item>
       <title>DDO Update 12: Challenge Dungeons</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/10/ddo-update-12-challenge-dungeons/</link>
+      <link>http://localhost:1313/wkblog/2011/11/ddo-update-12-challenge-dungeons/</link>
       <pubDate>Thu, 10 Nov 2011 00:04:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/10/ddo-update-12-challenge-dungeons/</guid>
-      <description>Turbine pushed its &amp;#34;Vault of the Artificers&amp;#34; update live today. As well as enabling the new Artificer class to be unlocked through gameplay, the update...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/ddo-update-12-challenge-dungeons/</guid>
+      <description>Turbine pushed its &amp;ldquo;Vault of the Artificers&amp;rdquo; update live today. As well as enabling the new Artificer class to be unlocked through gameplay, the update&amp;hellip;</description>
     </item>
     <item>
       <title>Running: Nearing the Threshold</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/09/todays-run-was-a-little-better-than-mondays/</link>
+      <link>http://localhost:1313/wkblog/2011/11/running-nearing-the-threshold/</link>
       <pubDate>Wed, 09 Nov 2011 15:16:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/09/todays-run-was-a-little-better-than-mondays/</guid>
-      <description>Today&amp;#39;s run was a little better than Monday&amp;#39;s. 5.3 mph vs 5.2 mph, so when I say a little better, that&amp;#39;s what I mean. However,...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/running-nearing-the-threshold/</guid>
+      <description>Today&amp;rsquo;s run was a little better than Monday&amp;rsquo;s. 5.3 mph vs 5.2 mph, so when I say a little better, that&amp;rsquo;s what I mean. However,&amp;hellip;</description>
     </item>
     <item>
       <title>DDO: Rakshasa, Dragons and Many Many Minos.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/09/ddo-rakshasa-dragons-and-many-many-minos/</link>
+      <link>http://localhost:1313/wkblog/2011/11/ddo-rakshasa-dragons-and-many-many-minos./</link>
       <pubDate>Wed, 09 Nov 2011 06:33:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/09/ddo-rakshasa-dragons-and-many-many-minos/</guid>
-      <description>Modern MMOs have trained me to believe that no matter what class I play, I&amp;#39;ll be able to solo anything without trouble. That&amp;#39;s the compact...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/ddo-rakshasa-dragons-and-many-many-minos./</guid>
+      <description>Modern MMOs have trained me to believe that no matter what class I play, I&amp;rsquo;ll be able to solo anything without trouble. That&amp;rsquo;s the compact&amp;hellip;</description>
     </item>
     <item>
       <title>Manchester Road Race: I&#39;m so gonna die.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/08/manchester-road-race-im-so-gonna-die/</link>
+      <link>http://localhost:1313/wkblog/2011/11/manchester-road-race-im-so-gonna-die./</link>
       <pubDate>Tue, 08 Nov 2011 17:09:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/08/manchester-road-race-im-so-gonna-die/</guid>
-      <description>*...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/manchester-road-race-im-so-gonna-die./</guid>
+      <description>*&amp;hellip;</description>
     </item>
     <item>
       <title>Bulls Bridge</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/07/bulls-bridge/</link>
+      <link>http://localhost:1313/wkblog/2011/11/bulls-bridge/</link>
       <pubDate>Mon, 07 Nov 2011 21:02:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/07/bulls-bridge/</guid>
-      <description>Today I visited the Bulls Bridge in Kent, CT. The bridge crosses over the Housatonic (HOOS-a-tonic) river onto a large island that splits the river...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/bulls-bridge/</guid>
+      <description>Today I visited the Bulls Bridge in Kent, CT. The bridge crosses over the Housatonic (HOOS-a-tonic) river onto a large island that splits the river&amp;hellip;</description>
     </item>
     <item>
       <title>TV Watch: Being Human (UK)</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/07/i-didnt-expect-that-a-series-about-a-ghost-a-vampire-and-a-werewolf-living/</link>
+      <link>http://localhost:1313/wkblog/2011/11/tv-watch-being-human-uk/</link>
       <pubDate>Mon, 07 Nov 2011 11:42:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/07/i-didnt-expect-that-a-series-about-a-ghost-a-vampire-and-a-werewolf-living/</guid>
-      <description>I didn&amp;#39;t expect that a series about a ghost, a vampire and a werewolf living together in a Bristol flat would actually be a really...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/tv-watch-being-human-uk/</guid>
+      <description>I didn&amp;rsquo;t expect that a series about a ghost, a vampire and a werewolf living together in a Bristol flat would actually be a really&amp;hellip;</description>
     </item>
     <item>
       <title>TV Watch!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/11/02/last-night-i-finally-got-around-to-watching-terra-nova-which-had-the-cop-actually/</link>
+      <link>http://localhost:1313/wkblog/2011/11/tv-watch/</link>
       <pubDate>Wed, 02 Nov 2011 17:34:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/11/02/last-night-i-finally-got-around-to-watching-terra-nova-which-had-the-cop-actually/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2011/11/tv-watch/</guid>
+      <description>[&amp;hellip;</description>
     </item>
     <item>
       <title>Tree just looks so lonely.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/10/31/tree-just-looks-so-lonely/</link>
+      <link>http://localhost:1313/wkblog/2011/10/tree-just-looks-so-lonely./</link>
       <pubDate>Mon, 31 Oct 2011 23:09:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/10/31/tree-just-looks-so-lonely/</guid>
-      <description>Tree just looks so lonely....</description>
+      <guid>http://localhost:1313/wkblog/2011/10/tree-just-looks-so-lonely./</guid>
+      <description>Tree just looks so lonely&amp;hellip;.</description>
     </item>
     <item>
       <title>Signed up for the Manchester Road Race tonight</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/10/20/signed-up-for-the-manchester-road-race-tonight/</link>
+      <link>http://localhost:1313/wkblog/2011/10/signed-up-for-the-manchester-road-race-tonight/</link>
       <pubDate>Thu, 20 Oct 2011 22:34:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/10/20/signed-up-for-the-manchester-road-race-tonight/</guid>
-      <description>I had to sign a waiver that says if I die on the road, not their fault. However, I will have the t-shirt.**Google&#43;:** [View post...</description>
+      <guid>http://localhost:1313/wkblog/2011/10/signed-up-for-the-manchester-road-race-tonight/</guid>
+      <description>I had to sign a waiver that says if I die on the road, not their fault. However, I will have the t-shirt.Google+: View post&amp;hellip;</description>
     </item>
   </channel>
 </rss>

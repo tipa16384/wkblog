@@ -1,138 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EverQuest II on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/everquest-ii/</link>
+    <link>http://localhost:1313/wkblog/tags/everquest-ii/</link>
     <description>Recent content in EverQuest II on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 04 May 2024 16:48:35 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/everquest-ii/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/everquest-ii/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EverQuest II goes retro with Anashti Sul</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/</link>
+      <link>http://localhost:1313/wkblog/2024/05/everquest-ii-goes-retro-with-anashti-sul/</link>
       <pubDate>Sat, 04 May 2024 16:48:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/</guid>
-      <description>It&amp;#39;s probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the &amp;#34;Lifegiver&amp;#34;, but now more known for bringing life to the dead.</description>
-    </item>
-    <item>
-      <title>This Day In Blogging: August 1, 2006</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/08/01/this-day-in-blogging-august-1-2006/</link>
-      <pubDate>Tue, 01 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/08/01/this-day-in-blogging-august-1-2006/</guid>
-      <description>I&amp;#39;ve been blogging for 25 years. Here&amp;#39;s the things I was blogging about on the first day of August in 1998-ish, 2006, 2008, 2012, and 2020. Enjoy!</description>
-    </item>
-    <item>
-      <title>MMOs on the Bubble</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/08/07/mmos-on-the-bubble/</link>
-      <pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/08/07/mmos-on-the-bubble/</guid>
-      <description>I don&amp;#39;t play every MMO that comes out -- not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and...</description>
-    </item>
-    <item>
-      <title>EverQuest II: Soloing to Fifty</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/12/07/everquest-ii-soloing-to-fifty/</link>
-      <pubDate>Mon, 07 Dec 2020 08:32:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/12/07/everquest-ii-soloing-to-fifty/</guid>
-      <description>My time in EverQuest&amp;#39;s latest timelocked progression server, Aradune, didn&amp;#39;t go anywhere this summer. I still felt nostalgic for the older days of MMOs, though,...</description>
-    </item>
-    <item>
-      <title>What makes an MMO an MMO?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/09/09/what-makes-an-mmo-an-mmo/</link>
-      <pubDate>Wed, 09 Sep 2020 07:54:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/09/09/what-makes-an-mmo-an-mmo/</guid>
-      <description>Yesterday, &amp;#34;Kingdoms of Amalur: The Re-Reckoning&amp;#34;, an update of 2012&amp;#39;s &amp;#34;Kingdoms of Amalur: The Reckoning&amp;#34; was released. It&amp;#39;s a refresh of a game that seemed...</description>
-    </item>
-    <item>
-      <title>Does Crafting have any place in modern MMOs?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/08/18/does-crafting-have-any-place-in-modern-mmos/</link>
-      <pubDate>Tue, 18 Aug 2020 20:01:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/08/18/does-crafting-have-any-place-in-modern-mmos/</guid>
-      <description>This is going to be a little Twitter-heavy, and I apologize for that....</description>
-    </item>
-    <item>
-      <title>EverQuest is dead. Long live EverQuest! New games trying to capture EQ nostalgia are doomed.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/11/mangled-everquest-day-1/</link>
-      <pubDate>Mon, 11 May 2020 01:02:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/11/mangled-everquest-day-1/</guid>
-      <description>I&amp;#39;ve been running around in an EverQuest Time-Limited Progression (TLP) server the past couple of days. Is there even such a thing as a new EverQuest player anymore?</description>
-    </item>
-    <item>
-      <title>Favorite Game Series #2: EverQuest</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/30/favorite-game-series-2-everquest/</link>
-      <pubDate>Thu, 30 Apr 2020 11:44:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/30/favorite-game-series-2-everquest/</guid>
-      <description>Before you start objecting to having an MMO up this far, I&amp;#39;m just going to present my bona fides: There&amp;#39;s a TON of games in...</description>
+      <guid>http://localhost:1313/wkblog/2024/05/everquest-ii-goes-retro-with-anashti-sul/</guid>
+      <description>It&amp;rsquo;s probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the &amp;ldquo;Lifegiver&amp;rdquo;, but now more known for bringing life to the dead.</description>
     </item>
     <item>
       <title>EQ2: Nostalgia Guild Hall mania!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/09/eq2-nostalgia-guild-hall-mania/</link>
+      <link>http://localhost:1313/wkblog/2008/10/eq2-nostalgia-guild-hall-mania/</link>
       <pubDate>Thu, 09 Oct 2008 07:25:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/09/eq2-nostalgia-guild-hall-mania/</guid>
-      <description>Since I barely did anything to help with the guild hall, compared with [Stargrace](http://mmoquests.com), [Kasul](http://shatteredblog.wordpress.com) and Ecor, I feel kinda embarrassed to be the first...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/eq2-nostalgia-guild-hall-mania/</guid>
+      <description>Since I barely did anything to help with the guild hall, compared with Stargrace, Kasul and Ecor, I feel kinda embarrassed to be the first&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: Cloth vests mean more fashion choices for casters</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/</link>
+      <link>http://localhost:1313/wkblog/2008/10/eq2-cloth-vests-mean-more-fashion-choices-for-casters/</link>
       <pubDate>Wed, 08 Oct 2008 14:00:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/</guid>
-      <description>In either this latest game update, GU49, or the previous one, SOE added new recipes for tailors so that cloth-wearing classes, the ones whose clothing...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/eq2-cloth-vests-mean-more-fashion-choices-for-casters/</guid>
+      <description>In either this latest game update, GU49, or the previous one, SOE added new recipes for tailors so that cloth-wearing classes, the ones whose clothing&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: GU49 live!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/07/eq2-gu49-live/</link>
+      <link>http://localhost:1313/wkblog/2008/10/eq2-gu49-live/</link>
       <pubDate>Tue, 07 Oct 2008 12:25:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/07/eq2-gu49-live/</guid>
-      <description>Via Taymar at [MMORPG Info](http://www.mmorpg-info.org/) (always a fantastic place for information about EQ2 and other games), EQ2&amp;#39;s game update 49 -- the last one before...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/eq2-gu49-live/</guid>
+      <description>Via Taymar at MMORPG Info (always a fantastic place for information about EQ2 and other games), EQ2&amp;rsquo;s game update 49 &amp;ndash; the last one before&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: The return of Anashti Sul?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/07/eq2-the-return-of-anashti-sul/</link>
+      <link>http://localhost:1313/wkblog/2008/10/eq2-the-return-of-anashti-sul/</link>
       <pubDate>Tue, 07 Oct 2008 08:40:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/07/eq2-the-return-of-anashti-sul/</guid>
-      <description>The EverQuest 2 GU48 world quest deals with, from the evil side, anyway, discovering who is responsible for the death of a Qeynosian Seeress who...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/eq2-the-return-of-anashti-sul/</guid>
+      <description>The EverQuest 2 GU48 world quest deals with, from the evil side, anyway, discovering who is responsible for the death of a Qeynosian Seeress who&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: GU 49 Test patch notes commentary</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/17/eq2-gu-49-test-patch-notes-commentary/</link>
+      <link>http://localhost:1313/wkblog/2008/09/eq2-gu-49-test-patch-notes-commentary/</link>
       <pubDate>Wed, 17 Sep 2008 13:44:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/17/eq2-gu-49-test-patch-notes-commentary/</guid>
-      <description>EverQuest 2&amp;#39;s game update 49 is pretty much the most exciting single update since Kunark. As the last (I believe) update before the launch of...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/eq2-gu-49-test-patch-notes-commentary/</guid>
+      <description>EverQuest 2&amp;rsquo;s game update 49 is pretty much the most exciting single update since Kunark. As the last (I believe) update before the launch of&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: Tomb of Thuuga and the Shard of Hate</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate/</link>
+      <link>http://localhost:1313/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</link>
       <pubDate>Sun, 14 Sep 2008 12:20:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate/</guid>
-      <description>*Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning.*...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</guid>
+      <description>Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning&amp;hellip;.</description>
     </item>
     <item>
       <title>EQ2: Healing the Crypt of Agony</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/12/01/eq2-healing-the-crypt-of-agony/</link>
+      <link>http://localhost:1313/wkblog/2007/12/eq2-healing-the-crypt-of-agony/</link>
       <pubDate>Sat, 01 Dec 2007 03:46:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/12/01/eq2-healing-the-crypt-of-agony/</guid>
-      <description>I finally got a Sebilis group with my troub; and the experience was pretty decent. The tank wasn&amp;#39;t quite up to tanking it -- he...</description>
+      <guid>http://localhost:1313/wkblog/2007/12/eq2-healing-the-crypt-of-agony/</guid>
+      <description>I finally got a Sebilis group with my troub; and the experience was pretty decent. The tank wasn&amp;rsquo;t quite up to tanking it &amp;ndash; he&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: Failure Cascade</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/11/30/eq2-failure-cascade/</link>
+      <link>http://localhost:1313/wkblog/2007/11/eq2-failure-cascade/</link>
       <pubDate>Fri, 30 Nov 2007 08:37:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/11/30/eq2-failure-cascade/</guid>
-      <description>I didn&amp;#39;t want to talk about Winterwing before she finished the Butcherblock quest line, but while I was messing up an alliance between the Timorous...</description>
+      <guid>http://localhost:1313/wkblog/2007/11/eq2-failure-cascade/</guid>
+      <description>I didn&amp;rsquo;t want to talk about Winterwing before she finished the Butcherblock quest line, but while I was messing up an alliance between the Timorous&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: I just gotta have more cowbell</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/10/18/eq2-i-just-gotta-have-more-cowbell/</link>
+      <link>http://localhost:1313/wkblog/2007/10/eq2-i-just-gotta-have-more-cowbell/</link>
       <pubDate>Thu, 18 Oct 2007 07:34:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/10/18/eq2-i-just-gotta-have-more-cowbell/</guid>
-      <description>Very quick note on Live Update 39, will do more tonight......</description>
+      <guid>http://localhost:1313/wkblog/2007/10/eq2-i-just-gotta-have-more-cowbell/</guid>
+      <description>Very quick note on Live Update 39, will do more tonight&amp;hellip;&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: The crows come home to roost</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/10/13/eq2-the-crows-come-home-to-roost/</link>
+      <link>http://localhost:1313/wkblog/2007/10/eq2-the-crows-come-home-to-roost/</link>
       <pubDate>Sat, 13 Oct 2007 09:10:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/10/13/eq2-the-crows-come-home-to-roost/</guid>
-      <description>This was all part of our &amp;#34;execution strategy&amp;#34;. Carefully arrange ourselves *beneath* him, with our weapons all pointed up, then when he gets tired and...</description>
+      <guid>http://localhost:1313/wkblog/2007/10/eq2-the-crows-come-home-to-roost/</guid>
+      <description>This was all part of our &amp;ldquo;execution strategy&amp;rdquo;. Carefully arrange ourselves beneath him, with our weapons all pointed up, then when he gets tired and&amp;hellip;</description>
     </item>
   </channel>
 </rss>

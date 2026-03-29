@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magic the Gathering on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/magic-the-gathering/</link>
+    <link>http://localhost:1313/wkblog/tags/magic-the-gathering/</link>
     <description>Recent content in Magic the Gathering on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 15 Jun 2020 11:15:53 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/magic-the-gathering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/magic-the-gathering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Night: Magic: the Gathering (Commander)</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/06/15/game-night-magic-the-gathering-commander/</link>
+      <link>http://localhost:1313/wkblog/2020/06/game-night-magic-the-gathering-commander/</link>
       <pubDate>Mon, 15 Jun 2020 11:15:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/06/15/game-night-magic-the-gathering-commander/</guid>
-      <description>First meeting of the full game group since the pandemic started! The governor of our state recently allowed family groups of up to ten people,...</description>
+      <guid>http://localhost:1313/wkblog/2020/06/game-night-magic-the-gathering-commander/</guid>
+      <description>First meeting of the full game group since the pandemic started! The governor of our state recently allowed family groups of up to ten people,&amp;hellip;</description>
     </item>
     <item>
       <title>Facebook game roundup: Warstorm and City of Wonder</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/</link>
+      <link>http://localhost:1313/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</link>
       <pubDate>Tue, 14 Sep 2010 07:03:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</guid>
+      <description>[&amp;hellip;</description>
     </item>
   </channel>
 </rss>

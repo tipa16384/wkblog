@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spellborn on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/spellborn/</link>
+    <link>http://localhost:1313/wkblog/tags/spellborn/</link>
     <description>Recent content in Spellborn on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 06 Mar 2009 12:36:01 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/spellborn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/spellborn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acclaim Spellborn client available for download</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/03/06/acclaim-spellborn-client-available-for-download/</link>
+      <link>http://localhost:1313/wkblog/2009/03/acclaim-spellborn-client-available-for-download/</link>
       <pubDate>Fri, 06 Mar 2009 12:36:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/03/06/acclaim-spellborn-client-available-for-download/</guid>
-      <description>From Acclaim&amp;#39;s Community Manager, Historian, comes this news via Twitter:...</description>
+      <guid>http://localhost:1313/wkblog/2009/03/acclaim-spellborn-client-available-for-download/</guid>
+      <description>From Acclaim&amp;rsquo;s Community Manager, Historian, comes this news via Twitter:&amp;hellip;</description>
     </item>
     <item>
       <title>Listen to today&#39;s Spellborn Dev Chat</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/02/27/listen-to-todays-spellborn-dev-chat/</link>
+      <link>http://localhost:1313/wkblog/2009/02/listen-to-todays-spellborn-dev-chat/</link>
       <pubDate>Fri, 27 Feb 2009 17:55:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/02/27/listen-to-todays-spellborn-dev-chat/</guid>
-      <description>Acclaim&amp;#39;s Community Manager, &amp;#39;Historian&amp;#39;, just [posted the audio](http://www.thehistorian.org/?p=280) for today&amp;#39;s Spellborn developer chat....</description>
+      <guid>http://localhost:1313/wkblog/2009/02/listen-to-todays-spellborn-dev-chat/</guid>
+      <description>Acclaim&amp;rsquo;s Community Manager, &amp;lsquo;Historian&amp;rsquo;, just posted the audio for today&amp;rsquo;s Spellborn developer chat&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

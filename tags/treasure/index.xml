@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Treasure on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/treasure/</link>
+    <link>http://localhost:1313/wkblog/tags/treasure/</link>
     <description>Recent content in Treasure on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 09 Nov 2024 09:48:52 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/treasure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/treasure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dragon Age: The Veilguard is not the game you think it is</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/</link>
+      <link>http://localhost:1313/wkblog/2024/11/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/</link>
       <pubDate>Sat, 09 Nov 2024 09:48:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/</guid>
-      <description>But maybe the Dragon Age series has always been like this...</description>
+      <guid>http://localhost:1313/wkblog/2024/11/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/</guid>
+      <description>But maybe the Dragon Age series has always been like this&amp;hellip;</description>
     </item>
   </channel>
 </rss>

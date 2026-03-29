@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mei Feng on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mei-feng/</link>
+    <link>http://localhost:1313/wkblog/tags/mei-feng/</link>
     <description>Recent content in Mei Feng on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 30 Apr 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mei-feng/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/mei-feng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Malifaux 4th Edition: Mei Feng vs Captain Zipp</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/</link>
+      <link>http://localhost:1313/wkblog/2025/04/malifaux-4th-edition-mei-feng-vs-captain-zipp/</link>
       <pubDate>Wed, 30 Apr 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/</guid>
-      <description>Foundry and Infamous meet once again... and the result is pretty much same as last time.</description>
+      <guid>http://localhost:1313/wkblog/2025/04/malifaux-4th-edition-mei-feng-vs-captain-zipp/</guid>
+      <description>Foundry and Infamous meet once again&amp;hellip; and the result is pretty much same as last time.</description>
     </item>
     <item>
       <title>Malifaux: &#34;Fall into Faux&#34; tournament</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/10/20/malifaux-fall-into-faux-tournament/</link>
+      <link>http://localhost:1313/wkblog/2024/10/malifaux-fall-into-faux-tournament/</link>
       <pubDate>Sun, 20 Oct 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/10/20/malifaux-fall-into-faux-tournament/</guid>
+      <guid>http://localhost:1313/wkblog/2024/10/malifaux-fall-into-faux-tournament/</guid>
       <description>This tournament was the culmination of many games and a lot of paint.</description>
     </item>
   </channel>

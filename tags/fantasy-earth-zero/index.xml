@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fantasy Earth Zero on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/fantasy-earth-zero/</link>
+    <link>http://localhost:1313/wkblog/tags/fantasy-earth-zero/</link>
     <description>Recent content in Fantasy Earth Zero on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Dec 2010 06:00:43 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/fantasy-earth-zero/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/fantasy-earth-zero/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Blogroll 12/23 -- Christmas Eve Eve edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/</link>
       <pubDate>Thu, 23 Dec 2010 06:00:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/</guid>
       <description>[...</description>
     </item>
     <item>
       <title>Fantasy Earth Zero Blogfail: Under the Radar</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/</link>
+      <link>http://localhost:1313/wkblog/posts/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/</link>
       <pubDate>Tue, 06 Jul 2010 06:34:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/</guid>
       <description>After writing [my own review](https://tipa16384.github.io/wkblog/index.php/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/) of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck...</description>
     </item>
     <item>
       <title>Fantasy Earth Zero review: MMORTS goes mainstream</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/</link>
+      <link>http://localhost:1313/wkblog/posts/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/</link>
       <pubDate>Sun, 04 Jul 2010 17:48:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/</guid>
       <description>[...</description>
     </item>
   </channel>

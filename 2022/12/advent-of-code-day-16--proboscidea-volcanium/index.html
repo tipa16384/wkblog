@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/wkblog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=wkblog/livereload" data-no-instant defer></script>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Advent of Code Day 16 -- Proboscidea Volcanium",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png",
+  
+  "datePublished": "2022-12-16T23:17:07-05:00",
+  "dateModified": "2022-12-16T23:17:07-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "http:\/\/localhost:1313\/wkblog\/2022\/12\/advent-of-code-day-16--proboscidea-volcanium\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people\u0026rsquo;s, so let\u0026rsquo;s try something a little different.",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.157.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&rsquo;s, so let&rsquo;s try something a little different.">
+
+
+<meta property="og:description" content="Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&rsquo;s, so let&rsquo;s try something a little different.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Advent of Code Day 16 -- Proboscidea Volcanium">
+<meta name="twitter:title" content="Advent of Code Day 16 -- Proboscidea Volcanium">
+<meta property="og:url" content="http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/">
+<meta property="twitter:url" content="http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&rsquo;s, so let&rsquo;s try something a little different.">
+<meta name="twitter:description" content="Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&rsquo;s, so let&rsquo;s try something a little different.">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2022-12-16T23:17:07">
+  
+  
+    <meta property="article:modified_time" content="2022-12-16T23:17:07">
+  
+  
+  
+    
+      <meta property="article:section" content="Advent of Code">
+    
+      <meta property="article:section" content="TV Recaps">
+    
+  
+  
+    
+      <meta property="article:tag" content="24">
+    
+      <meta property="article:tag" content="Elephant">
+    
+      <meta property="article:tag" content="Gpt-3">
+    
+      <meta property="article:tag" content="Python">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png">
+
+
+
+    <title>Advent of Code Day 16 -- Proboscidea Volcanium</title>
+
+    <link rel="icon" href="http://localhost:1313/wkblog/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="http://localhost:1313/wkblog/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="http://localhost:1313/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://localhost:1313/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="http://localhost:1313/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/kakawait" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener" title="Stack Overflow">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2022/12/DALL%c2%b7E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Advent of Code Day 16 -- Proboscidea Volcanium
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2022-12-16T23:17:07-05:00">
+        
+  December 16, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/advent-of-code">Advent of Code</a>, 
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/tv-recaps">TV Recaps</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>Jack Bauer: (sitting at his computer) &ldquo;Ok, I&rsquo;ve got the data from the sensors. It looks like there&rsquo;s a network of pipes and pressure-release valves here. If we open these valves and follow the tunnels, we might be able to stop the terrorist threat.&rdquo;</p>
+<p>(starts typing on his computer) &ldquo;First, I need to import some libraries to help me process this data.&rdquo;</p>
+<p>(types quickly)</p>
+<p>(pauses, then speaks into his headset) &ldquo;Chloe, I&rsquo;m going to need you to send me the data file for the network of pipes and pressure-release valves. I need to create a class for the nodes in this network.&rdquo;</p>
+<p>(waits for Chloe to send the file)</p>
+<p>(types)</p>
+<p>&ldquo;Ok, got it. Now I&rsquo;m creating a class for the nodes in the network.&rdquo;</p>
+<p>(types)</p>
+<p>&ldquo;Now I&rsquo;m reading in the input and creating the nodes for the network.&rdquo;</p>
+<p>(types)</p>
+<p>&ldquo;Now I need to create a function to traverse the network and find the most pressure we can release.&rdquo;</p>
+<p>(types)</p>
+<p>&ldquo;And now I can use this function to find the most pressure we can release in 30 minutes, or in 26 minutes if we take into account the time it will take us to get the elephants out.&rdquo;</p>
+<p>(types)</p>
+<p>&ldquo;Alright, running the function now. Chloe, I&rsquo;m going to need you to keep an eye on the timer. We&rsquo;ve only got 30 minutes before the terrorists launch their attack.&rdquo;</p>
+<p>(stares intently at the computer as it processes the data)</p>
+<p>(exhales deeply) &ldquo;Ok, got it. The most pressure we can release in 30 minutes is X. And if we factor in the time it will take us to get the elephants out, the most pressure we can release in 26 minutes is Y.&rdquo;</p>
+<p>(pauses) &ldquo;Chloe, send this data to the field team. They need to follow these routes and open these valves to release the most pressure possible. We&rsquo;ve got to stop this attack before it&rsquo;s too late.&rdquo;</p>
+<p><strong>Python 3.11</strong></p>
+<p>There were algorithms to simplify the puzzle space; I rolled my own because I didn&rsquo;t know about the others. Part 1 <em>worked</em>. Part 2, where you had to share tasks with an elephant that showed an interest, worked <em>for me</em>. I chose the best route for the human and the best route through what remained for the elephant.</p>
+<p>Apparently that is the incorrect strategy. I played around with some other algorithms but stuff was just not working, so&hellip; put it aside. Always a new puzzle. I have my two golden stars for the day.</p>
+<pre tabindex="0"><code>from time import time_ns
+import re
+from collections import defaultdict
+
+class Node:
+    def __init__(self, data):
+        self.name = data[0]
+        self.flow = int(data[1])
+        self.neighbor_map = defaultdict(int)
+        for neighbor in data[2:]:
+            self.neighbor_map[neighbor] = 1
+
+    def __repr__(self):
+        return f&#34;Node({self.name}, {self.flow}, {self.neighbor_map})\n&#34;
+
+def read_input():
+    nodes = []
+
+    with open(r&#34;2022\puzzle16.txt&#34;) as f:
+        for l in f.read().splitlines():
+            nodes.append(Node(re.findall(r&#34;[A-Z][A-Z]|\d+&#34;, l)))
+
+    for node in nodes:
+        for a_node in nodes:
+            if node != a_node and node.name in a_node.neighbor_map:
+                current_distance = a_node.neighbor_map[node.name]
+                for my_neighbor in node.neighbor_map:
+                    if my_neighbor == a_node.name:
+                        continue
+                    if my_neighbor not in a_node.neighbor_map:
+                        a_node.neighbor_map[my_neighbor] = current_distance + \
+                            node.neighbor_map[my_neighbor]
+                    else:
+                        a_node.neighbor_map[my_neighbor] = min(
+                            a_node.neighbor_map[my_neighbor], current_distance + node.neighbor_map[my_neighbor])
+                if not node.flow:
+                    del a_node.neighbor_map[node.name]
+
+    return {node.name: node for node in nodes if node.name == starting_node or node.flow}
+
+def traverse(node_map, current_node, visited=[], time=0, max_time=30):
+    if time &gt;= max_time:
+        return 0, visited
+
+    node = node_map[current_node]
+    score = node.flow * (max_time - time)
+    new_visited = visited + [current_node]
+
+    child_scores = max([traverse(node_map, neighbor, new_visited, time + node.neighbor_map[neighbor] + 1, max_time)
+                        for neighbor in node.neighbor_map if neighbor not in visited])
+
+    return (score + child_scores[0], [current_node] + child_scores[1])
+
+def part1():
+    score, _ = traverse(node_map, starting_node)
+    return score
+
+def part2():
+    score, path = traverse(node_map, starting_node, max_time=26)
+
+    # remove the nodes in &#39;path&#39; from the neighbor_map of all nodes
+    for node in node_map.values():
+        for p in path[1:]:
+            if p in node.neighbor_map:
+                del node.neighbor_map[p]
+
+    elephant_score, _ = traverse(node_map, starting_node, max_time=26)
+    return elephant_score+score
+
+starting_node = &#39;AA&#39;
+node_map = read_input()
+
+start = time_ns()
+print(f&#34;Part 1: {part1()} in {(time_ns()-start)/1e6}ms&#34;)
+start = time_ns()
+print(f&#34;Part 2: {part2()} in {(time_ns()-start)/1e6}ms&#34;)
+</code></pre>
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/24/">24</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/elephant/">Elephant</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/gpt-3/">Gpt-3</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/python/">Python</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/" data-tooltip="Advent of Code Day 17 -- Pyroclastic Flow" aria-label="NEXT: Advent of Code Day 17 -- Pyroclastic Flow">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-12--hill-climbing-algorithm/" data-tooltip="Advent of Code Day 12 -- Hill Climbing Algorithm" aria-label="PREVIOUS: Advent of Code Day 12 -- Hill Climbing Algorithm">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'http:\/\/localhost:1313\/wkblog\/2022\/12\/advent-of-code-day-16--proboscidea-volcanium\/';
+        
+          this.page.identifier = '\/2022\/12\/advent-of-code-day-16--proboscidea-volcanium\/'
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = '';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/" data-tooltip="Advent of Code Day 17 -- Pyroclastic Flow" aria-label="NEXT: Advent of Code Day 17 -- Pyroclastic Flow">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-12--hill-climbing-algorithm/" data-tooltip="Advent of Code Day 12 -- Hill Climbing Algorithm" aria-label="PREVIOUS: Advent of Code Day 12 -- Hill Climbing Algorithm">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-16--proboscidea-volcanium%2F" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-16--proboscidea-volcanium%2F" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-16--proboscidea-volcanium%2F" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="http://localhost:1313/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RTS on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rts/</link>
+    <link>http://localhost:1313/wkblog/tags/rts/</link>
     <description>Recent content in RTS on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 02 Aug 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/rts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2Dark 2C: A Unique Spin on Traditional RTS Gameplay</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/08/02/2dark-2c-a-unique-spin-on-traditional-rts-gameplay/</link>
+      <link>http://localhost:1313/wkblog/2022/08/2dark-2c-a-unique-spin-on-traditional-rts-gameplay/</link>
       <pubDate>Tue, 02 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/08/02/2dark-2c-a-unique-spin-on-traditional-rts-gameplay/</guid>
-      <description>I asked OpenAI&amp;#39;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...</description>
+      <guid>http://localhost:1313/wkblog/2022/08/2dark-2c-a-unique-spin-on-traditional-rts-gameplay/</guid>
+      <description>I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;</description>
     </item>
     <item>
       <title>Lords of EverQuest: Buggy and Unpatched</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/10/21/lords-of-everquest-buggy-and-unpatched/</link>
+      <link>http://localhost:1313/wkblog/2020/10/lords-of-everquest-buggy-and-unpatched/</link>
       <pubDate>Wed, 21 Oct 2020 07:36:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/10/21/lords-of-everquest-buggy-and-unpatched/</guid>
-      <description>The problem with playing an older game straight from CD like Lords of EverQuest is that these kinds of games go to production before they&amp;#39;re...</description>
+      <guid>http://localhost:1313/wkblog/2020/10/lords-of-everquest-buggy-and-unpatched/</guid>
+      <description>The problem with playing an older game straight from CD like Lords of EverQuest is that these kinds of games go to production before they&amp;rsquo;re&amp;hellip;</description>
     </item>
     <item>
       <title>Lords of EverQuest: First Impressions</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/10/19/lords-of-everquest-first-impressions/</link>
+      <link>http://localhost:1313/wkblog/2020/10/lords-of-everquest-first-impressions/</link>
       <pubDate>Mon, 19 Oct 2020 08:32:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/10/19/lords-of-everquest-first-impressions/</guid>
-      <description>I am not a Real Time Strategy gamer. I haven&amp;#39;t played Warcraft, or Starcraft, or Dune or even Total Annihilation. So, I really have nothing...</description>
+      <guid>http://localhost:1313/wkblog/2020/10/lords-of-everquest-first-impressions/</guid>
+      <description>I am not a Real Time Strategy gamer. I haven&amp;rsquo;t played Warcraft, or Starcraft, or Dune or even Total Annihilation. So, I really have nothing&amp;hellip;</description>
     </item>
   </channel>
 </rss>

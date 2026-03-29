@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cities XL on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/cities-xl/</link>
+    <link>http://localhost:1313/wkblog/tags/cities-xl/</link>
     <description>Recent content in Cities XL on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jul 2009 07:56:36 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/cities-xl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/cities-xl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Blogroll 7/1 - MMO Overload edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</link>
       <pubDate>Wed, 01 Jul 2009 07:56:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/07/01/daily-blogroll-71-mmo-overload-edition/</guid>
       <description>Yesterday, EverQuest launched its new 51/50 server to [rave reviews](http://mmoquests.com/2009/07/01/random-game-news/), and this morning, Wizard 101 launches its [latest expansion, Grizzleheim](http://thefriendlynecromancer.blogspot.com/2009/06/tons-of-exclusives-mannequins-go-live.html)....</description>
     </item>
     <item>
       <title>Daily Blogroll 6/18 -- Fun with your new Brad edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</link>
       <pubDate>Thu, 18 Jun 2009 07:49:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/</guid>
       <description>A few days ago, the MMO blogging world burned with the news that rock star MMO developer turned lonely exile, Brad McQuaid, had returned from...</description>
     </item>
     <item>
       <title>Weblog 4/17</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/17/weblog-417/</link>
+      <link>http://localhost:1313/wkblog/posts/2009/04/17/weblog-417/</link>
       <pubDate>Fri, 17 Apr 2009 05:53:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/17/weblog-417/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2009/04/17/weblog-417/</guid>
       <description>Play [Wizard 101](http://wizard101.com)? Want a rare treasure card? Calamity Boompants will be on the Pixie realm, in Area 1, between 2 and 2:30 PM CST...</description>
     </item>
   </channel>

@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Souls-Like on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/souls-like/</link>
+    <link>http://localhost:1313/wkblog/tags/souls-like/</link>
     <description>Recent content in Souls-Like on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 26 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/souls-like/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/souls-like/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick Take: Death&#39;s Door</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/08/26/quick-take-deaths-door/</link>
+      <link>http://localhost:1313/wkblog/2023/08/quick-take-deaths-door/</link>
       <pubDate>Sat, 26 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/08/26/quick-take-deaths-door/</guid>
-      <description>You&amp;#39;re a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor.</description>
-    </item>
-    <item>
-      <title>Steelrising: A Souls-Like for Revolutionary Spirits</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/10/08/steelrising-a-souls-like-for-revolutionary-spirits/</link>
-      <pubDate>Sat, 08 Oct 2022 12:19:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/10/08/steelrising-a-souls-like-for-revolutionary-spirits/</guid>
-      <description>Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI&amp;#39;s tyranny in this dark souls-like game set during the French Revolution.</description>
+      <guid>http://localhost:1313/wkblog/2023/08/quick-take-deaths-door/</guid>
+      <description>You&amp;rsquo;re a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor.</description>
     </item>
     <item>
       <title>Elden Ring: Aftermath</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/06/21/elden-ring-aftermath/</link>
+      <link>http://localhost:1313/wkblog/2022/06/elden-ring-aftermath/</link>
       <pubDate>Tue, 21 Jun 2022 07:53:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/06/21/elden-ring-aftermath/</guid>
-      <description>I&amp;#39;ve finished the main plot to Elden Ring, and gotten one of the six endings. Now it&amp;#39;s time to go back and get my revenge...</description>
+      <guid>http://localhost:1313/wkblog/2022/06/elden-ring-aftermath/</guid>
+      <description>I&amp;rsquo;ve finished the main plot to Elden Ring, and gotten one of the six endings. Now it&amp;rsquo;s time to go back and get my revenge&amp;hellip;</description>
     </item>
     <item>
       <title>What if Elden, but Ring?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/05/30/what-if-elden-but-ring/</link>
+      <link>http://localhost:1313/wkblog/2022/05/what-if-elden-but-ring/</link>
       <pubDate>Mon, 30 May 2022 23:44:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/05/30/what-if-elden-but-ring/</guid>
-      <description>I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over...</description>
+      <guid>http://localhost:1313/wkblog/2022/05/what-if-elden-but-ring/</guid>
+      <description>I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over&amp;hellip;</description>
     </item>
     <item>
       <title>Salt &amp; Sanctuary: When Watching Elden Ring Isn&#39;t Enough</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/</link>
+      <link>http://localhost:1313/wkblog/2022/03/salt-sanctuary-when-watching-elden-ring-isnt-enough/</link>
       <pubDate>Mon, 28 Mar 2022 08:03:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/</guid>
-      <description>My partner is playing our copy of Elden Ring, and I&amp;#39;d love to do more than just watch. Doesn&amp;#39;t make much sense to buy another...</description>
+      <guid>http://localhost:1313/wkblog/2022/03/salt-sanctuary-when-watching-elden-ring-isnt-enough/</guid>
+      <description>My partner is playing our copy of Elden Ring, and I&amp;rsquo;d love to do more than just watch. Doesn&amp;rsquo;t make much sense to buy another&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veeshan&#39;s Peak on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/veeshans-peak/</link>
+    <link>http://localhost:1313/wkblog/tags/veeshans-peak/</link>
     <description>Recent content in Veeshan&#39;s Peak on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2009 07:38:11 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/veeshans-peak/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/veeshans-peak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The clandestine Norrath/Dragonspyre connection</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/02/19/the-clandestine-norrathdragonspyre-connection/</link>
+      <link>http://localhost:1313/wkblog/2009/02/the-clandestine-norrath/dragonspyre-connection/</link>
       <pubDate>Thu, 19 Feb 2009 07:38:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/02/19/the-clandestine-norrathdragonspyre-connection/</guid>
-      <description>Norrath, the planet itself, wasn&amp;#39;t discovered by humans or elves or iksar or the ancient snake people or even the gods. It was discovered by...</description>
+      <guid>http://localhost:1313/wkblog/2009/02/the-clandestine-norrath/dragonspyre-connection/</guid>
+      <description>Norrath, the planet itself, wasn&amp;rsquo;t discovered by humans or elves or iksar or the ancient snake people or even the gods. It was discovered by&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: Dragon Wars</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/01/28/eq2-dragon-wars/</link>
+      <link>http://localhost:1313/wkblog/2009/01/eq2-dragon-wars/</link>
       <pubDate>Wed, 28 Jan 2009 08:00:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/01/28/eq2-dragon-wars/</guid>
-      <description>*This isn&amp;#39;t Veeshan&amp;#39;s Peak. That&amp;#39;s Thomas Lionblood, the Friendly Necromancer, on the left, though.*...</description>
+      <guid>http://localhost:1313/wkblog/2009/01/eq2-dragon-wars/</guid>
+      <description>This isn&amp;rsquo;t Veeshan&amp;rsquo;s Peak. That&amp;rsquo;s Thomas Lionblood, the Friendly Necromancer, on the left, though&amp;hellip;.</description>
     </item>
     <item>
       <title>EQ2: My Nexona</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/01/18/eq2-my-nexona/</link>
+      <link>http://localhost:1313/wkblog/2009/01/eq2-my-nexona/</link>
       <pubDate>Sun, 18 Jan 2009 09:26:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/01/18/eq2-my-nexona/</guid>
-      <description>Hey we&amp;#39;re gonna quickly run, quickly run...</description>
+      <guid>http://localhost:1313/wkblog/2009/01/eq2-my-nexona/</guid>
+      <description>Hey we&amp;rsquo;re gonna quickly run, quickly run&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: The gladdest/saddest sight in Veeshan&#39;s Peak</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/01/04/eq2-the-gladdestsaddest-sight-in-veeshans-peak/</link>
+      <link>http://localhost:1313/wkblog/2009/01/eq2-the-gladdest/saddest-sight-in-veeshans-peak/</link>
       <pubDate>Sun, 04 Jan 2009 00:32:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/01/04/eq2-the-gladdestsaddest-sight-in-veeshans-peak/</guid>
-      <description>I&amp;#39;d worked so long on the [Spellborn comic](https://tipa16384.github.io/wkblog/index.php/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/) -- way longer than I thought, it took forever to come up with the story and then...</description>
+      <guid>http://localhost:1313/wkblog/2009/01/eq2-the-gladdest/saddest-sight-in-veeshans-peak/</guid>
+      <description>I&amp;rsquo;d worked so long on the Spellborn comic &amp;ndash; way longer than I thought, it took forever to come up with the story and then&amp;hellip;</description>
     </item>
     <item>
       <title>EQ2: Raids always can use another troub...</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/19/eq2-raids-always-can-use-another-troub/</link>
+      <link>http://localhost:1313/wkblog/2008/12/eq2-raids-always-can-use-another-troub.../</link>
       <pubDate>Fri, 19 Dec 2008 01:20:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/19/eq2-raids-always-can-use-another-troub/</guid>
-      <description>Dream of Mirror Online got rolled back to yesterday evening. Everything I wrote about in my last post -- gone, like it never happened. I...</description>
+      <guid>http://localhost:1313/wkblog/2008/12/eq2-raids-always-can-use-another-troub.../</guid>
+      <description>Dream of Mirror Online got rolled back to yesterday evening. Everything I wrote about in my last post &amp;ndash; gone, like it never happened. I&amp;hellip;</description>
     </item>
   </channel>
 </rss>

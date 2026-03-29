@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Penny Arcade on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/penny-arcade/</link>
+    <link>http://localhost:1313/wkblog/tags/penny-arcade/</link>
     <description>Recent content in Penny Arcade on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 15 Apr 2009 07:32:13 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/penny-arcade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/penny-arcade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kart racing fairy chefs? Penny Arcade loves Free Realms!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/15/kart-racing-fairy-chefs-penny-arcade-loves-free-realms/</link>
+      <link>http://localhost:1313/wkblog/2009/04/kart-racing-fairy-chefs-penny-arcade-loves-free-realms/</link>
       <pubDate>Wed, 15 Apr 2009 07:32:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/15/kart-racing-fairy-chefs-penny-arcade-loves-free-realms/</guid>
-      <description>Well, if [*Gabe* loves Free Realms](http://www.penny-arcade.com/comic/2009/4/15/), it&amp;#39;s got to be good, right?...</description>
+      <guid>http://localhost:1313/wkblog/2009/04/kart-racing-fairy-chefs-penny-arcade-loves-free-realms/</guid>
+      <description>Well, if Gabe loves Free Realms, it&amp;rsquo;s got to be good, right?&amp;hellip;</description>
     </item>
   </channel>
 </rss>

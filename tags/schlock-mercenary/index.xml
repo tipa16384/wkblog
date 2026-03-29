@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schlock Mercenary on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/schlock-mercenary/</link>
+    <link>http://localhost:1313/wkblog/tags/schlock-mercenary/</link>
     <description>Recent content in Schlock Mercenary on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 11 Sep 2008 01:22:43 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/schlock-mercenary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/schlock-mercenary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spore, the Widget</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/11/spore-the-widget/</link>
+      <link>http://localhost:1313/wkblog/2008/09/spore-the-widget/</link>
       <pubDate>Thu, 11 Sep 2008 01:22:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/11/spore-the-widget/</guid>
-      <description>``...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/spore-the-widget/</guid>
+      <description>I promise, after this, no more Spore posts&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

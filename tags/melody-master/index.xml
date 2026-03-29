@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Melody Master on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/melody-master/</link>
+    <link>http://localhost:1313/wkblog/tags/melody-master/</link>
     <description>Recent content in Melody Master on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 31 Aug 2025 21:02:05 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/melody-master/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/melody-master/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Vectrex is coming back... in pog form!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2025/08/31/the-vectrex-is-coming-back-in-pog-form/</link>
+      <link>http://localhost:1313/wkblog/2025/08/the-vectrex-is-coming-back...-in-pog-form/</link>
       <pubDate>Sun, 31 Aug 2025 21:02:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2025/08/31/the-vectrex-is-coming-back-in-pog-form/</guid>
-      <description>Well, in mini form! It&amp;#39;s true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon.</description>
+      <guid>http://localhost:1313/wkblog/2025/08/the-vectrex-is-coming-back...-in-pog-form/</guid>
+      <description>Well, in mini form! It&amp;rsquo;s true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon.</description>
     </item>
   </channel>
 </rss>

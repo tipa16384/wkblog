@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Eureka on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/eureka/</link>
+    <link>http://localhost:1313/wkblog/tags/eureka/</link>
     <description>Recent content in Eureka on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 06 Sep 2006 08:45:32 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/eureka/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/eureka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Battlestar Galactica Webisodes</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2006/09/06/battlestar-galactica-webisodes/</link>
+      <link>http://localhost:1313/wkblog/posts/2006/09/06/battlestar-galactica-webisodes/</link>
       <pubDate>Wed, 06 Sep 2006 08:45:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2006/09/06/battlestar-galactica-webisodes/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2006/09/06/battlestar-galactica-webisodes/</guid>
       <description>I&amp;#39;ve been in and out of the SciFi Channel&amp;#39;s website for the past couple of weeks working on my Who Wants to be a Superhero...</description>
     </item>
     <item>
       <title>Dead Like Me, Eureka, Who Wants to be a Superhero?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2006/07/28/dead-like-me-eureka-who-wants-to-be-a-superhero/</link>
+      <link>http://localhost:1313/wkblog/posts/2006/07/28/dead-like-me-eureka-who-wants-to-be-a-superhero/</link>
       <pubDate>Fri, 28 Jul 2006 16:24:42 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2006/07/28/dead-like-me-eureka-who-wants-to-be-a-superhero/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2006/07/28/dead-like-me-eureka-who-wants-to-be-a-superhero/</guid>
       <description>I&amp;#39;m kinda actually enjoying the SciFi channel now and then. Since I have a [reliable way to see TV listings](http://tv.yahoo.com/grid), I can deftly avoid accidentally...</description>
     </item>
     <item>
       <title>Eureka: All Icing, No Cake</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2006/07/19/eureka-all-icing-no-cake/</link>
+      <link>http://localhost:1313/wkblog/posts/2006/07/19/eureka-all-icing-no-cake/</link>
       <pubDate>Wed, 19 Jul 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2006/07/19/eureka-all-icing-no-cake/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2006/07/19/eureka-all-icing-no-cake/</guid>
       <description>Sat down in anticipation last night for Eureka, the SciFi channel&amp;#39;s newest show....</description>
     </item>
     <item>
       <title>Made In Eureka</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2006/07/18/made-in-eureka/</link>
+      <link>http://localhost:1313/wkblog/posts/2006/07/18/made-in-eureka/</link>
       <pubDate>Tue, 18 Jul 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2006/07/18/made-in-eureka/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2006/07/18/made-in-eureka/</guid>
       <description>Who&amp;#39;d have thought a sleepy little Northern California lumber town would become the setting for a new Sci-Fi TV show?...</description>
     </item>
   </channel>

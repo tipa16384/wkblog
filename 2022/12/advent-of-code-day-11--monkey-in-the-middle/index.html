@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/wkblog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=wkblog/livereload" data-no-instant defer></script>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Advent of Code Day 11 -- Monkey in the Middle",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png",
+  
+  "datePublished": "2022-12-11T17:52:42-05:00",
+  "dateModified": "2022-12-11T17:52:42-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "http:\/\/localhost:1313\/wkblog\/2022\/12\/advent-of-code-day-11--monkey-in-the-middle\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "I thought this was just a puzzle to see if I knew about modulo arithmetic\u0026hellip; but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.157.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="I thought this was just a puzzle to see if I knew about modulo arithmetic&hellip; but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?">
+
+
+<meta property="og:description" content="I thought this was just a puzzle to see if I knew about modulo arithmetic&hellip; but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Advent of Code Day 11 -- Monkey in the Middle">
+<meta name="twitter:title" content="Advent of Code Day 11 -- Monkey in the Middle">
+<meta property="og:url" content="http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/">
+<meta property="twitter:url" content="http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="I thought this was just a puzzle to see if I knew about modulo arithmetic&hellip; but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?">
+<meta name="twitter:description" content="I thought this was just a puzzle to see if I knew about modulo arithmetic&hellip; but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2022-12-11T17:52:42">
+  
+  
+    <meta property="article:modified_time" content="2022-12-11T17:52:42">
+  
+  
+  
+    
+      <meta property="article:section" content="Advent of Code">
+    
+  
+  
+    
+      <meta property="article:tag" content="Advent">
+    
+      <meta property="article:tag" content="Clojure">
+    
+      <meta property="article:tag" content="Java">
+    
+      <meta property="article:tag" content="Jvm">
+    
+      <meta property="article:tag" content="Lua">
+    
+      <meta property="article:tag" content="Python">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png">
+
+
+
+    <title>Advent of Code Day 11 -- Monkey in the Middle</title>
+
+    <link rel="icon" href="http://localhost:1313/wkblog/favicon.png">
+    
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="http://localhost:1313/wkblog/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="http://localhost:1313/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="http://localhost:1313/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="http://localhost:1313/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/kakawait" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener" title="Stack Overflow">
+    
+      <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://localhost:1313/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2022/12/DALL%c2%b7E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Advent of Code Day 11 -- Monkey in the Middle
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2022-12-11T17:52:42-05:00">
+        
+  December 11, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="http://localhost:1313/wkblog/categories/advent-of-code">Advent of Code</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>This puzzle is the first one where I had to sit and think about the puzzle solution. Well, not really about what the solution was about &ndash; but how to get it to return the answer before the Earth falls into the Sun.</p>
+<p>That happens a lot, in Advent of Code.</p>
+<p>In <a href="https://adventofcode.com/2022/day/11">today&rsquo;s puzzle</a>, monkeys have stolen everything from your pack, and they&rsquo;re tossing your stuff between them. Part 1 has you follow their game of catch for twenty rounds, while part 2 is ten thousand &ndash; AND, in part 1, your worry is managed, but in part 2, your worry can become nearly infinite.</p>
+<p>And infinite numbers are bad. Very bad.</p>
+<p>Python has arbitrary precision numbers &ndash; you can have numbers as big as you like. It gets slow and uses a lot of memory, but it can do it. When numbers grow larger than your available memory, it may slow down slightly.</p>
+<p>Java has a special class, BigInteger, that does more or less the same thing. But it wasn&rsquo;t needed for either parts. All Java needed was to use long integers to handle a specific calculation and that was all.</p>
+<p>The upshot was that Python could solve Part 2 in about half a second, but Java could solve Part 2 in about a tenth of a second. Working within Java&rsquo;s constraints allowed for more speed. I know, I was shocked, too.</p>
+<p>Python compiles its code into a byte code, similar to what Java does with its Java virtual machine. This does lead to slower, but more portable, software. It also makes this an apples-to-apples comparison. Usually, Python and Java come in at around the same time, and this is why I haven&rsquo;t really been talking about the executions times here. But now that we are getting to some larger numbers, it&rsquo;s clear that Python&rsquo;s flexibility comes at the cost of speed.</p>
+<p><strong>Python 3.11</strong></p>
+<p>There&rsquo;s a lot going on in this solution, but the important part is the bit with &ldquo;9699690&rdquo; in it. This is what keeps our numbers from getting out of control. The idea here is that all the monkeys are doing modulo arithmetic with prime numbers against your &ldquo;worry&rdquo; level. So if we can perform an operation that would reduce a number but still return the same answer about whether or not it could be evenly divided by the prime.</p>
+<p>If we consider the numbers 3, 24, 192, and, I dunno 107,421 &ndash; they are all evenly divisible by 3. Modulo 3 against all of them leaves zero for everything.</p>
+<p>If we want to consider two numbers, say, 3 and 5. If we take 27 and modulo 3, great, the result is zero. But if we take 27 and modulo 5, we get 2, since it doesn&rsquo;t divide evenly into 5. But after modulo with 3, we&rsquo;re left with zero, which is evenly divided by 5, so the properties of the number has been changed.</p>
+<p>If we multiply 3 and 5 to get 15, and perform the operation, we get 12 &ndash; which is evenly divisible by 3, and has a remainder of 2 when modulo with 5. So for the purposes of this argument, 12 and 27 are identical.</p>
+<p>In the puzzle, we have the first eight prime numbers &ndash; 2, 3, 5, 7, 11, 13, 17, and 19. These are the tests to perform. Multiplying these all together gets us 9699690 &ndash; and this is how we stop from having numbers go way out of control. No number can ever get above this, which is easily held within Java&rsquo;s &ldquo;Long&rdquo; type.</p>
+<p>Someone pointed out that this works even if the numbers aren&rsquo;t prime, and that&rsquo;s true. But it was seeing that these were prime that led me to this insight, which was the key to the puzzle, and a tribute to the puzzle creator. Some people thought it was unfair for people to have to examine their puzzle input to catch this, but hey, it&rsquo;s Advent of Code. Sometimes you have to dig a little deeper.</p>
+<p>`class Monkey:
+def <strong>init</strong>(self, monkey_do):
+monkey_stats = monkey_do.splitlines()
+self.items = eval(&rsquo;[&rsquo; + monkey_stats[1][18:] + &lsquo;]&rsquo;)
+self.operation = eval(&rsquo;lambda old: &rsquo; + monkey_stats[2][19:])
+self.test = int(monkey_stats[3][21:])
+self.iftrue = int(monkey_stats[4][29:])
+self.iffalse = int(monkey_stats[5][30:])
+self.inspect_count = 0</p>
+<pre><code>def play(self, worry_divider):
+    while self.items:
+        self.inspect_count += 1
+        worry = self.operation(self.items.pop(0))
+        worry = worry % 9699690 if worry_divider == 1 else worry // worry_divider
+        yield self.iffalse if worry % self.test else self.iftrue, worry
+</code></pre>
+<p>def play_a_game(rounds, worry_divider):
+with open(r&rsquo;puzzle11.txt&rsquo;) as f:
+monkeys = [Monkey(monkey_do) for monkey_do in f.read().split(&rsquo;\n\n&rsquo;)]</p>
+<pre><code>for _ in range(rounds):
+    for monkey in monkeys:
+        for catcher, worry in monkey.play(worry_divider):
+            monkeys[catcher].items.append(worry)
+
+return (lambda x, y: x.inspect_count * y.inspect_count) \
+    (*sorted(monkeys, key=lambda monkey: monkey.inspect_count)[-2:])
+</code></pre>
+<p>part1 = play_a_game(20, 3)
+print(&ldquo;Part 1:&rdquo;, part1)</p>
+<p>part2 = play_a_game(10000, 1)
+print(&ldquo;Part 2:&rdquo;, part2)
+`</p>
+<p><strong>Java 14</strong></p>
+<p>The other part about implementing this in two different languages (and three, adding Lua, when I do a PICO-8 game), is to get an idea for the strengths of certain languages. I saw with this puzzle that Java is faster with larger numbers.</p>
+<p>Since I solve the puzzle with Python first, and then use that as the basis for my Java solution, why use Java at all?</p>
+<p>Well, I use Java at work, and we&rsquo;re still on <em>Java 8</em> there, which is way, WAY behind the latest long term supported version, Java 17, or the actual bleeding edge version, Java 19. If I don&rsquo;t start using more recent versions of Java at some point, my skills are going to be out of date. Building familiarity with the current state of the language is important to my real life.</p>
+<p>And as I&rsquo;ve seen today, for certain problems, Java is faster.</p>
+<p>But it goes deeper. Java is built on top of the Java Virtual Machine (JVM), <a href="https://en.wikipedia.org/wiki/List_of_JVM_languages">along with dozens of other languages</a>, and <em>all of them work together</em>. I was learning Clojure earlier in the year. It was 100% interoperable with Java. Scala, Groovy, and Kotlin are also 100% Java compatible. There&rsquo;s even a JVM version of Python, but it doesn&rsquo;t support recent versions of the language. Lots of other languages have versions that run on the JVM. Java is the gateway to the hottest languages in use today.</p>
+<p>I built a performance and I/O module for this year&rsquo;s Advent of Code in order to run and test my puzzle solutions. I could have that do performance and I/O for a Clojure program without any changes. And maybe I will :-)</p>
+<p>The code below is pretty Pythonic. As in past days, I created an inner class (MonkeyWorries) to make up for Java&rsquo;s lack of tuples.</p>
+<p>`package com.chasingdings.y2022;</p>
+<p>import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.BiFunction;
+import java.util.stream.Collectors;</p>
+<p>public class Puzzle11 extends AbstractPuzzle {
+private static final String DATA_FILE = &ldquo;2022\puzzle11.txt&rdquo;;</p>
+<pre><code>@Override
+public Object solve1(String content) {
+    return playGame(content, 20, 3);
+}
+
+@Override
+public Object solve2(String content) {
+    return playGame(content, 10000, 1);
+}
+
+@Override
+public void preprocess(String content) {
+    // TODO Auto-generated method stub
+}
+
+@Override
+public String getDataFilePath() {
+    return DATA_FILE;
+}
+
+@Override
+public String getPuzzleName() {
+    return &quot;Day 11 - Monkey in the Middle&quot;;
+}
+
+private long playGame(String content, int rounds, int worryDivider) {
+    var monkeys = Arrays.stream(content.split(EOL + EOL)).map(z -&gt; new Monkey(z)).collect(Collectors.toList());
+
+    for (int i = 0; i  (int) (a.inspectCount - b.inspectCount))
+            .collect(Collectors.toList());
+    return sortedMonkeys.get(sortedMonkeys.size() - 1).inspectCount
+            * sortedMonkeys.get(sortedMonkeys.size() - 2).inspectCount;
+}
+
+class Monkey {
+    private List items;
+    private BiFunction operation;
+    private long operand;
+    private long test;
+    private int iftrue;
+    private int iffalse;
+    private long inspectCount;
+
+    public Monkey(String monkeyDo) {
+        var monkeyStats = monkeyDo.split(EOL);
+        this.items = evalList(monkeyStats[1].substring(18));
+        if (monkeyStats[2].charAt(25) == 'o') {
+            this.operation = (a, b) -&gt; a * a;
+            this.operand = 0;
+        } else if (monkeyStats[2].charAt(23) == '*') {
+            this.operation = (a, b) -&gt; a * b;
+            this.operand = Long.parseLong(monkeyStats[2].substring(25));
+        } else {
+            this.operand = Long.parseLong(monkeyStats[2].substring(25));
+            this.operation = (a, b) -&gt; a + b;
+        }
+        this.test = Integer.parseInt(monkeyStats[3].substring(21));
+        this.iftrue = Integer.parseInt(monkeyStats[4].substring(29));
+        this.iffalse = Integer.parseInt(monkeyStats[5].substring(30));
+        this.inspectCount = 0;
+    }
+
+    public List play(int worryDivider) {
+        var result = new ArrayList();
+        while (!this.items.isEmpty()) {
+            this.inspectCount++;
+            var worry = this.operation.apply(this.items.remove(0), this.operand);
+            if (worryDivider == 1) {
+                worry = worry % 9699690;
+            } else {
+                worry = worry / worryDivider;
+            }
+            result.add(new MonkeyWorries(worry % this.test == 0 ? this.iftrue : this.iffalse, worry));
+        }
+        return result;
+    }
+}
+
+class MonkeyWorries {
+    private int monkeyNumber;
+    private long worry;
+
+    public MonkeyWorries(int monkeyNumber, long worry) {
+        this.monkeyNumber = monkeyNumber;
+        this.worry = worry;
+    }
+}
+</code></pre>
+<p>}
+`</p>
+<p><strong>The Game</strong></p>
+<p>No game today, but I do have an idea for one. I just didn&rsquo;t have time. This is one of the days I&rsquo;d like to come back to later, though.</p>
+<p>No Advent of Codes for Monday and Tuesday, as I have to fly to Denver.</p>
+
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/advent/">Advent</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/clojure/">Clojure</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/java/">Java</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/jvm/">Jvm</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/lua/">Lua</a>
+
+  <a class="tag tag--primary tag--small" href="http://localhost:1313/wkblog/tags/python/">Python</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-14--regolith-reservoir/" data-tooltip="Advent of Code Day 14 -- Regolith Reservoir" aria-label="NEXT: Advent of Code Day 14 -- Regolith Reservoir">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-10--cathode-ray-tube/" data-tooltip="Advent of Code Day 10 -- Cathode-Ray Tube" aria-label="PREVIOUS: Advent of Code Day 10 -- Cathode-Ray Tube">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'http:\/\/localhost:1313\/wkblog\/2022\/12\/advent-of-code-day-11--monkey-in-the-middle\/';
+        
+          this.page.identifier = '\/2022\/12\/advent-of-code-day-11--monkey-in-the-middle\/'
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = '';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-14--regolith-reservoir/" data-tooltip="Advent of Code Day 14 -- Regolith Reservoir" aria-label="NEXT: Advent of Code Day 14 -- Regolith Reservoir">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="http://localhost:1313/wkblog/2022/12/advent-of-code-day-10--cathode-ray-tube/" data-tooltip="Advent of Code Day 10 -- Cathode-Ray Tube" aria-label="PREVIOUS: Advent of Code Day 10 -- Cathode-Ray Tube">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/" title="Share on Twitter" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:1313/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-11--monkey-in-the-middle%2F" aria-label="Share on Facebook">
+          <i class="fab fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-11--monkey-in-the-middle%2F" aria-label="Share on Twitter">
+          <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Flocalhost%3A1313%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-11--monkey-in-the-middle%2F" aria-label="Share on Linkedin">
+          <i class="fab fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="http://localhost:1313/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

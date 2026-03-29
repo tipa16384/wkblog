@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miragul&#39;s Phylactery on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/miraguls-phylactery/</link>
+    <link>http://localhost:1313/wkblog/tags/miraguls-phylactery/</link>
     <description>Recent content in Miragul&#39;s Phylactery on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 20 Nov 2008 09:50:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/miraguls-phylactery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/miraguls-phylactery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: The Shadow Odyssey? It&#39;s like a really big book...</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/20/eq2-the-shadow-odyssey-its-like-a-really-big-book/</link>
+      <link>http://localhost:1313/wkblog/2008/11/eq2-the-shadow-odyssey-its-like-a-really-big-book.../</link>
       <pubDate>Thu, 20 Nov 2008 09:50:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/20/eq2-the-shadow-odyssey-its-like-a-really-big-book/</guid>
-      <description>The Shadow Odyssey is like a really big book... but you only have summaries for each chapter, and you&amp;#39;ll be having a test on it...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/eq2-the-shadow-odyssey-its-like-a-really-big-book.../</guid>
+      <description>The Shadow Odyssey is like a really big book&amp;hellip; but you only have summaries for each chapter, and you&amp;rsquo;ll be having a test on it&amp;hellip;</description>
     </item>
   </channel>
 </rss>

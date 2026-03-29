@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drama on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/drama/</link>
+    <link>http://localhost:1313/wkblog/tags/drama/</link>
     <description>Recent content in Drama on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 04 Dec 2007 08:46:09 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/drama/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Guild drama -- I love it!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2007/12/04/eq2-guild-drama-i-love-it/</link>
+      <link>http://localhost:1313/wkblog/2007/12/eq2-guild-drama--i-love-it/</link>
       <pubDate>Tue, 04 Dec 2007 08:46:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2007/12/04/eq2-guild-drama-i-love-it/</guid>
-      <description>I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or...</description>
+      <guid>http://localhost:1313/wkblog/2007/12/eq2-guild-drama--i-love-it/</guid>
+      <description>I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or&amp;hellip;</description>
     </item>
   </channel>
 </rss>

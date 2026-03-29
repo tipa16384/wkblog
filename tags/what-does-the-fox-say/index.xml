@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What Does the Fox Say on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/what-does-the-fox-say/</link>
+    <link>http://localhost:1313/wkblog/tags/what-does-the-fox-say/</link>
     <description>Recent content in What Does the Fox Say on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 23 Aug 2020 17:43:32 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/what-does-the-fox-say/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/what-does-the-fox-say/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tanglewood: the Game.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/08/23/tanglewood-the-game/</link>
+      <link>http://localhost:1313/wkblog/2020/08/tanglewood-the-game./</link>
       <pubDate>Sun, 23 Aug 2020 17:43:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/08/23/tanglewood-the-game/</guid>
-      <description>After I posted [today&amp;#39;s Blaugust prompts](https://tipa16384.github.io/wkblog/?p=784), especially the bit about the origin of most of my characters&amp;#39; last name, &amp;#34;Tanglewood&amp;#34;, [Bhagpuss commented](https://tipa16384.github.io/wkblog/?p=784#comment-783) that there was...</description>
+      <guid>http://localhost:1313/wkblog/2020/08/tanglewood-the-game./</guid>
+      <description>After I posted today&amp;rsquo;s Blaugust prompts, especially the bit about the origin of most of my characters&amp;rsquo; last name, &amp;ldquo;Tanglewood&amp;rdquo;, Bhagpuss commented that there was&amp;hellip;</description>
     </item>
   </channel>
 </rss>

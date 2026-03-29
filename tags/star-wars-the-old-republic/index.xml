@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Star Wars the Old Republic on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/star-wars-the-old-republic/</link>
+    <link>http://localhost:1313/wkblog/tags/star-wars-the-old-republic/</link>
     <description>Recent content in Star Wars the Old Republic on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 May 2023 18:39:04 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/star-wars-the-old-republic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/star-wars-the-old-republic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
+      <link>http://localhost:1313/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
       <pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
       <description>Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.</description>
     </item>
     <item>
       <title>Daily Blogroll Oct 21: Tanks for the Memories edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/</link>
       <pubDate>Fri, 21 Oct 2011 05:00:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/</guid>
       <description>The big news yesterday was the dropping of the Press NDA for Bioware&amp;#39;s Star Wars: The Old Republic. I read all the press reviews I...</description>
     </item>
     <item>
       <title>Daily Blogroll Oct 19: Time enough to learn to swim edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</link>
       <pubDate>Thu, 20 Oct 2011 05:00:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</guid>
       <description>If you were given six months to live, you wouldn&amp;#39;t spend it leveling up a new character in some MMORPG. You&amp;#39;d want to do something...</description>
     </item>
     <item>
       <title>Daily Blogroll Oct 12: No time for heroes edition</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/</link>
       <pubDate>Wed, 12 Oct 2011 05:00:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/</guid>
       <description>A few days ago I was trying to define what I thought of as an MMO. I started off thinking it was just a realtime,...</description>
     </item>
     <item>
       <title>Daily Blogroll Oct 11: Can&#39;t break the NDA edition.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/</link>
+      <link>http://localhost:1313/wkblog/posts/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/</link>
       <pubDate>Tue, 11 Oct 2011 05:00:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/</guid>
       <description>So yeah. I&amp;#39;d have a better screenshot, but somehow I&amp;#39;m the only person who did NOT get into the Star Wars: The Old Republic beta...</description>
     </item>
   </channel>

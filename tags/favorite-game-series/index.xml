@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Favorite Game Series on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/favorite-game-series/</link>
+    <link>http://localhost:1313/wkblog/tags/favorite-game-series/</link>
     <description>Recent content in Favorite Game Series on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 06 May 2020 11:23:56 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/favorite-game-series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/favorite-game-series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Favorite Game Series #1: Final Fantasy</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/06/favorite-game-series-1-final-fantasy/</link>
+      <link>http://localhost:1313/wkblog/2020/05/favorite-game-series-%231-final-fantasy/</link>
       <pubDate>Wed, 06 May 2020 11:23:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/06/favorite-game-series-1-final-fantasy/</guid>
-      <description>There&amp;#39;s one game series that stands above all the others, to me. It&amp;#39;s the game series that continually redefines itself in each new game and...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/favorite-game-series-%231-final-fantasy/</guid>
+      <description>There&amp;rsquo;s one game series that stands above all the others, to me. It&amp;rsquo;s the game series that continually redefines itself in each new game and&amp;hellip;</description>
     </item>
     <item>
       <title>Favorite Game Series #3: Dragon Age</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/28/favorite-game-series-3-dragon-age/</link>
+      <link>http://localhost:1313/wkblog/2020/04/favorite-game-series-%233-dragon-age/</link>
       <pubDate>Tue, 28 Apr 2020 11:31:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/28/favorite-game-series-3-dragon-age/</guid>
-      <description>I&amp;#39;ve been back and forth on this entry. Whether it should be this high on the list. Whether it should even *be* on this list....</description>
+      <guid>http://localhost:1313/wkblog/2020/04/favorite-game-series-%233-dragon-age/</guid>
+      <description>I&amp;rsquo;ve been back and forth on this entry. Whether it should be this high on the list. Whether it should even be on this list&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

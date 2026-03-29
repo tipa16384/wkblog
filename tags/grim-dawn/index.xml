@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Grim Dawn on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/grim-dawn/</link>
+    <link>http://localhost:1313/wkblog/tags/grim-dawn/</link>
     <description>Recent content in Grim Dawn on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Dec 2014 06:30:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/grim-dawn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/grim-dawn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grim Dawn: The Warden is Dead</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/12/25/finished-the-first-chapter-of-grim-dawn-the-warden-is-dead-the-fights-move-so-fast-that-i-dont/</link>
+      <link>http://localhost:1313/wkblog/posts/2014/12/25/finished-the-first-chapter-of-grim-dawn-the-warden-is-dead-the-fights-move-so-fast-that-i-dont/</link>
       <pubDate>Thu, 25 Dec 2014 06:30:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/12/25/finished-the-first-chapter-of-grim-dawn-the-warden-is-dead-the-fights-move-so-fast-that-i-dont/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2014/12/25/finished-the-first-chapter-of-grim-dawn-the-warden-is-dead-the-fights-move-so-fast-that-i-dont/</guid>
       <description>Finished the first chapter of Grim Dawn -- the Warden is dead. The fights move so fast that I don&amp;#39;t really know what&amp;#39;s going on,...</description>
     </item>
     <item>
       <title>Grim Dawn: I am a Witch Hunter!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/12/22/at-level-10-i-chose-occultist-as-my-second-class-and-thus-became-a-nightbladeoccultist-aka-witch/</link>
+      <link>http://localhost:1313/wkblog/posts/2014/12/22/at-level-10-i-chose-occultist-as-my-second-class-and-thus-became-a-nightbladeoccultist-aka-witch/</link>
       <pubDate>Mon, 22 Dec 2014 21:12:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/12/22/at-level-10-i-chose-occultist-as-my-second-class-and-thus-became-a-nightbladeoccultist-aka-witch/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2014/12/22/at-level-10-i-chose-occultist-as-my-second-class-and-thus-became-a-nightbladeoccultist-aka-witch/</guid>
       <description>At level 10, I chose Occultist as my second class, and thus became a Nightblade/Occultist AKA Witch Hunter, which sounded pretty nice. I put enough...</description>
     </item>
     <item>
       <title>Just started playing Grim Dawn</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2014/12/22/just-started-playing-grim-dawn-an-old-school-style-rpg-i-kickstarted-sometime-in-the-distant-past/</link>
+      <link>http://localhost:1313/wkblog/posts/2014/12/22/just-started-playing-grim-dawn-an-old-school-style-rpg-i-kickstarted-sometime-in-the-distant-past/</link>
       <pubDate>Mon, 22 Dec 2014 13:09:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2014/12/22/just-started-playing-grim-dawn-an-old-school-style-rpg-i-kickstarted-sometime-in-the-distant-past/</guid>
+      <guid>http://localhost:1313/wkblog/posts/2014/12/22/just-started-playing-grim-dawn-an-old-school-style-rpg-i-kickstarted-sometime-in-the-distant-past/</guid>
       <description>Just started playing Grim Dawn, an old school-style RPG I kickstarted sometime in the distant past. I&amp;#39;ve been looking forward to this game for quite...</description>
     </item>
   </channel>

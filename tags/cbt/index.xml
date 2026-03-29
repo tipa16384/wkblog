@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CBT on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/cbt/</link>
+    <link>http://localhost:1313/wkblog/tags/cbt/</link>
     <description>Recent content in CBT on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 11 Jul 2008 13:30:18 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/cbt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/cbt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Powder closed beta test... closes.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/11/project-powder-closed-beta-test-closes/</link>
+      <link>http://localhost:1313/wkblog/2008/07/project-powder-closed-beta-test...-closes./</link>
       <pubDate>Fri, 11 Jul 2008 13:30:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/11/project-powder-closed-beta-test-closes/</guid>
-      <description>Project Powder, the online snowboarding sim, ended their closed beta test yesterday. They sent around a survey asking what we liked and didn&amp;#39;t like about...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/project-powder-closed-beta-test...-closes./</guid>
+      <description>Project Powder, the online snowboarding sim, ended their closed beta test yesterday. They sent around a survey asking what we liked and didn&amp;rsquo;t like about&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entropia Universe on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/entropia-universe/</link>
+    <link>http://localhost:1313/wkblog/tags/entropia-universe/</link>
     <description>Recent content in Entropia Universe on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 01 Nov 2021 00:29:18 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/entropia-universe/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/entropia-universe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cryptogaming: A Brief Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/11/01/cryptogaming-a-brief-adventure/</link>
+      <link>http://localhost:1313/wkblog/2021/11/cryptogaming-a-brief-adventure/</link>
       <pubDate>Mon, 01 Nov 2021 00:29:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/11/01/cryptogaming-a-brief-adventure/</guid>
-      <description>I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames....</description>
+      <guid>http://localhost:1313/wkblog/2021/11/cryptogaming-a-brief-adventure/</guid>
+      <description>I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames&amp;hellip;.</description>
     </item>
     <item>
       <title>An hour in Next Island</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2010/12/10/an-hour-in-next-island/</link>
+      <link>http://localhost:1313/wkblog/2010/12/an-hour-in-next-island/</link>
       <pubDate>Fri, 10 Dec 2010 23:14:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2010/12/10/an-hour-in-next-island/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2010/12/an-hour-in-next-island/</guid>
+      <description>[&amp;hellip;</description>
     </item>
   </channel>
 </rss>

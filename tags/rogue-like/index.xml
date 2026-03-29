@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rogue-Like on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rogue-like/</link>
+    <link>http://localhost:1313/wkblog/tags/rogue-like/</link>
     <description>Recent content in Rogue-Like on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 07 Mar 2022 23:12:57 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rogue-like/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/rogue-like/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>7DRL 2022 Day 2: Dungeon Room</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</link>
+      <link>http://localhost:1313/wkblog/2022/03/7drl-2022-day-2-dungeon-room/</link>
       <pubDate>Mon, 07 Mar 2022 23:12:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</guid>
-      <description>The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn&amp;#39;t look like much, but it&amp;#39;s something. Also, by...</description>
+      <guid>http://localhost:1313/wkblog/2022/03/7drl-2022-day-2-dungeon-room/</guid>
+      <description>The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn&amp;rsquo;t look like much, but it&amp;rsquo;s something. Also, by&amp;hellip;</description>
     </item>
     <item>
       <title>Quick Look: Unexplored 2</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/11/01/quick-look-unexplored-2/</link>
+      <link>http://localhost:1313/wkblog/2021/11/quick-look-unexplored-2/</link>
       <pubDate>Mon, 01 Nov 2021 23:18:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/11/01/quick-look-unexplored-2/</guid>
-      <description>Ludomotion&amp;#39;s sequel to 2017&amp;#39;s &amp;#34;[Unexplored](https://store.steampowered.com/app/506870/Unexplored/)&amp;#34; roguelike dungeon crawler brings 3D procedural generation to the overworld in a clever little legacy roguelike with some interesting quirks....</description>
+      <guid>http://localhost:1313/wkblog/2021/11/quick-look-unexplored-2/</guid>
+      <description>Ludomotion&amp;rsquo;s sequel to 2017&amp;rsquo;s &amp;ldquo;Unexplored&amp;rdquo; roguelike dungeon crawler brings 3D procedural generation to the overworld in a clever little legacy roguelike with some interesting quirks&amp;hellip;.</description>
     </item>
     <item>
       <title>New World: Fun, but does it live up to the hype?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2021/09/28/new-world-fun-but-does-it-live-up-to-the-hype/</link>
+      <link>http://localhost:1313/wkblog/2021/09/new-world-fun-but-does-it-live-up-to-the-hype/</link>
       <pubDate>Tue, 28 Sep 2021 23:07:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2021/09/28/new-world-fun-but-does-it-live-up-to-the-hype/</guid>
-      <description>I&amp;#39;m not one to jump on bandwagons, but with approximately 150% of the people I follow on Twitter jumping into the New World, I really...</description>
+      <guid>http://localhost:1313/wkblog/2021/09/new-world-fun-but-does-it-live-up-to-the-hype/</guid>
+      <description>I&amp;rsquo;m not one to jump on bandwagons, but with approximately 150% of the people I follow on Twitter jumping into the New World, I really&amp;hellip;</description>
     </item>
     <item>
       <title>My RPGs of 2020</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/12/11/my-rpgs-of-2020/</link>
+      <link>http://localhost:1313/wkblog/2020/12/my-rpgs-of-2020/</link>
       <pubDate>Fri, 11 Dec 2020 09:23:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/12/11/my-rpgs-of-2020/</guid>
-      <description>I looked at all the RPGs I&amp;#39;ve played this year, trying to pick the one of them all that would be the best of the...</description>
+      <guid>http://localhost:1313/wkblog/2020/12/my-rpgs-of-2020/</guid>
+      <description>I looked at all the RPGs I&amp;rsquo;ve played this year, trying to pick the one of them all that would be the best of the&amp;hellip;</description>
     </item>
     <item>
       <title>Rogue -- the original rogue-like</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/10/27/rogue-the-original-rogue-like/</link>
+      <link>http://localhost:1313/wkblog/2020/10/rogue--the-original-rogue-like/</link>
       <pubDate>Tue, 27 Oct 2020 07:49:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/10/27/rogue-the-original-rogue-like/</guid>
-      <description>There&amp;#39;s been many efforts to define exactly what a &amp;#34;rogue-like&amp;#34; game is. Permadeath is definitely one. A different map every time you play is another....</description>
+      <guid>http://localhost:1313/wkblog/2020/10/rogue--the-original-rogue-like/</guid>
+      <description>There&amp;rsquo;s been many efforts to define exactly what a &amp;ldquo;rogue-like&amp;rdquo; game is. Permadeath is definitely one. A different map every time you play is another&amp;hellip;.</description>
     </item>
     <item>
       <title>Chocobo&#39;s Mystery Dungeon: Every Buddy FINISHED! Sorta.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/07/08/chocobos-mystery-dungeon-every-buddy-finished-sorta/</link>
+      <link>http://localhost:1313/wkblog/2020/07/chocobos-mystery-dungeon-every-buddy-finished-sorta./</link>
       <pubDate>Wed, 08 Jul 2020 12:01:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/07/08/chocobos-mystery-dungeon-every-buddy-finished-sorta/</guid>
-      <description>I&amp;#39;ve been buying a lot of casual games to pass the time when I don&amp;#39;t have a lot of time to play. Bunches of puzzle...</description>
+      <guid>http://localhost:1313/wkblog/2020/07/chocobos-mystery-dungeon-every-buddy-finished-sorta./</guid>
+      <description>I&amp;rsquo;ve been buying a lot of casual games to pass the time when I don&amp;rsquo;t have a lot of time to play. Bunches of puzzle&amp;hellip;</description>
     </item>
     <item>
       <title>Chocobo&#39;s Mystery Dungeon: Every Buddy!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/13/chocobos-mystery-dungeon-every-buddy/</link>
+      <link>http://localhost:1313/wkblog/2020/05/chocobos-mystery-dungeon-every-buddy/</link>
       <pubDate>Wed, 13 May 2020 01:13:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/13/chocobos-mystery-dungeon-every-buddy/</guid>
-      <description>I don&amp;#39;t know anyone who has ever played any Final Fantasy game and *didn&amp;#39;t* say to themselves, &amp;#34;Well, why can&amp;#39;t *I* play as the *Chocobo*???2???&amp;#34;...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/chocobos-mystery-dungeon-every-buddy/</guid>
+      <description>I don&amp;rsquo;t know anyone who has ever played any Final Fantasy game and didn&amp;rsquo;t say to themselves, &amp;ldquo;Well, why can&amp;rsquo;t I play as the Chocobo???2???&amp;rdquo;&amp;hellip;</description>
     </item>
     <item>
       <title>Shiren the Wanderer 3 coming next year for the Wii</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii/</link>
+      <link>http://localhost:1313/wkblog/2009/06/shiren-the-wanderer-3-coming-next-year-for-the-wii/</link>
       <pubDate>Tue, 09 Jun 2009 19:12:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2009/06/shiren-the-wanderer-3-coming-next-year-for-the-wii/</guid>
+      <description>[&amp;hellip;</description>
     </item>
   </channel>
 </rss>

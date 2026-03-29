@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W101 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/w101/</link>
+    <link>http://localhost:1313/wkblog/tags/w101/</link>
     <description>Recent content in W101 on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 23 Apr 2009 19:14:24 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/w101/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/w101/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard 101 Downtime</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/23/wizard-101-downtime/</link>
+      <link>http://localhost:1313/wkblog/2009/04/wizard-101-downtime/</link>
       <pubDate>Thu, 23 Apr 2009 19:14:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/23/wizard-101-downtime/</guid>
-      <description>Saith the Wizard 101 prophets and prognosticators:...</description>
+      <guid>http://localhost:1313/wkblog/2009/04/wizard-101-downtime/</guid>
+      <description>Saith the Wizard 101 prophets and prognosticators:&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: Looking back</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/18/wizard-101-looking-back/</link>
+      <link>http://localhost:1313/wkblog/2008/11/wizard-101-looking-back/</link>
       <pubDate>Tue, 18 Nov 2008 10:00:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/18/wizard-101-looking-back/</guid>
-      <description>There&amp;#39;s nothing as sad as seeing any empty quest journal. Er, assignment book. We are, after all, all wizards at Ravenwood, and in between saving...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/wizard-101-looking-back/</guid>
+      <description>There&amp;rsquo;s nothing as sad as seeing any empty quest journal. Er, assignment book. We are, after all, all wizards at Ravenwood, and in between saving&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: Shiritaki Temple and the Plague Oni</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/03/wizard-101-shiritakai-temple-and-the-plague-oni/</link>
+      <link>http://localhost:1313/wkblog/2008/11/wizard-101-shiritaki-temple-and-the-plague-oni/</link>
       <pubDate>Mon, 03 Nov 2008 09:51:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/03/wizard-101-shiritakai-temple-and-the-plague-oni/</guid>
-      <description>Well, apparently, all the demons in Wizard 101 are elephants. Who knew? The Plague Oni went down in the concentrated fire of three wizards after...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/wizard-101-shiritaki-temple-and-the-plague-oni/</guid>
+      <description>Well, apparently, all the demons in Wizard 101 are elephants. Who knew? The Plague Oni went down in the concentrated fire of three wizards after&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: October 30 update and the Cave of Sorrows</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/</link>
+      <link>http://localhost:1313/wkblog/2008/11/wizard-101-october-30-update-and-the-cave-of-sorrows/</link>
       <pubDate>Sat, 01 Nov 2008 11:22:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/</guid>
-      <description>Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/wizard-101-october-30-update-and-the-cave-of-sorrows/</guid>
+      <description>Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: Crimson Fields and Sunken City (again)</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/</link>
+      <link>http://localhost:1313/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</link>
       <pubDate>Wed, 29 Oct 2008 08:20:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/</guid>
-      <description>Meet the War Oni, boss of Crimson Fields. I&amp;#39;ve been told Crimson Fields is the longest instance in Moo Shu, and so far it seems...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</guid>
+      <description>Meet the War Oni, boss of Crimson Fields. I&amp;rsquo;ve been told Crimson Fields is the longest instance in Moo Shu, and so far it seems&amp;hellip;</description>
     </item>
     <item>
       <title>Wizard 101: Hametsu Village</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/27/wizard-101-hametsu-village/</link>
+      <link>http://localhost:1313/wkblog/2008/10/wizard-101-hametsu-village/</link>
       <pubDate>Mon, 27 Oct 2008 08:45:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/27/wizard-101-hametsu-village/</guid>
-      <description>Finished Moo Shu&amp;#39;s first quest hub, Hametsu Village. It&amp;#39;s nice to have kinda-safe sidewalks to run around in; there&amp;#39;s nothing more annoying than the Marleybone...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/wizard-101-hametsu-village/</guid>
+      <description>Finished Moo Shu&amp;rsquo;s first quest hub, Hametsu Village. It&amp;rsquo;s nice to have kinda-safe sidewalks to run around in; there&amp;rsquo;s nothing more annoying than the Marleybone&amp;hellip;</description>
     </item>
     <item>
       <title>W101: The long journey to Moo Shu</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/19/w101-the-long-journey-to-moo-shu/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-the-long-journey-to-moo-shu/</link>
       <pubDate>Sun, 19 Oct 2008 23:32:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/19/w101-the-long-journey-to-moo-shu/</guid>
-      <description>It took the better part of two days and the help of a handful of friends, but I finally finished the story line missions in...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-the-long-journey-to-moo-shu/</guid>
+      <description>It took the better part of two days and the help of a handful of friends, but I finally finished the story line missions in&amp;hellip;</description>
     </item>
     <item>
       <title>W101: The Ironworks</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/16/w101-the-ironworks/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-the-ironworks/</link>
       <pubDate>Thu, 16 Oct 2008 08:59:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/16/w101-the-ironworks/</guid>
-      <description>Marleybone&amp;#39;s Regent&amp;#39;s Square at the end of last night&amp;#39;s adventure. New staff, the Staff of Rejuvenation; my school, of course, which is kind of a...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-the-ironworks/</guid>
+      <description>Marleybone&amp;rsquo;s Regent&amp;rsquo;s Square at the end of last night&amp;rsquo;s adventure. New staff, the Staff of Rejuvenation; my school, of course, which is kind of a&amp;hellip;</description>
     </item>
     <item>
       <title>W101: On to Chelsea Court</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/14/w101-on-to-chelsea-court/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-on-to-chelsea-court/</link>
       <pubDate>Tue, 14 Oct 2008 08:38:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/14/w101-on-to-chelsea-court/</guid>
-      <description>Kinda embarrassed to have fallen asleep while grouping with Kasul in Chardok last night. Sorry, Kasul :( It was weird, though. Wake up, at the...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-on-to-chelsea-court/</guid>
+      <description>Kinda embarrassed to have fallen asleep while grouping with Kasul in Chardok last night. Sorry, Kasul :( It was weird, though. Wake up, at the&amp;hellip;</description>
     </item>
     <item>
       <title>W101: Hallowe&#39;en in Wizard City (and October patch notes)</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
       <pubDate>Mon, 13 Oct 2008 08:42:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
-      <description>I didn&amp;#39;t intend to spend all night playing Wizard 101, but after I finished the Hallowe&amp;#39;en quests and finished the Krokotopia quests I&amp;#39;d ignored to...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
+      <description>I didn&amp;rsquo;t intend to spend all night playing Wizard 101, but after I finished the Hallowe&amp;rsquo;en quests and finished the Krokotopia quests I&amp;rsquo;d ignored to&amp;hellip;</description>
     </item>
     <item>
       <title>W101: Krokosphinx and October 1 patch notes</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</link>
       <pubDate>Wed, 01 Oct 2008 12:00:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/</guid>
-      <description>After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</guid>
+      <description>After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished&amp;hellip;</description>
     </item>
     <item>
       <title>W101: The Chamber of Fire, the Royal Hall and Sunken City</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</link>
+      <link>http://localhost:1313/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</link>
       <pubDate>Sun, 21 Sep 2008 20:34:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</guid>
-      <description>A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</guid>
+      <description>A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low&amp;hellip;</description>
     </item>
     <item>
       <title>W101: The Gobbler King</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/19/w101-the-gobbler-king/</link>
+      <link>http://localhost:1313/wkblog/2008/09/w101-the-gobbler-king/</link>
       <pubDate>Fri, 19 Sep 2008 11:00:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/19/w101-the-gobbler-king/</guid>
-      <description>I don&amp;#39;t really like visiting the Gobbler King. Aside from being really stinky AND making a habit of snacking on the architecture, he is always...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/w101-the-gobbler-king/</guid>
+      <description>I don&amp;rsquo;t really like visiting the Gobbler King. Aside from being really stinky AND making a habit of snacking on the architecture, he is always&amp;hellip;</description>
     </item>
     <item>
       <title>W101: The Sunken City</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/07/w101-the-sunken-city/</link>
+      <link>http://localhost:1313/wkblog/2008/09/w101-the-sunken-city/</link>
       <pubDate>Sun, 07 Sep 2008 10:03:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/07/w101-the-sunken-city/</guid>
-      <description>It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the &amp;#34;True Friend&amp;#34; code,...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/w101-the-sunken-city/</guid>
+      <description>It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the &amp;ldquo;True Friend&amp;rdquo; code,&amp;hellip;</description>
     </item>
   </channel>
 </rss>

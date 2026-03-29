@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Broker on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/broker/</link>
+    <link>http://localhost:1313/wkblog/tags/broker/</link>
     <description>Recent content in Broker on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 19 Sep 2008 14:23:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/broker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/broker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ2: Getting out before the crash</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/19/eq2-getting-out-before-the-crash/</link>
+      <link>http://localhost:1313/wkblog/2008/09/eq2-getting-out-before-the-crash/</link>
       <pubDate>Fri, 19 Sep 2008 14:23:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/19/eq2-getting-out-before-the-crash/</guid>
-      <description>Taking action before the GU49 changes no longer requiring rare dusts (the by-products of making Adept III spells) for raid-level cure potions, I dumped all...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/eq2-getting-out-before-the-crash/</guid>
+      <description>Taking action before the GU49 changes no longer requiring rare dusts (the by-products of making Adept III spells) for raid-level cure potions, I dumped all&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avatar on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/avatar/</link>
+    <link>http://localhost:1313/wkblog/tags/avatar/</link>
     <description>Recent content in Avatar on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 22 Aug 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/avatar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/avatar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PS2 RPGs: Quick Reviews</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2024/08/22/ps2-rpgs-quick-reviews/</link>
+      <link>http://localhost:1313/wkblog/2024/08/ps2-rpgs-quick-reviews/</link>
       <pubDate>Thu, 22 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2024/08/22/ps2-rpgs-quick-reviews/</guid>
-      <description>You&amp;#39;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?</description>
+      <guid>http://localhost:1313/wkblog/2024/08/ps2-rpgs-quick-reviews/</guid>
+      <description>You&amp;rsquo;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?</description>
     </item>
     <item>
       <title>The Xbox NXE</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/11/21/the-xbox-nxe/</link>
+      <link>http://localhost:1313/wkblog/2008/11/the-xbox-nxe/</link>
       <pubDate>Fri, 21 Nov 2008 11:27:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/11/21/the-xbox-nxe/</guid>
-      <description>Seems weird to be writing about the Xbox New Xbox Experience because, after all, I don&amp;#39;t have an Xbox... but my son does :) And...</description>
+      <guid>http://localhost:1313/wkblog/2008/11/the-xbox-nxe/</guid>
+      <description>Seems weird to be writing about the Xbox New Xbox Experience because, after all, I don&amp;rsquo;t have an Xbox&amp;hellip; but my son does :) And&amp;hellip;</description>
     </item>
   </channel>
 </rss>

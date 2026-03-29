@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icewind on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/icewind/</link>
+    <link>http://localhost:1313/wkblog/tags/icewind/</link>
     <description>Recent content in Icewind on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 02 Aug 2008 11:48:12 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/icewind/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/icewind/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EQ: The Last Dragons</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/08/02/eq-the-last-dragons/</link>
+      <link>http://localhost:1313/wkblog/2008/08/eq-the-last-dragons/</link>
       <pubDate>Sat, 02 Aug 2008 11:48:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/08/02/eq-the-last-dragons/</guid>
-      <description>Come Hell or high water, we were going to start leveling again after last night&amp;#39;s dragon raids. Everyone has been getting antsy about perpetually staying...</description>
+      <guid>http://localhost:1313/wkblog/2008/08/eq-the-last-dragons/</guid>
+      <description>Come Hell or high water, we were going to start leveling again after last night&amp;rsquo;s dragon raids. Everyone has been getting antsy about perpetually staying&amp;hellip;</description>
     </item>
   </channel>
 </rss>

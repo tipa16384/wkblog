@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Name the Turtles on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/name-the-turtles/</link>
+    <link>http://localhost:1313/wkblog/tags/name-the-turtles/</link>
     <description>Recent content in Name the Turtles on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 20 Apr 2009 10:00:15 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/name-the-turtles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/name-the-turtles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard 101: Name the Turtles!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/20/wizard-101-name-the-turtles/</link>
+      <link>http://localhost:1313/wkblog/2009/04/wizard-101-name-the-turtles/</link>
       <pubDate>Mon, 20 Apr 2009 10:00:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/20/wizard-101-name-the-turtles/</guid>
-      <description>[...</description>
+      <guid>http://localhost:1313/wkblog/2009/04/wizard-101-name-the-turtles/</guid>
+      <description>[&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coins on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/coins/</link>
+    <link>http://localhost:1313/wkblog/tags/coins/</link>
     <description>Recent content in Coins on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Fri, 24 Apr 2009 16:51:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/coins/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/coins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acclaim Bonus Coin Weekend April 24-26</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/04/24/acclaim-bonus-coin-weekend-april-24-26/</link>
+      <link>http://localhost:1313/wkblog/2009/04/acclaim-bonus-coin-weekend-april-24-26/</link>
       <pubDate>Fri, 24 Apr 2009 16:51:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/04/24/acclaim-bonus-coin-weekend-april-24-26/</guid>
-      <description>If [Tycho](https://tipa16384.github.io/wkblog/index.php/2009/04/24/web-log-424-friday-is-free-day-edition/comment-page-1/#comment-13592) didn&amp;#39;t put you off with his description of Acclaim&amp;#39;s Coin-based subscription plan for the Chronicles of Spellborn, this weekend it is slightly cheaper...</description>
+      <guid>http://localhost:1313/wkblog/2009/04/acclaim-bonus-coin-weekend-april-24-26/</guid>
+      <description>If Tycho didn&amp;rsquo;t put you off with his description of Acclaim&amp;rsquo;s Coin-based subscription plan for the Chronicles of Spellborn, this weekend it is slightly cheaper&amp;hellip;</description>
     </item>
     <item>
       <title>Spellborn on the cheap, new armors, dev chat</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/</link>
+      <link>http://localhost:1313/wkblog/2009/03/spellborn-on-the-cheap-new-armors-dev-chat/</link>
       <pubDate>Fri, 20 Mar 2009 19:06:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/</guid>
-      <description>Just finished listening in on the Spellborn dev chat/&amp;#39;webinar&amp;#39;. Lots of interesting discussion, some of which is after the break....</description>
+      <guid>http://localhost:1313/wkblog/2009/03/spellborn-on-the-cheap-new-armors-dev-chat/</guid>
+      <description>Just finished listening in on the Spellborn dev chat/&amp;lsquo;webinar&amp;rsquo;. Lots of interesting discussion, some of which is after the break&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

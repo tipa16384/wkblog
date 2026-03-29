@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krokotopia on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/krokotopia/</link>
+    <link>http://localhost:1313/wkblog/tags/krokotopia/</link>
     <description>Recent content in Krokotopia on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 27 Oct 2008 08:45:01 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/krokotopia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/krokotopia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wizard 101: Hametsu Village</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/27/wizard-101-hametsu-village/</link>
+      <link>http://localhost:1313/wkblog/2008/10/wizard-101-hametsu-village/</link>
       <pubDate>Mon, 27 Oct 2008 08:45:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/27/wizard-101-hametsu-village/</guid>
-      <description>Finished Moo Shu&amp;#39;s first quest hub, Hametsu Village. It&amp;#39;s nice to have kinda-safe sidewalks to run around in; there&amp;#39;s nothing more annoying than the Marleybone...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/wizard-101-hametsu-village/</guid>
+      <description>Finished Moo Shu&amp;rsquo;s first quest hub, Hametsu Village. It&amp;rsquo;s nice to have kinda-safe sidewalks to run around in; there&amp;rsquo;s nothing more annoying than the Marleybone&amp;hellip;</description>
     </item>
     <item>
       <title>W101: Hallowe&#39;en in Wizard City (and October patch notes)</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
       <pubDate>Mon, 13 Oct 2008 08:42:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
-      <description>I didn&amp;#39;t intend to spend all night playing Wizard 101, but after I finished the Hallowe&amp;#39;en quests and finished the Krokotopia quests I&amp;#39;d ignored to...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
+      <description>I didn&amp;rsquo;t intend to spend all night playing Wizard 101, but after I finished the Hallowe&amp;rsquo;en quests and finished the Krokotopia quests I&amp;rsquo;d ignored to&amp;hellip;</description>
     </item>
     <item>
       <title>W101: Leaving Krokotopia</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/06/w101-leaving-krokotopia/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-leaving-krokotopia/</link>
       <pubDate>Mon, 06 Oct 2008 08:00:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/06/w101-leaving-krokotopia/</guid>
-      <description>*And I have the title to prove it.*...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-leaving-krokotopia/</guid>
+      <description>And I have the title to prove it&amp;hellip;.</description>
     </item>
     <item>
       <title>W101: Krokosphinx and October 1 patch notes</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/</link>
+      <link>http://localhost:1313/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</link>
       <pubDate>Wed, 01 Oct 2008 12:00:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/</guid>
-      <description>After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished...</description>
+      <guid>http://localhost:1313/wkblog/2008/10/w101-krokosphinx-and-october-1-patch-notes/</guid>
+      <description>After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished&amp;hellip;</description>
     </item>
     <item>
       <title>W101: Entering the Palace of Fire</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/25/w101-entering-the-palace-of-fire/</link>
+      <link>http://localhost:1313/wkblog/2008/09/w101-entering-the-palace-of-fire/</link>
       <pubDate>Thu, 25 Sep 2008 12:00:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/25/w101-entering-the-palace-of-fire/</guid>
-      <description>*Dragon Mouth Cave*...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/w101-entering-the-palace-of-fire/</guid>
+      <description>Dragon Mouth Cave&amp;hellip;</description>
     </item>
     <item>
       <title>W101: The Chamber of Fire, the Royal Hall and Sunken City</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</link>
+      <link>http://localhost:1313/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</link>
       <pubDate>Sun, 21 Sep 2008 20:34:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</guid>
-      <description>A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</guid>
+      <description>A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low&amp;hellip;</description>
     </item>
     <item>
       <title>W101: The Gobbler King</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/09/19/w101-the-gobbler-king/</link>
+      <link>http://localhost:1313/wkblog/2008/09/w101-the-gobbler-king/</link>
       <pubDate>Fri, 19 Sep 2008 11:00:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/09/19/w101-the-gobbler-king/</guid>
-      <description>I don&amp;#39;t really like visiting the Gobbler King. Aside from being really stinky AND making a habit of snacking on the architecture, he is always...</description>
+      <guid>http://localhost:1313/wkblog/2008/09/w101-the-gobbler-king/</guid>
+      <description>I don&amp;rsquo;t really like visiting the Gobbler King. Aside from being really stinky AND making a habit of snacking on the architecture, he is always&amp;hellip;</description>
     </item>
     <item>
       <title>Let&#39;s check in on Wizard 101...</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/29/lets-check-in-on-wizard-101/</link>
+      <link>http://localhost:1313/wkblog/2008/07/lets-check-in-on-wizard-101.../</link>
       <pubDate>Tue, 29 Jul 2008 01:09:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/29/lets-check-in-on-wizard-101/</guid>
-      <description>I&amp;#39;m not supposed to be in Marleybone. I&amp;#39;m supposed to be mediating the eons-old feud between the Djesserit and Anjit clans of Kroks, a feud...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/lets-check-in-on-wizard-101.../</guid>
+      <description>I&amp;rsquo;m not supposed to be in Marleybone. I&amp;rsquo;m supposed to be mediating the eons-old feud between the Djesserit and Anjit clans of Kroks, a feud&amp;hellip;</description>
     </item>
   </channel>
 </rss>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Valkyrie Chronicles on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/valkyrie-chronicles/</link>
+    <link>http://localhost:1313/wkblog/tags/valkyrie-chronicles/</link>
     <description>Recent content in Valkyrie Chronicles on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 23 Jun 2022 21:17:44 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/valkyrie-chronicles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/valkyrie-chronicles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Symphony of War: The Nephilim Saga</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2022/06/23/symphony-of-war-the-nephilim-saga/</link>
+      <link>http://localhost:1313/wkblog/2022/06/symphony-of-war-the-nephilim-saga/</link>
       <pubDate>Thu, 23 Jun 2022 21:17:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2022/06/23/symphony-of-war-the-nephilim-saga/</guid>
-      <description>It&amp;#39;s a tactical RPG where you control an army on the battlefield made of several squads. It&amp;#39;s a callout to one of the most unusual...</description>
+      <guid>http://localhost:1313/wkblog/2022/06/symphony-of-war-the-nephilim-saga/</guid>
+      <description>It&amp;rsquo;s a tactical RPG where you control an army on the battlefield made of several squads. It&amp;rsquo;s a callout to one of the most unusual&amp;hellip;</description>
     </item>
     <item>
       <title>Playstation 3 Home beta</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/12/12/playstation-3-home-beta/</link>
+      <link>http://localhost:1313/wkblog/2008/12/playstation-3-home-beta/</link>
       <pubDate>Fri, 12 Dec 2008 09:51:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/12/12/playstation-3-home-beta/</guid>
-      <description>Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation...</description>
+      <guid>http://localhost:1313/wkblog/2008/12/playstation-3-home-beta/</guid>
+      <description>Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation&amp;hellip;</description>
     </item>
     <item>
       <title>PS3: Valkyrie Chronicles</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2008/07/07/ps3-valkyrie-chronicles/</link>
+      <link>http://localhost:1313/wkblog/2008/07/ps3-valkyrie-chronicles/</link>
       <pubDate>Mon, 07 Jul 2008 18:46:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2008/07/07/ps3-valkyrie-chronicles/</guid>
-      <description>I&amp;#39;m not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a *game* machine, as...</description>
+      <guid>http://localhost:1313/wkblog/2008/07/ps3-valkyrie-chronicles/</guid>
+      <description>I&amp;rsquo;m not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a game machine, as&amp;hellip;</description>
     </item>
   </channel>
 </rss>

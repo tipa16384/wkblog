@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hero Forge on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/hero-forge/</link>
+    <link>http://localhost:1313/wkblog/tags/hero-forge/</link>
     <description>Recent content in Hero Forge on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 25 May 2020 20:46:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/hero-forge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/hero-forge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Octomini Project Day 1: Minis Arrive</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/25/octomini-project-day-1-minis-arrive/</link>
+      <link>http://localhost:1313/wkblog/2020/05/octomini-project-day-1-minis-arrive/</link>
       <pubDate>Mon, 25 May 2020 20:46:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/25/octomini-project-day-1-minis-arrive/</guid>
-      <description>A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I&amp;#39;d...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/octomini-project-day-1-minis-arrive/</guid>
+      <description>A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I&amp;rsquo;d&amp;hellip;</description>
     </item>
     <item>
       <title>Am I Witchy Enough For You?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/19/am-i-witchy-enough-for-you/</link>
+      <link>http://localhost:1313/wkblog/2020/05/am-i-witchy-enough-for-you/</link>
       <pubDate>Tue, 19 May 2020 11:06:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/19/am-i-witchy-enough-for-you/</guid>
-      <description>Since I finished Octopath Traveler a few weeks ago, I&amp;#39;ve been looking for another really decent RPG in which to lose myself. My boyfriend had...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/am-i-witchy-enough-for-you/</guid>
+      <description>Since I finished Octopath Traveler a few weeks ago, I&amp;rsquo;ve been looking for another really decent RPG in which to lose myself. My boyfriend had&amp;hellip;</description>
     </item>
     <item>
       <title>I got my minis: Now Octopath Traveler is with me forever.</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/14/i-got-my-minis-now-octopath-traveler-is-with-me-forever/</link>
+      <link>http://localhost:1313/wkblog/2020/05/i-got-my-minis-now-octopath-traveler-is-with-me-forever./</link>
       <pubDate>Thu, 14 May 2020 22:49:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/14/i-got-my-minis-now-octopath-traveler-is-with-me-forever/</guid>
-      <description>It wasn&amp;#39;t super long ago that I ordered these minis from [Hero Forge](https://www.heroforge.com/). I&amp;#39;d backed their latest Kickstarter and had a color mini as a...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/i-got-my-minis-now-octopath-traveler-is-with-me-forever./</guid>
+      <description>It wasn&amp;rsquo;t super long ago that I ordered these minis from Hero Forge. I&amp;rsquo;d backed their latest Kickstarter and had a color mini as a&amp;hellip;</description>
     </item>
     <item>
       <title>Ophilia is out for printing!</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/04/21/ophilia-is-out-for-printing/</link>
+      <link>http://localhost:1313/wkblog/2020/04/ophilia-is-out-for-printing/</link>
       <pubDate>Tue, 21 Apr 2020 21:17:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/04/21/ophilia-is-out-for-printing/</guid>
-      <description>Hero Forge sent today the receipt for yesterday&amp;#39;s order for the printed Octopath Traveler minatures. The lighting is a lot flatter than it is in...</description>
+      <guid>http://localhost:1313/wkblog/2020/04/ophilia-is-out-for-printing/</guid>
+      <description>Hero Forge sent today the receipt for yesterday&amp;rsquo;s order for the printed Octopath Traveler minatures. The lighting is a lot flatter than it is in&amp;hellip;</description>
     </item>
   </channel>
 </rss>

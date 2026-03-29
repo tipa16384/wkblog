@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Witcher on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/the-witcher/</link>
+    <link>http://localhost:1313/wkblog/tags/the-witcher/</link>
     <description>Recent content in The Witcher on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2020 12:35:25 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/the-witcher/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/the-witcher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Log for June</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/07/01/game-log-for-june/</link>
+      <link>http://localhost:1313/wkblog/2020/07/game-log-for-june/</link>
       <pubDate>Wed, 01 Jul 2020 12:35:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/07/01/game-log-for-june/</guid>
-      <description>June hasn&amp;#39;t been the best month for gaming. Tom and I are ramping up our 3D printing, and working on that sort of stuff is...</description>
+      <guid>http://localhost:1313/wkblog/2020/07/game-log-for-june/</guid>
+      <description>June hasn&amp;rsquo;t been the best month for gaming. Tom and I are ramping up our 3D printing, and working on that sort of stuff is&amp;hellip;</description>
     </item>
     <item>
       <title>My Witcher</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/21/my-witcher/</link>
+      <link>http://localhost:1313/wkblog/2020/05/my-witcher/</link>
       <pubDate>Thu, 21 May 2020 11:48:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/21/my-witcher/</guid>
-      <description>EverQuest was down all yesterday, so I didn&amp;#39;t have a chance to continue my doomed quest to finish my SK&amp;#39;s bone mail armor. But that...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/my-witcher/</guid>
+      <description>EverQuest was down all yesterday, so I didn&amp;rsquo;t have a chance to continue my doomed quest to finish my SK&amp;rsquo;s bone mail armor. But that&amp;hellip;</description>
     </item>
     <item>
       <title>Am I Witchy Enough For You?</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/05/19/am-i-witchy-enough-for-you/</link>
+      <link>http://localhost:1313/wkblog/2020/05/am-i-witchy-enough-for-you/</link>
       <pubDate>Tue, 19 May 2020 11:06:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/05/19/am-i-witchy-enough-for-you/</guid>
-      <description>Since I finished Octopath Traveler a few weeks ago, I&amp;#39;ve been looking for another really decent RPG in which to lose myself. My boyfriend had...</description>
+      <guid>http://localhost:1313/wkblog/2020/05/am-i-witchy-enough-for-you/</guid>
+      <description>Since I finished Octopath Traveler a few weeks ago, I&amp;rsquo;ve been looking for another really decent RPG in which to lose myself. My boyfriend had&amp;hellip;</description>
     </item>
   </channel>
 </rss>

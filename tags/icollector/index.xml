@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icollector on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/icollector/</link>
+    <link>http://localhost:1313/wkblog/tags/icollector/</link>
     <description>Recent content in Icollector on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Tue, 09 Jun 2009 17:25:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/icollector/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/icollector/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aeria Games wants Geeks with iPhones to iTest a new iGame</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2009/06/09/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</link>
+      <link>http://localhost:1313/wkblog/2009/06/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</link>
       <pubDate>Tue, 09 Jun 2009 17:25:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2009/06/09/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</guid>
-      <description>I knew I wasn&amp;#39;t crazy! Okay, back up -- I knew I had really seen this! Jury&amp;#39;s still out about the whole &amp;#34;crazy&amp;#34; thing....</description>
+      <guid>http://localhost:1313/wkblog/2009/06/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</guid>
+      <description>I knew I wasn&amp;rsquo;t crazy! Okay, back up &amp;ndash; I knew I had really seen this! Jury&amp;rsquo;s still out about the whole &amp;ldquo;crazy&amp;rdquo; thing&amp;hellip;.</description>
     </item>
   </channel>
 </rss>

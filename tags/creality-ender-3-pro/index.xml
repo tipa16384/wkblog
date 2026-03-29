@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creality Ender 3 Pro on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/creality-ender-3-pro/</link>
+    <link>http://localhost:1313/wkblog/tags/creality-ender-3-pro/</link>
     <description>Recent content in Creality Ender 3 Pro on Chasing Dings!</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 15 Nov 2020 09:38:32 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/creality-ender-3-pro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/wkblog/tags/creality-ender-3-pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Prusa i3 Mk3S 3D printer: When you just want to print</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/11/15/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</link>
+      <link>http://localhost:1313/wkblog/2020/11/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</link>
       <pubDate>Sun, 15 Nov 2020 09:38:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/11/15/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</guid>
-      <description>I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people...</description>
+      <guid>http://localhost:1313/wkblog/2020/11/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</guid>
+      <description>I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people&amp;hellip;</description>
     </item>
     <item>
       <title>ABP -- Always Be Printing, Always Be Painting</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/06/29/abp-always-be-printing-always-be-painting/</link>
+      <link>http://localhost:1313/wkblog/2020/06/abp--always-be-printing-always-be-painting/</link>
       <pubDate>Mon, 29 Jun 2020 11:59:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/06/29/abp-always-be-printing-always-be-painting/</guid>
-      <description>We&amp;#39;re working as hard as we can to be able to play Gloomhaven: Jaws of the Lion the way we want to play it --...</description>
+      <guid>http://localhost:1313/wkblog/2020/06/abp--always-be-printing-always-be-painting/</guid>
+      <description>We&amp;rsquo;re working as hard as we can to be able to play Gloomhaven: Jaws of the Lion the way we want to play it &amp;ndash;&amp;hellip;</description>
     </item>
     <item>
       <title>Octomini Project Day 3: The $250 mini</title>
-      <link>https://tipa16384.github.io/wkblog/posts/2020/06/02/octomini-project-day-3-the-250-mini/</link>
+      <link>http://localhost:1313/wkblog/2020/06/octomini-project-day-3-the-250-mini/</link>
       <pubDate>Tue, 02 Jun 2020 12:12:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/posts/2020/06/02/octomini-project-day-3-the-250-mini/</guid>
-      <description>I want to point out at the start that I did not buy a 3D printer to print miniatures....</description>
+      <guid>http://localhost:1313/wkblog/2020/06/octomini-project-day-3-the-250-mini/</guid>
+      <description>I want to point out at the start that I did not buy a 3D printer to print miniatures&amp;hellip;.</description>
     </item>
   </channel>
 </rss>
