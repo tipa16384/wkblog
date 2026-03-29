@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "I thought, for my vacation, I\u0026rsquo;d have time to really dive deep into these puzzles. Instead, I\u0026rsquo;ve been buried deep in sand \u0026ndash; much like the hapless victim in today\u0026rsquo;s puzzle.",
+  "description": "I thought, for my vacation, I\u0026rsquo;d have time to really dive deep into these puzzles. Instead, I\u0026rsquo;ve been buried deep in sand \u0026ndash; much like the hapless victim in today\u0026rsquo;s puzzle.\n",
   "keywords": []
 }
 
@@ -302,7 +302,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>So, Monday and Tuesday, I flew to Denver and back to pick up my son, who&rsquo;d gotten stuck on an impromptu trip across country to see the Grand Canyon. Today, I found that the $10,000 sewer pipe we just had replaced on the outside of the house needs a $5,500 mate on the inside of the house.</p>
+              <p>I thought, for my vacation, I&rsquo;d have time to really dive deep into these puzzles. Instead, I&rsquo;ve been buried deep in sand &ndash; much like the hapless victim in today&rsquo;s puzzle.</p>
+<p>So, Monday and Tuesday, I flew to Denver and back to pick up my son, who&rsquo;d gotten stuck on an impromptu trip across country to see the Grand Canyon. Today, I found that the $10,000 sewer pipe we just had replaced on the outside of the house needs a $5,500 mate on the inside of the house.</p>
 <p>All in all, it hasn&rsquo;t been my most favoritest of vacations. But I really did want to do Advent of Code again.</p>
 <p><a href="https://adventofcode.com/2022/day/14">For this one</a>, I really didn&rsquo;t know what the trick was. The problem description asks you to simulate a grain of sand falling and piling up over a series of obstacles, and then counting them. I started with a couple of strategies including just simulating the whole thing as a grid, before settling on just having spaces with stuff in them be in a set, to which sand is added as it comes to rest.</p>
 <p>That worked. Part 2 extended it a bit. I fiddled, and then that worked, too. No big deal. It was a little slow, at about a second and a half for part 2, but I got it down to just over a second with some fiddling.</p>
@@ -361,7 +362,6 @@ print (f&quot;{'Part 2' if part2 else 'Part 1'}: {num_sand} sand in {(time_ns() 
 <p>`</p>
 <p>I really don&rsquo;t like the <strong>drop_sand</strong> method. It was worse; I asked ChatGPT for help optimizing it, and it, for once, had a useful suggestion. This is where DFS would go. I wasn&rsquo;t wild about the parsing in <strong>read_world</strong>, either. In fact I am not very happy with this at all.</p>
 <p>Well, tomorrow, I hope I can catch up some of the days I missed.</p>
-
               
 
 

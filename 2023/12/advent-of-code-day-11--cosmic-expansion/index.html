@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "This is why Santa shouldn\u0026rsquo;t let elves do astrophysics.",
+  "description": "This is why Santa shouldn\u0026rsquo;t let elves do astrophysics.\n",
   "keywords": []
 }
 
@@ -306,7 +306,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>After yesterday, I was hoping for an easier puzzle, and we got an easier puzzle.</p>
+              <p>This is why Santa shouldn&rsquo;t let elves do astrophysics.</p>
+<p>After yesterday, I was hoping for an easier puzzle, and we got an easier puzzle.</p>
 <p>I guess we&rsquo;ve given up looking for the mysterious Robo-Elf from yesterday&rsquo;s puzzle. That maze of metal pipes was made more for a Mario-type than a repair person-type, like yourself. Thankfully, today you come across a more traditional elf. Striped stocking: check. Pointy ears: check. Impractical curly shoes? Check and <em>check</em>. It&rsquo;s an elf, and like all elves, this one really needs your help. He&rsquo;s the official astronomer for Santa, and <a href="https://adventofcode.com/2023/day/11">he needs your help with some cosmology</a>.</p>
 <p>&ldquo;Consider the galaxies,&rdquo; says the elf. &ldquo;They are all equally distant from us on Earth, but different distances from <em>each other</em>, as is plain to see. However, where the sky is <em>particularly</em> empty, they are even <em>further</em> apart.&rdquo;</p>
 <p>Elves and science. They just don&rsquo;t mix. But you humor the elf and go along with his calculations. He hands you a star map with all the galaxies of interest arranged in a grid, and he wants you to calculate the <a href="https://en.wikipedia.org/wiki/Taxicab_geometry">Manhattan distance</a> between every pair of galaxies, and then sum them up. <em>But</em>, every empty row or column in the path between the two galaxies <em>doubles</em> the normal measurement. In part two, the distance is a <em>million</em> times longer. (This is the only difference between parts 1 and 2.)</p>
@@ -357,7 +358,6 @@ return sum([manhattan_distance(g1, g2, empty_rows, empty_cols, multiplier-1) for
 print (&ldquo;Part 2:&rdquo;, parts_is_parts(1000000))`</p>
 <p><strong>parts_is_parts</strong> sums up all the expanded Manhattan distances to provide the answer, and finally, the actual call to get those sums given the multiplier. Part 1 doesn&rsquo;t send one, so it uses the default value of 2.</p>
 <p>That&rsquo;s it. Day 11 done. Have a great day!</p>
-
               
 
 

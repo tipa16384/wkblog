@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "I really tried with Haskell this time. Oh well, looks like we\u0026rsquo;ll have to play Camel Poker in Python instead.",
+  "description": "I really tried with Haskell this time. Oh well, looks like we\u0026rsquo;ll have to play Camel Poker in Python instead.\n",
   "keywords": []
 }
 
@@ -304,7 +304,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>I solved this one, in Python, before work today. It wasn&rsquo;t that hard. During the rare free moments during work today, I was poring over the Haskell tutorials, and I thought I had a decent approach to re-implement it in Haskell. When it came time to put hands to keyboard, though, I got a couple small functions done, but the larger, important functions, the ones that did the real work, no clue. And I couldn&rsquo;t explain to the AIs what I was looking for, so&hellip; it&rsquo;s Python again. Sorry.</p>
+              <p>I really tried with Haskell this time. Oh well, looks like we&rsquo;ll have to play Camel Poker in Python instead.</p>
+<p>I solved this one, in Python, before work today. It wasn&rsquo;t that hard. During the rare free moments during work today, I was poring over the Haskell tutorials, and I thought I had a decent approach to re-implement it in Haskell. When it came time to put hands to keyboard, though, I got a couple small functions done, but the larger, important functions, the ones that did the real work, no clue. And I couldn&rsquo;t explain to the AIs what I was looking for, so&hellip; it&rsquo;s Python again. Sorry.</p>
 <p>The setup for Day 7: Hey, we made it to the source of the sand! We&rsquo;re on the wrong side of the island, though, so we&rsquo;re going to have to take camels across to the other side, a journey of days. The elf suggests we play a game she calls &ldquo;Camel Cards&rdquo;, which has <a href="https://adventofcode.com/2023/day/7">some weird rules that make it a little different from the poker we know</a>.</p>
 <p>The input is a list of card hands and matching bids. We have to score each hand according to their rules, rank them from weakest to strongest hands, multiply their rank by their bid, and sum the whole shebang up. This is the pattern for both parts. Part 2 differs in that the Jack is now a wild card that is always the exact value needed to make the hand it is in the best hand it can be.</p>
 <p><code>print (&quot;Part 1:&quot;, play_game(translatePart1, &quot;23456789TJQKA&quot;)) print (&quot;Part 2:&quot;, play_game(translatePart2, &quot;J23456789TQKA&quot;))</code></p>
@@ -322,7 +323,6 @@
 <p>The part 2 translator has to handle the Jack wild card. If the largest group is all jacks, then we merge it with the second group to boost it up. If any other group has jacks in it, it is merged with the largest group. Then we score as before. I could probably optimize that.</p>
 <p>That&rsquo;s it, that&rsquo;s the game. Both parts return nearly instantly.</p>
 <p>I was thinking of trying to put it in Atari BASIC again&hellip; but trying to figure out how to get all the data into those simulated disk drives was more than I wanted to take on tonight.</p>
-
               
 
 

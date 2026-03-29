@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "The title says it all. It\u0026rsquo;s a \u0026ldquo;shortest path\u0026rdquo; puzzle, you\u0026rsquo;re meant to use Dijkstra\u0026rsquo;s algorithm, and the puzzle has no curve balls to toss at you.",
+  "description": "The title says it all. It\u0026rsquo;s a \u0026ldquo;shortest path\u0026rdquo; puzzle, you\u0026rsquo;re meant to use Dijkstra\u0026rsquo;s algorithm, and the puzzle has no curve balls to toss at you.\n",
   "keywords": []
 }
 
@@ -304,7 +304,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>Most Advent of Code puzzles expect you to solve them using some sort of Data and Algorithms method. One of the favorites is <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm">Dijkstra&rsquo;s Algorithm</a>, the first algorithm to find the shortest distant between two points. We had two puzzles last year that used it.</p>
+              <p>The title says it all. It&rsquo;s a &ldquo;shortest path&rdquo; puzzle, you&rsquo;re meant to use Dijkstra&rsquo;s algorithm, and the puzzle has no curve balls to toss at you.</p>
+<p>Most Advent of Code puzzles expect you to solve them using some sort of Data and Algorithms method. One of the favorites is <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm">Dijkstra&rsquo;s Algorithm</a>, the first algorithm to find the shortest distant between two points. We had two puzzles last year that used it.</p>
 <p>Given the really matter-of-factness of the title, they know we&rsquo;re gonna use Dijkstra, we know we&rsquo;re gonna use Dijkstra, the only possible question is how fancy we&rsquo;re gonna be.</p>
 <p>There&rsquo;s plenty of packages that handle graph theory. But since every motion has an equal cost, this is an unweighted graph. According to the rules of the puzzle, you can always go to a neighbor that is the same height or lower, but you cannot go to a neighbor if it is more than one unit above you. So it is directed. This is a unweighted directed graph problem.</p>
 <p>My solution uses something called a &lsquo;priority queue&rsquo;. Anything can be put into the queue, but the next thing to come out of it will be the one with the lowest (or tied for lowest) distance covered.</p>

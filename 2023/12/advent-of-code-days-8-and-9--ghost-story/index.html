@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "It took me so long to figure out the Day 8 puzzle that I didn\u0026rsquo;t write it up before bed, so twofer today to catch up.",
+  "description": "It took me so long to figure out the Day 8 puzzle that I didn\u0026rsquo;t write it up before bed, so twofer today to catch up.\n",
   "keywords": []
 }
 
@@ -304,7 +304,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>Every year there is at least one problem where I know what the answer is, but I don&rsquo;t know <em>why</em> the answer is. Part of that, on day 8, was my own fault. I was just futzing with things for hours before I decided to submit the puzzle solution. Only when I started looking at <em>other</em> solution on the subreddit did I figure out that I was at least partially right all along and I should have gone with my instincts.</p>
+              <p>It took me so long to figure out the Day 8 puzzle that I didn&rsquo;t write it up before bed, so twofer today to catch up.</p>
+<p>Every year there is at least one problem where I know what the answer is, but I don&rsquo;t know <em>why</em> the answer is. Part of that, on day 8, was my own fault. I was just futzing with things for hours before I decided to submit the puzzle solution. Only when I started looking at <em>other</em> solution on the subreddit did I figure out that I was at least partially right all along and I should have gone with my instincts.</p>
 
 
 
@@ -380,7 +381,6 @@ return [val_list[0] - calc_puzzle_left(new_list)[0]] + val_list`</p>
 <p><strong>calc_puzzle_right</strong> handles the part 1 case. Both solutions use recursion, so it starts off the with case that the list is empty or all zeroes, in which case it just adds another zero to the list and returns it. Otherwise, it make <strong>new_list</strong>, a list of all the differences between the values, calls itself recursively to find the next difference, then adds that new number to the last number of the current list to make the new last number for the list. (In Python, <em>a</em>[-1] returns the last element of <em>a</em>.)</p>
 <p><strong>calc_puzzle_left</strong> handles the part 2 case. Same as before, but we are prepending a number to the start of the list instead of the end. And that&rsquo;s it.</p>
 <p>Both these days could easily be done in Haskell, and I hope to get to that at some point.</p>
-
               
 
 

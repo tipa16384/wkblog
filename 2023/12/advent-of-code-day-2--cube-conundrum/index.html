@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "The hands of the Christmas elf are far, far larger than they appear.",
+  "description": "The hands of the Christmas elf are far, far larger than they appear.\n",
   "keywords": []
 }
 
@@ -304,7 +304,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>After having been launched via trebuchet to Snow Island, an island in the clouds that doesn&rsquo;t actually have any snow on it. Ignore the image on the top &ndash; Midjourney refuses to believe that a Christmas elf could be somewhere without snow. Something to do with biology, over adaption to the arctic environment, who can tell? The science surrounding Christmas elves has more questions marks than periods.</p>
+              <p>The hands of the Christmas elf are far, far larger than they appear.</p>
+<p>After having been launched via trebuchet to Snow Island, an island in the clouds that doesn&rsquo;t actually have any snow on it. Ignore the image on the top &ndash; Midjourney refuses to believe that a Christmas elf could be somewhere without snow. Something to do with biology, over adaption to the arctic environment, who can tell? The science surrounding Christmas elves has more questions marks than periods.</p>
 <p><a href="https://adventofcode.com/2023/day/2">It&rsquo;s up to you to fix the snow problem</a>, for some reason. The problem is some distance from where you landed, and so the elf proposes a little game. He has a bag filled with cubes colored red, green and blue, and he&rsquo;s going to play a number of games with you where he pulls a random assortment of cubes out of the bag some number of times.</p>
 <p>He&rsquo;s an elf. Those cubes are going to be <em>tiny</em>. And yet&hellip; you can still count them.</p>
 <p>So someone pulling randomly colored cubes out of a bag just gives me flashbacks to Probability and Statistics, and I was <em>sure</em> we were going to be asked, eventually, how many cubes of each color were in the bag to a given confidence level? But, that didn&rsquo;t happen.</p>
@@ -366,7 +367,6 @@ let balls = [(&ldquo;red&rdquo;, 12), (&ldquo;blue&rdquo;, 14), (&ldquo;green&rd
 <p>So this is what I like to see; a Part 2 that builds off of the Part 1. parseLine returns a tuple of the game number and the list of cube count tuples; we discard the game number (not needed in Part 2) and keep only the list of tuples as &lsquo;reveals&rsquo;. The &rsquo;nub $ map fst reveals&rsquo; collects only the colors from the tuples, and then &rsquo;nub&rsquo; leaves us with a list of the colors with no duplicates. It might be possible to have games that are missing a color entirely, so this way, I don&rsquo;t rely on having all colors in all rows.</p>
 <p>Haskell is a right-to-left language in some ways. The next line takes a color from &lsquo;colors&rsquo;, then goes through all the tuples and collects the count for the color, finds the maximum, and then &lsquo;product&rsquo; multiplies them all together and is implicitly returned.</p>
 <p>So that&rsquo;s Day 2. I would have done this entirely differently in a language that supported variables. This Haskell experiment is forcing me to think about problem solving entirely differently.</p>
-
               
 
 

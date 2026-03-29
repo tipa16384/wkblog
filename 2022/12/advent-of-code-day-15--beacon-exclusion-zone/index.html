@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "This is the kind of puzzle I hate. Puzzles where even the best approach seems to take forever and it\u0026rsquo;s hard to wrap my head around the solution.",
+  "description": "This is the kind of puzzle I hate. Puzzles where even the best approach seems to take forever and it\u0026rsquo;s hard to wrap my head around the solution.\n",
   "keywords": []
 }
 
@@ -300,7 +300,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>Wow, okay, this same sort of puzzle came up last year, <a href="https://adventofcode.com/2021/day/19">Day 19</a>, and I really, really hated it. I took all day without making much progress and I finally went to the r/adventofcode subreddit for help. One of only twice I had to do so.</p>
+              <p>This is the kind of puzzle I hate. Puzzles where even the best approach seems to take forever and it&rsquo;s hard to wrap my head around the solution.</p>
+<p>Wow, okay, this same sort of puzzle came up last year, <a href="https://adventofcode.com/2021/day/19">Day 19</a>, and I really, really hated it. I took all day without making much progress and I finally went to the r/adventofcode subreddit for help. One of only twice I had to do so.</p>
 <p>Anyway, <a href="https://adventofcode.com/2022/day/15">in today&rsquo;s puzzle</a>, we have to find the one spot in a 4,000,000 x 4,000,000 grid that is not within scanning distance of one of 32 sensors scattered around the grid.</p>
 <p>Calculating every one of these 160,000,000,000,000 positions would take awhile. In essence, this is really a problem with ray tracing &ndash; find the one pixel on a 1.6x1013 pixel screen that doesn&rsquo;t have something displayed on it. It is <em>possible</em> &ndash; someone on the subreddit seems to have used a 20 core computer to solve it in this brute force way in 200ms. Other people probably thought about using a GPU to do it, but I&rsquo;m not gonna learn all about programming GPUs for this puzzle (though it might be handy to know).</p>
 <p>I got hints for this from Reddit, but not code. But the hint was: Find all the points on the peripheries of all the sensors, and find a point that was just beyond four of them. I wrote a small version of this on their small test data and verified it worked, and then I collected sets of all those points, and tried all 32! combinations of sensor peripheries to look for common ones, and then at the end, keeping track of the duplicates I found, I ran through the list of those that had four or more shared coordinates and checked them individually to see if they were open. Only one was, and that was the solution.</p>
@@ -343,7 +344,6 @@ print(f&quot;Part 1: {part1} in {(time_ns() - start)/1e6}ms&quot;)</p>
 part2 = find_gaps(sensor_data)
 print(f&quot;Part 2: {part2} in {(time_ns() - start)/1e9}s&quot;)
 `</p>
-
               
 
 

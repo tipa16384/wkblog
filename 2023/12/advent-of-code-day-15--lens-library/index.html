@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "The lack of hands is all that is keeping the world\u0026rsquo;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.",
+  "description": "The lack of hands is all that is keeping the world\u0026rsquo;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.\n",
   "keywords": []
 }
 
@@ -304,7 +304,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>The header art was used with the permission of the artist, <a href="https://old.reddit.com/user/YellowZorro">YellowZorro</a>. You can find more of their <a href="https://old.reddit.com/r/adventofcode/comments/18ivwtz/2023_aoc_doodles_days_1315/">AoC-themed art here</a>!</p>
+              <p>The lack of hands is all that is keeping the world&rsquo;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.</p>
+<p>The header art was used with the permission of the artist, <a href="https://old.reddit.com/user/YellowZorro">YellowZorro</a>. You can find more of their <a href="https://old.reddit.com/r/adventofcode/comments/18ivwtz/2023_aoc_doodles_days_1315/">AoC-themed art here</a>!</p>
 <p>All the light you collected yesterday has to go somewhere, and that somewhere is here &ndash; a light focusing facility with a thousand different lenses&hellip; and a reindeer who perhaps works there? They are very happy to see a human, as while they know what needs to be done, they can&rsquo;t actually do it.</p>
 <p>That, of course, is <a href="https://adventofcode.com/2023/day/15">where you come in</a>.</p>
 
@@ -336,7 +337,6 @@ print (&ldquo;Part 1:&rdquo;, sum(deer_hash(x) for x in read_data().split(&rsquo
 <p><code>def part2(): boxes = [{} for i in range(256)] for x in read_data().split(','): # use re to find the label, contiguous letters at the start of the string label = re.match(r'^[a-z]+', x).group(0) box = boxes[deer_hash(label)] if '=' in x: box[label] = int(x.split('=')[1]) else: box.pop(label, None) # sum the product of the box number + 1, the position in the box + 1  # and the lens for each lens in each box print (&quot;Part 2:&quot;, sum((k+1)*(i+1)*v  for k, v in enumerate(boxes)  for i, v in enumerate(v.values())))</code></p>
 <p>The code works as I mentioned. We make the boxes, each with a dictionary inside. For each command, we extract the label (the letters at the beginning of the command), figure out which box we&rsquo;re working with, and if this is an insert/replace command, doing the needful. Otherwise it is a remove command, and we remove it. Then we score it and done.</p>
 <p>A short puzzle for today!</p>
-
               
 
 

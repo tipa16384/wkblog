@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "/u/YellowZorro hasn\u0026rsquo;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!",
+  "description": "/u/YellowZorro hasn\u0026rsquo;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!\n",
   "keywords": []
 }
 
@@ -306,7 +306,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>Now that you&rsquo;ve got all your lenses together and positioned, the beam of light (from the parabolic mirror outside, remember?) is being focused into a tight and very narrow beam that leads deep into the heart of the mountain. Following the deer and the beam of light into the depths, you find the final arrangement of mirrors that will turn the stones into lava. The beam of light doesn&rsquo;t seem like it&rsquo;s entering the contraption in the correct spot to do the most damage; your job today is to <a href="https://adventofcode.com/2023/day/16">find out where it should enter</a> in order to heat the most rock.</p>
+              <p>/u/YellowZorro hasn&rsquo;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!</p>
+<p>Now that you&rsquo;ve got all your lenses together and positioned, the beam of light (from the parabolic mirror outside, remember?) is being focused into a tight and very narrow beam that leads deep into the heart of the mountain. Following the deer and the beam of light into the depths, you find the final arrangement of mirrors that will turn the stones into lava. The beam of light doesn&rsquo;t seem like it&rsquo;s entering the contraption in the correct spot to do the most damage; your job today is to <a href="https://adventofcode.com/2023/day/16">find out where it should enter</a> in order to heat the most rock.</p>
 <p><strong>Part 1</strong></p>
 <p>Part 1 asks you to simply calculate the energy level for the current entry point. The heart of the puzzle (for both parts) is the <strong>beam</strong> function that takes a coordinate and direction and returns the number of energized tiles as a result.</p>
 <p>`def beam(grid: list, energized: dict, coord: tuple, direction: tuple) -&gt; int:
@@ -323,7 +324,6 @@ and coord[1]</p>
 <p><code>def part2(): grid = read_data() beam_starts = [((x,0), (0,1)) for x in range(len(grid[0]))] + \ [((0,y), (1,0)) for y in range(len(grid))] + \ [((x,len(grid)-1), (0,-1)) for x in range(len(grid[0]))] + \ [((len(grid[0])-1,y), (-1,0)) for y in range(len(grid))] print (&quot;Part 2:&quot;, max(beam(grid, defaultdict(list), coord, direction) for coord, direction in beam_starts))</code></p>
 <p>We make a list of <strong>beam_starts</strong> that are all the starting locations and directions, call <strong>beam</strong> for each of these, and print the maximum.</p>
 <p>Could be faster (I always say that because it is always true), but even with all the recursion and stuff, it still finishes part 2 in 1.75s, so it&rsquo;s &ldquo;fast enough&rdquo;.</p>
-
               
 
 

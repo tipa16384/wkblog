@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "Path finding is central to all rogue-likes. If an enemy can\u0026rsquo;t find you, they can\u0026rsquo;t fight you\u0026hellip; and that wouldn\u0026rsquo;t be any fun. Tonight, I\u0026hellip;",
+  "description": "Path finding is central to all rogue-likes. If an enemy can\u0026rsquo;t find you, they can\u0026rsquo;t fight you\u0026hellip; and that wouldn\u0026rsquo;t be any fun. Tonight, I\u0026hellip;\n",
   "keywords": []
 }
 
@@ -300,7 +300,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>Path finding is central to all rogue-likes. If an enemy can&rsquo;t <em>find</em> you, they can&rsquo;t <em>fight</em> you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I go over Dijkstra&rsquo;s famous pathfinding algorithm, the differences between that and A*, and how I implemented them in the engine.</p>
+              <p>Path finding is central to all rogue-likes. If an enemy can&rsquo;t find you, they can&rsquo;t fight you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I&hellip;</p>
+<p>Path finding is central to all rogue-likes. If an enemy can&rsquo;t <em>find</em> you, they can&rsquo;t <em>fight</em> you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I go over Dijkstra&rsquo;s famous pathfinding algorithm, the differences between that and A*, and how I implemented them in the engine.</p>
 <p>Once again, you can play the engine as it currently exists by <a href="https://trinket.io/pygame/86b9301490?outputOnly=true">clicking this link</a> and then clicking the &ldquo;Run&rdquo; button near the top of the window. New for today: pressing the F5 button on the keyboard creates a new, random map. I don&rsquo;t pretend this is a game &ndash; the game has to wait for 7DRL to officially begin.</p>
 <p>Before I got started tonight, I had to do a little more refactoring. Terrain is now managed by a terrain factory &ndash; I tell it what type I want, and it hands me back a terrain all sliced up and measured from the sprite sheet. I also did as promised earlier and moved the Actors &ndash; anything that moves &ndash; into the main game object. Now the entire state of the game is in one place.</p>
 <p>Few monsters in a roguelike are content to stay in one spot for long. Some fall asleep now and then, but usually they are on the prowl, patrolling the dungeon and investigating strange clanking noises and <em>is that an adventurer?</em></p>
@@ -342,7 +343,6 @@ return</p>
 <p>Since each Actor inherits from the main class, it can override the default destination algorithm that Babus uses, with one of their own, without affecting any other Actor, as they are totally separate blocks of code. It&rsquo;s in this way that I&rsquo;ll be making every creature the adventurer encounters a unique experience.</p>
 <p>The next big thing is multiple rooms, and after that, level creation. Right now pathfinding only works in the current room, so I&rsquo;ll have to revisit that again once I have a map where it makes sense.</p>
 <p>Tomorrow is probably Horizon: Forbidden West, though&hellip;</p>
-
               
 
 

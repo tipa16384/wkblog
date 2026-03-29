@@ -34,7 +34,7 @@
     }
     
   },
-  "description": "We had game night tonight, more HeroQuest (yay!), so I didn\u0026rsquo;t have a lot of time to work on this\u0026hellip;.",
+  "description": "We had game night tonight, more HeroQuest (yay!), so I didn\u0026rsquo;t have a lot of time to work on this\u0026hellip;.\n",
   "keywords": []
 }
 
@@ -302,7 +302,8 @@
           
           <div class="post-content markdown">
             <div class="main-content-wrap">
-              <p>We had game night tonight, more HeroQuest (yay!), so I didn&rsquo;t have a lot of time to work on this.</p>
+              <p>We had game night tonight, more HeroQuest (yay!), so I didn&rsquo;t have a lot of time to work on this&hellip;.</p>
+<p>We had game night tonight, more HeroQuest (yay!), so I didn&rsquo;t have a lot of time to work on this.</p>
 <p>Basically, you&rsquo;re<a href="https://adventofcode.com/2023/day/18"> digging out a lagoon into which lava will flow</a>. Part 1 could easily be calculated using a basic flood fill algorithm, so I did it that way, got the first star for the day, and went to work. I&rsquo;d already seen that, as expected, part 2 would resist something that easy.</p>
 <p>I started working on algorithms during meetings. There was a lot of talk about the &ldquo;shoelace&rdquo; algorithm back in the Metal Maze puzzle. I solved it a weird way that worked for me. When I was reading hints that the <a href="https://en.wikipedia.org/wiki/Shoelace_formula">shoelace algorithm </a>was the answer for this one, I typed up the sample data into Excel, plugged the data into the formula and it just didn&rsquo;t work. The missing element had something to do with the perimeter &ndash; the puzzle makes that clear. Jabbing at it in various ways didn&rsquo;t help. Turns out I was really close. I&rsquo;d already summed up the total lengths of all the segments. Turns out, because of their non-zero width, they had to be considered to be half a unit closer. So, half of the sum of the steps, plus one unit to honor Santa, whose lagoon this is.</p>
 <p>Since the only difference between parts 1 and 2 was in the details on how to read the input data, I broke the interpreting the input data into generators, and called the work procedure twice, once with each generator.</p>
@@ -345,7 +346,6 @@ perimeter += steps</p>
 <p>calcarea(&lsquo;1&rsquo;, part1generator)
 calcarea(&lsquo;2&rsquo;, part2generator)`</p>
 <p>I was reading my code from AoC last year and found I not only didn&rsquo;t remember the puzzles that well, I honestly had little idea how the code worked. Problem is, most of my actual programming job doesn&rsquo;t need these algorithms&hellip;</p>
-
               
 
 
