@@ -2952,8 +2952,11 @@ a.fancybox {
   }
 }
 .postShorten-group .postShorten {
-  margin-top: 15px;
-  border-bottom: 1px solid #eef2f8;
+  background: white;
+  margin-top: 25px;
+  padding: 20px 25px 5px 25px;
+  border-radius: 16px;
+  box-shadow: 5px 6px 5px 2px #0000003b;
 }
 
 .postShorten {
@@ -3036,14 +3039,14 @@ a.fancybox {
   }
   .postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img {
     display: block;
-    width: 140px;
-    height: 105px;
+    width: 187px;
+    height: 140px;
     object-fit: cover;
     overflow: hidden;
   }
   .postShorten.postShorten--thumbnailimg-right .postShorten-wrap {
     float: left;
-    width: calc(100% - 140px - 20px);
+    width: calc(100% - 187px - 20px);
   }
 
   .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg {
@@ -3052,14 +3055,14 @@ a.fancybox {
   }
   .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
     display: block;
-    width: 140px;
-    height: 105px;
+    width: 187px;
+    height: 140px;
     object-fit: cover;
     overflow: hidden;
   }
   .postShorten.postShorten--thumbnailimg-left .postShorten-wrap {
     float: right;
-    width: calc(100% - 140px - 20px);
+    width: calc(100% - 187px - 20px);
   }
 
   .postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg {
@@ -3082,7 +3085,6 @@ a.fancybox {
   .postShorten.postShorten--thumbnailimg-bottom .postShorten-thumbnailimg img {
     width: 100%;
     height: auto;
-    max-height: 250px;
     object-fit: cover;
   }
 }
