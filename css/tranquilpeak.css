@@ -3037,7 +3037,7 @@ a.fancybox {
   .postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img {
     display: block;
     width: 140px;
-    height: 140px;
+    height: 105px;
     object-fit: cover;
     overflow: hidden;
   }
@@ -3053,7 +3053,7 @@ a.fancybox {
   .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
     display: block;
     width: 140px;
-    height: 140px;
+    height: 105px;
     object-fit: cover;
     overflow: hidden;
   }
