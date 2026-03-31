@@ -2,61 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tipa16384.github.io/wkblog/categories/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/categories/category/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/posts/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/categories/subcategory/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/tags/tag1/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/tags/tag2/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/tags/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/2026/03/this-is-the-other-post/</loc>
-    <lastmod>2026-03-28T23:16:23-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/tags/everquest/</loc>
-    <lastmod>2026-03-28T22:51:38-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/categories/games/</loc>
-    <lastmod>2026-03-28T22:51:38-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/categories/tech/</loc>
-    <lastmod>2026-03-28T22:51:38-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/tags/test/</loc>
-    <lastmod>2026-03-28T22:51:38-04:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/2026/03/today-i-learned/</loc>
-    <lastmod>2026-03-28T22:51:38-04:00</lastmod>
-  </url><url>
     <loc>https://tipa16384.github.io/wkblog/tags/8-color-star-guardians/</loc>
     <lastmod>2026-03-28T14:51:36-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/2026/03/blasts-from-the-past-is-it-the-90s-again/</loc>
     <lastmod>2026-03-28T14:51:36-05:00</lastmod>
   </url><url>
+    <loc>https://tipa16384.github.io/wkblog/categories/</loc>
+    <lastmod>2026-03-28T14:51:36-05:00</lastmod>
+  </url><url>
+    <loc>https://tipa16384.github.io/wkblog/</loc>
+    <lastmod>2026-03-28T14:51:36-05:00</lastmod>
+  </url><url>
     <loc>https://tipa16384.github.io/wkblog/tags/pool-of-madness/</loc>
+    <lastmod>2026-03-28T14:51:36-05:00</lastmod>
+  </url><url>
+    <loc>https://tipa16384.github.io/wkblog/posts/</loc>
     <lastmod>2026-03-28T14:51:36-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/tags/raku-raku-dinokun/</loc>
     <lastmod>2026-03-28T14:51:36-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/categories/steam-games/</loc>
+    <lastmod>2026-03-28T14:51:36-05:00</lastmod>
+  </url><url>
+    <loc>https://tipa16384.github.io/wkblog/tags/</loc>
     <lastmod>2026-03-28T14:51:36-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/tags/terminal/</loc>
@@ -12084,6 +12054,9 @@
     <lastmod>2008-11-01T16:16:16-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</loc>
+    <lastmod>2008-11-01T13:29:35-05:00</lastmod>
+  </url><url>
+    <loc>https://tipa16384.github.io/wkblog/tags/everquest/</loc>
     <lastmod>2008-11-01T13:29:35-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/tags/mercenaries/</loc>
