@@ -221,6 +221,219 @@
 
 
     </ul>
+    
+      
+        <style>
+          #daily-blogroll-sidebar {
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            overflow-x: hidden;
+          }
+
+          #daily-blogroll-sidebar .sidebar-button {
+            height: auto;
+            line-height: 1.2;
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+          }
+
+          #daily-blogroll-sidebar .sidebar-button:nth-child(odd) {
+            padding-right: 0;
+          }
+
+          #daily-blogroll-sidebar .sidebar-button-link {
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            display: block;
+            white-space: normal;
+          }
+
+          #daily-blogroll-sidebar .sidebar-daily-blogroll-heading .sidebar-button-link {
+            border-left: 3px solid #2f9e44;
+            background-color: rgba(47, 158, 68, 0.12);
+            font-weight: 700;
+            padding-top: 0.35em;
+            padding-bottom: 0.35em;
+          }
+
+          #daily-blogroll-sidebar .sidebar-daily-blogroll-heading .sidebar-button-desc {
+            letter-spacing: 0.02em;
+            text-transform: uppercase;
+            line-height: 1.2;
+          }
+
+          #daily-blogroll-sidebar .sidebar-daily-blogroll-heading {
+            margin-bottom: 0.45em;
+          }
+
+          #daily-blogroll-sidebar .sidebar-daily-blogroll-item .sidebar-button-link {
+            padding-top: 0.02em !important;
+            padding-bottom: 0.02em !important;
+            min-height: 1.25em;
+            line-height: 1.15 !important;
+          }
+
+          #daily-blogroll-sidebar .sidebar-daily-blogroll-item .sidebar-button-desc {
+            display: block;
+            width: 100%;
+            max-width: 100%;
+            box-sizing: border-box;
+            min-width: 0;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            line-height: 1.15 !important;
+            height: 1.25em !important;
+            font-size: 1.3rem;
+            margin: 0;
+          }
+
+          #daily-blogroll-sidebar .sidebar-daily-blogroll-item {
+            height: 1.35em !important;
+            min-height: 1.35em !important;
+            line-height: 1.15 !important;
+            margin: 0 !important;
+            padding-top: 0 !important;
+            padding-bottom: 0 !important;
+          }
+        </style>
+        <ul class="sidebar-buttons" id="daily-blogroll-sidebar" data-daily-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
+          <li class="sidebar-button">
+            <span class="sidebar-button-link">
+              <span class="sidebar-button-desc">Loading daily blogroll...</span>
+            </span>
+          </li>
+        </ul>
+        <script>
+          (function() {
+            var sidebarList = document.getElementById("daily-blogroll-sidebar");
+            if (!sidebarList) {
+              return;
+            }
+
+            var sourceUrl = sidebarList.getAttribute("data-daily-blogroll-url");
+            if (!sourceUrl) {
+              sidebarList.parentNode.removeChild(sidebarList);
+              return;
+            }
+
+            function toRawGithubUrl(url) {
+              var blobPattern = /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/;
+              var match = url.match(blobPattern);
+              if (match) {
+                return "https://raw.githubusercontent.com/" + match[1] + "/" + match[2] + "/" + match[3];
+              }
+              return url;
+            }
+
+            function parseDailyBlogrollMarkdown(markdownText) {
+              var lines = markdownText.split(/\r?\n/);
+              var heading = "Daily Blogroll";
+              var items = [];
+              var i;
+
+              for (i = 0; i < lines.length; i += 1) {
+                var headingMatch = lines[i].match(/^#\s+(.+)\s*$/);
+                if (headingMatch) {
+                  heading = headingMatch[1].trim();
+                  break;
+                }
+              }
+
+              heading = heading.replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
+
+              for (i = 0; i < lines.length; i += 1) {
+                var itemMatch = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)\s*$/);
+                if (itemMatch) {
+                  items.push({
+                    label: itemMatch[1].trim(),
+                    url: itemMatch[2].trim(),
+                    summary: itemMatch[3].trim()
+                  });
+                }
+              }
+
+              return {
+                heading: heading,
+                items: items
+              };
+            }
+
+            function clearSidebarList(node) {
+              while (node.firstChild) {
+                node.removeChild(node.firstChild);
+              }
+            }
+
+            function appendTextRow(text, extraClass) {
+              var row = document.createElement("li");
+              row.className = "sidebar-button" + (extraClass ? " " + extraClass : "");
+
+              var textContainer = document.createElement("span");
+              textContainer.className = "sidebar-button-link";
+
+              var desc = document.createElement("span");
+              desc.className = "sidebar-button-desc";
+              desc.textContent = text;
+
+              textContainer.appendChild(desc);
+              row.appendChild(textContainer);
+              sidebarList.appendChild(row);
+            }
+
+            function appendLinkRow(item) {
+              var row = document.createElement("li");
+              row.className = "sidebar-button sidebar-daily-blogroll-item";
+
+              var link = document.createElement("a");
+              link.className = "sidebar-button-link";
+              link.href = item.url;
+              link.target = "_blank";
+              link.rel = "noopener";
+              link.title = item.summary;
+
+              var desc = document.createElement("span");
+              desc.className = "sidebar-button-desc";
+              desc.textContent = item.label;
+
+              link.appendChild(desc);
+              row.appendChild(link);
+              sidebarList.appendChild(row);
+            }
+
+            fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
+              .then(function(response) {
+                if (!response.ok) {
+                  throw new Error("Failed to fetch daily blogroll source: " + response.status);
+                }
+                return response.text();
+              })
+              .then(function(markdownText) {
+                var parsed = parseDailyBlogrollMarkdown(markdownText);
+                clearSidebarList(sidebarList);
+
+                appendTextRow(parsed.heading, "sidebar-daily-blogroll-heading");
+
+                if (!parsed.items.length) {
+                  appendTextRow("No links found", "sidebar-daily-blogroll-empty");
+                  return;
+                }
+
+                parsed.items.forEach(function(item) {
+                  appendLinkRow(item);
+                });
+              })
+              .catch(function() {
+                clearSidebarList(sidebarList);
+                appendTextRow("Daily blogroll unavailable", "sidebar-daily-blogroll-error");
+              });
+          })();
+        </script>
+      
+    
   </div>
 </nav>
 
@@ -236,10 +449,6 @@
           <section class="postShorten-group main-content-wrap">
             
             
-              
-                
-                  
-                
               
               
   
