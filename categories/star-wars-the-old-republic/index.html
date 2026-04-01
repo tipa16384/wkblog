@@ -33,8 +33,8 @@
 
 <meta property="og:description" content="Chasing Dings! blog">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Star Wars the Old Republic">
-<meta name="twitter:title" content="Star Wars the Old Republic">
+<meta property="og:title" content="Star Wars: The Old Republic">
+<meta name="twitter:title" content="Star Wars: The Old Republic">
 <meta property="og:url" content="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic/">
 <meta property="twitter:url" content="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic/">
 <meta property="og:site_name" content="Chasing Dings!">
@@ -59,7 +59,7 @@
 
 
 
-    <title>Star Wars the Old Republic</title>
+    <title>Star Wars: The Old Republic</title>
 
     <link rel="icon" href="https://chasingdings.com/wp-content/uploads/2026/03/wkfavicon.png">
     
@@ -221,221 +221,105 @@
 
 
     </ul>
-    
-      
-        <style>
-          #daily-blogroll-sidebar {
-            width: 100%;
-            max-width: 100%;
-            box-sizing: border-box;
-            overflow-x: hidden;
-          }
-
-          #daily-blogroll-sidebar .sidebar-button {
-            height: auto;
-            line-height: 1.2;
-            width: 100%;
-            max-width: 100%;
-            box-sizing: border-box;
-          }
-
-          #daily-blogroll-sidebar .sidebar-button:nth-child(odd) {
-            padding-right: 0;
-          }
-
-          #daily-blogroll-sidebar .sidebar-button-link {
-            width: 100%;
-            max-width: 100%;
-            box-sizing: border-box;
-            display: block;
-            white-space: normal;
-          }
-
-          #daily-blogroll-sidebar .sidebar-daily-blogroll-heading .sidebar-button-link {
-            border-left: 3px solid #2f9e44;
-            background-color: rgba(47, 158, 68, 0.12);
-            font-weight: 700;
-            padding-top: 0.35em;
-            padding-bottom: 0.35em;
-          }
-
-          #daily-blogroll-sidebar .sidebar-daily-blogroll-heading .sidebar-button-desc {
-            letter-spacing: 0.02em;
-            text-transform: uppercase;
-            line-height: 1.2;
-          }
-
-          #daily-blogroll-sidebar .sidebar-daily-blogroll-heading {
-            margin-bottom: 0.45em;
-          }
-
-          #daily-blogroll-sidebar .sidebar-daily-blogroll-item .sidebar-button-link {
-            padding-top: 0.02em !important;
-            padding-bottom: 0.02em !important;
-            min-height: 1.25em;
-            line-height: 1.15 !important;
-          }
-
-          #daily-blogroll-sidebar .sidebar-daily-blogroll-item .sidebar-button-desc {
-            display: block;
-            width: 100%;
-            max-width: 100%;
-            box-sizing: border-box;
-            min-width: 0;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-            line-height: 1.15 !important;
-            height: 1.25em !important;
-            font-size: 1.3rem;
-            margin: 0;
-          }
-
-          #daily-blogroll-sidebar .sidebar-daily-blogroll-item {
-            height: 1.35em !important;
-            min-height: 1.35em !important;
-            line-height: 1.15 !important;
-            margin: 0 !important;
-            padding-top: 0 !important;
-            padding-bottom: 0 !important;
-          }
-        </style>
-        <ul class="sidebar-buttons" id="daily-blogroll-sidebar" data-daily-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
-          <li class="sidebar-button">
-            <span class="sidebar-button-link">
-              <span class="sidebar-button-desc">Loading daily blogroll...</span>
-            </span>
-          </li>
-        </ul>
-        <script>
-          (function() {
-            var sidebarList = document.getElementById("daily-blogroll-sidebar");
-            if (!sidebarList) {
-              return;
-            }
-
-            var sourceUrl = sidebarList.getAttribute("data-daily-blogroll-url");
-            if (!sourceUrl) {
-              sidebarList.parentNode.removeChild(sidebarList);
-              return;
-            }
-
-            function toRawGithubUrl(url) {
-              var blobPattern = /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/;
-              var match = url.match(blobPattern);
-              if (match) {
-                return "https://raw.githubusercontent.com/" + match[1] + "/" + match[2] + "/" + match[3];
-              }
-              return url;
-            }
-
-            function parseDailyBlogrollMarkdown(markdownText) {
-              var lines = markdownText.split(/\r?\n/);
-              var heading = "Daily Blogroll";
-              var items = [];
-              var i;
-
-              for (i = 0; i < lines.length; i += 1) {
-                var headingMatch = lines[i].match(/^#\s+(.+)\s*$/);
-                if (headingMatch) {
-                  heading = headingMatch[1].trim();
-                  break;
-                }
-              }
-
-              heading = heading.replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
-
-              for (i = 0; i < lines.length; i += 1) {
-                var itemMatch = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)\s*$/);
-                if (itemMatch) {
-                  items.push({
-                    label: itemMatch[1].trim(),
-                    url: itemMatch[2].trim(),
-                    summary: itemMatch[3].trim()
-                  });
-                }
-              }
-
-              return {
-                heading: heading,
-                items: items
-              };
-            }
-
-            function clearSidebarList(node) {
-              while (node.firstChild) {
-                node.removeChild(node.firstChild);
-              }
-            }
-
-            function appendTextRow(text, extraClass) {
-              var row = document.createElement("li");
-              row.className = "sidebar-button" + (extraClass ? " " + extraClass : "");
-
-              var textContainer = document.createElement("span");
-              textContainer.className = "sidebar-button-link";
-
-              var desc = document.createElement("span");
-              desc.className = "sidebar-button-desc";
-              desc.textContent = text;
-
-              textContainer.appendChild(desc);
-              row.appendChild(textContainer);
-              sidebarList.appendChild(row);
-            }
-
-            function appendLinkRow(item) {
-              var row = document.createElement("li");
-              row.className = "sidebar-button sidebar-daily-blogroll-item";
-
-              var link = document.createElement("a");
-              link.className = "sidebar-button-link";
-              link.href = item.url;
-              link.target = "_blank";
-              link.rel = "noopener";
-              link.title = item.summary;
-
-              var desc = document.createElement("span");
-              desc.className = "sidebar-button-desc";
-              desc.textContent = item.label;
-
-              link.appendChild(desc);
-              row.appendChild(link);
-              sidebarList.appendChild(row);
-            }
-
-            fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
-              .then(function(response) {
-                if (!response.ok) {
-                  throw new Error("Failed to fetch daily blogroll source: " + response.status);
-                }
-                return response.text();
-              })
-              .then(function(markdownText) {
-                var parsed = parseDailyBlogrollMarkdown(markdownText);
-                clearSidebarList(sidebarList);
-
-                appendTextRow(parsed.heading, "sidebar-daily-blogroll-heading");
-
-                if (!parsed.items.length) {
-                  appendTextRow("No links found", "sidebar-daily-blogroll-empty");
-                  return;
-                }
-
-                parsed.items.forEach(function(item) {
-                  appendLinkRow(item);
-                });
-              })
-              .catch(function() {
-                clearSidebarList(sidebarList);
-                appendTextRow("Daily blogroll unavailable", "sidebar-daily-blogroll-error");
-              });
-          })();
-        </script>
-      
-    
   </div>
 </nav>
+<div id="right-sidebar" data-behavior="2">
+  
+    
+      <div class="right-sidebar-item">
+        
+          <img class="right-sidebar-image" src="https://chasingdings.com/wp-content/uploads/2024/01/dodologo-768x618.png" alt="" />
+        
+      </div>
+    
+      <div class="right-sidebar-item">
+        
+          
+          <ul class="sidebar-buttons right-sidebar-blogroll" id="right-sidebar-blogroll-1" data-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
+            <li class="sidebar-button"><span class="sidebar-button-link"><span class="sidebar-button-desc">Loading&hellip;</span></span></li>
+          </ul>
+          <script>
+            (function() {
+              var list = document.getElementById("right-sidebar-blogroll-1");
+              if (!list) return;
+              var sourceUrl = list.getAttribute("data-blogroll-url");
+              if (!sourceUrl) { list.parentNode.removeChild(list); return; }
+
+              function toRawGithubUrl(url) {
+                var m = url.match(/^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/);
+                return m ? "https://raw.githubusercontent.com/" + m[1] + "/" + m[2] + "/" + m[3] : url;
+              }
+
+              function parseBlogroll(text) {
+                var lines = text.split(/\r?\n/);
+                var heading = "Blogroll", items = [], i;
+                for (i = 0; i < lines.length; i++) {
+                  var hm = lines[i].match(/^#\s+(.+)$/);
+                  if (hm) {
+                    heading = hm[1].trim().replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
+                    break;
+                  }
+                }
+                for (i = 0; i < lines.length; i++) {
+                  var im = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)$/);
+                  if (im) items.push({ label: im[1].trim(), url: im[2].trim(), summary: im[3].trim() });
+                }
+                return { heading: heading, items: items };
+              }
+
+              function clear(node) { while (node.firstChild) node.removeChild(node.firstChild); }
+
+              function addRow(text, cls) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button" + (cls ? " " + cls : "");
+                var sp = document.createElement("span");
+                sp.className = "sidebar-button-link";
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = text;
+                sp.appendChild(d);
+                li.appendChild(sp);
+                list.appendChild(li);
+              }
+
+              function addLink(item) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button sidebar-blogroll-item";
+                var a = document.createElement("a");
+                a.className = "sidebar-button-link";
+                a.href = item.url;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.title = item.summary;
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = item.label;
+                a.appendChild(d);
+                li.appendChild(a);
+                list.appendChild(li);
+              }
+
+              fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
+                .then(function(r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+                .then(function(text) {
+                  var p = parseBlogroll(text);
+                  clear(list);
+                  addRow(p.heading, "sidebar-blogroll-heading");
+                  if (!p.items.length) { addRow("No links found", "sidebar-blogroll-empty"); return; }
+                  p.items.forEach(addLink);
+                })
+                .catch(function() {
+                  clear(list);
+                  addRow("Blogroll unavailable", "sidebar-blogroll-error");
+                });
+            })();
+          </script>
+        
+      </div>
+    
+  
+</div>
+
 
       
         
@@ -468,17 +352,17 @@
     <div class="postShorten-header">
       <h1 class="postShorten-title">
       
-        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/" aria-label="Open the post: The Official, Scientific, 2023 List of Popular MMORPGs">
+        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/" aria-label="Open the post: MMOs on the Bubble">
       
-          The Official, Scientific, 2023 List of Popular MMORPGs
+          MMOs on the Bubble
         </a>
       </h1>
       
   <div class="postShorten-meta post-meta">
     
-      <time datetime="2023-05-20T18:39:04-05:00">
+      <time datetime="2021-08-07T10:11:39-05:00">
         
-  May 20, 2023
+  August 7, 2021
 
       </time>
     
@@ -487,148 +371,37 @@
   
     <span>in</span>
     
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/aion">Aion</a>, 
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/blaugust">Blaugust</a>, 
     
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/allods-online">Allods Online</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/black-desert-online">Black Desert Online</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/dark-ages-of-camelot">Dark Ages of Camelot</a>, 
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/city-of-heroes">City of Heroes</a>, 
     
       <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/dc-universe-online">DC Universe Online</a>, 
     
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/dungeons-dragons-online">Dungeons &amp; Dragons Online</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/elite-dangerous">Elite Dangerous</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/eve-online">EVE Online</a>, 
-    
       <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/everquest">EverQuest</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/everquest-ii">EverQuest II</a>, 
     
       <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/final-fantasy">Final Fantasy</a>, 
     
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/guild-wars">Guild Wars</a>, 
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/final-fantasy-xi">Final Fantasy XI</a>, 
     
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/lord-of-the-rings">Lord of the Rings</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/lost-ark">Lost Ark</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/maplestory">Maplestory</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/mmorpg">MMORPG</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/neverwinter">Neverwinter</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/new-world">New World</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/old-school-runescape">Old School Runescape</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/pirate101">Pirate101</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/project-gorgon">Project: Gorgon</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/realm-of-the-mad-god">Realm of the Mad God</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/rift">Rift</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/runes-of-magic">Runes of Magic</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-citizen">Star Citizen</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-trek">Star Trek</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic">Star Wars the Old Republic</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/the-elder-scrolls-online">The Elder Scrolls Online</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/the-secret-world">The Secret World</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/trends">Trends</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/ultima-online">Ultima Online</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/wizard101">Wizard101</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/world-of-warcraft">World of Warcraft</a>
-    
-  
-
-  </div>
-
-    </div>
-    <div class="postShorten-excerpt">
-      
-        Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.
-      
-      <p>
-        
-          <a href="https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/" class="postShorten-excerpt_link link" aria-label="Open the post: The Official, Scientific, 2023 List of Popular MMORPGs">Continue reading</a>
-        
-        
-      </p>
-    </div>
-  </div>
-  
-    <a href="https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/" aria-label="Open the post: The Official, Scientific, 2023 List of Popular MMORPGs">
-      <div class="postShorten-thumbnailimg">
-        <img alt="" src="https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"/>
-      </div>
-    </a>
-  
-</article>
-
-            
-              
-                
-                  
-                
-              
-              
-  
-    
-  
-
-
-  
-
-<article class="postShorten postShorten--thumbnailimg-left">
-  <div class="postShorten-wrap">
-    
-    <div class="postShorten-header">
-      <h1 class="postShorten-title">
-      
-        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-21-tanks-for-the-memories-edition/" aria-label="Open the post: Daily Blogroll Oct 21: Tanks for the Memories edition">
-      
-          Daily Blogroll Oct 21: Tanks for the Memories edition
-        </a>
-      </h1>
-      
-  <div class="postShorten-meta post-meta">
-    
-      <time datetime="2011-10-21T05:00:43-05:00">
-        
-  October 21, 2011
-
-      </time>
-    
-    
-  
-  
-    <span>in</span>
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/age-of-conan">Age of Conan</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/daily-blogroll">Daily Blogroll</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/everquest">EverQuest</a>, 
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/final-fantasy-xiv">Final Fantasy XIV</a>, 
     
       <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/free-realms">Free Realms</a>, 
     
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/lord-of-the-rings-online">Lord of the Rings Online</a>, 
+    
       <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/mmorpg">MMORPG</a>, 
     
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic">Star Wars the Old Republic</a>, 
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/new-world">New World</a>, 
     
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/wizard101">Wizard101</a>, 
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/shroud-of-the-avatar">Shroud of the Avatar</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-trek">Star Trek</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic">Star Wars: the Old Republic</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/vanguard">Vanguard</a>, 
     
       <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/world-of-warcraft">World of Warcraft</a>
     
@@ -639,253 +412,20 @@
     </div>
     <div class="postShorten-excerpt">
       
-        The big news yesterday was the dropping of the Press NDA for Bioware&rsquo;s Star Wars: The Old Republic. I read all the press reviews I&hellip;
+        I don&rsquo;t play every MMO that comes out &ndash; not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and&hellip;
       
       <p>
         
-          <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-21-tanks-for-the-memories-edition/" class="postShorten-excerpt_link link" aria-label="Open the post: Daily Blogroll Oct 21: Tanks for the Memories edition">Continue reading</a>
+          <a href="https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/" class="postShorten-excerpt_link link" aria-label="Open the post: MMOs on the Bubble">Continue reading</a>
         
         
       </p>
     </div>
   </div>
   
-    <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-21-tanks-for-the-memories-edition/" aria-label="Open the post: Daily Blogroll Oct 21: Tanks for the Memories edition">
+    <a href="https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/" aria-label="Open the post: MMOs on the Bubble">
       <div class="postShorten-thumbnailimg">
-        <img alt="" src="https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"/>
-      </div>
-    </a>
-  
-</article>
-
-            
-              
-                
-                  
-                
-              
-              
-  
-    
-  
-
-
-  
-
-<article class="postShorten postShorten--thumbnailimg-left">
-  <div class="postShorten-wrap">
-    
-    <div class="postShorten-header">
-      <h1 class="postShorten-title">
-      
-        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/" aria-label="Open the post: Daily Blogroll Oct 19: Time enough to learn to swim edition">
-      
-          Daily Blogroll Oct 19: Time enough to learn to swim edition
-        </a>
-      </h1>
-      
-  <div class="postShorten-meta post-meta">
-    
-      <time datetime="2011-10-20T05:00:04-05:00">
-        
-  October 20, 2011
-
-      </time>
-    
-    
-  
-  
-    <span>in</span>
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/7drl">7DRL</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/daily-blogroll">Daily Blogroll</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/mmorpg">MMORPG</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/mythos">Mythos</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-corsairs">Star Corsairs</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic">Star Wars the Old Republic</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/world-of-warcraft">World of Warcraft</a>
-    
-  
-
-  </div>
-
-    </div>
-    <div class="postShorten-excerpt">
-      
-        If you were given six months to live, you wouldn&rsquo;t spend it leveling up a new character in some MMORPG. You&rsquo;d want to do something&hellip;
-      
-      <p>
-        
-          <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/" class="postShorten-excerpt_link link" aria-label="Open the post: Daily Blogroll Oct 19: Time enough to learn to swim edition">Continue reading</a>
-        
-        
-      </p>
-    </div>
-  </div>
-  
-    <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/" aria-label="Open the post: Daily Blogroll Oct 19: Time enough to learn to swim edition">
-      <div class="postShorten-thumbnailimg">
-        <img alt="" src="https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"/>
-      </div>
-    </a>
-  
-</article>
-
-            
-              
-                
-                  
-                
-              
-              
-  
-    
-  
-
-
-  
-
-<article class="postShorten postShorten--thumbnailimg-left">
-  <div class="postShorten-wrap">
-    
-    <div class="postShorten-header">
-      <h1 class="postShorten-title">
-      
-        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-12-no-time-for-heroes-edition/" aria-label="Open the post: Daily Blogroll Oct 12: No time for heroes edition">
-      
-          Daily Blogroll Oct 12: No time for heroes edition
-        </a>
-      </h1>
-      
-  <div class="postShorten-meta post-meta">
-    
-      <time datetime="2011-10-12T05:00:25-05:00">
-        
-  October 12, 2011
-
-      </time>
-    
-    
-  
-  
-    <span>in</span>
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/adventureville">Adventureville</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/daily-blogroll">Daily Blogroll</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/facebook-games">Facebook Games</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/mmorpg">MMORPG</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic">Star Wars the Old Republic</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/world-of-warcraft">World of Warcraft</a>
-    
-  
-
-  </div>
-
-    </div>
-    <div class="postShorten-excerpt">
-      
-        A few days ago I was trying to define what I thought of as an MMO. I started off thinking it was just a realtime,&hellip;
-      
-      <p>
-        
-          <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-12-no-time-for-heroes-edition/" class="postShorten-excerpt_link link" aria-label="Open the post: Daily Blogroll Oct 12: No time for heroes edition">Continue reading</a>
-        
-        
-      </p>
-    </div>
-  </div>
-  
-    <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-12-no-time-for-heroes-edition/" aria-label="Open the post: Daily Blogroll Oct 12: No time for heroes edition">
-      <div class="postShorten-thumbnailimg">
-        <img alt="" src="https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"/>
-      </div>
-    </a>
-  
-</article>
-
-            
-              
-                
-                  
-                
-              
-              
-  
-    
-  
-
-
-  
-
-<article class="postShorten postShorten--thumbnailimg-left">
-  <div class="postShorten-wrap">
-    
-    <div class="postShorten-header">
-      <h1 class="postShorten-title">
-      
-        <a class="link-unstyled" href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-11-cant-break-the-nda-edition./" aria-label="Open the post: Daily Blogroll Oct 11: Can&#39;t break the NDA edition.">
-      
-          Daily Blogroll Oct 11: Can&#39;t break the NDA edition.
-        </a>
-      </h1>
-      
-  <div class="postShorten-meta post-meta">
-    
-      <time datetime="2011-10-11T05:00:54-05:00">
-        
-  October 11, 2011
-
-      </time>
-    
-    
-  
-  
-    <span>in</span>
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/daily-blogroll">Daily Blogroll</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/dragon-nest">Dragon Nest</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/eve-online">EVE Online</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/mmorpg">MMORPG</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/star-wars-the-old-republic">Star Wars the Old Republic</a>, 
-    
-      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/world-of-warcraft">World of Warcraft</a>
-    
-  
-
-  </div>
-
-    </div>
-    <div class="postShorten-excerpt">
-      
-        So yeah. I&rsquo;d have a better screenshot, but somehow I&rsquo;m the only person who did NOT get into the Star Wars: The Old Republic beta&hellip;
-      
-      <p>
-        
-          <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-11-cant-break-the-nda-edition./" class="postShorten-excerpt_link link" aria-label="Open the post: Daily Blogroll Oct 11: Can&#39;t break the NDA edition.">Continue reading</a>
-        
-        
-      </p>
-    </div>
-  </div>
-  
-    <a href="https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-11-cant-break-the-nda-edition./" aria-label="Open the post: Daily Blogroll Oct 11: Can&#39;t break the NDA edition.">
-      <div class="postShorten-thumbnailimg">
-        <img alt="" src="https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"/>
+        <img alt="" src="https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"/>
       </div>
     </a>
   
