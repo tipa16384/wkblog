@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Chasing Dings!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:51:36 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:15:21 +0000</lastBuildDate>
     <atom:link href="https://tipa16384.github.io/wkblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging</title>
+      <link>https://tipa16384.github.io/wkblog/categories/blogging/</link>
+      <pubDate>Wed, 22 Jul 2026 11:15:21 +0000</pubDate>
+      <guid>https://tipa16384.github.io/wkblog/categories/blogging/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>https://tipa16384.github.io/wkblog/categories/ai/</link>
@@ -69,13 +76,6 @@
       <link>https://tipa16384.github.io/wkblog/categories/dune-awakening/</link>
       <pubDate>Wed, 11 Mar 2026 07:58:55 -0500</pubDate>
       <guid>https://tipa16384.github.io/wkblog/categories/dune-awakening/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tactical RPG</title>
-      <link>https://tipa16384.github.io/wkblog/categories/tactical-rpg/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/tactical-rpg/</guid>
       <description></description>
     </item>
   </channel>
