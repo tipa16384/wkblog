@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jimi Hendrix on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/jimi-hendrix/</link>
-    <description>Recent content in Jimi Hendrix on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 07:27:59 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/jimi-hendrix/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I&#39;m a little obsessed with this AI portrait generator</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</link>
-      <pubDate>Fri, 12 Nov 2021 07:27:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s at artflow.ai &amp;ndash; you type in a description of the portrait you want, and out comes a portrait of someone who never was. The&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Jimi Hendrix on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/jimi-hendrix/</link>
+		<description>Recent content in Jimi Hendrix on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 12 Nov 2021 07:27:59 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/jimi-hendrix/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I&#39;m a little obsessed with this AI portrait generator</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</link>
+				<pubDate>Fri, 12 Nov 2021 07:27:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s at artflow.ai &amp;ndash; you type in a description of the portrait you want, and out comes a portrait of someone who never was. The&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

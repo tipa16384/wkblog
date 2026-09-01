@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kingdoms of Amalur: Reckoning on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/kingdoms-of-amalur-reckoning/</link>
-    <description>Recent content in Kingdoms of Amalur: Reckoning on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Dec 2020 09:23:17 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/kingdoms-of-amalur-reckoning/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My RPGs of 2020</title>
-      <link>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</link>
-      <pubDate>Fri, 11 Dec 2020 09:23:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</guid>
-      <description>&lt;p&gt;I looked at all the RPGs I&amp;rsquo;ve played this year, trying to pick the one of them all that would be the best of the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Two times a failure.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/10/kingdoms-of-amalur-two-times-a-failure./</link>
-      <pubDate>Sat, 03 Oct 2020 15:32:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/10/kingdoms-of-amalur-two-times-a-failure./</guid>
-      <description>&lt;p&gt;I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I&amp;rsquo;ve finished. According to the Steam achievement,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Sailing to Mel Senshir</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-sailing-to-mel-senshir/</link>
-      <pubDate>Wed, 30 Sep 2020 07:58:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-sailing-to-mel-senshir/</guid>
-      <description>&lt;p&gt;Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: I have never actually played this game</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</link>
-      <pubDate>Mon, 28 Sep 2020 07:50:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Twitch combat</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</link>
-      <pubDate>Wed, 23 Sep 2020 07:57:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</guid>
-      <description>&lt;p&gt;This post today isn&amp;rsquo;t actually about Kingdoms of Amalur: Re-Reckoning. Mostly&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kingdom of Amalur: Re-Reckoning: I reckon I remember this.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this./</link>
-      <pubDate>Tue, 22 Sep 2020 07:21:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this./</guid>
-      <description>&lt;p&gt;When I started Kingdom of Amalur: Re-Reckoning yesterday, though I haven&amp;rsquo;t played for six years, it all came rushing back. I immediately remembered why I&amp;rsquo;ve&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What makes an MMO an MMO?</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</link>
-      <pubDate>Wed, 09 Sep 2020 07:54:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</guid>
-      <description>&lt;p&gt;Yesterday, &amp;ldquo;Kingdoms of Amalur: The Re-Reckoning&amp;rdquo;, an update of 2012&amp;rsquo;s &amp;ldquo;Kingdoms of Amalur: The Reckoning&amp;rdquo; was released. It&amp;rsquo;s a refresh of a game that seemed&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kingdoms of Amalur: Reckoning on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/kingdoms-of-amalur-reckoning/</link>
+		<description>Recent content in Kingdoms of Amalur: Reckoning on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 11 Dec 2020 09:23:17 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/kingdoms-of-amalur-reckoning/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My RPGs of 2020</title>
+				<link>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</link>
+				<pubDate>Fri, 11 Dec 2020 09:23:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</guid>
+				<description>&lt;p&gt;I looked at all the RPGs I&amp;rsquo;ve played this year, trying to pick the one of them all that would be the best of the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kingdoms of Amalur: Two times a failure.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/10/kingdoms-of-amalur-two-times-a-failure/</link>
+				<pubDate>Sat, 03 Oct 2020 15:32:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/10/kingdoms-of-amalur-two-times-a-failure/</guid>
+				<description>&lt;p&gt;I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I&amp;rsquo;ve finished. According to the Steam achievement,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kingdoms of Amalur: Sailing to Mel Senshir</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-sailing-to-mel-senshir/</link>
+				<pubDate>Wed, 30 Sep 2020 07:58:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-sailing-to-mel-senshir/</guid>
+				<description>&lt;p&gt;Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kingdoms of Amalur: I have never actually played this game</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</link>
+				<pubDate>Mon, 28 Sep 2020 07:50:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kingdoms of Amalur: Twitch combat</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</link>
+				<pubDate>Wed, 23 Sep 2020 07:57:50 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</guid>
+				<description>&lt;p&gt;This post today isn&amp;rsquo;t actually about Kingdoms of Amalur: Re-Reckoning. Mostly&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kingdom of Amalur: Re-Reckoning: I reckon I remember this.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this/</link>
+				<pubDate>Tue, 22 Sep 2020 07:21:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this/</guid>
+				<description>&lt;p&gt;When I started Kingdom of Amalur: Re-Reckoning yesterday, though I haven&amp;rsquo;t played for six years, it all came rushing back. I immediately remembered why I&amp;rsquo;ve&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What makes an MMO an MMO?</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</link>
+				<pubDate>Wed, 09 Sep 2020 07:54:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</guid>
+				<description>&lt;p&gt;Yesterday, &amp;ldquo;Kingdoms of Amalur: The Re-Reckoning&amp;rdquo;, an update of 2012&amp;rsquo;s &amp;ldquo;Kingdoms of Amalur: The Reckoning&amp;rdquo; was released. It&amp;rsquo;s a refresh of a game that seemed&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

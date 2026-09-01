@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>PCSX2 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/pcsx2/</link>
-    <description>Recent content in PCSX2 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 07:51:33 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/pcsx2/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Fellowship of the Ring (PS2)</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</link>
-      <pubDate>Tue, 17 Feb 2026 07:51:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</guid>
-      <description>&lt;p&gt;Full name: The Lord of the Rings: The Fellowship of the Ring: The Video Game: For the PlayStation 2: Collectible Card Inside.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pryzm: The Review: Part 1.</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1./</link>
-      <pubDate>Sun, 03 Aug 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1./</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s hot troll-on-unicorn action as Karrock and Pryzm take on the plague of corruption infecting their world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Champions: Return to Arms finished!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/champions-return-to-arms-finished/</link>
-      <pubDate>Sat, 28 Sep 2024 12:34:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/champions-return-to-arms-finished/</guid>
-      <description>&lt;p&gt;Hey, I finished another game! I hope this doesn&amp;rsquo;t become some kind of trend. I had a lot of fun with it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</link>
-      <pubDate>Mon, 09 Sep 2024 08:13:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</guid>
-      <description>&lt;p&gt;I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</link>
-      <pubDate>Mon, 19 Aug 2024 08:36:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</guid>
-      <description>&lt;p&gt;And also that entire day playing Malifaux&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Champions: Return to Arms</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/champions-return-to-arms/</link>
-      <pubDate>Thu, 15 Aug 2024 18:43:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/champions-return-to-arms/</guid>
-      <description>&lt;p&gt;In Champions of Norrath, you&amp;rsquo;re tasked with single-handedly killing the God of Hate. Now they want you to kill the God of War in the sequel. Firiona and her crew are really pretty useless, aren&amp;rsquo;t they?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Backlog Report: Is it worth buying a PS3 to play Mad Maestro?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/backlog-report-is-it-worth-buying-a-ps3-to-play-mad-maestro/</link>
-      <pubDate>Tue, 09 Jul 2024 06:30:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/backlog-report-is-it-worth-buying-a-ps3-to-play-mad-maestro/</guid>
-      <description>&lt;p&gt;Mad Maestro is a PS2 classical music rhythm game. Why would you need a PS3 to play it?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Backlog Report: Star Trek Conquest</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/backlog-report-star-trek-conquest/</link>
-      <pubDate>Mon, 08 Jul 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/backlog-report-star-trek-conquest/</guid>
-      <description>&lt;p&gt;I promised myself I would work through my PS2 game backlog by playing every game at least a couple hours. First up: Star Trek Conquest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PCSX2 has gone and done it this time...</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time.../</link>
-      <pubDate>Fri, 03 May 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time.../</guid>
-      <description>&lt;p&gt;The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gladius, day 6: Ursula decided to return to her home planet</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</link>
-      <pubDate>Mon, 22 Nov 2021 23:23:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</guid>
-      <description>&lt;p&gt;So, there, it&amp;rsquo;s done. 62 hours and 22 minutes from the start to the end of the game, LucasArt&amp;rsquo;s near forgotten cinematic tactical strategy gladiatorial&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>PCSX2 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/pcsx2/</link>
+		<description>Recent content in PCSX2 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Feb 2026 07:51:33 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/pcsx2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Fellowship of the Ring (PS2)</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</link>
+				<pubDate>Tue, 17 Feb 2026 07:51:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</guid>
+				<description>&lt;p&gt;Full name: The Lord of the Rings: The Fellowship of the Ring: The Video Game: For the PlayStation 2: Collectible Card Inside.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pryzm: The Review: Part 1.</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1/</link>
+				<pubDate>Sun, 03 Aug 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s hot troll-on-unicorn action as Karrock and Pryzm take on the plague of corruption infecting their world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Champions: Return to Arms finished!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/champions-return-to-arms-finished/</link>
+				<pubDate>Sat, 28 Sep 2024 12:34:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/champions-return-to-arms-finished/</guid>
+				<description>&lt;p&gt;Hey, I finished another game! I hope this doesn&amp;rsquo;t become some kind of trend. I had a lot of fun with it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</link>
+				<pubDate>Mon, 09 Sep 2024 08:13:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</guid>
+				<description>&lt;p&gt;I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</link>
+				<pubDate>Mon, 19 Aug 2024 08:36:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</guid>
+				<description>&lt;p&gt;And also that entire day playing Malifaux&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Champions: Return to Arms</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/champions-return-to-arms/</link>
+				<pubDate>Thu, 15 Aug 2024 18:43:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/champions-return-to-arms/</guid>
+				<description>&lt;p&gt;In Champions of Norrath, you&amp;rsquo;re tasked with single-handedly killing the God of Hate. Now they want you to kill the God of War in the sequel. Firiona and her crew are really pretty useless, aren&amp;rsquo;t they?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Backlog Report: Is it worth buying a PS3 to play Mad Maestro?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/backlog-report-is-it-worth-buying-a-ps3-to-play-mad-maestro/</link>
+				<pubDate>Tue, 09 Jul 2024 06:30:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/backlog-report-is-it-worth-buying-a-ps3-to-play-mad-maestro/</guid>
+				<description>&lt;p&gt;Mad Maestro is a PS2 classical music rhythm game. Why would you need a PS3 to play it?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Backlog Report: Star Trek Conquest</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/backlog-report-star-trek-conquest/</link>
+				<pubDate>Mon, 08 Jul 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/backlog-report-star-trek-conquest/</guid>
+				<description>&lt;p&gt;I promised myself I would work through my PS2 game backlog by playing every game at least a couple hours. First up: Star Trek Conquest.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PCSX2 has gone and done it this time...</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time/</link>
+				<pubDate>Fri, 03 May 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/pcsx2-has-gone-and-done-it-this-time/</guid>
+				<description>&lt;p&gt;The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gladius, day 6: Ursula decided to return to her home planet</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</link>
+				<pubDate>Mon, 22 Nov 2021 23:23:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</guid>
+				<description>&lt;p&gt;So, there, it&amp;rsquo;s done. 62 hours and 22 minutes from the start to the end of the game, LucasArt&amp;rsquo;s near forgotten cinematic tactical strategy gladiatorial&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

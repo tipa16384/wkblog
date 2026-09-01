@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pipes on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/pipes/</link>
-    <description>Recent content in Pipes on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 10 Dec 2023 14:16:27 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/pipes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code Day 10 -- Pipe Maze</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10--pipe-maze/</link>
-      <pubDate>Sun, 10 Dec 2023 14:16:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10--pipe-maze/</guid>
-      <description>&lt;p&gt;Anyone else notice that this is the second puzzle in a row without any elves?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Pipes on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/pipes/</link>
+		<description>Recent content in Pipes on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 10 Dec 2023 14:16:27 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/pipes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code Day 10 -- Pipe Maze</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/</link>
+				<pubDate>Sun, 10 Dec 2023 14:16:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/</guid>
+				<description>&lt;p&gt;Anyone else notice that this is the second puzzle in a row without any elves?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

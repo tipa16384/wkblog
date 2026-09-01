@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2D on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/2d/</link>
-    <description>Recent content in 2D on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 24 Aug 2024 18:16:18 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/2d/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nexus: Kingdom of the Wind</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</link>
-      <pubDate>Sat, 24 Aug 2024 18:16:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</guid>
-      <description>&lt;p&gt;Most people have never heard of NexusTK. Some people maybe heard of it long ago. It&amp;rsquo;s different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Salt &amp; Sanctuary: When Watching Elden Ring Isn&#39;t Enough</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/salt-sanctuary-when-watching-elden-ring-isnt-enough/</link>
-      <pubDate>Mon, 28 Mar 2022 08:03:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/salt-sanctuary-when-watching-elden-ring-isnt-enough/</guid>
-      <description>&lt;p&gt;My partner is playing our copy of Elden Ring, and I&amp;rsquo;d love to do more than just watch. Doesn&amp;rsquo;t make much sense to buy another&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>2D on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/2d/</link>
+		<description>Recent content in 2D on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 24 Aug 2024 18:16:18 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nexus: Kingdom of the Wind</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</link>
+				<pubDate>Sat, 24 Aug 2024 18:16:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</guid>
+				<description>&lt;p&gt;Most people have never heard of NexusTK. Some people maybe heard of it long ago. It&amp;rsquo;s different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Salt &amp; Sanctuary: When Watching Elden Ring Isn&#39;t Enough</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/salt-sanctuary-when-watching-elden-ring-isnt-enough/</link>
+				<pubDate>Mon, 28 Mar 2022 08:03:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/salt-sanctuary-when-watching-elden-ring-isnt-enough/</guid>
+				<description>&lt;p&gt;My partner is playing our copy of Elden Ring, and I&amp;rsquo;d love to do more than just watch. Doesn&amp;rsquo;t make much sense to buy another&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

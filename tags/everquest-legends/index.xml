@@ -1,19 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>EverQuest Legends on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/everquest-legends/</link>
-    <description>Recent content in EverQuest Legends on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 22:17:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/everquest-legends/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EverQuest 3 is officially dead.</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/everquest-3-is-officially-dead./</link>
-      <pubDate>Wed, 25 Mar 2026 22:17:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/everquest-3-is-officially-dead./</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s no way they&amp;rsquo;d be developing TWO new EverQuest games, right? Game Jawn&amp;rsquo;s &amp;ldquo;EverQuest Legends&amp;rdquo; just might be the EQ for the rest of us.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>EverQuest Legends on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/everquest-legends/</link>
+		<description>Recent content in EverQuest Legends on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 31 Aug 2026 08:30:36 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/everquest-legends/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverQuest Legends: The True Endgame</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-the-true-endgame/</link>
+				<pubDate>Mon, 31 Aug 2026 08:30:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-the-true-endgame/</guid>
+				<description>&lt;p&gt;Sure, you&amp;rsquo;ve killed every dragon and every god. But can you turn into a gnome?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: A Moment of Clarity</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-a-moment-of-clarity/</link>
+				<pubDate>Sat, 29 Aug 2026 10:50:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-a-moment-of-clarity/</guid>
+				<description>&lt;p&gt;Well yeah. I&amp;rsquo;m an enchanter. I cast Clarity. Warning: In this post, ChatGPT analyzes my EQ Legends damage log.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Yawning</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/yawning/</link>
+				<pubDate>Sun, 23 Aug 2026 23:44:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/yawning/</guid>
+				<description>&lt;p&gt;So I had two posts I was going to write. One of them on how my switch to Paladin in EverQuest Legends was going. The other&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Fear and Loathing in Los Norrath</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/fear-and-loathing-in-los-norrath/</link>
+				<pubDate>Sat, 22 Aug 2026 23:07:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/fear-and-loathing-in-los-norrath/</guid>
+				<description>&lt;p&gt;That would be the LORD of Loathing. In Hate. Because we have all reached level 50 and destroyed those realms of evil.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: There&#39;s no way this is going to last.</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-theres-no-way-this-is-going-to-last/</link>
+				<pubDate>Tue, 18 Aug 2026 23:25:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-theres-no-way-this-is-going-to-last/</guid>
+				<description>&lt;p&gt;Enjoy it while you can!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: Dragons, dead ones</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-dragons-dead-ones/</link>
+				<pubDate>Sat, 15 Aug 2026 00:18:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-dragons-dead-ones/</guid>
+				<description>&lt;p&gt;Level 40 means you can kill dragons, and so dragons must die.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: Clearing Dungeons</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-clearing-dungeons/</link>
+				<pubDate>Thu, 13 Aug 2026 23:31:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-clearing-dungeons/</guid>
+				<description>&lt;p&gt;EverQuest Legends allows you to create a dungeon without respawns, but why would you ever want that?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: Dogs and cats living together, MASS HYSTERIA!</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-dogs-and-cats-living-together-mass-hysteria/</link>
+				<pubDate>Wed, 12 Aug 2026 08:32:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-dogs-and-cats-living-together-mass-hysteria/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m gonna tell Massively&amp;rsquo;s Chris Neal how he should play his EQL Choose My Adventure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: Halfway there</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-halfway-there/</link>
+				<pubDate>Mon, 10 Aug 2026 00:20:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-halfway-there/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a pretty eventful day in EQL; I feel like I&amp;rsquo;m beginning to see the real game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Buy Now! The EverQuest Legends Cash Shop</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/buy-now-the-everquest-legends-cash-shop/</link>
+				<pubDate>Fri, 07 Aug 2026 08:45:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/buy-now-the-everquest-legends-cash-shop/</guid>
+				<description>&lt;p&gt;You didn&amp;rsquo;t know about the cash shop? It&amp;rsquo;s not a story the hardcore would tell you.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

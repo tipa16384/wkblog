@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gloomhaven on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/gloomhaven/</link>
-    <description>Recent content in Gloomhaven on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 07:52:04 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/gloomhaven/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Frosthaven #9: Glowing Catacombs</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/frosthaven-%239-glowing-catacombs/</link>
-      <pubDate>Tue, 10 Feb 2026 07:52:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/frosthaven-%239-glowing-catacombs/</guid>
-      <description>&lt;p&gt;Everything would have been fine&amp;hellip; if it weren&amp;rsquo;t for the oozes. The slimy, mitosis inflicted oozes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven #28: Summit Meeting</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/frosthaven-%2328-summit-meeting/</link>
-      <pubDate>Wed, 19 Nov 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/frosthaven-%2328-summit-meeting/</guid>
-      <description>&lt;p&gt;This scenario&amp;hellip; had an errata&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven Scenario #10: Crystal Enclosure</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/frosthaven-scenario-%2310-crystal-enclosure/</link>
-      <pubDate>Tue, 26 Aug 2025 07:41:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/frosthaven-scenario-%2310-crystal-enclosure/</guid>
-      <description>&lt;p&gt;Where we run afoul of a Drinking Donkey and evil Ice Pillars.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven Scenario 14: Jagged Shoals</title>
-      <link>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</link>
-      <pubDate>Thu, 10 Jul 2025 08:01:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</guid>
-      <description>&lt;p&gt;They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven #7: The Edge of the World</title>
-      <link>https://tipa16384.github.io/wkblog/2025/06/frosthaven-%237-the-edge-of-the-world/</link>
-      <pubDate>Tue, 24 Jun 2025 08:22:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/06/frosthaven-%237-the-edge-of-the-world/</guid>
-      <description>&lt;p&gt;Taking a break from the Algox situation to have a seafood snack.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven: Heart of Ice (Scenario 4)</title>
-      <link>https://tipa16384.github.io/wkblog/2025/06/frosthaven-heart-of-ice-scenario-4/</link>
-      <pubDate>Tue, 10 Jun 2025 08:05:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/06/frosthaven-heart-of-ice-scenario-4/</guid>
-      <description>&lt;p&gt;Took us long enough, but we finally had another Frosthaven night. Spoilers!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven Scenario #1: Town in Flames</title>
-      <link>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-%231-town-in-flames/</link>
-      <pubDate>Tue, 29 Apr 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-%231-town-in-flames/</guid>
-      <description>&lt;p&gt;Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Night: Frosthaven! And So It Begins...</title>
-      <link>https://tipa16384.github.io/wkblog/2025/04/game-night-frosthaven-and-so-it-begins.../</link>
-      <pubDate>Tue, 01 Apr 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/04/game-night-frosthaven-and-so-it-begins.../</guid>
-      <description>&lt;p&gt;After a few years on the shelf, we&amp;rsquo;re finally playing Frosthaven. It&amp;rsquo;s pretty different from Gloomhaven; could be a real challenge.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Mon, 31 Mar 2025 12:48:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O&amp;rsquo; STUFF.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Origins 2024 Recap</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/origins-2024-recap/</link>
-      <pubDate>Wed, 26 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/origins-2024-recap/</guid>
-      <description>&lt;p&gt;This was my first Origins. It was a little overwhelming, but I&amp;rsquo;ll do better, next time.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Gloomhaven on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/gloomhaven/</link>
+		<description>Recent content in Gloomhaven on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Feb 2026 07:52:04 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/gloomhaven/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Frosthaven #9: Glowing Catacombs</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/frosthaven-9-glowing-catacombs/</link>
+				<pubDate>Tue, 10 Feb 2026 07:52:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/frosthaven-9-glowing-catacombs/</guid>
+				<description>&lt;p&gt;Everything would have been fine&amp;hellip; if it weren&amp;rsquo;t for the oozes. The slimy, mitosis inflicted oozes.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven #28: Summit Meeting</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/frosthaven-28-summit-meeting/</link>
+				<pubDate>Wed, 19 Nov 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/frosthaven-28-summit-meeting/</guid>
+				<description>&lt;p&gt;This scenario&amp;hellip; had an errata&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven Scenario #10: Crystal Enclosure</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/frosthaven-scenario-10-crystal-enclosure/</link>
+				<pubDate>Tue, 26 Aug 2025 07:41:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/frosthaven-scenario-10-crystal-enclosure/</guid>
+				<description>&lt;p&gt;Where we run afoul of a Drinking Donkey and evil Ice Pillars.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven Scenario 14: Jagged Shoals</title>
+				<link>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</link>
+				<pubDate>Thu, 10 Jul 2025 08:01:31 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</guid>
+				<description>&lt;p&gt;They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven #7: The Edge of the World</title>
+				<link>https://tipa16384.github.io/wkblog/2025/06/frosthaven-7-the-edge-of-the-world/</link>
+				<pubDate>Tue, 24 Jun 2025 08:22:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/06/frosthaven-7-the-edge-of-the-world/</guid>
+				<description>&lt;p&gt;Taking a break from the Algox situation to have a seafood snack.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven: Heart of Ice (Scenario 4)</title>
+				<link>https://tipa16384.github.io/wkblog/2025/06/frosthaven-heart-of-ice-scenario-4/</link>
+				<pubDate>Tue, 10 Jun 2025 08:05:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/06/frosthaven-heart-of-ice-scenario-4/</guid>
+				<description>&lt;p&gt;Took us long enough, but we finally had another Frosthaven night. Spoilers!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven Scenario #1: Town in Flames</title>
+				<link>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-1-town-in-flames/</link>
+				<pubDate>Tue, 29 Apr 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-1-town-in-flames/</guid>
+				<description>&lt;p&gt;Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Night: Frosthaven! And So It Begins...</title>
+				<link>https://tipa16384.github.io/wkblog/2025/04/frosthaven-and-so-it-begins/</link>
+				<pubDate>Tue, 01 Apr 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/04/frosthaven-and-so-it-begins/</guid>
+				<description>&lt;p&gt;After a few years on the shelf, we&amp;rsquo;re finally playing Frosthaven. It&amp;rsquo;s pretty different from Gloomhaven; could be a real challenge.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend-3/</link>
+				<pubDate>Mon, 31 Mar 2025 12:48:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend-3/</guid>
+				<description>&lt;p&gt;Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O&amp;rsquo; STUFF.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Origins 2024 Recap</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/origins-2024-recap/</link>
+				<pubDate>Wed, 26 Jun 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/origins-2024-recap/</guid>
+				<description>&lt;p&gt;This was my first Origins. It was a little overwhelming, but I&amp;rsquo;ll do better, next time.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

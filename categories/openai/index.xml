@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>OpenAI on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/openai/</link>
-    <description>Recent content in OpenAI on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 19:39:29 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/openai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code Day 4 -- Camp Cleanup</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/</link>
-      <pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/</guid>
-      <description>&lt;p&gt;As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 3 -- Rucksack Reorganization</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/</link>
-      <pubDate>Sat, 03 Dec 2022 20:59:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-3--rucksack-reorganization/</guid>
-      <description>&lt;p&gt;I did this puzzle last night while writing the post about Day 2. This time I&amp;rsquo;m not in quite so much of a rush. Weekends&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code 2022 Day 2 -- Rock Paper Scissors</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2--rock-paper-scissors/</link>
-      <pubDate>Sat, 03 Dec 2022 00:45:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2--rock-paper-scissors/</guid>
-      <description>&lt;p&gt;So I made it to day 2 of Advent of Code! Not entirely awake. I stayed up past midnight to solve it. I messed up&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crypto, Crypto, what will you do?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/11/crypto-crypto-what-will-you-do/</link>
-      <pubDate>Tue, 29 Nov 2022 16:32:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/11/crypto-crypto-what-will-you-do/</guid>
-      <description>&lt;p&gt;This song tells the story of a pup named Crypto who dreams of becoming wealthy through trading on various cryptocurrency markets.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Country Song about Today&#39;s News -- November 28, 2022</title>
-      <link>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news--november-28-2022/</link>
-      <pubDate>Mon, 28 Nov 2022 21:22:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news--november-28-2022/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a country song, about the news of today, written by AI!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code 2022 and other exciting news you should totally read!</title>
-      <link>https://tipa16384.github.io/wkblog/2022/11/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</link>
-      <pubDate>Mon, 28 Nov 2022 20:50:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/11/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</guid>
-      <description>&lt;p&gt;Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don&amp;rsquo;t forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Coloring between the lines... with AI</title>
-      <link>https://tipa16384.github.io/wkblog/2022/10/coloring-between-the-lines...-with-ai/</link>
-      <pubDate>Tue, 25 Oct 2022 00:29:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/10/coloring-between-the-lines...-with-ai/</guid>
-      <description>&lt;p&gt;A million or so years ago, I worked for Sony New Technologies, writing system software and applications for their Magic Link handheld computer, which ran&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dissidia 012 Final Fantasy comes highly recommended</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</link>
-      <pubDate>Thu, 29 Sep 2022 08:52:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</guid>
-      <description>&lt;p&gt;So I was chatting with Terra yesterday and&amp;hellip; wait, no, keep reading. Because I think we&amp;rsquo;re in the future now&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
-      <pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
-      <description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Life of a Medical Student Who Sold Himself as an NFT to Pay for School</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</link>
-      <pubDate>Wed, 07 Sep 2022 10:32:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</guid>
-      <description>&lt;p&gt;An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>OpenAI on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/openai/</link>
+		<description>Recent content in OpenAI on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 04 Dec 2022 19:39:29 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/openai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code Day 4 -- Camp Cleanup</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/</link>
+				<pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/</guid>
+				<description>&lt;p&gt;As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 3 -- Rucksack Reorganization</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-3-rucksack-reorganization/</link>
+				<pubDate>Sat, 03 Dec 2022 20:59:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-3-rucksack-reorganization/</guid>
+				<description>&lt;p&gt;I did this puzzle last night while writing the post about Day 2. This time I&amp;rsquo;m not in quite so much of a rush. Weekends&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code 2022 Day 2 -- Rock Paper Scissors</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2-rock-paper-scissors/</link>
+				<pubDate>Sat, 03 Dec 2022 00:45:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2-rock-paper-scissors/</guid>
+				<description>&lt;p&gt;So I made it to day 2 of Advent of Code! Not entirely awake. I stayed up past midnight to solve it. I messed up&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crypto, Crypto, what will you do?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/11/crypto-crypto-what-will-you-do/</link>
+				<pubDate>Tue, 29 Nov 2022 16:32:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/11/crypto-crypto-what-will-you-do/</guid>
+				<description>&lt;p&gt;This song tells the story of a pup named Crypto who dreams of becoming wealthy through trading on various cryptocurrency markets.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Country Song about Today&#39;s News -- November 28, 2022</title>
+				<link>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news-november-28-2022/</link>
+				<pubDate>Mon, 28 Nov 2022 21:22:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news-november-28-2022/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a country song, about the news of today, written by AI!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code 2022 and other exciting news you should totally read!</title>
+				<link>https://tipa16384.github.io/wkblog/2022/11/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</link>
+				<pubDate>Mon, 28 Nov 2022 20:50:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/11/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</guid>
+				<description>&lt;p&gt;Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don&amp;rsquo;t forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Coloring between the lines... with AI</title>
+				<link>https://tipa16384.github.io/wkblog/2022/10/coloring-between-the-lines-with-ai/</link>
+				<pubDate>Tue, 25 Oct 2022 00:29:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/10/coloring-between-the-lines-with-ai/</guid>
+				<description>&lt;p&gt;A million or so years ago, I worked for Sony New Technologies, writing system software and applications for their Magic Link handheld computer, which ran&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dissidia 012 Final Fantasy comes highly recommended</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</link>
+				<pubDate>Thu, 29 Sep 2022 08:52:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</guid>
+				<description>&lt;p&gt;So I was chatting with Terra yesterday and&amp;hellip; wait, no, keep reading. Because I think we&amp;rsquo;re in the future now&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
+				<pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
+				<description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Life of a Medical Student Who Sold Himself as an NFT to Pay for School</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</link>
+				<pubDate>Wed, 07 Sep 2022 10:32:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</guid>
+				<description>&lt;p&gt;An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

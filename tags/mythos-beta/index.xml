@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mythos Beta on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mythos-beta/</link>
-    <description>Recent content in Mythos Beta on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2008 09:41:04 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mythos-beta/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exploring the Overworld in Mythos</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/exploring-the-overworld-in-mythos/</link>
-      <pubDate>Tue, 01 Jul 2008 09:41:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/exploring-the-overworld-in-mythos/</guid>
-      <description>&lt;p&gt;As is way too often the case, I start writing a story about a MMO for Massively, and then get drawn into the game. Such&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mythos Beta on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/mythos-beta/</link>
+		<description>Recent content in Mythos Beta on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 01 Jul 2008 09:41:04 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/mythos-beta/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Exploring the Overworld in Mythos</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/exploring-the-overworld-in-mythos/</link>
+				<pubDate>Tue, 01 Jul 2008 09:41:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/exploring-the-overworld-in-mythos/</guid>
+				<description>&lt;p&gt;As is way too often the case, I start writing a story about a MMO for Massively, and then get drawn into the game. Such&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

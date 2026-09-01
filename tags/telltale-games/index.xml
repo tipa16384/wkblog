@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Telltale Games on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/telltale-games/</link>
-    <description>Recent content in Telltale Games on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 26 Dec 2025 09:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/telltale-games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Steam Winter Sale: Dispatch</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/steam-winter-sale-dispatch/</link>
-      <pubDate>Fri, 26 Dec 2025 09:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/steam-winter-sale-dispatch/</guid>
-      <description>&lt;p&gt;Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The 14 Pages of Sarah Woods</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</link>
-      <pubDate>Sun, 14 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</guid>
-      <description>&lt;p&gt;The Number 14: A Touching Game with Excellent Writing and Interesting Characters&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Telltale Games on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/telltale-games/</link>
+		<description>Recent content in Telltale Games on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Dec 2025 09:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/telltale-games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Steam Winter Sale: Dispatch</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/steam-winter-sale-dispatch/</link>
+				<pubDate>Fri, 26 Dec 2025 09:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/steam-winter-sale-dispatch/</guid>
+				<description>&lt;p&gt;Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The 14 Pages of Sarah Woods</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</link>
+				<pubDate>Sun, 14 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</guid>
+				<description>&lt;p&gt;The Number 14: A Touching Game with Excellent Writing and Interesting Characters&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

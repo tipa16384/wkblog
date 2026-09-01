@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>In Too Deep on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/in-too-deep/</link>
-    <description>Recent content in In Too Deep on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 12:09:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/in-too-deep/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Best Board Games of 2024!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</link>
-      <pubDate>Sun, 05 Jan 2025 12:09:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</guid>
-      <description>&lt;p&gt;The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Night: In Too Deep, Terraforming Mars, what comes next?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/10/game-night-in-too-deep-terraforming-mars-what-comes-next/</link>
-      <pubDate>Tue, 22 Oct 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/10/game-night-in-too-deep-terraforming-mars-what-comes-next/</guid>
-      <description>&lt;p&gt;Catching up on game night posts. We played with the super duper &amp;ldquo;all in&amp;rdquo; Terraforming Mars gear and finished up In Too Deep. What&amp;rsquo;s next for Game Night?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Night: In Too Deep</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/game-night-in-too-deep/</link>
-      <pubDate>Fri, 27 Sep 2024 08:10:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/game-night-in-too-deep/</guid>
-      <description>&lt;p&gt;You&amp;rsquo;re a psychic cop hijacking the minds of supervillains to solve crimes. But mind control&amp;hellip; it&amp;rsquo;s a two way street.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>In Too Deep on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/in-too-deep/</link>
+		<description>Recent content in In Too Deep on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 05 Jan 2025 12:09:14 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/in-too-deep/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Best Board Games of 2024!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</link>
+				<pubDate>Sun, 05 Jan 2025 12:09:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</guid>
+				<description>&lt;p&gt;The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Night: In Too Deep, Terraforming Mars, what comes next?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/10/game-night-in-too-deep-terraforming-mars-what-comes-next/</link>
+				<pubDate>Tue, 22 Oct 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/10/game-night-in-too-deep-terraforming-mars-what-comes-next/</guid>
+				<description>&lt;p&gt;Catching up on game night posts. We played with the super duper &amp;ldquo;all in&amp;rdquo; Terraforming Mars gear and finished up In Too Deep. What&amp;rsquo;s next for Game Night?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Night: In Too Deep</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/game-night-in-too-deep/</link>
+				<pubDate>Fri, 27 Sep 2024 08:10:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/game-night-in-too-deep/</guid>
+				<description>&lt;p&gt;You&amp;rsquo;re a psychic cop hijacking the minds of supervillains to solve crimes. But mind control&amp;hellip; it&amp;rsquo;s a two way street.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Advent of Code Day 4 -- Camp Cleanup",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png",
+  
+  "datePublished": "2022-12-04T19:39:29-05:00",
+  "dateModified": "2022-12-04T19:39:29-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "https:\/\/tipa16384.github.io\/wkblog\/2022\/12\/advent-of-code-day-4-camp-cleanup\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.\n",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.165.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.">
+
+
+<meta property="og:description" content="As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Advent of Code Day 4 -- Camp Cleanup">
+<meta name="twitter:title" content="Advent of Code Day 4 -- Camp Cleanup">
+<meta property="og:url" content="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/">
+<meta property="twitter:url" content="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.">
+<meta name="twitter:description" content="As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="article:published_time" content="2022-12-04T19:39:29">
+  
+  
+    <meta property="article:modified_time" content="2022-12-04T19:39:29">
+  
+  
+  
+    
+      <meta property="article:section" content="Advent of Code">
+    
+      <meta property="article:section" content="OpenAI">
+    
+      <meta property="article:section" content="Programming Language">
+    
+  
+  
+    
+      <meta property="article:tag" content="AI">
+    
+      <meta property="article:tag" content="Gpt-3">
+    
+      <meta property="article:tag" content="Java">
+    
+      <meta property="article:tag" content="Lua">
+    
+      <meta property="article:tag" content="Python">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png">
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png">
+
+
+    <title>Advent of Code Day 4 -- Camp Cleanup</title>
+
+    <link rel="icon" href="https://chasingdings.com/wp-content/uploads/2026/03/wkfavicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v5-font-face.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v4-shims.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="https://tipa16384.github.io/wkblog/css/tranquilpeak.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://tipa16384.github.io/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://tipa16384.github.io/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://tipa16384.github.io/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/tipa16384" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://gamepad.club/deck/@Tipa" target="_blank" rel="noopener" title="Mastodon">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-mastodon" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bsky.app/profile/chasingdings.com" target="_blank" rel="noopener" title="BlueSky">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-bluesky" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">BlueSky</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+<div id="right-sidebar" data-behavior="5">
+  
+    
+      <div class="right-sidebar-item">
+        
+          <img class="right-sidebar-image" src="https://chasingdings.com/wp-content/uploads/2024/01/dodologo-768x618.png" alt="" />
+        
+      </div>
+    
+      <div class="right-sidebar-item">
+        
+          
+          <ul class="sidebar-buttons right-sidebar-blogroll" id="right-sidebar-blogroll-1" data-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
+            <li class="sidebar-button"><span class="sidebar-button-link"><span class="sidebar-button-desc">Loading&hellip;</span></span></li>
+          </ul>
+          <script>
+            (function() {
+              var list = document.getElementById("right-sidebar-blogroll-1");
+              if (!list) return;
+              var sourceUrl = list.getAttribute("data-blogroll-url");
+              if (!sourceUrl) { list.parentNode.removeChild(list); return; }
+
+              function toRawGithubUrl(url) {
+                var m = url.match(/^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/);
+                return m ? "https://raw.githubusercontent.com/" + m[1] + "/" + m[2] + "/" + m[3] : url;
+              }
+
+              function parseBlogroll(text) {
+                var lines = text.split(/\r?\n/);
+                var heading = "Blogroll", items = [], i;
+                for (i = 0; i < lines.length; i++) {
+                  var hm = lines[i].match(/^#\s+(.+)$/);
+                  if (hm) {
+                    heading = hm[1].trim().replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
+                    break;
+                  }
+                }
+                for (i = 0; i < lines.length; i++) {
+                  var im = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)$/);
+                  if (im) items.push({ label: im[1].trim(), url: im[2].trim(), summary: im[3].trim() });
+                }
+                return { heading: heading, items: items };
+              }
+
+              function clear(node) { while (node.firstChild) node.removeChild(node.firstChild); }
+
+              function addRow(text, cls) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button" + (cls ? " " + cls : "");
+                var sp = document.createElement("span");
+                sp.className = "sidebar-button-link";
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = text;
+                sp.appendChild(d);
+                li.appendChild(sp);
+                list.appendChild(li);
+              }
+
+              function addLink(item) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button sidebar-blogroll-item";
+                var a = document.createElement("a");
+                a.className = "sidebar-button-link";
+                a.href = item.url;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.title = item.summary;
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = item.label;
+                a.appendChild(d);
+                li.appendChild(a);
+                list.appendChild(li);
+              }
+
+              fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
+                .then(function(r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+                .then(function(text) {
+                  var p = parseBlogroll(text);
+                  clear(list);
+                  addRow(p.heading, "sidebar-blogroll-heading");
+                  if (!p.items.length) { addRow("No links found", "sidebar-blogroll-empty"); return; }
+                  p.items.forEach(addLink);
+                })
+                .catch(function() {
+                  clear(list);
+                  addRow("Blogroll unavailable", "sidebar-blogroll-error");
+                });
+            })();
+          </script>
+        
+      </div>
+    
+  
+</div>
+
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2022/12/DALL%c2%b7E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Advent of Code Day 4 -- Camp Cleanup
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2022-12-04T19:39:29-05:00">
+        
+  December 4, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/advent-of-code">Advent of Code</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/openai">OpenAI</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/programming-language">Programming Language</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.</p>
+<p>There&rsquo;s a<a href="https://old.reddit.com/r/adventofcode/comments/zbpq5g/gpt_openai_solutions_should_be_removed_from_the/"> bit of a kerfuffle</a> on the Advent of Code subreddit over people using GPT-3&rsquo;s new text-davinci-003 to solve puzzles and submit them automatically. Someone has been submitting correct answers in seconds in the past few days.</p>
+<p>It operates essentially just like my TerraChat. My chatbot takes user input, combines it with background information and a certain amount of conversation context, and calls GPT-3 with it and sends back the result.</p>
+<p>The AI here adds a first step &ndash; actually going to the Advent of Code website and reading the puzzle and the puzzle input before also giving those to the AI &ndash; and if it seems to work with the sample, it then submits its answer, moves on to Part 2, and does the same again. (I&rsquo;m not totally sure it verifies the solution with the sample data; I haven&rsquo;t seen the bot myself).</p>
+<p>So, I was wondering how people solve this so quickly, while I am still reading the problem. It&rsquo;s because I don&rsquo;t work at machine time.</p>
+<p>I was curious how this would work with older problems. I hadn&rsquo;t done any of 2017&rsquo;s problems, so I just pasted in the first couple days and asked for it to write a solution. Here, unmodified, is the output for 2017&rsquo;s <a href="https://adventofcode.com/2017/day/1">Day 1, Part 1</a>:</p>
+<p>`# Initialize the sum to 0
+sum = 0</p>
+<h1 id="iterate-through-the-digits-in-the-input-string">Iterate through the digits in the input string</h1>
+<p>for i in range(len(input_str)):
+# Get the current digit and the next digit
+# Be careful to handle the case where the next digit is the first digit
+cur_digit = int(input_str[i])
+next_digit = int(input_str[(i + 1) % len(input_str)])</p>
+<pre><code># If the current digit and the next digit are equal, add the current digit to the sum
+if cur_digit == next_digit:
+    sum += cur_digit
+</code></pre>
+<p>`</p>
+<p>It absolutely works. I tried this for part 2, and it worked. Same with Day 2. Day 3, it couldn&rsquo;t do at all &ndash; and everyone expects that the AI won&rsquo;t be able to continue this year much longer. I could have written this more cleanly, but there&rsquo;s not really any point.</p>
+<p>It gets <em>better</em>. Here&rsquo;s someone who <a href="https://6502.is-a.dev/posts/aoc-2022/">defined a new computer language</a>, but he didn&rsquo;t have any way to run it. So he described the language to the chat bot, then had it write the puzzle solution in that language (which it had never seen before), and then run that program in that invented language and output the answer.</p>
+<p>Just for fun, I created a new human language, taught it to the chat bot, and tried to have a conversation with her in it.</p>
+
+
+
+<div class="figure center" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2022/12/image-2.png"  alt="The phrase was &#34;I am riding my horse to work&#34;, so it was pretty close. Especially for a language I made up on the spot. It also speaks the language, but as it points out, with only ten or so words defined, it&#39;s hard to really be certain what was meant. (&#39;bik&#39; is leg, &#39;hok&#39; is tall, so &#39;hokbikbikbikbik&#39; is a tall four legged animal).">
+  
+   
+    <span class="caption">The phrase was &#34;I am riding my horse to work&#34;, so it was pretty close. Especially for a language I made up on the spot. It also speaks the language, but as it points out, with only ten or so words defined, it&#39;s hard to really be certain what was meant. (&#39;bik&#39; is leg, &#39;hok&#39; is tall, so &#39;hokbikbikbikbik&#39; is a tall four legged animal).</span>
+  
+</div>
+
+
+
+
+<div class="figure center" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2022/12/image-3.png" >
+  
+  
+</div>
+
+<p>I should point out that the past tense of &ldquo;nahg&rdquo; is &ldquo;nahgbahg&rdquo; in my language.</p>
+<p>Wow. So&hellip;. so wow. Anyway, onto the solutions.</p>
+<p><strong>Python 3.11</strong></p>
+<p>The &ldquo;correct&rdquo; answer was probably, as it was yesterday, to use sets. I didn&rsquo;t. The problem was finding completely overlapped and partially overlapped ranges &ndash; Part 1 and Part 2. My entry didn&rsquo;t use the lambdas, but I did clean it up before I posted it on Reddit.</p>
+<p>`def overlap(s, f):
+a, b = s.split(&rsquo;,&rsquo;)
+a1, a2 = map(int, a.split(&rsquo;-&rsquo;))
+b1, b2 = map(int, b.split(&rsquo;-&rsquo;))</p>
+<pre><code># check if the ranges overlap
+return f(a1 
+</code></pre>
+<p><strong>Java 14</strong></p>
+<p>I took that lambda idea into my Java solution.</p>
+<p>`package com.chasingdings.y2022;</p>
+<p>import java.util.Arrays;
+import java.util.stream.Collectors;</p>
+<p>public class Puzzle4 extends AbstractPuzzle {
+private static final String DATA_FILE = &ldquo;2022\puzzle4.dat&rdquo;;</p>
+<pre><code>@Override
+public Object solve1(String content) {
+    Boolinator andMe = (a, b) -&gt; a &amp;&amp; b;
+    return process(content, andMe);
+}
+
+@Override
+public Object solve2(String content) {
+    Boolinator orMe = (a, b) -&gt; a || b;
+    return process(content, orMe);
+}
+
+@Override
+public String getDataFilePath() {
+    return DATA_FILE;
+}
+
+@Override
+public String getPuzzleName() {
+    return &quot;Day 4 - Camp Cleanup&quot;;
+}
+
+interface Boolinator {
+    boolean pleaseDo(boolean a, boolean b);
+}
+
+private int process(String content, Boolinator boolinator) {
+    var assignmentList = getInputDataByLine(content);
+    return assignmentList.stream()
+            .filter(task -&gt; isOverlap(task, boolinator))
+            .collect(Collectors.toList())
+            .size();
+}
+
+private boolean isOverlap(String s, Boolinator boolinator) {
+    var tokens = Arrays.stream(s.split(&quot;[,-]&quot;)).mapToInt(Integer::parseInt).toArray();
+    int x1 = tokens[0];
+    int x2 = tokens[1];
+    int y1 = tokens[2];
+    int y2 = tokens[3];
+    return boolinator.pleaseDo(x1 
+</code></pre>
+<p>Lambdas exist in Java, but passing them around as first order objects like you can do in Python is a little trickier. I actually learned this trick at work. Again, I could have used sets, just didn&rsquo;t feel it was necessary. Looking at some other Java entries, I might have made the parsing a little cooler.</p>
+<p><strong>Today&rsquo;s game &ndash; Elf Defense</strong></p>
+<p>Since the story behind today&rsquo;s puzzle was cleaning up the camp, I had a bunch of ideas. My boyfriend suggested I do a tower defense. But it took me so long to get started that I didn&rsquo;t have time for any of that. I got the elf moving around and then I tossed in some monsters and some potions which were treasures and the concept was grabbing the treasures before the monsters did.</p>
+<p>Go ahead and try it, but it&rsquo;s not my favorite.</p>
+<p>Going forward, I need to make a good game template that has all the score and timer and that stuff built in so I can quickly get going on the actual game. I am partway there, but I need to formalize it. We&rsquo;ll see what happens tomorrow. Back to the weekday so not as much time each night.</p>
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/ai/">AI</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/gpt-3/">Gpt-3</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/java/">Java</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/lua/">Lua</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/python/">Python</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5-supply-stacks/" data-tooltip="Advent of Code Day 5 -- Supply Stacks" aria-label="NEXT: Advent of Code Day 5 -- Supply Stacks">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-3-rucksack-reorganization/" data-tooltip="Advent of Code Day 3 -- Rucksack Reorganization" aria-label="PREVIOUS: Advent of Code Day 3 -- Rucksack Reorganization">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'https:\/\/tipa16384.github.io\/wkblog\/2022\/12\/advent-of-code-day-4-camp-cleanup\/';
+        
+          this.page.identifier = '2022\/12\/04\/advent-of-code-day-4-camp-cleanup';
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = 'chasing-dings';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5-supply-stacks/" data-tooltip="Advent of Code Day 5 -- Supply Stacks" aria-label="NEXT: Advent of Code Day 5 -- Supply Stacks">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-3-rucksack-reorganization/" data-tooltip="Advent of Code Day 3 -- Rucksack Reorganization" aria-label="PREVIOUS: Advent of Code Day 3 -- Rucksack Reorganization">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-4-camp-cleanup%2F" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://bsky.app/intent/compose?text=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-4-camp-cleanup%2F" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i><span>Share on BlueSky</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-4-camp-cleanup%2F" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="https://tipa16384.github.io/js/tranquilpeak.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

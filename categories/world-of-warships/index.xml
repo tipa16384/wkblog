@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>World of Warships on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/world-of-warships/</link>
-    <description>Recent content in World of Warships on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 11:15:16 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/world-of-warships/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>World of Warships: Submarines Sail In</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</link>
-      <pubDate>Thu, 14 May 2020 11:15:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Frankly, my dear, I don&amp;rsquo;t give a damn about depth charges&amp;rdquo;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>World of Warships is the perfect MMO for someone who just can&#39;t be bothered to care any more.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/04/world-of-warships-is-the-perfect-mmo-for-someone-who-just-cant-be-bothered-to-care-any-more./</link>
-      <pubDate>Wed, 22 Apr 2020 15:02:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/04/world-of-warships-is-the-perfect-mmo-for-someone-who-just-cant-be-bothered-to-care-any-more./</guid>
-      <description>&lt;p&gt;Back in the before times, there was a blogger who was deep into World of Tanks. I don&amp;rsquo;t remember who it was, but I remember&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Captain of the Second League</title>
-      <link>https://tipa16384.github.io/wkblog/2015/11/a-captain-of-the-second-league/</link>
-      <pubDate>Sun, 22 Nov 2015 10:36:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/11/a-captain-of-the-second-league/</guid>
-      <description>&lt;p&gt;Rank 14 and owner of the flag marking me as a member of the Second League&amp;hellip; that is really available to anyone who is playing&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The IJN Welcomes You to Tier V</title>
-      <link>https://tipa16384.github.io/wkblog/2015/11/the-ijn-welcomes-you-to-tier-v/</link>
-      <pubDate>Sat, 14 Nov 2015 11:47:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/11/the-ijn-welcomes-you-to-tier-v/</guid>
-      <description>&lt;p&gt;It was only fair that Suzuki Senchou was offered command of the Imperial Japanese Navy cruiser Furutaka on her addition to my fleet. It was&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>World of Warships?</title>
-      <link>https://tipa16384.github.io/wkblog/2015/09/world-of-warships/</link>
-      <pubDate>Sat, 19 Sep 2015 22:56:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/09/world-of-warships/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always sucked at team based PvP. Whether in fantasy MMOs or whatever, team PvP requires an instinct toward knowing your abilities, the abilities of&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>World of Warships on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/world-of-warships/</link>
+		<description>Recent content in World of Warships on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 14 May 2020 11:15:16 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/world-of-warships/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>World of Warships: Submarines Sail In</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</link>
+				<pubDate>Thu, 14 May 2020 11:15:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Frankly, my dear, I don&amp;rsquo;t give a damn about depth charges&amp;rdquo;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>World of Warships is the perfect MMO for someone who just can&#39;t be bothered to care any more.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/04/world-of-weebships/</link>
+				<pubDate>Wed, 22 Apr 2020 15:02:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/04/world-of-weebships/</guid>
+				<description>&lt;p&gt;Back in the before times, there was a blogger who was deep into World of Tanks. I don&amp;rsquo;t remember who it was, but I remember&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Captain of the Second League</title>
+				<link>https://tipa16384.github.io/wkblog/2015/11/a-member-of-the-second-league/</link>
+				<pubDate>Sun, 22 Nov 2015 10:36:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/11/a-member-of-the-second-league/</guid>
+				<description>&lt;p&gt;Rank 14 and owner of the flag marking me as a member of the Second League&amp;hellip; that is really available to anyone who is playing&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The IJN Welcomes You to Tier V</title>
+				<link>https://tipa16384.github.io/wkblog/2015/11/the-ijn-welcomes-you-to-tier-v/</link>
+				<pubDate>Sat, 14 Nov 2015 11:47:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/11/the-ijn-welcomes-you-to-tier-v/</guid>
+				<description>&lt;p&gt;It was only fair that Suzuki Senchou was offered command of the Imperial Japanese Navy cruiser Furutaka on her addition to my fleet. It was&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>World of Warships?</title>
+				<link>https://tipa16384.github.io/wkblog/2015/09/world-of-warships/</link>
+				<pubDate>Sat, 19 Sep 2015 22:56:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/09/world-of-warships/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve always sucked at team based PvP. Whether in fantasy MMOs or whatever, team PvP requires an instinct toward knowing your abilities, the abilities of&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

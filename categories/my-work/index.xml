@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My Work on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/my-work/</link>
-    <description>Recent content in My Work on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2010 19:03:05 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/my-work/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Java Test: Ramping up for 7DRL</title>
-      <link>https://tipa16384.github.io/wkblog/2010/02/java-test-ramping-up-for-7drl/</link>
-      <pubDate>Mon, 15 Feb 2010 19:03:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/02/java-test-ramping-up-for-7drl/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve decided to take the jump and enter the Seven Day Roguelike (7DRL) competition starting next month. The challenge? Write a complete &amp;ldquo;rogue-like&amp;rdquo; adventure game&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Computer Science: Monopoly board computer</title>
-      <link>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</link>
-      <pubDate>Sun, 31 May 2009 08:33:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</guid>
-      <description>&lt;p&gt;Yesterday, Bear was caught in a bind because he didn&amp;rsquo;t have a computer to run the Champions Online beta. He didn&amp;rsquo;t know that he was&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>XFire Wordpress Plugin -- first release</title>
-      <link>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin--first-release/</link>
-      <pubDate>Thu, 26 Mar 2009 23:53:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin--first-release/</guid>
-      <description>&lt;p&gt;Announcing the XFire Stats Wordpress Plugin. This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>XFire Wordpress Widget</title>
-      <link>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-widget/</link>
-      <pubDate>Thu, 26 Mar 2009 00:53:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-widget/</guid>
-      <description>&lt;p&gt;&amp;hellip; if I could draw your attention to your right, especially you Wordpress bloggers &amp;hellip;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to tell if you&#39;re a coder, part 1.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/how-to-tell-if-youre-a-coder-part-1./</link>
-      <pubDate>Tue, 07 Oct 2008 08:01:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/how-to-tell-if-youre-a-coder-part-1./</guid>
-      <description>&lt;p&gt;Step 1: Start browsing the games Xfire claims are installed on your system and come across a children&amp;rsquo;s version of that old game, Mastermind:&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MMO Gene Sequencer momentum builds...</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/mmo-gene-sequencer-momentum-builds.../</link>
-      <pubDate>Wed, 02 Jul 2008 13:16:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/mmo-gene-sequencer-momentum-builds.../</guid>
-      <description>&lt;p&gt;Raph Koster today posted an article proposing that the reason people flock to games similar to ones they have already played is because they have&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ2 - Game Update #46</title>
-      <link>https://tipa16384.github.io/wkblog/2008/06/eq2-game-update-%2346/</link>
-      <pubDate>Tue, 10 Jun 2008 11:56:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/06/eq2-game-update-%2346/</guid>
-      <description>&lt;p&gt;I spent hours last night running around Norrath on Test, killing stuff and doing quests, just so I could write about the Void Storms coming&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nope. I can&#39;t do it.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/04/nope.-i-cant-do-it./</link>
-      <pubDate>Tue, 22 Apr 2008 08:50:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/04/nope.-i-cant-do-it./</guid>
-      <description>&lt;p&gt;I can&amp;rsquo;t be a full time raider, perform my day job competently, be a professional blogger, play the wide variety of MMOs I need to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bimbos anonymous</title>
-      <link>https://tipa16384.github.io/wkblog/2008/04/bimbos-anonymous/</link>
-      <pubDate>Tue, 22 Apr 2008 07:31:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/04/bimbos-anonymous/</guid>
-      <description>&lt;p&gt;I wrote a piece yesterday about MissBimbo.com, a game that teaches young girls how dieting and boob jobs are the path to a successful and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rabbyt, a Python-based sprite animation system</title>
-      <link>https://tipa16384.github.io/wkblog/2008/03/rabbyt-a-python-based-sprite-animation-system/</link>
-      <pubDate>Thu, 27 Mar 2008 09:52:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/03/rabbyt-a-python-based-sprite-animation-system/</guid>
-      <description>&lt;p&gt;Came across this Python sprite package, Rabbyt while looking for Python gaming development sites with searchme&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>My Work on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/my-work/</link>
+		<description>Recent content in My Work on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 15 Feb 2010 19:03:05 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/my-work/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Java Test: Ramping up for 7DRL</title>
+				<link>https://tipa16384.github.io/wkblog/2010/02/java-test-ramping-up-for-7drl/</link>
+				<pubDate>Mon, 15 Feb 2010 19:03:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/02/java-test-ramping-up-for-7drl/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve decided to take the jump and enter the Seven Day Roguelike (7DRL) competition starting next month. The challenge? Write a complete &amp;ldquo;rogue-like&amp;rdquo; adventure game&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Computer Science: Monopoly board computer</title>
+				<link>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</link>
+				<pubDate>Sun, 31 May 2009 08:33:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</guid>
+				<description>&lt;p&gt;Yesterday, Bear was caught in a bind because he didn&amp;rsquo;t have a computer to run the Champions Online beta. He didn&amp;rsquo;t know that he was&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>XFire Wordpress Plugin -- first release</title>
+				<link>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin-first-release/</link>
+				<pubDate>Thu, 26 Mar 2009 23:53:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin-first-release/</guid>
+				<description>&lt;p&gt;Announcing the XFire Stats Wordpress Plugin. This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>XFire Wordpress Widget</title>
+				<link>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-widget/</link>
+				<pubDate>Thu, 26 Mar 2009 00:53:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-widget/</guid>
+				<description>&lt;p&gt;&amp;hellip; if I could draw your attention to your right, especially you Wordpress bloggers &amp;hellip;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How to tell if you&#39;re a coder, part 1.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/how-to-tell-if-youre-a-coder-part-1/</link>
+				<pubDate>Tue, 07 Oct 2008 08:01:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/how-to-tell-if-youre-a-coder-part-1/</guid>
+				<description>&lt;p&gt;Step 1: Start browsing the games Xfire claims are installed on your system and come across a children&amp;rsquo;s version of that old game, Mastermind:&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>MMO Gene Sequencer momentum builds...</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/mmo-gene-sequencer-momentum-builds/</link>
+				<pubDate>Wed, 02 Jul 2008 13:16:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/mmo-gene-sequencer-momentum-builds/</guid>
+				<description>&lt;p&gt;Raph Koster today posted an article proposing that the reason people flock to games similar to ones they have already played is because they have&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ2 - Game Update #46</title>
+				<link>https://tipa16384.github.io/wkblog/2008/06/eq2-game-update-46/</link>
+				<pubDate>Tue, 10 Jun 2008 11:56:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/06/eq2-game-update-46/</guid>
+				<description>&lt;p&gt;I spent hours last night running around Norrath on Test, killing stuff and doing quests, just so I could write about the Void Storms coming&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nope. I can&#39;t do it.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/04/nope-i-cant-do-it/</link>
+				<pubDate>Tue, 22 Apr 2008 08:50:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/04/nope-i-cant-do-it/</guid>
+				<description>&lt;p&gt;I can&amp;rsquo;t be a full time raider, perform my day job competently, be a professional blogger, play the wide variety of MMOs I need to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bimbos anonymous</title>
+				<link>https://tipa16384.github.io/wkblog/2008/04/bimbos-anonymous/</link>
+				<pubDate>Tue, 22 Apr 2008 07:31:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/04/bimbos-anonymous/</guid>
+				<description>&lt;p&gt;I wrote a piece yesterday about MissBimbo.com, a game that teaches young girls how dieting and boob jobs are the path to a successful and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rabbyt, a Python-based sprite animation system</title>
+				<link>https://tipa16384.github.io/wkblog/2008/03/rabbyt-a-python-based-sprite-animation-system/</link>
+				<pubDate>Thu, 27 Mar 2008 09:52:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/03/rabbyt-a-python-based-sprite-animation-system/</guid>
+				<description>&lt;p&gt;Came across this Python sprite package, Rabbyt while looking for Python gaming development sites with searchme&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

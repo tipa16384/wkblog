@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Emulators on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/emulators/</link>
-    <description>Recent content in Emulators on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jul 2022 08:24:06 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/emulators/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Is playing on the original hardware worth the trouble?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</link>
-      <pubDate>Mon, 11 Jul 2022 08:24:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
-      <description>&lt;p&gt;I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today&amp;rsquo;s high resolution, digital monitors&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dark Stone, Retroarch, and Steam.</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam./</link>
-      <pubDate>Mon, 04 Jul 2022 23:27:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam./</guid>
-      <description>&lt;p&gt;I was looking for a game to keep me occupied during the long holiday weekend, and my partner handed me an old RPG from the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gladius, day 6: Ursula decided to return to her home planet</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</link>
-      <pubDate>Mon, 22 Nov 2021 23:23:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</guid>
-      <description>&lt;p&gt;So, there, it&amp;rsquo;s done. 62 hours and 22 minutes from the start to the end of the game, LucasArt&amp;rsquo;s near forgotten cinematic tactical strategy gladiatorial&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gladius, Day 3: Hail, Imperia</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-3-hail-imperia/</link>
-      <pubDate>Sun, 14 Nov 2021 13:27:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-3-hail-imperia/</guid>
-      <description>&lt;p&gt;After adding another hero and a minotaur to their motley crew, the Viking twins conquer the fighting pits of Imperia and set their sights windward&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gladius, day 2</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-2/</link>
-      <pubDate>Mon, 08 Nov 2021 08:01:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-2/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s hard to get your main characters killed, but not impossible. I did it :-) Gladius trades plot for deep strategical game play, and I&amp;rsquo;m&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gladius, Day 1: Gladiators at Large</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-1-gladiators-at-large/</link>
-      <pubDate>Thu, 04 Nov 2021 08:06:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-1-gladiators-at-large/</guid>
-      <description>&lt;p&gt;Welcome to the start of my playthrough of LucasArts&amp;rsquo; &amp;ldquo;Gladius&amp;rdquo;, a tactical arena fighting game for the PlayStation 2&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FF1: Garland, Hero of the Empire!</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/ff1-garland-hero-of-the-empire/</link>
-      <pubDate>Sun, 01 Aug 2021 20:38:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/ff1-garland-hero-of-the-empire/</guid>
-      <description>&lt;p&gt;Welcome to Blaugust 2nd and the first day of our Final Fantasy 1 playthrough!&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AtariNFT.io -- the dumbest thing Atari has ever done.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/11/atarinft.io--the-dumbest-thing-atari-has-ever-done./</link>
-      <pubDate>Sat, 07 Nov 2020 19:52:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/11/atarinft.io--the-dumbest-thing-atari-has-ever-done./</guid>
-      <description>&lt;p&gt;I hate to be hyperbolic about this. But&amp;hellip; I just can&amp;rsquo;t&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Polymega and Viewpoint(PSX)</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/the-polymega-and-viewpointpsx/</link>
-      <pubDate>Sat, 22 Aug 2020 14:49:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/the-polymega-and-viewpointpsx/</guid>
-      <description>&lt;p&gt;I was so excited when I saw a video on the Polymega this morning. The Polymega is a sort of uber-emulator console that can take&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Log: EQOA, DCUO, EverQuest, PCSX2</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/game-log-eqoa-dcuo-everquest-pcsx2/</link>
-      <pubDate>Sun, 10 May 2020 03:35:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/game-log-eqoa-dcuo-everquest-pcsx2/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;ve been getting into EverQuest a little here, and some perfect storm of the new version of the best PS2 emulator out there, PCSX2, EverQuest&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Emulators on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/emulators/</link>
+		<description>Recent content in Emulators on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 Jul 2022 08:24:06 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/emulators/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Is playing on the original hardware worth the trouble?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</link>
+				<pubDate>Mon, 11 Jul 2022 08:24:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
+				<description>&lt;p&gt;I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today&amp;rsquo;s high resolution, digital monitors&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dark Stone, Retroarch, and Steam.</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam/</link>
+				<pubDate>Mon, 04 Jul 2022 23:27:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam/</guid>
+				<description>&lt;p&gt;I was looking for a game to keep me occupied during the long holiday weekend, and my partner handed me an old RPG from the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gladius, day 6: Ursula decided to return to her home planet</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</link>
+				<pubDate>Mon, 22 Nov 2021 23:23:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-6-ursula-decided-to-return-to-her-home-planet/</guid>
+				<description>&lt;p&gt;So, there, it&amp;rsquo;s done. 62 hours and 22 minutes from the start to the end of the game, LucasArt&amp;rsquo;s near forgotten cinematic tactical strategy gladiatorial&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gladius, Day 3: Hail, Imperia</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-3-hail-imperia/</link>
+				<pubDate>Sun, 14 Nov 2021 13:27:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-3-hail-imperia/</guid>
+				<description>&lt;p&gt;After adding another hero and a minotaur to their motley crew, the Viking twins conquer the fighting pits of Imperia and set their sights windward&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gladius, day 2</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-2/</link>
+				<pubDate>Mon, 08 Nov 2021 08:01:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-2/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s hard to get your main characters killed, but not impossible. I did it :-) Gladius trades plot for deep strategical game play, and I&amp;rsquo;m&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gladius, Day 1: Gladiators at Large</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/gladius-day-1-gladiators-at-large/</link>
+				<pubDate>Thu, 04 Nov 2021 08:06:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/gladius-day-1-gladiators-at-large/</guid>
+				<description>&lt;p&gt;Welcome to the start of my playthrough of LucasArts&amp;rsquo; &amp;ldquo;Gladius&amp;rdquo;, a tactical arena fighting game for the PlayStation 2&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FF1: Garland, Hero of the Empire!</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/ff1-garland-hero-of-the-empire/</link>
+				<pubDate>Sun, 01 Aug 2021 20:38:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/ff1-garland-hero-of-the-empire/</guid>
+				<description>&lt;p&gt;Welcome to Blaugust 2nd and the first day of our Final Fantasy 1 playthrough!&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AtariNFT.io -- the dumbest thing Atari has ever done.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/11/atarinft-io-the-dumbest-thing-atari-has-ever-done/</link>
+				<pubDate>Sat, 07 Nov 2020 19:52:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/11/atarinft-io-the-dumbest-thing-atari-has-ever-done/</guid>
+				<description>&lt;p&gt;I hate to be hyperbolic about this. But&amp;hellip; I just can&amp;rsquo;t&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Polymega and Viewpoint(PSX)</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/the-polymega-and-viewpointpsx/</link>
+				<pubDate>Sat, 22 Aug 2020 14:49:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/the-polymega-and-viewpointpsx/</guid>
+				<description>&lt;p&gt;I was so excited when I saw a video on the Polymega this morning. The Polymega is a sort of uber-emulator console that can take&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Log: EQOA, DCUO, EverQuest, PCSX2</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/game-log-eqoa-dcuo-everquest-pcsx2/</link>
+				<pubDate>Sun, 10 May 2020 03:35:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/game-log-eqoa-dcuo-everquest-pcsx2/</guid>
+				<description>&lt;p&gt;We&amp;rsquo;ve been getting into EverQuest a little here, and some perfect storm of the new version of the best PS2 emulator out there, PCSX2, EverQuest&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

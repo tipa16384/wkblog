@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fantasy Earth Zero on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/fantasy-earth-zero/</link>
-    <description>Recent content in Fantasy Earth Zero on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Dec 2010 06:00:43 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/fantasy-earth-zero/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Daily Blogroll 12/23 -- Christmas Eve Eve edition</title>
-      <link>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-12/23--christmas-eve-eve-edition/</link>
-      <pubDate>Thu, 23 Dec 2010 06:00:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-12/23--christmas-eve-eve-edition/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fantasy Earth Zero Blogfail: Under the Radar</title>
-      <link>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-blogfail-under-the-radar/</link>
-      <pubDate>Tue, 06 Jul 2010 06:34:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-blogfail-under-the-radar/</guid>
-      <description>&lt;p&gt;After writing my own review of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fantasy Earth Zero review: MMORTS goes mainstream</title>
-      <link>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-review-mmorts-goes-mainstream/</link>
-      <pubDate>Sun, 04 Jul 2010 17:48:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-review-mmorts-goes-mainstream/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Fantasy Earth Zero on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/fantasy-earth-zero/</link>
+		<description>Recent content in Fantasy Earth Zero on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 23 Dec 2010 06:00:43 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/fantasy-earth-zero/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Daily Blogroll 12/23 -- Christmas Eve Eve edition</title>
+				<link>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-1223-christmas-eve-eve-edition/</link>
+				<pubDate>Thu, 23 Dec 2010 06:00:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-1223-christmas-eve-eve-edition/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Fantasy Earth Zero Blogfail: Under the Radar</title>
+				<link>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-blogfail-under-the-radar/</link>
+				<pubDate>Tue, 06 Jul 2010 06:34:48 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-blogfail-under-the-radar/</guid>
+				<description>&lt;p&gt;After writing my own review of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Fantasy Earth Zero review: MMORTS goes mainstream</title>
+				<link>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-mmorts-goes-mainstream/</link>
+				<pubDate>Sun, 04 Jul 2010 17:48:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/07/fantasy-earth-zero-mmorts-goes-mainstream/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

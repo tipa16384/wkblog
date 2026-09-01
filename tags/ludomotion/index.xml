@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ludomotion on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/ludomotion/</link>
-    <description>Recent content in Ludomotion on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 23:18:50 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/ludomotion/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Quick Look: Unexplored 2</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/quick-look-unexplored-2/</link>
-      <pubDate>Mon, 01 Nov 2021 23:18:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/quick-look-unexplored-2/</guid>
-      <description>&lt;p&gt;Ludomotion&amp;rsquo;s sequel to 2017&amp;rsquo;s &amp;ldquo;Unexplored&amp;rdquo; roguelike dungeon crawler brings 3D procedural generation to the overworld in a clever little legacy roguelike with some interesting quirks&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ludomotion on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/ludomotion/</link>
+		<description>Recent content in Ludomotion on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Nov 2021 23:18:50 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/ludomotion/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Quick Look: Unexplored 2</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/quick-look-unexplored-2/</link>
+				<pubDate>Mon, 01 Nov 2021 23:18:50 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/quick-look-unexplored-2/</guid>
+				<description>&lt;p&gt;Ludomotion&amp;rsquo;s sequel to 2017&amp;rsquo;s &amp;ldquo;Unexplored&amp;rdquo; roguelike dungeon crawler brings 3D procedural generation to the overworld in a clever little legacy roguelike with some interesting quirks&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

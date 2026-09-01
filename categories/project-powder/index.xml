@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Project Powder on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/project-powder/</link>
-    <description>Recent content in Project Powder on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jul 2008 13:30:18 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/project-powder/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project Powder closed beta test... closes.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/project-powder-closed-beta-test...-closes./</link>
-      <pubDate>Fri, 11 Jul 2008 13:30:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/project-powder-closed-beta-test...-closes./</guid>
-      <description>&lt;p&gt;Project Powder, the online snowboarding sim, ended their closed beta test yesterday. They sent around a survey asking what we liked and didn&amp;rsquo;t like about&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to throw snowballs in Project Powder</title>
-      <link>https://tipa16384.github.io/wkblog/2008/06/how-to-throw-snowballs-in-project-powder/</link>
-      <pubDate>Mon, 30 Jun 2008 15:18:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/06/how-to-throw-snowballs-in-project-powder/</guid>
-      <description>&lt;p&gt;I haven&amp;rsquo;t really looked at the stats for this blog since I started working at Massively. I took a peek and hey, there are still&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crafting enhancements in Project Powder</title>
-      <link>https://tipa16384.github.io/wkblog/2008/06/crafting-enhancements-in-project-powder/</link>
-      <pubDate>Sun, 29 Jun 2008 07:51:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/06/crafting-enhancements-in-project-powder/</guid>
-      <description>&lt;p&gt;New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Project Powder addendum</title>
-      <link>https://tipa16384.github.io/wkblog/2008/06/project-powder-addendum/</link>
-      <pubDate>Thu, 26 Jun 2008 22:30:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/06/project-powder-addendum/</guid>
-      <description>&lt;p&gt;Ground out level 5 doing team coin missions. Instead of racing, you see who can gather the most good coins while avoiding bad coins. When&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Project Powder: Shredding the Galaxy</title>
-      <link>https://tipa16384.github.io/wkblog/2008/06/project-powder-shredding-the-galaxy/</link>
-      <pubDate>Thu, 26 Jun 2008 07:19:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/06/project-powder-shredding-the-galaxy/</guid>
-      <description>&lt;p&gt;It looked like it might have been an MMO, and I wrote up a quick article thinking it might be, but Project Powder really isn&amp;rsquo;t&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Project Powder on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/project-powder/</link>
+		<description>Recent content in Project Powder on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 11 Jul 2008 13:30:18 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/project-powder/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Project Powder closed beta test... closes.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/project-powder-closed-beta-test-closes/</link>
+				<pubDate>Fri, 11 Jul 2008 13:30:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/project-powder-closed-beta-test-closes/</guid>
+				<description>&lt;p&gt;Project Powder, the online snowboarding sim, ended their closed beta test yesterday. They sent around a survey asking what we liked and didn&amp;rsquo;t like about&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How to throw snowballs in Project Powder</title>
+				<link>https://tipa16384.github.io/wkblog/2008/06/how-to-throw-snowballs-in-project-powder/</link>
+				<pubDate>Mon, 30 Jun 2008 15:18:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/06/how-to-throw-snowballs-in-project-powder/</guid>
+				<description>&lt;p&gt;I haven&amp;rsquo;t really looked at the stats for this blog since I started working at Massively. I took a peek and hey, there are still&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crafting enhancements in Project Powder</title>
+				<link>https://tipa16384.github.io/wkblog/2008/06/crafting-enhancements-in-project-powder/</link>
+				<pubDate>Sun, 29 Jun 2008 07:51:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/06/crafting-enhancements-in-project-powder/</guid>
+				<description>&lt;p&gt;New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Project Powder addendum</title>
+				<link>https://tipa16384.github.io/wkblog/2008/06/project-powder-addendum/</link>
+				<pubDate>Thu, 26 Jun 2008 22:30:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/06/project-powder-addendum/</guid>
+				<description>&lt;p&gt;Ground out level 5 doing team coin missions. Instead of racing, you see who can gather the most good coins while avoiding bad coins. When&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Project Powder: Shredding the Galaxy</title>
+				<link>https://tipa16384.github.io/wkblog/2008/06/project-powder-shredding-the-galaxy/</link>
+				<pubDate>Thu, 26 Jun 2008 07:19:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/06/project-powder-shredding-the-galaxy/</guid>
+				<description>&lt;p&gt;It looked like it might have been an MMO, and I wrote up a quick article thinking it might be, but Project Powder really isn&amp;rsquo;t&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

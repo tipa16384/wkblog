@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Volcano on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/volcano/</link>
-    <description>Recent content in Volcano on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/volcano/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code Day 14 -- Parabolic Reflector Dish</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-14--parabolic-reflector-dish/</link>
-      <pubDate>Fri, 15 Dec 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-14--parabolic-reflector-dish/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re almost to the mountaintop where everything begins&amp;hellip; but first we need to start a little fire.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 13 -- Point of Incidence</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-13--point-of-incidence/</link>
-      <pubDate>Thu, 14 Dec 2023 07:08:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-13--point-of-incidence/</guid>
-      <description>&lt;p&gt;I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 12 -- Hot Springs</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-12--hot-springs/</link>
-      <pubDate>Tue, 12 Dec 2023 21:44:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-12--hot-springs/</guid>
-      <description>&lt;p&gt;I narrowly avoided yesterday&amp;rsquo;s trap only to walk right into today&amp;rsquo;s.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 18 -- Boiling Boulders</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-18--boiling-boulders/</link>
-      <pubDate>Sun, 18 Dec 2022 20:30:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-18--boiling-boulders/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re about to start on Christmas Week, that week when Advent of Code&amp;rsquo;s most iconic puzzles are released. But today, we&amp;rsquo;re dealing with the aftermath of an exploding volcano.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 17 -- Pyroclastic Flow</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</link>
-      <pubDate>Sat, 17 Dec 2022 23:06:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</guid>
-      <description>&lt;p&gt;They say &amp;ldquo;Pyroclastic Flow&amp;rdquo;, but it&amp;rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Volcano on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/volcano/</link>
+		<description>Recent content in Volcano on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 15 Dec 2023 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/volcano/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code Day 14 -- Parabolic Reflector Dish</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-14-parabolic-reflector-dish/</link>
+				<pubDate>Fri, 15 Dec 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-14-parabolic-reflector-dish/</guid>
+				<description>&lt;p&gt;We&amp;rsquo;re almost to the mountaintop where everything begins&amp;hellip; but first we need to start a little fire.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 13 -- Point of Incidence</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-13-point-of-incidence/</link>
+				<pubDate>Thu, 14 Dec 2023 07:08:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-13-point-of-incidence/</guid>
+				<description>&lt;p&gt;I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 12 -- Hot Springs</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-12-hot-springs/</link>
+				<pubDate>Tue, 12 Dec 2023 21:44:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-12-hot-springs/</guid>
+				<description>&lt;p&gt;I narrowly avoided yesterday&amp;rsquo;s trap only to walk right into today&amp;rsquo;s.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 18 -- Boiling Boulders</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-18-boiling-boulders/</link>
+				<pubDate>Sun, 18 Dec 2022 20:30:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-18-boiling-boulders/</guid>
+				<description>&lt;p&gt;We&amp;rsquo;re about to start on Christmas Week, that week when Advent of Code&amp;rsquo;s most iconic puzzles are released. But today, we&amp;rsquo;re dealing with the aftermath of an exploding volcano.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 17 -- Pyroclastic Flow</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/</link>
+				<pubDate>Sat, 17 Dec 2022 23:06:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/</guid>
+				<description>&lt;p&gt;They say &amp;ldquo;Pyroclastic Flow&amp;rdquo;, but it&amp;rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

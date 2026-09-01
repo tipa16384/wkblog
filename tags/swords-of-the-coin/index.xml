@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Swords of the Coin on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/swords-of-the-coin/</link>
-    <description>Recent content in Swords of the Coin on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 22:02:08 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/swords-of-the-coin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Board Game is on a Slow Boat from China</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/my-board-game-is-on-a-slow-boat-from-china/</link>
-      <pubDate>Tue, 10 Aug 2021 22:02:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/my-board-game-is-on-a-slow-boat-from-china/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s just gotten worse with time. The Kickstarter you were so excited for funded! YAY! The creators are as excited as you are, and they&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Swords of the Coin on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/swords-of-the-coin/</link>
+		<description>Recent content in Swords of the Coin on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Aug 2021 22:02:08 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/swords-of-the-coin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Board Game is on a Slow Boat from China</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/my-board-game-is-on-a-slow-boat-from-china/</link>
+				<pubDate>Tue, 10 Aug 2021 22:02:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/my-board-game-is-on-a-slow-boat-from-china/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s just gotten worse with time. The Kickstarter you were so excited for funded! YAY! The creators are as excited as you are, and they&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

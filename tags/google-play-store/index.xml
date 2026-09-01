@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Google Play Store on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/google-play-store/</link>
-    <description>Recent content in Google Play Store on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jul 2022 08:06:45 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/google-play-store/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Breaking the 4th Wall: A Mysterious Point-and-Click Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</link>
-      <pubDate>Fri, 29 Jul 2022 08:06:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</guid>
-      <description>&lt;p&gt;I ran across this gem by accident, actually &amp;ndash; an AI told me about it&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Google Play Store on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/google-play-store/</link>
+		<description>Recent content in Google Play Store on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 29 Jul 2022 08:06:45 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/google-play-store/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Breaking the 4th Wall: A Mysterious Point-and-Click Adventure</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</link>
+				<pubDate>Fri, 29 Jul 2022 08:06:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</guid>
+				<description>&lt;p&gt;I ran across this gem by accident, actually &amp;ndash; an AI told me about it&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

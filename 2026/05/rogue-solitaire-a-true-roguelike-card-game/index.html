@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Rogue Solitaire: a TRUE Roguelike Card Game",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2026/05/RogueSolitaire.png",
+  
+  "datePublished": "2026-05-12T12:00:00-05:00",
+  "dateModified": "2026-05-12T12:00:00-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "https:\/\/tipa16384.github.io\/wkblog\/2026\/05\/rogue-solitaire-a-true-roguelike-card-game\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "I have written a 100% authentic Rogue experience in a standard deck of cards. Complete rules inside!\n",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.165.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="I have written a 100% authentic Rogue experience in a standard deck of cards. Complete rules inside!">
+
+
+<meta property="og:description" content="I have written a 100% authentic Rogue experience in a standard deck of cards. Complete rules inside!">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Rogue Solitaire: a TRUE Roguelike Card Game">
+<meta name="twitter:title" content="Rogue Solitaire: a TRUE Roguelike Card Game">
+<meta property="og:url" content="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/">
+<meta property="twitter:url" content="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="I have written a 100% authentic Rogue experience in a standard deck of cards. Complete rules inside!">
+<meta name="twitter:description" content="I have written a 100% authentic Rogue experience in a standard deck of cards. Complete rules inside!">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="article:published_time" content="2026-05-12T12:00:00">
+  
+  
+    <meta property="article:modified_time" content="2026-05-12T12:00:00">
+  
+  
+  
+    
+      <meta property="article:section" content="Card Games">
+    
+      <meta property="article:section" content="Rogue-Likes">
+    
+  
+  
+    
+      <meta property="article:tag" content="Rogue">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2026/05/RogueSolitaire.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2026/05/RogueSolitaire.png">
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2026/05/RogueSolitaire.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2026/05/RogueSolitaire.png">
+
+
+    <title>Rogue Solitaire: a TRUE Roguelike Card Game</title>
+
+    <link rel="icon" href="https://chasingdings.com/wp-content/uploads/2026/03/wkfavicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v5-font-face.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v4-shims.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="https://tipa16384.github.io/wkblog/css/tranquilpeak.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://tipa16384.github.io/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://tipa16384.github.io/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://tipa16384.github.io/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/tipa16384" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://gamepad.club/deck/@Tipa" target="_blank" rel="noopener" title="Mastodon">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-mastodon" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bsky.app/profile/chasingdings.com" target="_blank" rel="noopener" title="BlueSky">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-bluesky" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">BlueSky</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+<div id="right-sidebar" data-behavior="5">
+  
+    
+      <div class="right-sidebar-item">
+        
+          <img class="right-sidebar-image" src="https://chasingdings.com/wp-content/uploads/2024/01/dodologo-768x618.png" alt="" />
+        
+      </div>
+    
+      <div class="right-sidebar-item">
+        
+          
+          <ul class="sidebar-buttons right-sidebar-blogroll" id="right-sidebar-blogroll-1" data-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
+            <li class="sidebar-button"><span class="sidebar-button-link"><span class="sidebar-button-desc">Loading&hellip;</span></span></li>
+          </ul>
+          <script>
+            (function() {
+              var list = document.getElementById("right-sidebar-blogroll-1");
+              if (!list) return;
+              var sourceUrl = list.getAttribute("data-blogroll-url");
+              if (!sourceUrl) { list.parentNode.removeChild(list); return; }
+
+              function toRawGithubUrl(url) {
+                var m = url.match(/^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/);
+                return m ? "https://raw.githubusercontent.com/" + m[1] + "/" + m[2] + "/" + m[3] : url;
+              }
+
+              function parseBlogroll(text) {
+                var lines = text.split(/\r?\n/);
+                var heading = "Blogroll", items = [], i;
+                for (i = 0; i < lines.length; i++) {
+                  var hm = lines[i].match(/^#\s+(.+)$/);
+                  if (hm) {
+                    heading = hm[1].trim().replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
+                    break;
+                  }
+                }
+                for (i = 0; i < lines.length; i++) {
+                  var im = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)$/);
+                  if (im) items.push({ label: im[1].trim(), url: im[2].trim(), summary: im[3].trim() });
+                }
+                return { heading: heading, items: items };
+              }
+
+              function clear(node) { while (node.firstChild) node.removeChild(node.firstChild); }
+
+              function addRow(text, cls) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button" + (cls ? " " + cls : "");
+                var sp = document.createElement("span");
+                sp.className = "sidebar-button-link";
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = text;
+                sp.appendChild(d);
+                li.appendChild(sp);
+                list.appendChild(li);
+              }
+
+              function addLink(item) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button sidebar-blogroll-item";
+                var a = document.createElement("a");
+                a.className = "sidebar-button-link";
+                a.href = item.url;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.title = item.summary;
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = item.label;
+                a.appendChild(d);
+                li.appendChild(a);
+                list.appendChild(li);
+              }
+
+              fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
+                .then(function(r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+                .then(function(text) {
+                  var p = parseBlogroll(text);
+                  clear(list);
+                  addRow(p.heading, "sidebar-blogroll-heading");
+                  if (!p.items.length) { addRow("No links found", "sidebar-blogroll-empty"); return; }
+                  p.items.forEach(addLink);
+                })
+                .catch(function() {
+                  clear(list);
+                  addRow("Blogroll unavailable", "sidebar-blogroll-error");
+                });
+            })();
+          </script>
+        
+      </div>
+    
+  
+</div>
+
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2026/05/RogueSolitaire.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Rogue Solitaire: a TRUE Roguelike Card Game
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2026-05-12T12:00:00-05:00">
+        
+  May 12, 2026
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/card-games">Card Games</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/rogue-likes">Rogue-Likes</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>I have written a 100% authentic Rogue experience in a standard deck of cards. Complete rules inside!</p>
+<p>A couple of weeks ago, I was browsing BlueSky, as one does, during &ldquo;Wishlist Wednesday&rdquo;, the day when indie game devs link to their game demos on Steam in the hopes people will add the game to their wishlists, which can increase the game&rsquo;s visibility when it launches. I came across this game:</p>
+<blockquote>
+<p>Say hello to the classiest new deckbuilder in town 🍸
+#wishlistwednesday
+Travel back 100 years to the roaring &rsquo;20s in this trick-taking roguelike
+Play the demo ► store.steampowered.com/app/4225430/&hellip;
+<a href="https://bsky.app/profile/did:plc:ndojggll7catsmimor5cxzgm/post/3mknol7grkc2g?ref_src=embed">[image or embed]</a>
+— 2 Left Thumbs (<a href="https://bsky.app/profile/did:plc:ndojggll7catsmimor5cxzgm?ref_src=embed">@2leftthumbs.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ndojggll7catsmimor5cxzgm/post/3mknol7grkc2g?ref_src=embed">Apr 29, 2026 at 2:01 PM</a></p>
+</blockquote>
+<p><em>Overtrick</em> is a partner trick-taking game as if bridge were played with a pinochle deck, no bidding, and you could look at your partner&rsquo;s cards. I played the demo; it lets you buy special powers between rounds. But what got me was that this game was described as a <em>rogue-like</em>. In what way was this like <em>Rogue</em>, I asked the developer. They replied:</p>
+<blockquote>
+<p>&ldquo;Roguelike&rdquo; has grown a ways beyond something seen as similar to Rogue. It mostly comes down to procedural generation, run variety, and permadeath.
+&ldquo;Traditional roguelike&rdquo; however is a tag used to narrow down more closely to Rogue-like games. Silly as that is 😅
+— 2 Left Thumbs (<a href="https://bsky.app/profile/did:plc:ndojggll7catsmimor5cxzgm?ref_src=embed">@2leftthumbs.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ndojggll7catsmimor5cxzgm/post/3mkod4xuakk23?ref_src=embed">Apr 29, 2026 at 8:09 PM</a></p>
+</blockquote>
+<p>Fair enough. <em>Traditional</em> rogue-likes are those that are like the game of <em>Rogue</em> in some way. Rogue-likes have <em>procedural generation</em>, <em>run variety</em> and <em>permadeath</em>. I will point out, that when I played <em>Overtrick</em>, none of the participants died or seemed likely to. Procedural generation was shuffling the cards. Run variety was&hellip; shuffling the cards.</p>
+<p>I don&rsquo;t want to spend a lot of time talking about <em>Overtrick</em>, though. I got wondering &ndash; was it possible to make a card game that was more of a <em>traditional</em> rogue-like?</p>
+<p>Procedurally generated dungeon, that you descend through, reach the goal, battle your way out, monsters move only when you do, permadeath, save scumming prevention, damage, health, weapons, magic, monsters and player represented abstractly&hellip; Could you do all this in a <em>card game</em>?</p>
+<p>I think you can. I have spent the last couple of weeks working on a solitaire variant that is as much like <em>Rogue</em> as I can make it. All it takes to play is a standard deck of 52 cards (plus the two Jokers), a place to lay down some cards, and the rules below. I have playtested this at least a dozen times, and I got Kasul to give it a shot tonight. I think it is ready to reveal to the wider world.</p>
+
+
+
+<div class="figure center" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2026/05/image-4-300x200.png" >
+  
+  
+</div>
+
+<p><em>Rogue Solitaire</em> is the answer to the question nobody asked: Can someone make a true &ldquo;traditional rogue-like&rdquo; with just a deck of cards? The answer is: yes, and I have done it. (Don&rsquo;t consider this a roguelike? See the definition section).</p>
+<p>Just as in <em>Rogue</em>, the object of <em>Rogue Solitaire</em> is to descend to the bottom level of a dungeon and get back out alive<a href="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/#4cb5ccc3-8460-4051-9d34-89cb2335e7d3">1</a>. Each floor has an exit to the next floor<a href="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/#35511bf9-5de8-4a90-904b-15907f5bb64d">2</a>, and this exit is locked. You must fight monsters for the key and then make your way to the exit. On the bottom floor, the ghosts of the monsters you&rsquo;ve defeated pursue you to the exit. Can you make it there before you die to wounds or hunger and become a <strong>True Rogue</strong>?</p>
+<p>Even the bravest adventurer may decide the challenge is too much and turn back after only one floor. This is the <strong>Quick Play</strong> mode and takes about ten minutes. The dungeon campaign, a full run of ten floors plus feasting at the Victory Buffet, will probably take around two hours. However, the game can be saved after any floor.</p>
+
+
+
+<div class="figure center" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2026/05/image-5.png"  alt="The play area">
+  
+   
+    <span class="caption">The play area</span>
+  
+</div>
+
+<p><em>Rogue Solitaire</em> is played on three 3x3<a href="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/#5f7e0c58-a165-43e8-a847-ddcf9c92f2cd">3</a> grids of cards. Before you, in the center, is the player grid. The card in the center is your <em>inventory</em>. The cards surrounding the center are your armor, weapons and health.</p>
+<p>To the right is a 3x3 grid representing the exit. The card in the center is always a Joker. The cards surrounding the center represent the location of the exit. When all the cards in your player board match either the suit or rank of the card in the corresponding spot on the exit, then you are at the exit. If you have a Joker in your inventory &ndash; it is the center card of the player board, then you unlock the exit and enter the next floor (or escape the dungeon!).</p>
+<p>To the left is a 3x3 grid representing the monster. There will always be a monster. You must defeat monsters to find the hidden Joker that is the key to the exit, and you&rsquo;ll have to be clever with attacking, defending and healing to survive.</p>
+<p><strong>Setting Up</strong></p>
+<p>Remove the Jokers from the deck and shuffle the deck. Deal nine cards face up in a 3x3 grid in front of you. This is your player board. Place one of the Jokers (the lock) to the right of the player board and deal eight cards face up around it. This is the exit. Return the other Joker to the deck, shuffle again, and deal nine cards in a 3x3 grid face down to the left of the player board. This is the monster.</p>
+<p>Set aside a spot for discards. Cards are always discarded face down. Set aside a spot next to it for the Victory Buffet. Victory Buffet cards are always discarded face up. You start the game with no cards in your hand &ndash; you must win them from monsters. Cards in your hand are kept&hellip; well, in your hand.</p>
+<h2 id="playing-the-game">Playing the Game</h2>
+<ul>
+<li>
+<p><strong>Discard</strong> &ndash; discard down to five cards in your hand.</p>
+</li>
+<li>
+<p><strong>Play</strong> &ndash; you may take one <em>and only one</em> of the following actions, or skip to the next step</p>
+</li>
+</ul>
+<p>Swap the position of two cards, both on your player board</p>
+<ul>
+<li>
+<p>Move a card on your player board to an empty space</p>
+</li>
+<li>
+<p>Turn a face down card on your player board face up</p>
+</li>
+<li>
+<p>Swap a card in your hand with one on the player board</p>
+</li>
+<li>
+<p>Place a card from your hand in an empty spot on your player board</p>
+</li>
+<li>
+<p>Take a card from the player board and put it in your hand</p>
+</li>
+<li>
+<p><strong>Escape</strong> &ndash; if you are at the exit and the second Joker (the key) is in your inventory, you win the floor and move on. See the <strong>Did I Just Win?</strong> section below.</p>
+</li>
+<li>
+<p><strong>Attack the monster</strong> &ndash; you <em>must</em> attack the monster by selecting one of your non-inventory (non-center) cards and dueling the corresponding card in the same position on the monster grid. If your card is face down, it is first turned face up, and the attack continues. See the <strong>Combat</strong> section below for rules on resolving combat.</p>
+</li>
+<li>
+<p><strong>Monster retaliates</strong> &ndash; if the monster has a card on the opposite side of the center from your attack, then it <em>retaliates</em>. It chooses a card on the player board in the same relative position. If that spot is empty, it continues searching counter-clockwise until it finds one. See the <strong>Combat</strong> section below for rules on resolving combat.</p>
+</li>
+<li>
+<p><strong>Death</strong></p>
+</li>
+</ul>
+<p>If the player board is missing all the cards in any row or column, then the game is over<a href="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/#9aafdf1e-1bce-45cd-97b1-dc880713b8f5">4</a>.</p>
+<ul>
+<li>
+<p>If the monster board is missing all the cards in any row or column, then the monster is dead. All the cards remaining on the monster board are added to the player hand (but keep the <strong>Discard</strong> phase in mind). Deal a new monster grid, shuffling the discards into a new deck if the deck is or becomes empty.</p>
+</li>
+<li>
+<p><strong>Continue with Step 1, Discard phase.</strong></p>
+</li>
+</ul>
+<h2 id="combat">Combat</h2>
+<p>In a simple duel, high card is returned face up to its original position and low card is discarded. If there is a tie, both cards are discarded. Cards are ranked from 2-10, Jack, Queen, King, Ace and Joker. Joker wins every duel.</p>
+<p>Sometimes, though, the monster reveals itself as a <strong>Named Monster</strong>, and things go a little differently.</p>
+<p>If the center card of the monster grid is face down, and during combat a card on the monster grid is turned face up <em>and it is a face card</em>, then stop immediately and swap the face up face card with the face down card in the center, flip over this new card, and continue the duel as before. But see next paragraph.</p>
+<p>If the monster is a Named Monster, which is to say its center card is a face card, and during combat a card on the monster grid is turned face up and it is a face card, and the player would lose the duel, then after the duel resolves, the monster does a <strong>Special Attack</strong>.</p>
+<p><em>However,</em></p>
+<p>If the monster is a Named Monster, and during combat a card on the monster grid is turned up and it is an Ace or a Joker, and the player would lose the duel, then after the duel resolves, the monster does a <strong>Critical Attack</strong>.</p>
+<p>It is very possible to flip a card on the monster grid, it turns out to be a face card, the monster becomes named, and then the newly swapped card is flipped and revealed to be the Joker, the player loses the duel and the monster does an immediate <strong>Critical Attack</strong> all in the same combat phase. The world of <em>Rogue Solitaire</em> is no place for someone who hates surprises.</p>
+<p><strong>Special Attacks</strong></p>
+<p>Both critical and special attacks vary depending upon the suit of the card in the center.</p>
+<ul>
+<li><strong>Heart</strong> &ndash; Hearts are the healing suit</li>
+</ul>
+<p>If the monster is undamaged, nothing happens</p>
+<ul>
+<li>
+<p>If the monster has taken damage, then a card from the deck is played face down in an empty spot in the monster grid in a space of the player&rsquo;s choice, if there is more than one.</p>
+</li>
+<li>
+<p>If there are no cards left in the deck, shuffle the discards and deal one from the new deck.</p>
+</li>
+<li>
+<p><strong>Clubs</strong> &ndash; Clubs are the damage suit</p>
+</li>
+</ul>
+<p>If the player has cards in their hand, select one and discard it</p>
+<ul>
+<li>
+<p>If the player has no cards in their hand, the attack misses</p>
+</li>
+<li>
+<p><strong>Diamonds</strong> &ndash; Diamonds are the greedy suit</p>
+</li>
+</ul>
+<p>One face down card in the monster grid is swapped with a card in the corresponding position on the player board (player choice). You&rsquo;ve been pickpocketed!</p>
+<ul>
+<li>
+<p>If the monster grid has no face down cards, this does nothing.</p>
+</li>
+<li>
+<p>The player must choose a face down card on the monster board that corresponds to a card on the player board. If there is no face down card on the monster board that corresponds to a card on the player board, the attack does nothing.</p>
+</li>
+<li>
+<p><strong>Spades</strong> &ndash; Spades are the magic suit</p>
+</li>
+</ul>
+<p>If the monster card that won the duel is not a Joker, then it is swapped with the corresponding card in the <em>exit grid</em>.</p>
+<ul>
+<li>If the monster card that won the duel <em>is</em> the Joker, then nothing happens.</li>
+</ul>
+<p><strong>Critical Attacks</strong></p>
+<p>Critical attacks are similar to special attacks, only more so.</p>
+<ul>
+<li><strong>Heart</strong> &ndash; Hearts are the healing suit.</li>
+</ul>
+<p>If the monster is undamaged, nothing happens</p>
+<ul>
+<li>
+<p>Otherwise, complete heal &ndash; the deal cards from the deck into the empty spaces on the monster board, shuffling discards into a new deck if necessary.</p>
+</li>
+<li>
+<p><strong>Clubs</strong> &ndash; Clubs are the damage suit.</p>
+</li>
+</ul>
+<p>If the player has cards in their hand, they are all discarded.</p>
+<ul>
+<li>
+<p>If the player has no cards in their hand, nothing happens.</p>
+</li>
+<li>
+<p><strong>Diamonds</strong> &ndash; Diamonds are the greedy suit.</p>
+</li>
+</ul>
+<p>It&rsquo;s a mugging! All face down cards in the monster grid are swapped (and remain face down) with the corresponding card in the player grid. Again, if the player doesn&rsquo;t have a card in the corresponding position, the swap doesn&rsquo;t occur.</p>
+<ul>
+<li><strong>Spades</strong> &ndash; Spades are the magic suit.</li>
+</ul>
+<p>Teleport! The cards (except for the Joker) from the exit are picked up, shuffled together, and redealt. Now you have no idea where you are!</p>
+
+
+
+<div class="figure center" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2026/05/image-6-1024x386.png"  alt="Actual gameplay showing the player about to unlock the exit">
+  
+   
+    <span class="caption">Actual gameplay showing the player about to unlock the exit</span>
+  
+</div>
+
+<h2 id="did-i-just-win">Did I Just Win?</h2>
+<p>Congrats! You&rsquo;ve found the exit, unlocked it, dashed through and slammed it shut against the monster champing at your heels. If you were just doing a <strong>quick play</strong>, you won! Grab your <strong>Achievement</strong> below!</p>
+<p>If, however, you&rsquo;re a <strong>True Rogue</strong>, then you&rsquo;ll be continuing deeper.</p>
+<p>Take a face card from your player board, the exit, the discard pile or your hand (check in that order) and add it, face up, to the Victory Buffet. That card is no longer available to play until the final gauntlet. If after discarding to the Buffet there are fewer than ten cards in the Buffet, then set aside the Jokers, reshuffle the discards into the deck, and reset the game board. You should have five or fewer cards in your hand. If you <em>don&rsquo;t</em>, then something is wrong.</p>
+<p>If there <em>are</em> ten cards in the Victory Buffet, then turn the Buffet over so that all the cards are face down, and the face card from the first floor is on top. Now you are in a race. The game is played as normal with the following changes.</p>
+<ul>
+<li>
+<p>New monsters are immediately identified and named from the top card in the Victory Buffet.</p>
+</li>
+<li>
+<p>If the Victory Buffet is empty when a monster is required to be made, then the player dies of hunger and the game ends immediately<a href="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/#61046a32-10ab-4f19-81c2-df519bdad850">5</a>.</p>
+</li>
+<li>
+<p>If the player makes it to and through the exit before this happens, then the player is a <strong>True Rogue</strong> or perhaps even a <strong>Master Rogue</strong>! (See <strong>Achievements</strong> below).</p>
+</li>
+</ul>
+<p>It&rsquo;s possible, though improbable, that the final monster from the Victory Buffet contains the Joker you need to escape. That would mean that you had the Joker but a monster special or critical attack stole it from your hand or player board. Better luck next time.</p>
+<h2 id="how-to">How To</h2>
+<ul>
+<li><strong>Save the game?</strong> You can save the game at the end of any floor by setting aside your player hand (if any), the victory buffet and both Jokers, shuffling the remaining cards and placing the cards you set aside in a stack face up with the face down other cards and putting them back in the card case. You may later continue by separating your saved hand, the victory buffet and the Jokers and laying out the next floor of the dungeon as normal. Your saved game becomes impossible to retrieve once you continue.<a href="https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/#16a9e2e5-34e4-465d-9e72-aaec33e00747">6</a></li>
+</ul>
+<h2 id="definitions">Definitions</h2>
+<ul>
+<li>
+<p><strong>Dying from hunger:</strong> You die from hunger when you are on the final floor of the dungeon, all monsters are dead, and the Victory Buffet is empty.</p>
+</li>
+<li>
+<p><strong>Finding the exit:</strong> You have found the exit when a Joker is in the center square of the player board, and all eight other cards match either the suit or rank of the corresponding card of the exit board. If any match the suit <em>and</em> rank, please return your deck to the manufacturer.</p>
+</li>
+<li>
+<p><strong>Named Monster:</strong> Once a monster has been identified, it becomes a named monster. Prior to that, it was just a pair of eyes peering from the darkness. Or something.</p>
+</li>
+<li>
+<p><strong>Traditional Roguelike:</strong> Usually meant to refer to a turn-based dungeon crawler with a procedurally generated dungeon, monsters, and permadeath. This term is redefined every year during the &ldquo;7DRL&rdquo; roguelike development competition, where game developers are challenged to write a complete roguelike game in just seven days. The rules basically throw up their metaphorical hands and say, &ldquo;if the gamedev believes it&rsquo;s a roguelike, then it&rsquo;s a roguelike&rdquo;. Whether anyone else agrees, well&hellip;</p>
+</li>
+<li>
+<p><strong>Victory Buffet:</strong> The stack of face cards formed by discarding a face card at the end of each dungeon floor. It is used to spawn named monsters on the dungeon&rsquo;s final floor. Your current floor is 1 + the number of cards in the Victory Buffet.</p>
+</li>
+</ul>
+<h2 id="achievements">Achievements</h2>
+<p>Escaping the dungeon is all well and good. But the test of a true rogue is how stylishly you leave! Here&rsquo;s some achievements to prove your worth.</p>
+<ul>
+<li>
+<p><strong>Zero to Hero:</strong> Escape the dungeon in quick play mode.</p>
+</li>
+<li>
+<p><strong>Where did I leave my keys?</strong> Die from hunger without having found the key to the exit.</p>
+</li>
+<li>
+<p><strong>It&rsquo;s too dark in here!</strong> Die from hunger without even finding the exit.</p>
+</li>
+<li>
+<p><strong>True Rogue:</strong> Escape the dungeon before dying from hunger.</p>
+</li>
+<li>
+<p><strong>Master Rogue:</strong> Escape the dungeon before dying from hunger <em>with all four aces in your hand</em>.</p>
+</li>
+<li>
+<p><strong>Call me&hellip; Rodney:</strong> Complete all the other achievements.</p>
+</li>
+</ul>
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/rogue/">Rogue</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/" data-tooltip="Windrose: A Fine Collection of Ne&#39;er-do-Wells" aria-label="NEXT: Windrose: A Fine Collection of Ne&#39;er-do-Wells">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2026/05/preparing-for-dcc-dungeon-crawl-classic/" data-tooltip="Preparing for DCC -- Dungeon Crawl Classics" aria-label="PREVIOUS: Preparing for DCC -- Dungeon Crawl Classics">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'https:\/\/tipa16384.github.io\/wkblog\/2026\/05\/rogue-solitaire-a-true-roguelike-card-game\/';
+        
+          this.page.identifier = '2026\/05\/12\/rogue-solitaire-a-true-roguelike-card-game';
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = 'chasing-dings';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/" data-tooltip="Windrose: A Fine Collection of Ne&#39;er-do-Wells" aria-label="NEXT: Windrose: A Fine Collection of Ne&#39;er-do-Wells">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2026/05/preparing-for-dcc-dungeon-crawl-classic/" data-tooltip="Preparing for DCC -- Dungeon Crawl Classics" aria-label="PREVIOUS: Preparing for DCC -- Dungeon Crawl Classics">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2026%2F05%2Frogue-solitaire-a-true-roguelike-card-game%2F" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://bsky.app/intent/compose?text=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2026%2F05%2Frogue-solitaire-a-true-roguelike-card-game%2F" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i><span>Share on BlueSky</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2026%2F05%2Frogue-solitaire-a-true-roguelike-card-game%2F" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="https://tipa16384.github.io/js/tranquilpeak.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

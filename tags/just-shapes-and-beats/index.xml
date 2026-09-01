@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Just Shapes and Beats on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/just-shapes-and-beats/</link>
-    <description>Recent content in Just Shapes and Beats on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 18:49:03 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/just-shapes-and-beats/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PAX East 2025: Part Deux</title>
-      <link>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</link>
-      <pubDate>Sat, 10 May 2025 18:49:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</guid>
-      <description>&lt;p&gt;Traipsing through Boston rain didn&amp;rsquo;t do anything for my cold, so my PAX weekend ended early. Still, here&amp;rsquo;s more of what we saw there.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Just Shapes and Beats on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/just-shapes-and-beats/</link>
+		<description>Recent content in Just Shapes and Beats on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 May 2025 18:49:03 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/just-shapes-and-beats/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>PAX East 2025: Part Deux</title>
+				<link>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</link>
+				<pubDate>Sat, 10 May 2025 18:49:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</guid>
+				<description>&lt;p&gt;Traipsing through Boston rain didn&amp;rsquo;t do anything for my cold, so my PAX weekend ended early. Still, here&amp;rsquo;s more of what we saw there.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

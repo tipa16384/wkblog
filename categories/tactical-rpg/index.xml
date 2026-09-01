@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tactical RPG on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/tactical-rpg/</link>
-    <description>Recent content in Tactical RPG on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 10:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/tactical-rpg/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tactichord: Glam Strategy</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</guid>
-      <description>&lt;p&gt;Mix X-COM with Mötley Crüe and this is what you get &amp;ndash; a hair metal band on its way to its first gig&amp;hellip; if they can get by all the haters.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Final Fantasy Tactics: The Ivalice Chronicles, a retrospective</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</link>
-      <pubDate>Sun, 19 Oct 2025 12:28:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</guid>
-      <description>&lt;p&gt;Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Those Who Rule released!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/those-who-rule-released/</link>
-      <pubDate>Mon, 27 Jan 2025 10:57:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/those-who-rule-released/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s finally live!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our STAR*VADERS!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</link>
-      <pubDate>Thu, 09 Jan 2025 08:00:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s &amp;ldquo;Slay the Spire&amp;rdquo; meets &amp;ldquo;Into the Breach&amp;rdquo; meets &amp;ldquo;Space Invaders&amp;rdquo; meets&amp;hellip; Space Battleship Yamato?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Best Strategy/Tactics RPGs of 2024</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/the-best-strategy/tactics-rpgs-of-2024/</link>
-      <pubDate>Fri, 03 Jan 2025 19:37:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/the-best-strategy/tactics-rpgs-of-2024/</guid>
-      <description>&lt;p&gt;Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bonaparte: A Mechanized Revolution</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</link>
-      <pubDate>Fri, 06 Dec 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</guid>
-      <description>&lt;p&gt;Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Those Who Rule: new demo!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/10/those-who-rule-new-demo/</link>
-      <pubDate>Tue, 01 Oct 2024 23:49:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/10/those-who-rule-new-demo/</guid>
-      <description>&lt;p&gt;Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn&amp;rsquo;t know this was the work of a single developer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</link>
-      <pubDate>Mon, 19 Aug 2024 08:36:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</guid>
-      <description>&lt;p&gt;And also that entire day playing Malifaux&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The White Raven: A Cinematic Tactical RPG</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</link>
-      <pubDate>Sat, 06 Jul 2024 10:51:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</guid>
-      <description>&lt;p&gt;After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro Haul: Tactics and Sea Monkeys</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</link>
-      <pubDate>Sun, 09 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</guid>
-      <description>&lt;p&gt;We found ourselves once again awash in a sea of retro games. We found some winners, maybe&amp;hellip;?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tactical RPG on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/tactical-rpg/</link>
+		<description>Recent content in Tactical RPG on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Mar 2026 10:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/tactical-rpg/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tactichord: Glam Strategy</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</link>
+				<pubDate>Tue, 10 Mar 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</guid>
+				<description>&lt;p&gt;Mix X-COM with Mötley Crüe and this is what you get &amp;ndash; a hair metal band on its way to its first gig&amp;hellip; if they can get by all the haters.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Final Fantasy Tactics: The Ivalice Chronicles, a retrospective</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</link>
+				<pubDate>Sun, 19 Oct 2025 12:28:38 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</guid>
+				<description>&lt;p&gt;Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Those Who Rule released!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/those-who-rule-released/</link>
+				<pubDate>Mon, 27 Jan 2025 10:57:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/those-who-rule-released/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s finally live!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Our STAR*VADERS!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</link>
+				<pubDate>Thu, 09 Jan 2025 08:00:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s &amp;ldquo;Slay the Spire&amp;rdquo; meets &amp;ldquo;Into the Breach&amp;rdquo; meets &amp;ldquo;Space Invaders&amp;rdquo; meets&amp;hellip; Space Battleship Yamato?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Best Strategy/Tactics RPGs of 2024</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/the-best-strategy-tactics-rpgs-of-2024/</link>
+				<pubDate>Fri, 03 Jan 2025 19:37:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/the-best-strategy-tactics-rpgs-of-2024/</guid>
+				<description>&lt;p&gt;Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bonaparte: A Mechanized Revolution</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</link>
+				<pubDate>Fri, 06 Dec 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/bonaparte-a-mechanized-revolution/</guid>
+				<description>&lt;p&gt;Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Those Who Rule: new demo!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/10/those-who-rule-new-demo/</link>
+				<pubDate>Tue, 01 Oct 2024 23:49:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/10/those-who-rule-new-demo/</guid>
+				<description>&lt;p&gt;Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn&amp;rsquo;t know this was the work of a single developer.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</link>
+				<pubDate>Mon, 19 Aug 2024 08:36:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</guid>
+				<description>&lt;p&gt;And also that entire day playing Malifaux&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The White Raven: A Cinematic Tactical RPG</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</link>
+				<pubDate>Sat, 06 Jul 2024 10:51:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</guid>
+				<description>&lt;p&gt;After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro Haul: Tactics and Sea Monkeys</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</link>
+				<pubDate>Sun, 09 Jun 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</guid>
+				<description>&lt;p&gt;We found ourselves once again awash in a sea of retro games. We found some winners, maybe&amp;hellip;?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

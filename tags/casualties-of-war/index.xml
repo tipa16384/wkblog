@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Casualties of War on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/casualties-of-war/</link>
-    <description>Recent content in Casualties of War on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2009 07:28:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/casualties-of-war/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lord of the Rings Online: A CoW is born.</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/lord-of-the-rings-online-a-cow-is-born./</link>
-      <pubDate>Mon, 13 Apr 2009 07:28:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/lord-of-the-rings-online-a-cow-is-born./</guid>
-      <description>&lt;p&gt;This whole Web 2.0, social media thing is pretty cool, isn&amp;rsquo;t it? Friday, the Lord of the Rings Online branch of Nostalgia the Guild, using&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Casualties of War on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/casualties-of-war/</link>
+		<description>Recent content in Casualties of War on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 Apr 2009 07:28:20 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/casualties-of-war/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lord of the Rings Online: A CoW is born.</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/lord-of-the-rings-online-a-cow-is-born/</link>
+				<pubDate>Mon, 13 Apr 2009 07:28:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/lord-of-the-rings-online-a-cow-is-born/</guid>
+				<description>&lt;p&gt;This whole Web 2.0, social media thing is pretty cool, isn&amp;rsquo;t it? Friday, the Lord of the Rings Online branch of Nostalgia the Guild, using&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

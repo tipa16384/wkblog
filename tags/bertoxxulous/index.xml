@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bertoxxulous on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/bertoxxulous/</link>
-    <description>Recent content in Bertoxxulous on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 07 Oct 2008 08:40:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/bertoxxulous/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ2: The return of Anashti Sul?</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq2-the-return-of-anashti-sul/</link>
-      <pubDate>Tue, 07 Oct 2008 08:40:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq2-the-return-of-anashti-sul/</guid>
-      <description>&lt;p&gt;The EverQuest 2 GU48 world quest deals with, from the evil side, anyway, discovering who is responsible for the death of a Qeynosian Seeress who&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Bertoxxulous on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/bertoxxulous/</link>
+		<description>Recent content in Bertoxxulous on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 07 Oct 2008 08:40:20 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/bertoxxulous/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ2: The return of Anashti Sul?</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq2-the-return-of-anashti-sul/</link>
+				<pubDate>Tue, 07 Oct 2008 08:40:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq2-the-return-of-anashti-sul/</guid>
+				<description>&lt;p&gt;The EverQuest 2 GU48 world quest deals with, from the evil side, anyway, discovering who is responsible for the death of a Qeynosian Seeress who&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Advent of Code Day 17 -- Pyroclastic Flow",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png",
+  
+  "datePublished": "2022-12-17T23:06:06-05:00",
+  "dateModified": "2022-12-17T23:06:06-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "https:\/\/tipa16384.github.io\/wkblog\/2022\/12\/advent-of-code-day-17-pyroclastic-flow\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "They say \u0026ldquo;Pyroclastic Flow\u0026rdquo;, but it\u0026rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.\n",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.165.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="They say &ldquo;Pyroclastic Flow&rdquo;, but it&rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.">
+
+
+<meta property="og:description" content="They say &ldquo;Pyroclastic Flow&rdquo;, but it&rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Advent of Code Day 17 -- Pyroclastic Flow">
+<meta name="twitter:title" content="Advent of Code Day 17 -- Pyroclastic Flow">
+<meta property="og:url" content="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/">
+<meta property="twitter:url" content="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="They say &ldquo;Pyroclastic Flow&rdquo;, but it&rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.">
+<meta name="twitter:description" content="They say &ldquo;Pyroclastic Flow&rdquo;, but it&rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="article:published_time" content="2022-12-17T23:06:06">
+  
+  
+    <meta property="article:modified_time" content="2022-12-17T23:06:06">
+  
+  
+  
+    
+      <meta property="article:section" content="Advent of Code">
+    
+      <meta property="article:section" content="Game Development">
+    
+  
+  
+    
+      <meta property="article:tag" content="Advent">
+    
+      <meta property="article:tag" content="Elephant">
+    
+      <meta property="article:tag" content="Python">
+    
+      <meta property="article:tag" content="Tetris">
+    
+      <meta property="article:tag" content="Volcano">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png">
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png">
+
+
+    <title>Advent of Code Day 17 -- Pyroclastic Flow</title>
+
+    <link rel="icon" href="https://chasingdings.com/wp-content/uploads/2026/03/wkfavicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v5-font-face.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v4-shims.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="https://tipa16384.github.io/wkblog/css/tranquilpeak.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://tipa16384.github.io/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://tipa16384.github.io/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://tipa16384.github.io/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/tipa16384" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://gamepad.club/deck/@Tipa" target="_blank" rel="noopener" title="Mastodon">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-mastodon" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bsky.app/profile/chasingdings.com" target="_blank" rel="noopener" title="BlueSky">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-bluesky" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">BlueSky</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+<div id="right-sidebar" data-behavior="5">
+  
+    
+      <div class="right-sidebar-item">
+        
+          <img class="right-sidebar-image" src="https://chasingdings.com/wp-content/uploads/2024/01/dodologo-768x618.png" alt="" />
+        
+      </div>
+    
+      <div class="right-sidebar-item">
+        
+          
+          <ul class="sidebar-buttons right-sidebar-blogroll" id="right-sidebar-blogroll-1" data-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
+            <li class="sidebar-button"><span class="sidebar-button-link"><span class="sidebar-button-desc">Loading&hellip;</span></span></li>
+          </ul>
+          <script>
+            (function() {
+              var list = document.getElementById("right-sidebar-blogroll-1");
+              if (!list) return;
+              var sourceUrl = list.getAttribute("data-blogroll-url");
+              if (!sourceUrl) { list.parentNode.removeChild(list); return; }
+
+              function toRawGithubUrl(url) {
+                var m = url.match(/^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/);
+                return m ? "https://raw.githubusercontent.com/" + m[1] + "/" + m[2] + "/" + m[3] : url;
+              }
+
+              function parseBlogroll(text) {
+                var lines = text.split(/\r?\n/);
+                var heading = "Blogroll", items = [], i;
+                for (i = 0; i < lines.length; i++) {
+                  var hm = lines[i].match(/^#\s+(.+)$/);
+                  if (hm) {
+                    heading = hm[1].trim().replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
+                    break;
+                  }
+                }
+                for (i = 0; i < lines.length; i++) {
+                  var im = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)$/);
+                  if (im) items.push({ label: im[1].trim(), url: im[2].trim(), summary: im[3].trim() });
+                }
+                return { heading: heading, items: items };
+              }
+
+              function clear(node) { while (node.firstChild) node.removeChild(node.firstChild); }
+
+              function addRow(text, cls) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button" + (cls ? " " + cls : "");
+                var sp = document.createElement("span");
+                sp.className = "sidebar-button-link";
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = text;
+                sp.appendChild(d);
+                li.appendChild(sp);
+                list.appendChild(li);
+              }
+
+              function addLink(item) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button sidebar-blogroll-item";
+                var a = document.createElement("a");
+                a.className = "sidebar-button-link";
+                a.href = item.url;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.title = item.summary;
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = item.label;
+                a.appendChild(d);
+                li.appendChild(a);
+                list.appendChild(li);
+              }
+
+              fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
+                .then(function(r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+                .then(function(text) {
+                  var p = parseBlogroll(text);
+                  clear(list);
+                  addRow(p.heading, "sidebar-blogroll-heading");
+                  if (!p.items.length) { addRow("No links found", "sidebar-blogroll-empty"); return; }
+                  p.items.forEach(addLink);
+                })
+                .catch(function() {
+                  clear(list);
+                  addRow("Blogroll unavailable", "sidebar-blogroll-error");
+                });
+            })();
+          </script>
+        
+      </div>
+    
+  
+</div>
+
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2022/12/DALL%c2%b7E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Advent of Code Day 17 -- Pyroclastic Flow
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2022-12-17T23:06:06-05:00">
+        
+  December 17, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/advent-of-code">Advent of Code</a>, 
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/game-development">Game Development</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>They say &ldquo;Pyroclastic Flow&rdquo;, but it&rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.</p>
+<p>If ever there was a day to write a game for, this one would be it. Because it is Tetris.</p>
+<p><a href="https://adventofcode.com/2022/day/17">The setup here</a> is you are trying to escape with the elephants from the imminently erupting volcano, and the elephants don&rsquo;t believe you can predict where the rocks falling, one at a time, from an opening far above, so they refuse to run to safety.</p>
+<p>Part 1 is to drop 2,022 Tetris piece-shaped rocks and see where they land. Part 2 is to drop a trillion blocks. Not a typo.</p>
+<p>Until I saw what Part 2 was, I was just going to solve this in PICO-8 and get a game out of it for free. But Part 2 said that this was not a puzzle about playing Tetris. It was a puzzle about finding a sequence.</p>
+<p>The rules of this challenge always drop the same five blocks in the same order, starting in the same position relative to the already placed pieces. Pieces are moved left and right as they drop according to the puzzle input.</p>
+<p>At some point, the sequence of dropped blocks will repeat. The trick (there is always a trick) is to find the start and length of this sequence, and then use that plus the bits at the start and end that don&rsquo;t rate a full sequence to find the total height of the column (which for my puzzle was 1,536,231,884,054 units.) If a unit was a meter, the column of rocks would stretch from the Earth to Saturn. So these elephants are a <em>little</em> unreasonable.</p>
+<p>There are a bunch of cool algorithms to find sequences in data, but my understanding of them is poor, so I just used brute force to find it. And I think, maybe, I found a bug?</p>
+<p>Almost everyone solved Part 1 by programming the Tetris game and just seeing how things landed. I did, too, and got the correct answer, and moved on.</p>
+<p>Part 2 required this other thing, and I did that, got the correct answer&hellip; but didn&rsquo;t move on. Instead, I tried to solve Part 1 with this, since the sequence would be the same (even if it wasn&rsquo;t long enough to contain a full sequence, it would just consist of the beginning part and the end part with no sequence).</p>
+<p>And it <em>almost</em> worked &ndash; it was off by one.</p>
+<p>I just don&rsquo;t get it. I&rsquo;m not surprised, as it measures to the bottom of the last dropped rock. When I ran the game for Part 1, I added the height of that last rock in for the correct answer. The new solution doesn&rsquo;t do that.</p>
+<p>So I really expected Part 2 to be off by one, not Part 1. It does not make any sense at all.</p>
+<p>Anyway, maybe I&rsquo;ll come back and write the PICO-8 version of this.</p>
+<p><strong>Python 3.11</strong></p>
+<p>This is not clean, nor elegant. Just gonna leave it here without comment.</p>
+<pre tabindex="0"><code>from itertools import cycle
+
+def read_hot_jets():
+    with open(r&#34;2022\puzzle17.txt&#34;) as f:
+        jet_jet_jet = f.read()
+        return len(jet_jet_jet), cycle(jet_jet_jet)
+
+def get_pieces():
+    pieces = []
+    pieces.append([(0,0), (1,0), (2,0), (3,0)])
+    pieces.append([(1,0), (0,1), (1,1), (2,1), (1,2)])
+    pieces.append([(0,0), (1,0), (2,0), (2,1), (2,2)])
+    pieces.append([(0,0), (0,1), (0,2), (0,3)])
+    pieces.append([(0,0), (1,0), (0,1), (1,1)])
+    return len(pieces), cycle(pieces)
+
+def check_collision(playing_board, piece, piece_pos, delta):
+    for x,y in piece:
+        nx, ny = piece_pos[0]+x+delta[0], piece_pos[1]+y+delta[1]
+        if (nx, ny) in playing_board:
+            return True
+        if nx = 7 or ny &lt; 0:
+            return True
+    return False
+
+def get_rock_height(playing_board):
+    return max([y+1 for _,y in playing_board]) if playing_board else 0
+
+def drop_a_rock(playing_board: set, pieces, jets, rest_at: list):
+    piece = next(pieces)
+    piece_pos = (2, get_rock_height(playing_board)+3)
+    
+    while True:
+        jet = next(jets)
+        #print(piece_pos, jet)
+        dx = -1 if jet == &#39;&lt;&#39; else 1
+        if not check_collision(playing_board, piece, piece_pos, (dx, 0)):
+            piece_pos = (piece_pos[0]+dx, piece_pos[1])
+        if check_collision(playing_board, piece, piece_pos, (0, -1)):
+            # add all piece points to the playing board
+            for x,y in piece:
+                playing_board.add((piece_pos[0]+x, piece_pos[1]+y))
+            rest_at.append((*piece_pos, piece))
+            #print (&#34;dropped&#34;)
+            break
+        piece_pos = (piece_pos[0], piece_pos[1]-1)
+
+def run_simulation(part1_drops):
+    pieces_length, pieces = get_pieces()
+    _, jets = read_hot_jets()
+    playing_board = set()
+    rest_at = list()
+
+    for _ in range(part1_drops):
+        drop_a_rock(playing_board, pieces, jets, rest_at)
+    
+    return rest_at, pieces_length
+
+def get_pattern(rest_at, pieces_length, total_drops):
+    confirmation_size = 4
+    max_pattern_size = total_drops // confirmation_size // pieces_length
+    print (max_pattern_size)
+
+    pattern_found = False
+    for i in range(max_pattern_size):
+        pattern_length = (i+1)*pieces_length
+        for test_start in range(0, total_drops - confirmation_size*pattern_length):
+            pattern_found = True
+            for j in range(test_start, test_start+pattern_length):
+                if rest_at[j][0] != rest_at[j+pattern_length][0] or \
+                    rest_at[j][0] != rest_at[j+2*pattern_length][0] or \
+                    rest_at[j][0] != rest_at[j+3*pattern_length][0]:
+                    pattern_found = False
+                    break
+            if pattern_found:
+                return test_start, pattern_length
+        if pattern_found:
+            break
+
+def calc_height_at(total_drops, rest_at, test_start, pattern_length, height_of_pattern):
+    starting_height = rest_at[test_start][1]
+    print (&#34;--- Starting height&#34;, starting_height)
+    num_pattern_repeats = (total_drops - test_start) // pattern_length
+    print (&#34;--- Num pattern repeats&#34;, num_pattern_repeats)
+    leftover = (total_drops - test_start) % pattern_length
+    print (&#34;--- Leftover&#34;, leftover)
+    leftover_height = rest_at[test_start+leftover][1] - rest_at[test_start][1]
+    print (&#34;--- Leftover height&#34;, leftover_height)
+    return starting_height + num_pattern_repeats*height_of_pattern + leftover_height
+
+ballpark_figure = 10000
+rest_at, pieces_length = run_simulation(ballpark_figure)
+test_start, pattern_length = get_pattern(rest_at, pieces_length, ballpark_figure)
+
+print (&#34;Pattern found at&#34;, test_start, &#34;with length&#34;, pattern_length)
+height_of_pattern = rest_at[test_start+pattern_length][1] - rest_at[test_start][1]
+print (&#34;Height of pattern&#34;, height_of_pattern)
+
+print (&#34;Part 1:&#34;, calc_height_at(2022, rest_at, test_start, pattern_length, height_of_pattern))
+print (&#34;Part 2:&#34;, calc_height_at(1000000000000, rest_at, test_start, pattern_length, height_of_pattern))
+</code></pre>
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/advent/">Advent</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/elephant/">Elephant</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/python/">Python</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/tetris/">Tetris</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/volcano/">Volcano</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/" data-tooltip="Woody, the Tetris-playing Woodpecker" aria-label="NEXT: Woody, the Tetris-playing Woodpecker">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16-proboscidea-volcanium/" data-tooltip="Advent of Code Day 16 -- Proboscidea Volcanium" aria-label="PREVIOUS: Advent of Code Day 16 -- Proboscidea Volcanium">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'https:\/\/tipa16384.github.io\/wkblog\/2022\/12\/advent-of-code-day-17-pyroclastic-flow\/';
+        
+          this.page.identifier = '2022\/12\/17\/advent-of-code-day-17-pyroclastic-flow';
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = 'chasing-dings';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/" data-tooltip="Woody, the Tetris-playing Woodpecker" aria-label="NEXT: Woody, the Tetris-playing Woodpecker">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16-proboscidea-volcanium/" data-tooltip="Advent of Code Day 16 -- Proboscidea Volcanium" aria-label="PREVIOUS: Advent of Code Day 16 -- Proboscidea Volcanium">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-17-pyroclastic-flow%2F" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://bsky.app/intent/compose?text=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-17-pyroclastic-flow%2F" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i><span>Share on BlueSky</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F12%2Fadvent-of-code-day-17-pyroclastic-flow%2F" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="https://tipa16384.github.io/js/tranquilpeak.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

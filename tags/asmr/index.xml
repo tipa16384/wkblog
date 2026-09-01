@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ASMR on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/asmr/</link>
-    <description>Recent content in ASMR on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2020 23:01:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/asmr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Game Night: Mahjong</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/game-night-mahjong/</link>
-      <pubDate>Wed, 26 Aug 2020 23:01:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/game-night-mahjong/</guid>
-      <description>&lt;p&gt;We have been preparing for this night for a very long time. Tom has always had an intense interest in Mahjong, especially in the Japanese&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>ASMR on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/asmr/</link>
+		<description>Recent content in ASMR on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 26 Aug 2020 23:01:58 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/asmr/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Game Night: Mahjong</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/game-night-mahjong/</link>
+				<pubDate>Wed, 26 Aug 2020 23:01:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/game-night-mahjong/</guid>
+				<description>&lt;p&gt;We have been preparing for this night for a very long time. Tom has always had an intense interest in Mahjong, especially in the Japanese&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

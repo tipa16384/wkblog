@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Immortal Fenyx Rising on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/immortal-fenyx-rising/</link>
-    <description>Recent content in Immortal Fenyx Rising on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 08:49:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/immortal-fenyx-rising/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Too Many Games in my Queue</title>
-      <link>https://tipa16384.github.io/wkblog/2020/12/too-many-games-in-my-queue/</link>
-      <pubDate>Tue, 08 Dec 2020 08:49:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/12/too-many-games-in-my-queue/</guid>
-      <description>&lt;p&gt;One really nice thing about playing a long, involved game like Assassins Creed Valhalla is that I don&amp;rsquo;t have to think about what game I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Immortal Fenyx Rising on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/immortal-fenyx-rising/</link>
+		<description>Recent content in Immortal Fenyx Rising on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 08 Dec 2020 08:49:58 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/immortal-fenyx-rising/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Too Many Games in my Queue</title>
+				<link>https://tipa16384.github.io/wkblog/2020/12/too-many-games-in-my-queue/</link>
+				<pubDate>Tue, 08 Dec 2020 08:49:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/12/too-many-games-in-my-queue/</guid>
+				<description>&lt;p&gt;One really nice thing about playing a long, involved game like Assassins Creed Valhalla is that I don&amp;rsquo;t have to think about what game I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

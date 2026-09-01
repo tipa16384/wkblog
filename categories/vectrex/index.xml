@@ -1,68 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vectrex on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/vectrex/</link>
-    <description>Recent content in Vectrex on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Dec 2025 15:12:24 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/vectrex/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>It&#39;s a Vectrex Christmas Miracle!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</link>
-      <pubDate>Thu, 25 Dec 2025 15:12:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</guid>
-      <description>&lt;p&gt;Also Nintendo 64 and&amp;hellip; EverQuest II? Yes, EQ2.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Backed the Vectrex Mini</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/backed-the-vectrex-mini/</link>
-      <pubDate>Tue, 04 Nov 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/backed-the-vectrex-mini/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s what I know about it. Which is a bit.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo 2025: A Guilty (Gear) Pleasure</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</link>
-      <pubDate>Mon, 15 Sep 2025 08:50:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</guid>
-      <description>&lt;p&gt;I brought my Atari messenger bag with one game in it, and turned that into a bag full of games.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Vectrex is coming back... in pog form!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/the-vectrex-is-coming-back...-in-pog-form/</link>
-      <pubDate>Sun, 31 Aug 2025 21:02:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/the-vectrex-is-coming-back...-in-pog-form/</guid>
-      <description>&lt;p&gt;Well, in mini form! It&amp;rsquo;s true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>International Play Your Vectrex Day is November 1!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</link>
-      <pubDate>Tue, 05 Aug 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</guid>
-      <description>&lt;p&gt;The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic &amp;ndash; the GCE Vectrex. Also, a new Vectrex song.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo 2024: Adventure Awaits</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
-      <pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro Game Haul: March 30, 2024</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</link>
-      <pubDate>Sat, 30 Mar 2024 14:54:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</guid>
-      <description>&lt;p&gt;I have way too many games to ever play, but still I can&amp;rsquo;t help it. Today&amp;rsquo;s haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vectrex: The Console You Really Wanted</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</link>
-      <pubDate>Sat, 27 Jan 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t want to blog about my Vectrex just yet, but I&amp;rsquo;m just way to squeee at the moment, so&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Vectrex on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/vectrex/</link>
+		<description>Recent content in Vectrex on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 09 Aug 2026 09:52:48 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/vectrex/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Birthday Haul</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/the-birthday-haul/</link>
+				<pubDate>Sun, 09 Aug 2026 09:52:48 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/the-birthday-haul/</guid>
+				<description>&lt;p&gt;Santa did not forget me on my birthday&amp;hellip;!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Confessions of a Superbacker: 2026 edition</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/confessions-of-a-superbacker-2026-edition/</link>
+				<pubDate>Wed, 20 May 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/confessions-of-a-superbacker-2026-edition/</guid>
+				<description>&lt;p&gt;I was writing about this really, really cruddy KS project on the other blog and realized it&amp;rsquo;s been awhile since I talked about my unhealthy crowdfunding obsession&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Vectrex Mini: The &#34;Light Speed Ship&#34;</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/vectrex-mini-the-light-speed-ship/</link>
+				<pubDate>Mon, 06 Apr 2026 08:11:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/vectrex-mini-the-light-speed-ship/</guid>
+				<description>&lt;p&gt;The Japanese Kibidango crowdfunding campaign for the Vectrex Mini offers a few more details about the forthcoming Vectrex revival.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I cleaned out my local store&#39;s Vectrex library</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/i-cleaned-out-my-local-stores-vectrex-library/</link>
+				<pubDate>Sat, 04 Apr 2026 16:28:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/i-cleaned-out-my-local-stores-vectrex-library/</guid>
+				<description>&lt;p&gt;Granted, it was just the two games, but it was all they had and I bought them both.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>It&#39;s a Vectrex Christmas Miracle!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</link>
+				<pubDate>Thu, 25 Dec 2025 15:12:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</guid>
+				<description>&lt;p&gt;Also Nintendo 64 and&amp;hellip; EverQuest II? Yes, EQ2.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Backed the Vectrex Mini</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/backed-the-vectrex-mini/</link>
+				<pubDate>Tue, 04 Nov 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/backed-the-vectrex-mini/</guid>
+				<description>&lt;p&gt;Here&amp;rsquo;s what I know about it. Which is a bit.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo 2025: A Guilty (Gear) Pleasure</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</link>
+				<pubDate>Mon, 15 Sep 2025 08:50:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</guid>
+				<description>&lt;p&gt;I brought my Atari messenger bag with one game in it, and turned that into a bag full of games.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Vectrex is coming back... in pog form!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/the-vectrex-is-coming-back-in-pog-form/</link>
+				<pubDate>Sun, 31 Aug 2025 21:02:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/the-vectrex-is-coming-back-in-pog-form/</guid>
+				<description>&lt;p&gt;Well, in mini form! It&amp;rsquo;s true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>International Play Your Vectrex Day is November 1!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</link>
+				<pubDate>Tue, 05 Aug 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</guid>
+				<description>&lt;p&gt;The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic &amp;ndash; the GCE Vectrex. Also, a new Vectrex song.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo 2024: Adventure Awaits</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
+				<pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
+				<description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

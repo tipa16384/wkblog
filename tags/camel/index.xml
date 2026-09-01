@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Camel on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/camel/</link>
-    <description>Recent content in Camel on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 09 Dec 2023 10:39:23 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/camel/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code Days 8 and 9 -- Ghost Story</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-days-8-and-9--ghost-story/</link>
-      <pubDate>Sat, 09 Dec 2023 10:39:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-days-8-and-9--ghost-story/</guid>
-      <description>&lt;p&gt;It took me so long to figure out the Day 8 puzzle that I didn&amp;rsquo;t write it up before bed, so twofer today to catch up.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Camel on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/camel/</link>
+		<description>Recent content in Camel on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 09 Dec 2023 10:39:23 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/camel/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code Days 8 and 9 -- Ghost Story</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-days-8-and-9-ghost-story/</link>
+				<pubDate>Sat, 09 Dec 2023 10:39:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-days-8-and-9-ghost-story/</guid>
+				<description>&lt;p&gt;It took me so long to figure out the Day 8 puzzle that I didn&amp;rsquo;t write it up before bed, so twofer today to catch up.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

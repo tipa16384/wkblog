@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Runes of Magic on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/runes-of-magic/</link>
-    <description>Recent content in Runes of Magic on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2008 13:03:24 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/runes-of-magic/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Spellborn vs Runes of Magic CAGE MATCH</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</link>
-      <pubDate>Wed, 23 Jul 2008 13:03:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s two MMOs out there you have probably not heard of. There&amp;rsquo;s HUNDREDS of those, right? Once you get out of the calm, safe, bathwater-warm&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Runes of Magic on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/runes-of-magic/</link>
+		<description>Recent content in Runes of Magic on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 23 Jul 2008 13:03:24 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/runes-of-magic/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Spellborn vs Runes of Magic CAGE MATCH</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</link>
+				<pubDate>Wed, 23 Jul 2008 13:03:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s two MMOs out there you have probably not heard of. There&amp;rsquo;s HUNDREDS of those, right? Once you get out of the calm, safe, bathwater-warm&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

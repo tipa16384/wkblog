@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Trial of Execution on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/trial-of-execution/</link>
-    <description>Recent content in Trial of Execution on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2008 08:19:43 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/trial-of-execution/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ: Hot zone hoedown</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</link>
-      <pubDate>Sat, 23 Aug 2008 08:19:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</guid>
-      <description>&lt;p&gt;The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Trial of Execution on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/trial-of-execution/</link>
+		<description>Recent content in Trial of Execution on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 23 Aug 2008 08:19:43 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/trial-of-execution/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ: Hot zone hoedown</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</link>
+				<pubDate>Sat, 23 Aug 2008 08:19:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</guid>
+				<description>&lt;p&gt;The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

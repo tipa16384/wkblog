@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Advent of Code on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/advent-of-code/</link>
-    <description>Recent content in Advent of Code on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Oct 2025 23:23:49 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/advent-of-code/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Big Changes for Advent of Code 2025</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/big-changes-for-advent-of-code-2025/</link>
-      <pubDate>Tue, 21 Oct 2025 23:23:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/big-changes-for-advent-of-code-2025/</guid>
-      <description>&lt;p&gt;Half the puzzles, no global leaderboard, and definitely&amp;hellip; no AI.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code 2024: The First Week</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
-      <pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
-      <description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code 2024.1:</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024.1/</link>
-      <pubDate>Mon, 02 Dec 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024.1/</guid>
-      <description>&lt;p&gt;Where is that darned elvish historian?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 22 -- Sand Slabs</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-22--sand-slabs/</link>
-      <pubDate>Fri, 22 Dec 2023 17:28:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-22--sand-slabs/</guid>
-      <description>&lt;p&gt;I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 21 -- Step Counter</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-21--step-counter/</link>
-      <pubDate>Thu, 21 Dec 2023 21:26:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-21--step-counter/</guid>
-      <description>&lt;p&gt;I had 80% of the solution, but that last 20% killed it. This is the day I failed Advent of Code 2023.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 20 -- Pulse Propagation</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-20--pulse-propagation/</link>
-      <pubDate>Wed, 20 Dec 2023 17:23:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-20--pulse-propagation/</guid>
-      <description>&lt;p&gt;First, you find the right answer using pencil and paper. Then, you write code to produce that answer. Right? No? Just me?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 19 -- Aplenty</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-19--aplenty/</link>
-      <pubDate>Tue, 19 Dec 2023 21:09:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-19--aplenty/</guid>
-      <description>&lt;p&gt;First puzzle in a few days where I didn&amp;rsquo;t need to get hints. I guess the problem was musical, aerodynamic, shiny AND extremely cool looking!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 18 -- Lavaduct Lagoon</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-18--lavaduct-lagoon/</link>
-      <pubDate>Tue, 19 Dec 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-18--lavaduct-lagoon/</guid>
-      <description>&lt;p&gt;We had game night tonight, more HeroQuest (yay!), so I didn&amp;rsquo;t have a lot of time to work on this&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 17 -- Clumsy Crucible</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-17--clumsy-crucible/</link>
-      <pubDate>Sun, 17 Dec 2023 16:50:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-17--clumsy-crucible/</guid>
-      <description>&lt;p&gt;Edsger Dijkstra is laughing at me from his grave.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 16 -- The Floor Will Be Lava</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16--the-floor-will-be-lava/</link>
-      <pubDate>Sat, 16 Dec 2023 10:54:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16--the-floor-will-be-lava/</guid>
-      <description>&lt;p&gt;/u/YellowZorro hasn&amp;rsquo;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Advent of Code on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/advent-of-code/</link>
+		<description>Recent content in Advent of Code on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Oct 2025 23:23:49 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/advent-of-code/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Big Changes for Advent of Code 2025</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/big-changes-for-advent-of-code-2025/</link>
+				<pubDate>Tue, 21 Oct 2025 23:23:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/big-changes-for-advent-of-code-2025/</guid>
+				<description>&lt;p&gt;Half the puzzles, no global leaderboard, and definitely&amp;hellip; no AI.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code 2024: The First Week</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
+				<pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
+				<description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code 2024.1:</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-1/</link>
+				<pubDate>Mon, 02 Dec 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-1/</guid>
+				<description>&lt;p&gt;Where is that darned elvish historian?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 22 -- Sand Slabs</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-22-sand-slabs/</link>
+				<pubDate>Fri, 22 Dec 2023 17:28:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-22-sand-slabs/</guid>
+				<description>&lt;p&gt;I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 21 -- Step Counter</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-21-step-counter/</link>
+				<pubDate>Thu, 21 Dec 2023 21:26:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-21-step-counter/</guid>
+				<description>&lt;p&gt;I had 80% of the solution, but that last 20% killed it. This is the day I failed Advent of Code 2023.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 20 -- Pulse Propagation</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-20-pulse-propogation/</link>
+				<pubDate>Wed, 20 Dec 2023 17:23:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-20-pulse-propogation/</guid>
+				<description>&lt;p&gt;First, you find the right answer using pencil and paper. Then, you write code to produce that answer. Right? No? Just me?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 19 -- Aplenty</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-19-aplenty/</link>
+				<pubDate>Tue, 19 Dec 2023 21:09:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-19-aplenty/</guid>
+				<description>&lt;p&gt;First puzzle in a few days where I didn&amp;rsquo;t need to get hints. I guess the problem was musical, aerodynamic, shiny AND extremely cool looking!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 18 -- Lavaduct Lagoon</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-18-lavaduct-lagoon/</link>
+				<pubDate>Tue, 19 Dec 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-18-lavaduct-lagoon/</guid>
+				<description>&lt;p&gt;We had game night tonight, more HeroQuest (yay!), so I didn&amp;rsquo;t have a lot of time to work on this&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 17 -- Clumsy Crucible</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-17-clumsy-crucible/</link>
+				<pubDate>Sun, 17 Dec 2023 16:50:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-17-clumsy-crucible/</guid>
+				<description>&lt;p&gt;Edsger Dijkstra is laughing at me from his grave.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 16 -- The Floor Will Be Lava</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16-the-floor-will-be-lava/</link>
+				<pubDate>Sat, 16 Dec 2023 10:54:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16-the-floor-will-be-lava/</guid>
+				<description>&lt;p&gt;/u/YellowZorro hasn&amp;rsquo;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>F2P on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/f2p/</link>
-    <description>Recent content in F2P on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 20:27:08 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/f2p/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I am free of Fallout Shelter&#39;s evil clutches</title>
-      <link>https://tipa16384.github.io/wkblog/2020/12/i-am-free-of-fallout-shelters-evil-clutches/</link>
-      <pubDate>Mon, 28 Dec 2020 20:27:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/12/i-am-free-of-fallout-shelters-evil-clutches/</guid>
-      <description>&lt;p&gt;Header image shows the moment I knew I was done with Fallout Shelter. I had just gotten things back on track from an attack of&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quick Takes: Fallout Shelter</title>
-      <link>https://tipa16384.github.io/wkblog/2020/12/quick-takes-fallout-shelter/</link>
-      <pubDate>Tue, 22 Dec 2020 13:15:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/12/quick-takes-fallout-shelter/</guid>
-      <description>&lt;p&gt;A &amp;ldquo;Fallout&amp;rdquo;-branded worker placement mobile game in the vein of Ellison&amp;rsquo;s &amp;ldquo;A Boy and His Dog&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elder Scrolls Blades: Actual Fun.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun./</link>
-      <pubDate>Sun, 31 May 2020 15:23:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun./</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m always looking for a good F2P game to play for awhile. I never stay with them for long. They tend to follow a similar&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lord of the Rings Online is F2P, for certain definitions of free</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free/</link>
-      <pubDate>Wed, 08 Sep 2010 06:56:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Clone Wars Adventures: You&#39;re in ar-cade world now.</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/clone-wars-adventures-youre-in-ar-cade-world-now./</link>
-      <pubDate>Thu, 19 Aug 2010 23:56:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/clone-wars-adventures-youre-in-ar-cade-world-now./</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chronicles of Spellborn: Anatomy of a Failure</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</link>
-      <pubDate>Thu, 19 Aug 2010 06:48:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</guid>
-      <description>&lt;p&gt;The Chronicles of Spellborn seemed to provide a wish list of what people want in an MMO. You could look cool from day 1; the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>F2P on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/f2p/</link>
+		<description>Recent content in F2P on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 28 Dec 2020 20:27:08 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/f2p/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I am free of Fallout Shelter&#39;s evil clutches</title>
+				<link>https://tipa16384.github.io/wkblog/2020/12/i-am-free-of-fallout-shelters-evil-clutches/</link>
+				<pubDate>Mon, 28 Dec 2020 20:27:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/12/i-am-free-of-fallout-shelters-evil-clutches/</guid>
+				<description>&lt;p&gt;Header image shows the moment I knew I was done with Fallout Shelter. I had just gotten things back on track from an attack of&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Quick Takes: Fallout Shelter</title>
+				<link>https://tipa16384.github.io/wkblog/2020/12/quick-take-fallout-shelter/</link>
+				<pubDate>Tue, 22 Dec 2020 13:15:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/12/quick-take-fallout-shelter/</guid>
+				<description>&lt;p&gt;A &amp;ldquo;Fallout&amp;rdquo;-branded worker placement mobile game in the vein of Ellison&amp;rsquo;s &amp;ldquo;A Boy and His Dog&amp;rdquo;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Elder Scrolls Blades: Actual Fun.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun/</link>
+				<pubDate>Sun, 31 May 2020 15:23:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m always looking for a good F2P game to play for awhile. I never stay with them for long. They tend to follow a similar&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lord of the Rings Online is F2P, for certain definitions of free</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free/</link>
+				<pubDate>Wed, 08 Sep 2010 06:56:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Clone Wars Adventures: You&#39;re in ar-cade world now.</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/clone-wars-adventures-youre-in-ar-cade-world-now/</link>
+				<pubDate>Thu, 19 Aug 2010 23:56:50 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/clone-wars-adventures-youre-in-ar-cade-world-now/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chronicles of Spellborn: Anatomy of a Failure</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</link>
+				<pubDate>Thu, 19 Aug 2010 06:48:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</guid>
+				<description>&lt;p&gt;The Chronicles of Spellborn seemed to provide a wish list of what people want in an MMO. You could look cool from day 1; the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

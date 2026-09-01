@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Elder Scrolls Blades on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/elder-scrolls-blades/</link>
-    <description>Recent content in Elder Scrolls Blades on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 15:23:45 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/elder-scrolls-blades/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Elder Scrolls Blades: Actual Fun.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun./</link>
-      <pubDate>Sun, 31 May 2020 15:23:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun./</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m always looking for a good F2P game to play for awhile. I never stay with them for long. They tend to follow a similar&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Elder Scrolls Blades on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/elder-scrolls-blades/</link>
+		<description>Recent content in Elder Scrolls Blades on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 31 May 2020 15:23:45 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/elder-scrolls-blades/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Elder Scrolls Blades: Actual Fun.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun/</link>
+				<pubDate>Sun, 31 May 2020 15:23:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/elder-scrolls-blades-actual-fun/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m always looking for a good F2P game to play for awhile. I never stay with them for long. They tend to follow a similar&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

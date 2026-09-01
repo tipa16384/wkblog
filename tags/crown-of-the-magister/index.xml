@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crown of the Magister on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/crown-of-the-magister/</link>
-    <description>Recent content in Crown of the Magister on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2020 08:16:33 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/crown-of-the-magister/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Solasta: Crown of the Magister -- A fun but buggy mess in early access</title>
-      <link>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister--a-fun-but-buggy-mess-in-early-access/</link>
-      <pubDate>Mon, 26 Oct 2020 08:16:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister--a-fun-but-buggy-mess-in-early-access/</guid>
-      <description>&lt;p&gt;I am done with the early access content in Solasta: Crown of the Magister. I think Solasta did what it set out to do. It&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Solasta: Crown of the Magister -- Bringing the Boom</title>
-      <link>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister--bringing-the-boom/</link>
-      <pubDate>Fri, 23 Oct 2020 07:28:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister--bringing-the-boom/</guid>
-      <description>&lt;p&gt;While writing up yesterday&amp;rsquo;s post about my first experiences with Solasta, the D&amp;amp;D 5e-compatible RPG released to Steam early access a couple days ago, I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Solasta: Crown of the Magister</title>
-      <link>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister/</link>
-      <pubDate>Thu, 22 Oct 2020 08:03:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister/</guid>
-      <description>&lt;p&gt;This game flew entirely under my radar, but maybe it&amp;rsquo;s the Dungeons &amp;amp; Dragons 5e-compliant tactical RPG we need right now. Coming out at almost&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Crown of the Magister on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/crown-of-the-magister/</link>
+		<description>Recent content in Crown of the Magister on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2020 08:16:33 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/crown-of-the-magister/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Solasta: Crown of the Magister -- A fun but buggy mess in early access</title>
+				<link>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access/</link>
+				<pubDate>Mon, 26 Oct 2020 08:16:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access/</guid>
+				<description>&lt;p&gt;I am done with the early access content in Solasta: Crown of the Magister. I think Solasta did what it set out to do. It&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Solasta: Crown of the Magister -- Bringing the Boom</title>
+				<link>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister-bringing-the-boom/</link>
+				<pubDate>Fri, 23 Oct 2020 07:28:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister-bringing-the-boom/</guid>
+				<description>&lt;p&gt;While writing up yesterday&amp;rsquo;s post about my first experiences with Solasta, the D&amp;amp;D 5e-compatible RPG released to Steam early access a couple days ago, I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Solasta: Crown of the Magister</title>
+				<link>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister/</link>
+				<pubDate>Thu, 22 Oct 2020 08:03:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/10/solasta-crown-of-the-magister/</guid>
+				<description>&lt;p&gt;This game flew entirely under my radar, but maybe it&amp;rsquo;s the Dungeons &amp;amp; Dragons 5e-compliant tactical RPG we need right now. Coming out at almost&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

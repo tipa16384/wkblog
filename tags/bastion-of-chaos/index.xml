@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bastion of Chaos on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/bastion-of-chaos/</link>
-    <description>Recent content in Bastion of Chaos on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 18:41:48 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/bastion-of-chaos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HeroQuest: Murder, Incorporated.</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/heroquest-murder-incorporated./</link>
-      <pubDate>Tue, 26 Mar 2024 18:41:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/heroquest-murder-incorporated./</guid>
-      <description>&lt;p&gt;Okay, the actual title of the quest is &amp;ldquo;Bastion of Chaos&amp;rdquo;, but that&amp;rsquo;s not how it felt to us. We&amp;rsquo;re the murderers in the title, btw.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Bastion of Chaos on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/bastion-of-chaos/</link>
+		<description>Recent content in Bastion of Chaos on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 26 Mar 2024 18:41:48 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/bastion-of-chaos/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>HeroQuest: Murder, Incorporated.</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/heroquest-murder-incorporated/</link>
+				<pubDate>Tue, 26 Mar 2024 18:41:48 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/heroquest-murder-incorporated/</guid>
+				<description>&lt;p&gt;Okay, the actual title of the quest is &amp;ldquo;Bastion of Chaos&amp;rdquo;, but that&amp;rsquo;s not how it felt to us. We&amp;rsquo;re the murderers in the title, btw.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Voice Chat on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/voice-chat/</link>
-    <description>Recent content in Voice Chat on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Sep 2008 12:53:38 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/voice-chat/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Patch Day! EQ gets voice chat! Monks get lightheaded! Groups get merged!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/patch-day-eq-gets-voice-chat-monks-get-lightheaded-groups-get-merged/</link>
-      <pubDate>Wed, 03 Sep 2008 12:53:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/patch-day-eq-gets-voice-chat-monks-get-lightheaded-groups-get-merged/</guid>
-      <description>&lt;p&gt;Nostalgia guildmate Davic brings news of the latest patch notes from EverQuest! I knew the EQ2 GU48 stuff was coming, but I was totally blindsided&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Voice Chat on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/voice-chat/</link>
+		<description>Recent content in Voice Chat on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 03 Sep 2008 12:53:38 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/voice-chat/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Patch Day! EQ gets voice chat! Monks get lightheaded! Groups get merged!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/patch-day-eq-gets-voice-chat-monks-get-lightheaded-groups-get-merged/</link>
+				<pubDate>Wed, 03 Sep 2008 12:53:38 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/patch-day-eq-gets-voice-chat-monks-get-lightheaded-groups-get-merged/</guid>
+				<description>&lt;p&gt;Nostalgia guildmate Davic brings news of the latest patch notes from EverQuest! I knew the EQ2 GU48 stuff was coming, but I was totally blindsided&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

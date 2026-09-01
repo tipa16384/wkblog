@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rock Paper Scissors on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rock-paper-scissors/</link>
-    <description>Recent content in Rock Paper Scissors on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 00:45:56 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rock-paper-scissors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code 2022 Day 2 -- Rock Paper Scissors</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2--rock-paper-scissors/</link>
-      <pubDate>Sat, 03 Dec 2022 00:45:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2--rock-paper-scissors/</guid>
-      <description>&lt;p&gt;So I made it to day 2 of Advent of Code! Not entirely awake. I stayed up past midnight to solve it. I messed up&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rock Paper Scissors on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/rock-paper-scissors/</link>
+		<description>Recent content in Rock Paper Scissors on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 03 Dec 2022 00:45:56 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/rock-paper-scissors/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code 2022 Day 2 -- Rock Paper Scissors</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2-rock-paper-scissors/</link>
+				<pubDate>Sat, 03 Dec 2022 00:45:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-2-rock-paper-scissors/</guid>
+				<description>&lt;p&gt;So I made it to day 2 of Advent of Code! Not entirely awake. I stayed up past midnight to solve it. I messed up&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

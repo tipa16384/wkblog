@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Celestia on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/celestia/</link>
-    <description>Recent content in Celestia on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Dec 2010 08:55:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/celestia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard101: The last gift of the Giving Tree</title>
-      <link>https://tipa16384.github.io/wkblog/2010/12/wizard101-the-last-gift-of-the-giving-tree/</link>
-      <pubDate>Fri, 24 Dec 2010 08:55:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/12/wizard101-the-last-gift-of-the-giving-tree/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>W101: Celestia finished!</title>
-      <link>https://tipa16384.github.io/wkblog/2010/12/w101-celestia-finished/</link>
-      <pubDate>Sun, 19 Dec 2010 14:55:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/12/w101-celestia-finished/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard101: Level 58, and I Feel Fine.</title>
-      <link>https://tipa16384.github.io/wkblog/2010/12/wizard101-level-58-and-i-feel-fine./</link>
-      <pubDate>Wed, 15 Dec 2010 01:33:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/12/wizard101-level-58-and-i-feel-fine./</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard101: Halfway through Celestia!</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/wizard101-halfway-through-celestia/</link>
-      <pubDate>Fri, 12 Nov 2010 08:01:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/wizard101-halfway-through-celestia/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;ve been through the Stellarium, the Lunarium, the Floating Island, the Celestia Base Camp, the Grotto and half a dozen other mini-worlds in Celestia. Quests&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard101: Diving into Celestia!</title>
-      <link>https://tipa16384.github.io/wkblog/2010/10/wizard101-diving-into-celestia/</link>
-      <pubDate>Thu, 28 Oct 2010 07:11:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-diving-into-celestia/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard101: Celestia&#39;s Trial of the Spheres</title>
-      <link>https://tipa16384.github.io/wkblog/2010/10/wizard101-celestias-trial-of-the-spheres/</link>
-      <pubDate>Tue, 19 Oct 2010 07:11:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-celestias-trial-of-the-spheres/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard101: Is Celestia too easy?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/10/wizard101-is-celestia-too-easy/</link>
-      <pubDate>Tue, 12 Oct 2010 22:10:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-is-celestia-too-easy/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard101: Welcome to Celestia!</title>
-      <link>https://tipa16384.github.io/wkblog/2010/10/wizard101-welcome-to-celestia/</link>
-      <pubDate>Sat, 09 Oct 2010 18:49:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-welcome-to-celestia/</guid>
-      <description>&lt;p&gt;Updated! Links to information about the new spells at the end of the post&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard101: A Chat with KI VP of Marketing, Fred Howard</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</link>
-      <pubDate>Thu, 23 Sep 2010 21:31:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</guid>
-      <description>&lt;p&gt;Sure, Wizard101 is free&amp;hellip; for certain values of free. I guess I&amp;rsquo;m just going to have to fall back on definitions, here&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is Wizard101&#39;s marketing getting out of hand?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</link>
-      <pubDate>Mon, 13 Sep 2010 21:14:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Celestia on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/celestia/</link>
+		<description>Recent content in Celestia on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 24 Dec 2010 08:55:14 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/celestia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard101: The last gift of the Giving Tree</title>
+				<link>https://tipa16384.github.io/wkblog/2010/12/wizard101-the-last-gift-of-the-giving-tree/</link>
+				<pubDate>Fri, 24 Dec 2010 08:55:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/12/wizard101-the-last-gift-of-the-giving-tree/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>W101: Celestia finished!</title>
+				<link>https://tipa16384.github.io/wkblog/2010/12/w101-celestia-finished/</link>
+				<pubDate>Sun, 19 Dec 2010 14:55:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/12/w101-celestia-finished/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard101: Level 58, and I Feel Fine.</title>
+				<link>https://tipa16384.github.io/wkblog/2010/12/wizard101-level-58-and-i-feel-fine/</link>
+				<pubDate>Wed, 15 Dec 2010 01:33:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/12/wizard101-level-58-and-i-feel-fine/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard101: Halfway through Celestia!</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/wizard101-halfway-through-celestia/</link>
+				<pubDate>Fri, 12 Nov 2010 08:01:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/wizard101-halfway-through-celestia/</guid>
+				<description>&lt;p&gt;We&amp;rsquo;ve been through the Stellarium, the Lunarium, the Floating Island, the Celestia Base Camp, the Grotto and half a dozen other mini-worlds in Celestia. Quests&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard101: Diving into Celestia!</title>
+				<link>https://tipa16384.github.io/wkblog/2010/10/wizard101-diving-into-celestia/</link>
+				<pubDate>Thu, 28 Oct 2010 07:11:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-diving-into-celestia/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard101: Celestia&#39;s Trial of the Spheres</title>
+				<link>https://tipa16384.github.io/wkblog/2010/10/wizard101-celestias-trial-of-the-spheres/</link>
+				<pubDate>Tue, 19 Oct 2010 07:11:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-celestias-trial-of-the-spheres/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard101: Is Celestia too easy?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/10/wizard101-is-celestia-too-easy/</link>
+				<pubDate>Tue, 12 Oct 2010 22:10:19 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-is-celestia-too-easy/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard101: Welcome to Celestia!</title>
+				<link>https://tipa16384.github.io/wkblog/2010/10/wizard101-welcome-to-celestia/</link>
+				<pubDate>Sat, 09 Oct 2010 18:49:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/10/wizard101-welcome-to-celestia/</guid>
+				<description>&lt;p&gt;Updated! Links to information about the new spells at the end of the post&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard101: A Chat with KI VP of Marketing, Fred Howard</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</link>
+				<pubDate>Thu, 23 Sep 2010 21:31:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/</guid>
+				<description>&lt;p&gt;Sure, Wizard101 is free&amp;hellip; for certain values of free. I guess I&amp;rsquo;m just going to have to fall back on definitions, here&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Is Wizard101&#39;s marketing getting out of hand?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</link>
+				<pubDate>Mon, 13 Sep 2010 21:14:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

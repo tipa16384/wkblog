@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Carl Sagan on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/carl-sagan/</link>
-    <description>Recent content in Carl Sagan on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Apr 2023 12:24:55 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/carl-sagan/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact is a bad movie. And I am angry.</title>
-      <link>https://tipa16384.github.io/wkblog/2023/04/contact-is-a-bad-movie.-and-i-am-angry./</link>
-      <pubDate>Sat, 29 Apr 2023 12:24:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/04/contact-is-a-bad-movie.-and-i-am-angry./</guid>
-      <description>&lt;p&gt;I have a soft spot for this movie. I think Jodie Foster is amazing in it. But almost everything in it is stupid&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Carl Sagan on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/carl-sagan/</link>
+		<description>Recent content in Carl Sagan on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 29 Apr 2023 12:24:55 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/carl-sagan/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contact is a bad movie. And I am angry.</title>
+				<link>https://tipa16384.github.io/wkblog/2023/04/contact-is-a-bad-movie-and-i-am-angry/</link>
+				<pubDate>Sat, 29 Apr 2023 12:24:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/04/contact-is-a-bad-movie-and-i-am-angry/</guid>
+				<description>&lt;p&gt;I have a soft spot for this movie. I think Jodie Foster is amazing in it. But almost everything in it is stupid&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

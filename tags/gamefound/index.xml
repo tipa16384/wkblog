@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gamefound on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/gamefound/</link>
-    <description>Recent content in Gamefound on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/gamefound/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blaugust 2024 and DC Heroes United</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/blaugust-2024-and-dc-heroes-united/</link>
-      <pubDate>Sat, 13 Jul 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/blaugust-2024-and-dc-heroes-united/</guid>
-      <description>&lt;p&gt;Sure, I could use two posts to write about two things&amp;hellip; OR I could do this, and write about them both. It&amp;rsquo;s a Value Size Blog.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Gamefound on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/gamefound/</link>
+		<description>Recent content in Gamefound on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 20 May 2026 10:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/gamefound/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Confessions of a Superbacker: 2026 edition</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/confessions-of-a-superbacker-2026-edition/</link>
+				<pubDate>Wed, 20 May 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/confessions-of-a-superbacker-2026-edition/</guid>
+				<description>&lt;p&gt;I was writing about this really, really cruddy KS project on the other blog and realized it&amp;rsquo;s been awhile since I talked about my unhealthy crowdfunding obsession&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blaugust 2024 and DC Heroes United</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/blaugust-2024-and-dc-heroes-united/</link>
+				<pubDate>Sat, 13 Jul 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/blaugust-2024-and-dc-heroes-united/</guid>
+				<description>&lt;p&gt;Sure, I could use two posts to write about two things&amp;hellip; OR I could do this, and write about them both. It&amp;rsquo;s a Value Size Blog.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

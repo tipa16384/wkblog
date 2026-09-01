@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Faydark on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/faydark/</link>
-    <description>Recent content in Faydark on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 11:32:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/faydark/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Champions of Norrath playthrough: Act 1, Kelethin</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-act-1-kelethin/</link>
-      <pubDate>Fri, 01 May 2020 11:32:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-act-1-kelethin/</guid>
-      <description>&lt;p&gt;My post yesterday made me want to play EverQuest again. But one of the last things I want to do in gaming, is to play&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Faydark on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/faydark/</link>
+		<description>Recent content in Faydark on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 01 May 2020 11:32:28 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/faydark/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Champions of Norrath playthrough: Act 1, Kelethin</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-chapter-1-kelethin/</link>
+				<pubDate>Fri, 01 May 2020 11:32:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-chapter-1-kelethin/</guid>
+				<description>&lt;p&gt;My post yesterday made me want to play EverQuest again. But one of the last things I want to do in gaming, is to play&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

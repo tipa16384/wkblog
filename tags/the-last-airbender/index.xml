@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The Last Airbender on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/the-last-airbender/</link>
-    <description>Recent content in The Last Airbender on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/the-last-airbender/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>One does not simply walk into Ba Sing Se!</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</link>
-      <pubDate>Fri, 25 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</guid>
-      <description>&lt;p&gt;Not feeling creative tonight, so here is a ChatGPT-generated story of what Avatar: The Last Airbender might have looked like if its main characters were hobbits.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>The Last Airbender on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/the-last-airbender/</link>
+		<description>Recent content in The Last Airbender on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Aug 2023 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/the-last-airbender/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>One does not simply walk into Ba Sing Se!</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</link>
+				<pubDate>Fri, 25 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</guid>
+				<description>&lt;p&gt;Not feeling creative tonight, so here is a ChatGPT-generated story of what Avatar: The Last Airbender might have looked like if its main characters were hobbits.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dominus Automa on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dominus-automa/</link>
-    <description>Recent content in Dominus Automa on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Feb 2026 08:41:16 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dominus-automa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Fri, 06 Feb 2026 08:41:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;Another in the long series of quick bites of games I&amp;rsquo;ve played recently.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dominus Automa: An Idle MMO for Busy Dads</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</link>
-      <pubDate>Sat, 24 Jan 2026 10:26:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</guid>
-      <description>&lt;p&gt;Someday it&amp;rsquo;ll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dominus Automa on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/dominus-automa/</link>
+		<description>Recent content in Dominus Automa on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 06 Feb 2026 08:41:16 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/dominus-automa/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend-7/</link>
+				<pubDate>Fri, 06 Feb 2026 08:41:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend-7/</guid>
+				<description>&lt;p&gt;Another in the long series of quick bites of games I&amp;rsquo;ve played recently.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dominus Automa: An Idle MMO for Busy Dads</title>
+				<link>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</link>
+				<pubDate>Sat, 24 Jan 2026 10:26:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</guid>
+				<description>&lt;p&gt;Someday it&amp;rsquo;ll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

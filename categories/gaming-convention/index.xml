@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gaming Convention on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/gaming-convention/</link>
-    <description>Recent content in Gaming Convention on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 May 2025 18:49:03 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/gaming-convention/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PAX East 2025: Part Deux</title>
-      <link>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</link>
-      <pubDate>Sat, 10 May 2025 18:49:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</guid>
-      <description>&lt;p&gt;Traipsing through Boston rain didn&amp;rsquo;t do anything for my cold, so my PAX weekend ended early. Still, here&amp;rsquo;s more of what we saw there.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PAX East 2025: Wow, kinda big, right?</title>
-      <link>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</link>
-      <pubDate>Fri, 09 May 2025 19:52:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</guid>
-      <description>&lt;p&gt;First time at PAX, having a great time, wish you were here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo 2022 -- Hartford, CT</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022--hartford-ct/</link>
-      <pubDate>Tue, 13 Sep 2022 22:07:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022--hartford-ct/</guid>
-      <description>&lt;p&gt;Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn&amp;rsquo;t a fan and is warning me away from Drakkhen for the SNES.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Gaming Convention on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/gaming-convention/</link>
+		<description>Recent content in Gaming Convention on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 May 2025 18:49:03 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/gaming-convention/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>PAX East 2025: Part Deux</title>
+				<link>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</link>
+				<pubDate>Sat, 10 May 2025 18:49:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-part-deux/</guid>
+				<description>&lt;p&gt;Traipsing through Boston rain didn&amp;rsquo;t do anything for my cold, so my PAX weekend ended early. Still, here&amp;rsquo;s more of what we saw there.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PAX East 2025: Wow, kinda big, right?</title>
+				<link>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</link>
+				<pubDate>Fri, 09 May 2025 19:52:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/05/pax-east-2025-wow-kinda-big-right/</guid>
+				<description>&lt;p&gt;First time at PAX, having a great time, wish you were here.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo 2022 -- Hartford, CT</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022-hartford-ct/</link>
+				<pubDate>Tue, 13 Sep 2022 22:07:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022-hartford-ct/</guid>
+				<description>&lt;p&gt;Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn&amp;rsquo;t a fan and is warning me away from Drakkhen for the SNES.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

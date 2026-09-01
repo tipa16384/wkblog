@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Contest on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/contest/</link>
-    <description>Recent content in Contest on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 30 Mar 2011 00:28:56 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/contest/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard101: It&#39;s MOUNT WEEK!</title>
-      <link>https://tipa16384.github.io/wkblog/2011/03/wizard101-its-mount-week/</link>
-      <pubDate>Wed, 30 Mar 2011 00:28:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/03/wizard101-its-mount-week/</guid>
-      <description>&lt;p&gt;Discovery Channel may have their Shark Week, but that&amp;rsquo;s kinda lame, if you ask me. They&amp;rsquo;d be better off having a Manta Ray week&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard 101 Comic Contest</title>
-      <link>https://tipa16384.github.io/wkblog/2009/07/wizard-101-comic-contest/</link>
-      <pubDate>Wed, 22 Jul 2009 20:37:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/07/wizard-101-comic-contest/</guid>
-      <description>&lt;p&gt;Isaiah Spelldust of Defenders of the Spiral is having a comic contest! Well, I&amp;rsquo;m always up for a comic :) That&amp;rsquo;s my entry above. Good&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard 101: Name the Turtles!</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/wizard-101-name-the-turtles/</link>
-      <pubDate>Mon, 20 Apr 2009 10:00:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/wizard-101-name-the-turtles/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Contest on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/contest/</link>
+		<description>Recent content in Contest on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 30 Mar 2011 00:28:56 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/contest/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard101: It&#39;s MOUNT WEEK!</title>
+				<link>https://tipa16384.github.io/wkblog/2011/03/wizard101-its-mount-week/</link>
+				<pubDate>Wed, 30 Mar 2011 00:28:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/03/wizard101-its-mount-week/</guid>
+				<description>&lt;p&gt;Discovery Channel may have their Shark Week, but that&amp;rsquo;s kinda lame, if you ask me. They&amp;rsquo;d be better off having a Manta Ray week&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard 101 Comic Contest</title>
+				<link>https://tipa16384.github.io/wkblog/2009/07/wizard-101-comic-contest/</link>
+				<pubDate>Wed, 22 Jul 2009 20:37:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/07/wizard-101-comic-contest/</guid>
+				<description>&lt;p&gt;Isaiah Spelldust of Defenders of the Spiral is having a comic contest! Well, I&amp;rsquo;m always up for a comic :) That&amp;rsquo;s my entry above. Good&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard 101: Name the Turtles!</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/wizard-101-name-the-turtles/</link>
+				<pubDate>Mon, 20 Apr 2009 10:00:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/wizard-101-name-the-turtles/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

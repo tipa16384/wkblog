@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sunken City on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/sunken-city/</link>
-    <description>Recent content in Sunken City on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2008 08:20:40 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/sunken-city/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard 101: Crimson Fields and Sunken City (again)</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</link>
-      <pubDate>Wed, 29 Oct 2008 08:20:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</guid>
-      <description>&lt;p&gt;Meet the War Oni, boss of Crimson Fields. I&amp;rsquo;ve been told Crimson Fields is the longest instance in Moo Shu, and so far it seems&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ2: That&#39;s MS. Guild Hall Constructor to YOU.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/eq2-thats-ms.-guild-hall-constructor-to-you./</link>
-      <pubDate>Tue, 23 Sep 2008 12:00:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/eq2-thats-ms.-guild-hall-constructor-to-you./</guid>
-      <description>&lt;p&gt;Thought I&amp;rsquo;d never finish the thirty gathering missions necessary to get the &amp;ldquo;Guild Hall Constructor&amp;rdquo; title. I&amp;rsquo;d get bored, or find something else to do,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>W101: The Chamber of Fire, the Royal Hall and Sunken City</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</link>
-      <pubDate>Sun, 21 Sep 2008 20:34:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</guid>
-      <description>&lt;p&gt;A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard 101 slices repeat instance XP</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/wizard-101-slices-repeat-instance-xp/</link>
-      <pubDate>Wed, 17 Sep 2008 07:34:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/wizard-101-slices-repeat-instance-xp/</guid>
-      <description>&lt;p&gt;What with open grouping and a broad kid appeal, Wizard 101 is a pretty friendly game. Jumping in to an instance to help a friend&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>W101: The Sunken City</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/w101-the-sunken-city/</link>
-      <pubDate>Sun, 07 Sep 2008 10:03:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/w101-the-sunken-city/</guid>
-      <description>&lt;p&gt;It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the &amp;ldquo;True Friend&amp;rdquo; code,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Sunken City on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/sunken-city/</link>
+		<description>Recent content in Sunken City on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 29 Oct 2008 08:20:40 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/sunken-city/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard 101: Crimson Fields and Sunken City (again)</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</link>
+				<pubDate>Wed, 29 Oct 2008 08:20:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</guid>
+				<description>&lt;p&gt;Meet the War Oni, boss of Crimson Fields. I&amp;rsquo;ve been told Crimson Fields is the longest instance in Moo Shu, and so far it seems&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ2: That&#39;s MS. Guild Hall Constructor to YOU.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/eq2-thats-ms-guild-hall-constructor-to-you/</link>
+				<pubDate>Tue, 23 Sep 2008 12:00:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/eq2-thats-ms-guild-hall-constructor-to-you/</guid>
+				<description>&lt;p&gt;Thought I&amp;rsquo;d never finish the thirty gathering missions necessary to get the &amp;ldquo;Guild Hall Constructor&amp;rdquo; title. I&amp;rsquo;d get bored, or find something else to do,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>W101: The Chamber of Fire, the Royal Hall and Sunken City</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</link>
+				<pubDate>Sun, 21 Sep 2008 20:34:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/</guid>
+				<description>&lt;p&gt;A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard 101 slices repeat instance XP</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/wizard-101-slices-repeat-instance-xp/</link>
+				<pubDate>Wed, 17 Sep 2008 07:34:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/wizard-101-slices-repeat-instance-xp/</guid>
+				<description>&lt;p&gt;What with open grouping and a broad kid appeal, Wizard 101 is a pretty friendly game. Jumping in to an instance to help a friend&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>W101: The Sunken City</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/w101-the-sunken-city/</link>
+				<pubDate>Sun, 07 Sep 2008 10:03:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/w101-the-sunken-city/</guid>
+				<description>&lt;p&gt;It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the &amp;ldquo;True Friend&amp;rdquo; code,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>World of Warcraft on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/world-of-warcraft/</link>
-    <description>Recent content in World of Warcraft on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Oct 2007 12:24:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/world-of-warcraft/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Deep Ones</title>
-      <link>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</link>
-      <pubDate>Fri, 12 Oct 2007 12:24:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</guid>
-      <description>&lt;p&gt;And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>World of Warcraft on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/world-of-warcraft/</link>
+		<description>Recent content in World of Warcraft on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 12 Oct 2007 12:24:28 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/world-of-warcraft/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Deep Ones</title>
+				<link>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</link>
+				<pubDate>Fri, 12 Oct 2007 12:24:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</guid>
+				<description>&lt;p&gt;And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

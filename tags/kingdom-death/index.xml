@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kingdom Death on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/kingdom-death/</link>
-    <description>Recent content in Kingdom Death on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 03:14:54 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/kingdom-death/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Game Night: Kingdom Death</title>
-      <link>https://tipa16384.github.io/wkblog/2020/06/game-night-kingdom-death/</link>
-      <pubDate>Fri, 12 Jun 2020 03:14:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/06/game-night-kingdom-death/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m not really sure what kind of game someone would expect to play if they were told its name was &amp;ldquo;Kingdom Death&amp;rdquo;. Is&amp;hellip; a kingdom&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kingdom Death on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/kingdom-death/</link>
+		<description>Recent content in Kingdom Death on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 12 Jun 2020 03:14:54 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/kingdom-death/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Game Night: Kingdom Death</title>
+				<link>https://tipa16384.github.io/wkblog/2020/06/game-night-kingdom-death/</link>
+				<pubDate>Fri, 12 Jun 2020 03:14:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/06/game-night-kingdom-death/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m not really sure what kind of game someone would expect to play if they were told its name was &amp;ldquo;Kingdom Death&amp;rdquo;. Is&amp;hellip; a kingdom&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

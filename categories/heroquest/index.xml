@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>HeroQuest on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/heroquest/</link>
-    <description>Recent content in HeroQuest on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 10:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/heroquest/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/frosthaven-%23104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/</link>
-      <pubDate>Wed, 04 Mar 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/frosthaven-%23104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/</guid>
-      <description>&lt;p&gt;Two short games from two game nights. Adventure was had by all.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest First Light: King Forgrin&#39;s Trove</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/heroquest-first-light-king-forgrins-trove/</link>
-      <pubDate>Sun, 15 Feb 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/heroquest-first-light-king-forgrins-trove/</guid>
-      <description>&lt;p&gt;This adventure had just one purpose, and it did the thing it was supposed to do.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest First Light: Tomb of the Fire King</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/heroquest-first-light-tomb-of-the-fire-king/</link>
-      <pubDate>Tue, 27 Jan 2026 07:55:42 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/heroquest-first-light-tomb-of-the-fire-king/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been some time since we met, and the enemies of Light have been busy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest First Light: The Ring of Return</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/heroquest-first-light-the-ring-of-return/</link>
-      <pubDate>Sun, 07 Dec 2025 06:45:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/heroquest-first-light-the-ring-of-return/</guid>
-      <description>&lt;p&gt;Dragons to the left of us, Dread Warriors to the right, here I am, stuck in the middle with a dwarf, an elf, a rogue and a barbarian.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>You had ONE JOB, Dark Quest 4!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</link>
-      <pubDate>Wed, 12 Nov 2025 08:30:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</guid>
-      <description>&lt;p&gt;You had one job &amp;ndash; bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest First Light #5: The Horrors of Synchroform</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/heroquest-first-light-%235-the-horrors-of-synchroform/</link>
-      <pubDate>Sun, 02 Nov 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/heroquest-first-light-%235-the-horrors-of-synchroform/</guid>
-      <description>&lt;p&gt;Halfway through the quests, we discover the secret of Qwindrak&amp;rsquo;s transformation&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest First Light: The Fortress of the Fire King</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/heroquest-first-light-the-fortress-of-the-fire-king/</link>
-      <pubDate>Tue, 16 Sep 2025 07:47:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/heroquest-first-light-the-fortress-of-the-fire-king/</guid>
-      <description>&lt;p&gt;The Witch Queen Kessandria encounters the FO part of FAFO.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Mon, 04 Aug 2025 08:53:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;My monthly grab bag of stuff I&amp;rsquo;ve been up to recently&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest First Light: Second Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/2025/07/heroquest-first-light-second-adventure/</link>
-      <pubDate>Mon, 07 Jul 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/07/heroquest-first-light-second-adventure/</guid>
-      <description>&lt;p&gt;The one where an elf dies and a wizard retires and we meet someone surprising.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest: First Light: First Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/2025/06/heroquest-first-light-first-adventure/</link>
-      <pubDate>Mon, 23 Jun 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/06/heroquest-first-light-first-adventure/</guid>
-      <description>&lt;p&gt;After a couple of years, a Target HeroQuest exclusive edition brings the game back to the table.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>HeroQuest on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/heroquest/</link>
+		<description>Recent content in HeroQuest on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 03 May 2026 10:45:03 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/heroquest/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>HeroQuest First Light: The Might of the Synchroform</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/heroquest-first-light-the-might-of-the-synchroform/</link>
+				<pubDate>Sun, 03 May 2026 10:45:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/heroquest-first-light-the-might-of-the-synchroform/</guid>
+				<description>&lt;p&gt;For the final First Light campaign quest, Qwindrak is going to throw everything he has at us, one last time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/</link>
+				<pubDate>Wed, 04 Mar 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/</guid>
+				<description>&lt;p&gt;Two short games from two game nights. Adventure was had by all.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest First Light: King Forgrin&#39;s Trove</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/heroquest-first-light-king-forgrins-trove/</link>
+				<pubDate>Sun, 15 Feb 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/heroquest-first-light-king-forgrins-trove/</guid>
+				<description>&lt;p&gt;This adventure had just one purpose, and it did the thing it was supposed to do.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest First Light: Tomb of the Fire King</title>
+				<link>https://tipa16384.github.io/wkblog/2026/01/heroquest-first-light-tomb-of-the-fire-king/</link>
+				<pubDate>Tue, 27 Jan 2026 07:55:42 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/01/heroquest-first-light-tomb-of-the-fire-king/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been some time since we met, and the enemies of Light have been busy.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest First Light: The Ring of Return</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/heroquest-first-light-the-ring-of-return/</link>
+				<pubDate>Sun, 07 Dec 2025 06:45:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/heroquest-first-light-the-ring-of-return/</guid>
+				<description>&lt;p&gt;Dragons to the left of us, Dread Warriors to the right, here I am, stuck in the middle with a dwarf, an elf, a rogue and a barbarian.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>You had ONE JOB, Dark Quest 4!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</link>
+				<pubDate>Wed, 12 Nov 2025 08:30:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</guid>
+				<description>&lt;p&gt;You had one job &amp;ndash; bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest First Light #5: The Horrors of Synchroform</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/heroquest-first-light-5-the-horrors-of-synchroform/</link>
+				<pubDate>Sun, 02 Nov 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/heroquest-first-light-5-the-horrors-of-synchroform/</guid>
+				<description>&lt;p&gt;Halfway through the quests, we discover the secret of Qwindrak&amp;rsquo;s transformation&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest First Light: The Fortress of the Fire King</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/heroquest-first-light-the-fortress-of-the-fire-king/</link>
+				<pubDate>Tue, 16 Sep 2025 07:47:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/heroquest-first-light-the-fortress-of-the-fire-king/</guid>
+				<description>&lt;p&gt;The Witch Queen Kessandria encounters the FO part of FAFO.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/i-know-what-i-did-last-weekend-5/</link>
+				<pubDate>Mon, 04 Aug 2025 08:53:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/i-know-what-i-did-last-weekend-5/</guid>
+				<description>&lt;p&gt;My monthly grab bag of stuff I&amp;rsquo;ve been up to recently&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest First Light: Second Adventure</title>
+				<link>https://tipa16384.github.io/wkblog/2025/07/heroquest-first-light-second-adventure/</link>
+				<pubDate>Mon, 07 Jul 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/07/heroquest-first-light-second-adventure/</guid>
+				<description>&lt;p&gt;The one where an elf dies and a wizard retires and we meet someone surprising.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

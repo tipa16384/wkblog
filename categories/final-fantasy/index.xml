@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Final Fantasy on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/final-fantasy/</link>
-    <description>Recent content in Final Fantasy on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 19 Oct 2025 12:28:38 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/final-fantasy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Final Fantasy Tactics: The Ivalice Chronicles, a retrospective</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</link>
-      <pubDate>Sun, 19 Oct 2025 12:28:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</guid>
-      <description>&lt;p&gt;Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Zen of Final Fantasy Tactics</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</link>
-      <pubDate>Mon, 06 Oct 2025 08:12:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s the recommended way to play Final Fantasy Tactics. And then there&amp;rsquo;s the way I play it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monster Hunters Wilding</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/monster-hunters-wilding/</link>
-      <pubDate>Mon, 24 Mar 2025 08:19:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/monster-hunters-wilding/</guid>
-      <description>&lt;p&gt;I like to think of the Monster Hunter series being set in the same world as the Pokemon games.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FANTASIAN Neo Dimension (Part 1)</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/fantasian-neo-dimension-part-1/</link>
-      <pubDate>Tue, 21 Jan 2025 08:48:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/fantasian-neo-dimension-part-1/</guid>
-      <description>&lt;p&gt;A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>October retro finds!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/10/october-retro-finds/</link>
-      <pubDate>Sun, 13 Oct 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/10/october-retro-finds/</guid>
-      <description>&lt;p&gt;We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PS2 RPGs: Quick Reviews</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</link>
-      <pubDate>Thu, 22 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</guid>
-      <description>&lt;p&gt;You&amp;rsquo;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tactics Ogre: The Death of Shaher</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</link>
-      <pubDate>Sat, 06 Jan 2024 13:25:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</guid>
-      <description>&lt;p&gt;Just some AI art inspired by Shaher&amp;rsquo;s death and Eleanor&amp;rsquo;s sacrifice in Tactics Ogre: The Knight of Lodis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tactics Ogre: The Knight of Lodis FINISHED!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</link>
-      <pubDate>Sat, 06 Jan 2024 11:38:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight&amp;rsquo;s journey to discover his place in the world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FFXIV Tabletop RPG: Playtest #1</title>
-      <link>https://tipa16384.github.io/wkblog/2023/09/ffxiv-tabletop-rpg-playtest-%231/</link>
-      <pubDate>Fri, 22 Sep 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/09/ffxiv-tabletop-rpg-playtest-%231/</guid>
-      <description>&lt;p&gt;Square Enix is coming out with a sourcebook and game master&amp;rsquo;s guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Final Fantasy XIII: Finished</title>
-      <link>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</link>
-      <pubDate>Sun, 03 Sep 2023 15:19:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</guid>
-      <description>&lt;p&gt;While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it&amp;hellip; mostly.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Final Fantasy on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/final-fantasy/</link>
+		<description>Recent content in Final Fantasy on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 19 Oct 2025 12:28:38 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/final-fantasy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Final Fantasy Tactics: The Ivalice Chronicles, a retrospective</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</link>
+				<pubDate>Sun, 19 Oct 2025 12:28:38 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/</guid>
+				<description>&lt;p&gt;Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Zen of Final Fantasy Tactics</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</link>
+				<pubDate>Mon, 06 Oct 2025 08:12:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s the recommended way to play Final Fantasy Tactics. And then there&amp;rsquo;s the way I play it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Monster Hunters Wilding</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/monster-hunters-wilding/</link>
+				<pubDate>Mon, 24 Mar 2025 08:19:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/monster-hunters-wilding/</guid>
+				<description>&lt;p&gt;I like to think of the Monster Hunter series being set in the same world as the Pokemon games.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FANTASIAN Neo Dimension (Part 1)</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/fantasian-neo-dimension-part-1/</link>
+				<pubDate>Tue, 21 Jan 2025 08:48:50 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/fantasian-neo-dimension-part-1/</guid>
+				<description>&lt;p&gt;A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>October retro finds!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/10/october-retro-finds/</link>
+				<pubDate>Sun, 13 Oct 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/10/october-retro-finds/</guid>
+				<description>&lt;p&gt;We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PS2 RPGs: Quick Reviews</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</link>
+				<pubDate>Thu, 22 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</guid>
+				<description>&lt;p&gt;You&amp;rsquo;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tactics Ogre: The Death of Shaher</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</link>
+				<pubDate>Sat, 06 Jan 2024 13:25:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</guid>
+				<description>&lt;p&gt;Just some AI art inspired by Shaher&amp;rsquo;s death and Eleanor&amp;rsquo;s sacrifice in Tactics Ogre: The Knight of Lodis.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tactics Ogre: The Knight of Lodis FINISHED!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</link>
+				<pubDate>Sat, 06 Jan 2024 11:38:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight&amp;rsquo;s journey to discover his place in the world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>FFXIV Tabletop RPG: Playtest #1</title>
+				<link>https://tipa16384.github.io/wkblog/2023/09/ffxiv-tabletop-rpg-playtest-1/</link>
+				<pubDate>Fri, 22 Sep 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/09/ffxiv-tabletop-rpg-playtest-1/</guid>
+				<description>&lt;p&gt;Square Enix is coming out with a sourcebook and game master&amp;rsquo;s guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Final Fantasy XIII: Finished</title>
+				<link>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</link>
+				<pubDate>Sun, 03 Sep 2023 15:19:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</guid>
+				<description>&lt;p&gt;While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it&amp;hellip; mostly.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

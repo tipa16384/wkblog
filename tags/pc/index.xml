@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>PC on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/pc/</link>
-    <description>Recent content in PC on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2021 19:04:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/pc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Does DCUO on the Switch make any sense?</title>
-      <link>https://tipa16384.github.io/wkblog/2021/01/does-dcuo-on-the-switch-make-any-sense/</link>
-      <pubDate>Tue, 12 Jan 2021 19:04:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/01/does-dcuo-on-the-switch-make-any-sense/</guid>
-      <description>&lt;p&gt;When you REALLY want to play DCUO, but all you have is the Switch&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>PC on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/pc/</link>
+		<description>Recent content in PC on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 Jan 2021 19:04:28 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/pc/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Does DCUO on the Switch make any sense?</title>
+				<link>https://tipa16384.github.io/wkblog/2021/01/does-dcuo-on-the-switch-make-any-sense/</link>
+				<pubDate>Tue, 12 Jan 2021 19:04:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/01/does-dcuo-on-the-switch-make-any-sense/</guid>
+				<description>&lt;p&gt;When you REALLY want to play DCUO, but all you have is the Switch&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

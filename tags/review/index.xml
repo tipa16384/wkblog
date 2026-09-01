@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Review on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/review/</link>
-    <description>Recent content in Review on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Sep 2022 21:59:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/review/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Review: Braking Day by Adam Oyebanji</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</link>
-      <pubDate>Tue, 20 Sep 2022 21:59:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</guid>
-      <description>&lt;p&gt;Oyebanji&amp;rsquo;s Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji&amp;rsquo;s writing is enjoyable and makes for a quick read.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Social Game Review: Backyard Monsters</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</link>
-      <pubDate>Sat, 25 Sep 2010 00:41:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Review on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/review/</link>
+		<description>Recent content in Review on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Sep 2022 21:59:39 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/review/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Review: Braking Day by Adam Oyebanji</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</link>
+				<pubDate>Tue, 20 Sep 2022 21:59:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</guid>
+				<description>&lt;p&gt;Oyebanji&amp;rsquo;s Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji&amp;rsquo;s writing is enjoyable and makes for a quick read.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Social Game Review: Backyard Monsters</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</link>
+				<pubDate>Sat, 25 Sep 2010 00:41:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Octomini Project on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/octomini-project/</link>
-    <description>Recent content in Octomini Project on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2020 12:12:54 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/octomini-project/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Octomini Project Day 3: The $250 mini</title>
-      <link>https://tipa16384.github.io/wkblog/2020/06/octomini-project-day-3-the-250-mini/</link>
-      <pubDate>Tue, 02 Jun 2020 12:12:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/06/octomini-project-day-3-the-250-mini/</guid>
-      <description>&lt;p&gt;I want to point out at the start that I did not buy a 3D printer to print miniatures&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Octomini Project Day 2: Primed and Ready</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/octomini-project-day-2-primed-and-ready/</link>
-      <pubDate>Thu, 28 May 2020 03:27:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/octomini-project-day-2-primed-and-ready/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;d really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Octomini Project Day 1: Minis Arrive</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/octomini-project-day-1-minis-arrive/</link>
-      <pubDate>Mon, 25 May 2020 20:46:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/octomini-project-day-1-minis-arrive/</guid>
-      <description>&lt;p&gt;A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I&amp;rsquo;d&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Octomini Project on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/octomini-project/</link>
+		<description>Recent content in Octomini Project on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 02 Jun 2020 12:12:54 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/octomini-project/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Octomini Project Day 3: The $250 mini</title>
+				<link>https://tipa16384.github.io/wkblog/2020/06/octomini-project-day-3-the-250-mini/</link>
+				<pubDate>Tue, 02 Jun 2020 12:12:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/06/octomini-project-day-3-the-250-mini/</guid>
+				<description>&lt;p&gt;I want to point out at the start that I did not buy a 3D printer to print miniatures&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Octomini Project Day 2: Primed and Ready</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/primed-and-ready/</link>
+				<pubDate>Thu, 28 May 2020 03:27:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/primed-and-ready/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;d really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Octomini Project Day 1: Minis Arrive</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/octomini-project-day-1-minis-arrive/</link>
+				<pubDate>Mon, 25 May 2020 20:46:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/octomini-project-day-1-minis-arrive/</guid>
+				<description>&lt;p&gt;A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I&amp;rsquo;d&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

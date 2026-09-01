@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mangler on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mangler/</link>
-    <description>Recent content in Mangler on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2020 12:25:38 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mangler/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The End of the Aradune Experiment</title>
-      <link>https://tipa16384.github.io/wkblog/2020/06/the-end-of-the-aradune-experiment/</link>
-      <pubDate>Wed, 10 Jun 2020 12:25:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/06/the-end-of-the-aradune-experiment/</guid>
-      <description>&lt;p&gt;We absolutely, 100%, gave it our all&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EverQuest Mangler trial run: Levels 7-14</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/everquest-mangler-trial-run-levels-7-14/</link>
-      <pubDate>Sun, 17 May 2020 12:09:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/everquest-mangler-trial-run-levels-7-14/</guid>
-      <description>&lt;p&gt;Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EverQuest: Bones Everywhere.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/everquest-bones-everywhere./</link>
-      <pubDate>Wed, 13 May 2020 11:41:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/everquest-bones-everywhere./</guid>
-      <description>&lt;p&gt;I saw my bf running around in Nektulos Forest yesterday on his baby cleric, and just had to join in&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mangler on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/mangler/</link>
+		<description>Recent content in Mangler on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 10 Jun 2020 12:25:38 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/mangler/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The End of the Aradune Experiment</title>
+				<link>https://tipa16384.github.io/wkblog/2020/06/the-end-of-the-aradune-experiment/</link>
+				<pubDate>Wed, 10 Jun 2020 12:25:38 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/06/the-end-of-the-aradune-experiment/</guid>
+				<description>&lt;p&gt;We absolutely, 100%, gave it our all&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Mangler trial run: Levels 7-14</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/everquest-mangler-trial-run-levels-7-14/</link>
+				<pubDate>Sun, 17 May 2020 12:09:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/everquest-mangler-trial-run-levels-7-14/</guid>
+				<description>&lt;p&gt;Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest: Bones Everywhere.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/everquest-bones-everywhere/</link>
+				<pubDate>Wed, 13 May 2020 11:41:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/everquest-bones-everywhere/</guid>
+				<description>&lt;p&gt;I saw my bf running around in Nektulos Forest yesterday on his baby cleric, and just had to join in&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

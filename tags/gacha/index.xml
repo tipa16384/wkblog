@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gacha on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/gacha/</link>
-    <description>Recent content in Gacha on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Aug 2022 09:30:10 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/gacha/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Brown Dust? Did you mean Brave Nine?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</link>
-      <pubDate>Thu, 18 Aug 2022 09:30:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</guid>
-      <description>&lt;p&gt;A few days, Friendly Necro was going over all the mobile games on which he&amp;rsquo;s worked. I was wondering why mobile games just didn&amp;rsquo;t stick&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Let&#39;s have a little talk about RAID: SHADOW LEGENDS.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/07/lets-have-a-little-talk-about-raid-shadow-legends./</link>
-      <pubDate>Wed, 15 Jul 2020 12:28:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/07/lets-have-a-little-talk-about-raid-shadow-legends./</guid>
-      <description>&lt;p&gt;I finally succumbed to the advertising, and downloaded Raid: Shadow Legends. It couldn&amp;rsquo;t be as bad as everyone made it sound, could it? My Free&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Gacha on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/gacha/</link>
+		<description>Recent content in Gacha on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Aug 2022 09:30:10 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/gacha/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Brown Dust? Did you mean Brave Nine?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</link>
+				<pubDate>Thu, 18 Aug 2022 09:30:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</guid>
+				<description>&lt;p&gt;A few days, Friendly Necro was going over all the mobile games on which he&amp;rsquo;s worked. I was wondering why mobile games just didn&amp;rsquo;t stick&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Let&#39;s have a little talk about RAID: SHADOW LEGENDS.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/07/lets-have-a-little-talk-about-raid-shadow-legends/</link>
+				<pubDate>Wed, 15 Jul 2020 12:28:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/07/lets-have-a-little-talk-about-raid-shadow-legends/</guid>
+				<description>&lt;p&gt;I finally succumbed to the advertising, and downloaded Raid: Shadow Legends. It couldn&amp;rsquo;t be as bad as everyone made it sound, could it? My Free&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

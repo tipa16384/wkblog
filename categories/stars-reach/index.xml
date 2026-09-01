@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Stars Reach on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/stars-reach/</link>
-    <description>Recent content in Stars Reach on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/stars-reach/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Impressions: Stars Reach</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</link>
-      <pubDate>Wed, 26 Feb 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</guid>
-      <description>&lt;p&gt;The game is very much in development and far from finished, but I think I see where it wants to go.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Stars Reach on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/stars-reach/</link>
+		<description>Recent content in Stars Reach on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 26 Feb 2025 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/stars-reach/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>First Impressions: Stars Reach</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</link>
+				<pubDate>Wed, 26 Feb 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</guid>
+				<description>&lt;p&gt;The game is very much in development and far from finished, but I think I see where it wants to go.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

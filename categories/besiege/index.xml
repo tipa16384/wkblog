@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Besiege on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/besiege/</link>
-    <description>Recent content in Besiege on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2015 04:53:12 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/besiege/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Besiege! Done with the current official content...</title>
-      <link>https://tipa16384.github.io/wkblog/2015/02/besiege-done-with-the-current-official-content.../</link>
-      <pubDate>Sun, 08 Feb 2015 04:53:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/02/besiege-done-with-the-current-official-content.../</guid>
-      <description>&lt;p&gt;Besiege! is still in alpha, and most of the maps and challenges aren&amp;rsquo;t ready. I finished up what there is of the main campaign &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Besiege! Watch the skies!</title>
-      <link>https://tipa16384.github.io/wkblog/2015/02/besiege-watch-the-skies/</link>
-      <pubDate>Sat, 07 Feb 2015 13:33:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/02/besiege-watch-the-skies/</guid>
-      <description>&lt;p&gt;Silly, stupidly addictive game. Went back and tried to conquer a previous level with the power of flight. And a little later &amp;ndash; a mobile&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Besiege! Love at first siege...</title>
-      <link>https://tipa16384.github.io/wkblog/2015/02/besiege-love-at-first-siege.../</link>
-      <pubDate>Sat, 07 Feb 2015 02:40:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/02/besiege-love-at-first-siege.../</guid>
-      <description>&lt;p&gt;I love &amp;ldquo;builder&amp;rdquo; games like Minecraft and Kerbal Space Program. When I saw the zany creations from Besiege (available from the developers &lt;a href=&#34;http://www.besiegethegame.com/&#34;&gt;http://www.besiegethegame.com/&lt;/a&gt; or Steam&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Besiege on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/besiege/</link>
+		<description>Recent content in Besiege on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Feb 2015 04:53:12 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/besiege/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Besiege! Done with the current official content...</title>
+				<link>https://tipa16384.github.io/wkblog/2015/02/besiege-is-still-in-alpha-and-most-of-the-maps-and-challenges-arent-ready-i-finished-up-what-there/</link>
+				<pubDate>Sun, 08 Feb 2015 04:53:12 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/02/besiege-is-still-in-alpha-and-most-of-the-maps-and-challenges-arent-ready-i-finished-up-what-there/</guid>
+				<description>&lt;p&gt;Besiege! is still in alpha, and most of the maps and challenges aren&amp;rsquo;t ready. I finished up what there is of the main campaign &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Besiege! Watch the skies!</title>
+				<link>https://tipa16384.github.io/wkblog/2015/02/silly-stupidly-addictive-game-went-back-and-tried-to-conquer-a-previous-level-with-the-power-of-flight/</link>
+				<pubDate>Sat, 07 Feb 2015 13:33:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/02/silly-stupidly-addictive-game-went-back-and-tried-to-conquer-a-previous-level-with-the-power-of-flight/</guid>
+				<description>&lt;p&gt;Silly, stupidly addictive game. Went back and tried to conquer a previous level with the power of flight. And a little later &amp;ndash; a mobile&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Besiege! Love at first siege...</title>
+				<link>https://tipa16384.github.io/wkblog/2015/02/i-love-builder-games-like-minecraft-and-kerbal-space-program-when-i-saw-the-zany-creations-from-besiege/</link>
+				<pubDate>Sat, 07 Feb 2015 02:40:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/02/i-love-builder-games-like-minecraft-and-kerbal-space-program-when-i-saw-the-zany-creations-from-besiege/</guid>
+				<description>&lt;p&gt;I love &amp;ldquo;builder&amp;rdquo; games like Minecraft and Kerbal Space Program. When I saw the zany creations from Besiege (available from the developers &lt;a href=&#34;http://www.besiegethegame.com/&#34;&gt;http://www.besiegethegame.com/&lt;/a&gt; or Steam&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

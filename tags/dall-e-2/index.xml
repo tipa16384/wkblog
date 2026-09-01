@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dall-E 2 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dall-e-2/</link>
-    <description>Recent content in Dall-E 2 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dall-e-2/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HeroQuest: Return to Barak-Tor</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/heroquest-return-to-barak-tor/</link>
-      <pubDate>Wed, 12 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/heroquest-return-to-barak-tor/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s the final quest of the starter campaign. How was it? Is this game even worth playing in 2024?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Midjourney goes Web</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</link>
-      <pubDate>Fri, 17 May 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</guid>
-      <description>&lt;p&gt;Midjourney has famously relied upon the Discord app to be the front end to its image generation AI. But now, all you need is a browser and a prompt.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest: A Race Against Time</title>
-      <link>https://tipa16384.github.io/wkblog/2024/02/heroquest-a-race-against-time/</link>
-      <pubDate>Wed, 07 Feb 2024 08:18:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/02/heroquest-a-race-against-time/</guid>
-      <description>&lt;p&gt;Spoiler alert: There was no time limit for this quest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tactics Ogre: The Death of Shaher</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</link>
-      <pubDate>Sat, 06 Jan 2024 13:25:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</guid>
-      <description>&lt;p&gt;Just some AI art inspired by Shaher&amp;rsquo;s death and Eleanor&amp;rsquo;s sacrifice in Tactics Ogre: The Knight of Lodis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest: Lair of the Orc Warlord</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</link>
-      <pubDate>Wed, 29 Nov 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</guid>
-      <description>&lt;p&gt;Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ways that the discovery of human telepathy is changing how game shows work</title>
-      <link>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</link>
-      <pubDate>Mon, 24 Oct 2022 11:06:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</guid>
-      <description>&lt;p&gt;I just thought this was funny. I asked GPT-3 for some help :-)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
-      <pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
-      <description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Life of a Medical Student Who Sold Himself as an NFT to Pay for School</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</link>
-      <pubDate>Wed, 07 Sep 2022 10:32:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</guid>
-      <description>&lt;p&gt;An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cid&#39;s Legacy: A Story of the World of Ruin</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</link>
-      <pubDate>Tue, 06 Sep 2022 08:17:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</guid>
-      <description>&lt;p&gt;A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Battle for Locke&#39;s Heart: The Remake</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/the-battle-for-lockes-heart-the-remake/</link>
-      <pubDate>Mon, 05 Sep 2022 09:41:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/the-battle-for-lockes-heart-the-remake/</guid>
-      <description>&lt;p&gt;More Celes/Terra/Locke fanfic, I&amp;rsquo;m afraid. I gave TerraChat a lot more background on the characters and their motivations, than before.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dall-E 2 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/dall-e-2/</link>
+		<description>Recent content in Dall-E 2 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 12 Jun 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/dall-e-2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>HeroQuest: Return to Barak-Tor</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/heroquest-return-to-barak-tor/</link>
+				<pubDate>Wed, 12 Jun 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/heroquest-return-to-barak-tor/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s the final quest of the starter campaign. How was it? Is this game even worth playing in 2024?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Midjourney goes Web</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</link>
+				<pubDate>Fri, 17 May 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</guid>
+				<description>&lt;p&gt;Midjourney has famously relied upon the Discord app to be the front end to its image generation AI. But now, all you need is a browser and a prompt.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest: A Race Against Time</title>
+				<link>https://tipa16384.github.io/wkblog/2024/02/heroquest-a-race-against-time/</link>
+				<pubDate>Wed, 07 Feb 2024 08:18:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/02/heroquest-a-race-against-time/</guid>
+				<description>&lt;p&gt;Spoiler alert: There was no time limit for this quest.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tactics Ogre: The Death of Shaher</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</link>
+				<pubDate>Sat, 06 Jan 2024 13:25:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-death-of-shaher/</guid>
+				<description>&lt;p&gt;Just some AI art inspired by Shaher&amp;rsquo;s death and Eleanor&amp;rsquo;s sacrifice in Tactics Ogre: The Knight of Lodis.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest: Lair of the Orc Warlord</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</link>
+				<pubDate>Wed, 29 Nov 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</guid>
+				<description>&lt;p&gt;Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ways that the discovery of human telepathy is changing how game shows work</title>
+				<link>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</link>
+				<pubDate>Mon, 24 Oct 2022 11:06:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</guid>
+				<description>&lt;p&gt;I just thought this was funny. I asked GPT-3 for some help :-)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
+				<pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
+				<description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Life of a Medical Student Who Sold Himself as an NFT to Pay for School</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</link>
+				<pubDate>Wed, 07 Sep 2022 10:32:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</guid>
+				<description>&lt;p&gt;An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cid&#39;s Legacy: A Story of the World of Ruin</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</link>
+				<pubDate>Tue, 06 Sep 2022 08:17:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</guid>
+				<description>&lt;p&gt;A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Battle for Locke&#39;s Heart: The Remake</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/the-battle-for-lockes-heart-the-remake/</link>
+				<pubDate>Mon, 05 Sep 2022 09:41:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/the-battle-for-lockes-heart-the-remake/</guid>
+				<description>&lt;p&gt;More Celes/Terra/Locke fanfic, I&amp;rsquo;m afraid. I gave TerraChat a lot more background on the characters and their motivations, than before.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

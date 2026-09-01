@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>IndieWeb on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/indieweb/</link>
+		<description>Recent content in IndieWeb on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 28 Aug 2026 19:05:30 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Belonging.</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/belonging/</link>
+				<pubDate>Fri, 28 Aug 2026 19:05:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/belonging/</guid>
+				<description>&lt;p&gt;Groucho Marx once said, &amp;ldquo;Outside of a dog, a book is a man&amp;rsquo;s best friend. Inside of a dog, it&amp;rsquo;s too dark to read.&amp;rdquo;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

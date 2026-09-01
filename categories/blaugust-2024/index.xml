@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blaugust 2024 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/blaugust-2024/</link>
-    <description>Recent content in Blaugust 2024 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 Sep 2024 22:18:40 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/blaugust-2024/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blaugust 2024 is in the bag!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/blaugust-2024-is-in-the-bag/</link>
-      <pubDate>Mon, 02 Sep 2024 22:18:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/blaugust-2024-is-in-the-bag/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s always a struggle to make it to the finish line, but I also always have fun.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My California</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/my-california/</link>
-      <pubDate>Sat, 31 Aug 2024 10:26:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/my-california/</guid>
-      <description>&lt;p&gt;If you live on the Central Coast, you already know.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Going to California</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/going-to-california/</link>
-      <pubDate>Thu, 29 Aug 2024 23:19:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/going-to-california/</guid>
-      <description>&lt;p&gt;I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Erenshor -- EverQuest for soloers</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/erenshor--everquest-for-soloers/</link>
-      <pubDate>Wed, 28 Aug 2024 08:18:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/erenshor--everquest-for-soloers/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s not an MMO, it&amp;rsquo;s an MMO simulator where you can handpick the party of your dreams and clear dungeons, kill bosses, and find uber lewtz.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Twitch Drops: Why?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/twitch-drops-why/</link>
-      <pubDate>Tue, 27 Aug 2024 07:48:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/twitch-drops-why/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s an army of low-effort streamers playing commercials to hundreds of hidden browser tabs.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building Thunderjaw — Day 1</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</link>
-      <pubDate>Mon, 26 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</guid>
-      <description>&lt;p&gt;My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo 2024: Adventure Awaits</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
-      <pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nexus: Kingdom of the Wind</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</link>
-      <pubDate>Sat, 24 Aug 2024 18:16:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</guid>
-      <description>&lt;p&gt;Most people have never heard of NexusTK. Some people maybe heard of it long ago. It&amp;rsquo;s different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EverQuest: Five Epic Tales</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/everquest-five-epic-tales/</link>
-      <pubDate>Fri, 23 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/everquest-five-epic-tales/</guid>
-      <description>&lt;p&gt;There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here&amp;rsquo;s five EverQuest stories about mine.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PS2 RPGs: Quick Reviews</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</link>
-      <pubDate>Thu, 22 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</guid>
-      <description>&lt;p&gt;You&amp;rsquo;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Blaugust 2024 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/blaugust-2024/</link>
+		<description>Recent content in Blaugust 2024 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 02 Sep 2024 22:18:40 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/blaugust-2024/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blaugust 2024 is in the bag!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/blaugust-2024-is-in-the-bag/</link>
+				<pubDate>Mon, 02 Sep 2024 22:18:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/blaugust-2024-is-in-the-bag/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s always a struggle to make it to the finish line, but I also always have fun.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My California</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/my-california/</link>
+				<pubDate>Sat, 31 Aug 2024 10:26:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/my-california/</guid>
+				<description>&lt;p&gt;If you live on the Central Coast, you already know.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Going to California</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/going-to-california/</link>
+				<pubDate>Thu, 29 Aug 2024 23:19:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/going-to-california/</guid>
+				<description>&lt;p&gt;I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Erenshor -- EverQuest for soloers</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/erenshor-everquest-for-soloers/</link>
+				<pubDate>Wed, 28 Aug 2024 08:18:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/erenshor-everquest-for-soloers/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s not an MMO, it&amp;rsquo;s an MMO simulator where you can handpick the party of your dreams and clear dungeons, kill bosses, and find uber lewtz.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Twitch Drops: Why?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/twitch-drops-why/</link>
+				<pubDate>Tue, 27 Aug 2024 07:48:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/twitch-drops-why/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s an army of low-effort streamers playing commercials to hundreds of hidden browser tabs.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Building Thunderjaw — Day 1</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</link>
+				<pubDate>Mon, 26 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</guid>
+				<description>&lt;p&gt;My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo 2024: Adventure Awaits</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
+				<pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
+				<description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nexus: Kingdom of the Wind</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</link>
+				<pubDate>Sat, 24 Aug 2024 18:16:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/nexus-kingdom-of-the-wind/</guid>
+				<description>&lt;p&gt;Most people have never heard of NexusTK. Some people maybe heard of it long ago. It&amp;rsquo;s different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest: Five Epic Tales</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/epic-experiences-in-everquest/</link>
+				<pubDate>Fri, 23 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/epic-experiences-in-everquest/</guid>
+				<description>&lt;p&gt;There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here&amp;rsquo;s five EverQuest stories about mine.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PS2 RPGs: Quick Reviews</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</link>
+				<pubDate>Thu, 22 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</guid>
+				<description>&lt;p&gt;You&amp;rsquo;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crushbone on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/crushbone/</link>
-    <description>Recent content in Crushbone on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 11:32:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/crushbone/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Champions of Norrath playthrough: Act 1, Kelethin</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-act-1-kelethin/</link>
-      <pubDate>Fri, 01 May 2020 11:32:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-act-1-kelethin/</guid>
-      <description>&lt;p&gt;My post yesterday made me want to play EverQuest again. But one of the last things I want to do in gaming, is to play&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crushbone&#39;s Revenge video trailer!</title>
-      <link>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenge-video-trailer/</link>
-      <pubDate>Mon, 29 Dec 2014 22:44:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenge-video-trailer/</guid>
-      <description>&lt;p&gt;It was suggested that, these days, it might not be a bad idea to make a little video about your new Foundry quests&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crushbone Revenge&#39;s v1.2 patch notes</title>
-      <link>https://tipa16384.github.io/wkblog/2014/12/crushbone-revenges-v1.2-patch-notes/</link>
-      <pubDate>Fri, 26 Dec 2014 22:00:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/12/crushbone-revenges-v1.2-patch-notes/</guid>
-      <description>&lt;p&gt;Lanys hard adds actually made hard&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crushbone&#39;s Revenge&#39;s first day live...</title>
-      <link>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenges-first-day-live.../</link>
-      <pubDate>Tue, 23 Dec 2014 14:06:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenges-first-day-live.../</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Could Crushbone&#39;s Revenge be finished?</title>
-      <link>https://tipa16384.github.io/wkblog/2014/12/could-crushbones-revenge-be-finished/</link>
-      <pubDate>Sun, 21 Dec 2014 00:53:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/12/could-crushbones-revenge-be-finished/</guid>
-      <description>&lt;p&gt;Now, this IS relevant to EverQuest. I think I&amp;rsquo;m just about finished with Crushbone&amp;rsquo;s Revenge, the sort of sequel to Tempest in a Freepot. You&amp;rsquo;re&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crushbone&#39;s Revenge almost finished.</title>
-      <link>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenge-almost-finished./</link>
-      <pubDate>Wed, 17 Dec 2014 16:35:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenge-almost-finished./</guid>
-      <description>&lt;p&gt;Still figuring out what Ello is for&amp;hellip; slow at work today, new projects are being specced but this close to the end of the year&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Designing &#34;Crushbone Arena&#34;</title>
-      <link>https://tipa16384.github.io/wkblog/2014/08/designing-crushbone-arena/</link>
-      <pubDate>Mon, 25 Aug 2014 07:31:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/08/designing-crushbone-arena/</guid>
-      <description>&lt;p&gt;Tomorrow, the first batch of Cult of the Dragon foundry quests will go live. I don&amp;rsquo;t know when mine will show, or if it will&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Crushbone on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/crushbone/</link>
+		<description>Recent content in Crushbone on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 01 May 2020 11:32:28 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/crushbone/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Champions of Norrath playthrough: Act 1, Kelethin</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-chapter-1-kelethin/</link>
+				<pubDate>Fri, 01 May 2020 11:32:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/champions-of-norrath-playthrough-chapter-1-kelethin/</guid>
+				<description>&lt;p&gt;My post yesterday made me want to play EverQuest again. But one of the last things I want to do in gaming, is to play&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crushbone&#39;s Revenge video trailer!</title>
+				<link>https://tipa16384.github.io/wkblog/2014/12/it-was-suggested-that-these-days-it-might-not-be-a-bad-idea-to-make-a-little-video-about-your-new/</link>
+				<pubDate>Mon, 29 Dec 2014 22:44:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/12/it-was-suggested-that-these-days-it-might-not-be-a-bad-idea-to-make-a-little-video-about-your-new/</guid>
+				<description>&lt;p&gt;It was suggested that, these days, it might not be a bad idea to make a little video about your new Foundry quests&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crushbone Revenge&#39;s v1.2 patch notes</title>
+				<link>https://tipa16384.github.io/wkblog/2014/12/crushbone-revenges-v1-2-patch-notes/</link>
+				<pubDate>Fri, 26 Dec 2014 22:00:51 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/12/crushbone-revenges-v1-2-patch-notes/</guid>
+				<description>&lt;p&gt;Lanys hard adds actually made hard&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crushbone&#39;s Revenge&#39;s first day live...</title>
+				<link>https://tipa16384.github.io/wkblog/2014/12/hey-hey-magical-sleigh-i-didnt-get-this-last-year-because-i-was-saving-up-for-the-frost-mimic/</link>
+				<pubDate>Tue, 23 Dec 2014 14:06:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/12/hey-hey-magical-sleigh-i-didnt-get-this-last-year-because-i-was-saving-up-for-the-frost-mimic/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Could Crushbone&#39;s Revenge be finished?</title>
+				<link>https://tipa16384.github.io/wkblog/2014/12/could-crushbones-revenge-be-finished/</link>
+				<pubDate>Sun, 21 Dec 2014 00:53:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/12/could-crushbones-revenge-be-finished/</guid>
+				<description>&lt;p&gt;Now, this IS relevant to EverQuest. I think I&amp;rsquo;m just about finished with Crushbone&amp;rsquo;s Revenge, the sort of sequel to Tempest in a Freepot. You&amp;rsquo;re&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crushbone&#39;s Revenge almost finished.</title>
+				<link>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenge-almost-finished/</link>
+				<pubDate>Wed, 17 Dec 2014 16:35:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/12/crushbones-revenge-almost-finished/</guid>
+				<description>&lt;p&gt;Still figuring out what Ello is for&amp;hellip; slow at work today, new projects are being specced but this close to the end of the year&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Designing &#34;Crushbone Arena&#34;</title>
+				<link>https://tipa16384.github.io/wkblog/2014/08/designing-crushbone-arena/</link>
+				<pubDate>Mon, 25 Aug 2014 07:31:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/08/designing-crushbone-arena/</guid>
+				<description>&lt;p&gt;Tomorrow, the first batch of Cult of the Dragon foundry quests will go live. I don&amp;rsquo;t know when mine will show, or if it will&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

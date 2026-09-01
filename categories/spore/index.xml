@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Spore on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/spore/</link>
-    <description>Recent content in Spore on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2009 07:30:24 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/spore/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Daily Blogroll 5/5 -- Five by Five edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/05/daily-blogroll-5/5--five-by-five-edition/</link>
-      <pubDate>Tue, 05 May 2009 07:30:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/05/daily-blogroll-5/5--five-by-five-edition/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a gray, rainy day today, perfect time to stay home and game a little&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spore: a tiny planet circling an unassuming star</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/spore-a-tiny-planet-circling-an-unassuming-star/</link>
-      <pubDate>Thu, 18 Sep 2008 14:00:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/spore-a-tiny-planet-circling-an-unassuming-star/</guid>
-      <description>&lt;p&gt;I was exploring further up the galactic arm that is home to my main system, when after a small gap in the arm (easily bridged&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spore, the Widget</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/spore-the-widget/</link>
-      <pubDate>Thu, 11 Sep 2008 01:22:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/spore-the-widget/</guid>
-      <description>&lt;p&gt;I promise, after this, no more Spore posts&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spore: Final Thoughts</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/spore-final-thoughts/</link>
-      <pubDate>Wed, 10 Sep 2008 15:43:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/spore-final-thoughts/</guid>
-      <description>&lt;p&gt;Baby Diver looks for food, flagella and true love in the primordial goo of Spore&amp;rsquo;s Cell Phase&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spore again...</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/spore-again.../</link>
-      <pubDate>Tue, 09 Sep 2008 09:41:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/spore-again.../</guid>
-      <description>&lt;p&gt;I know, you want to see pictures :/ But when I&amp;rsquo;m home, I&amp;rsquo;m playing Spore! I&amp;rsquo;ll put some up tonight. If you have Spore, you&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spore: Short, short impressions</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/spore-short-short-impressions/</link>
-      <pubDate>Mon, 08 Sep 2008 10:20:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/spore-short-short-impressions/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here&amp;rsquo;s&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Spore on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/spore/</link>
+		<description>Recent content in Spore on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 05 May 2009 07:30:24 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/spore/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Daily Blogroll 5/5 -- Five by Five edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/05/daly-blogroll-55-five-by-five-edition/</link>
+				<pubDate>Tue, 05 May 2009 07:30:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/05/daly-blogroll-55-five-by-five-edition/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a gray, rainy day today, perfect time to stay home and game a little&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Spore: a tiny planet circling an unassuming star</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/spore-a-tiny-planet-circling-an-unassuming-star/</link>
+				<pubDate>Thu, 18 Sep 2008 14:00:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/spore-a-tiny-planet-circling-an-unassuming-star/</guid>
+				<description>&lt;p&gt;I was exploring further up the galactic arm that is home to my main system, when after a small gap in the arm (easily bridged&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Spore, the Widget</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/spore-the-widget/</link>
+				<pubDate>Thu, 11 Sep 2008 01:22:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/spore-the-widget/</guid>
+				<description>&lt;p&gt;I promise, after this, no more Spore posts&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Spore: Final Thoughts</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/spore-final-thoughts/</link>
+				<pubDate>Wed, 10 Sep 2008 15:43:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/spore-final-thoughts/</guid>
+				<description>&lt;p&gt;Baby Diver looks for food, flagella and true love in the primordial goo of Spore&amp;rsquo;s Cell Phase&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Spore again...</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/spore-again/</link>
+				<pubDate>Tue, 09 Sep 2008 09:41:19 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/spore-again/</guid>
+				<description>&lt;p&gt;I know, you want to see pictures :/ But when I&amp;rsquo;m home, I&amp;rsquo;m playing Spore! I&amp;rsquo;ll put some up tonight. If you have Spore, you&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Spore: Short, short impressions</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/spore-short-short-impressions/</link>
+				<pubDate>Mon, 08 Sep 2008 10:20:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/spore-short-short-impressions/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here&amp;rsquo;s&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

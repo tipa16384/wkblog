@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Simcity 3 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/simcity-3/</link>
-    <description>Recent content in Simcity 3 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2013 21:48:08 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/simcity-3/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SimCity 2013: Too Big To Fail?</title>
-      <link>https://tipa16384.github.io/wkblog/2013/03/simcity-2013-too-big-to-fail/</link>
-      <pubDate>Tue, 05 Mar 2013 21:48:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2013/03/simcity-2013-too-big-to-fail/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m pretty sure that, sitting on my old Mac SE/30 in the living room, is an old copy of the first SimCity. Or if not&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Simcity 3 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/simcity-3/</link>
+		<description>Recent content in Simcity 3 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 05 Mar 2013 21:48:08 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/simcity-3/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SimCity 2013: Too Big To Fail?</title>
+				<link>https://tipa16384.github.io/wkblog/2013/03/simcity-3-too-big-to-fail/</link>
+				<pubDate>Tue, 05 Mar 2013 21:48:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2013/03/simcity-3-too-big-to-fail/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m pretty sure that, sitting on my old Mac SE/30 in the living room, is an old copy of the first SimCity. Or if not&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

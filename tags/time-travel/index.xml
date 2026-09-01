@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Time Travel on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/time-travel/</link>
-    <description>Recent content in Time Travel on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 Aug 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/time-travel/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The 27th Chamber: A Game about Time</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</link>
-      <pubDate>Sat, 27 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</guid>
-      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online: S2E5 &#34;Night of the Comet&#34; (spoilers)</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e5-night-of-the-comet-spoilers/</link>
-      <pubDate>Sun, 14 Nov 2010 01:55:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e5-night-of-the-comet-spoilers/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online: S2E4 &#34;Everything Old is New Again&#34;</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e4-everything-old-is-new-again/</link>
-      <pubDate>Sun, 07 Nov 2010 19:51:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e4-everything-old-is-new-again/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online: What Lies Beneath</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-what-lies-beneath/</link>
-      <pubDate>Fri, 05 Nov 2010 07:04:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-what-lies-beneath/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Time Travel on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/time-travel/</link>
+		<description>Recent content in Time Travel on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 27 Aug 2022 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/time-travel/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The 27th Chamber: A Game about Time</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</link>
+				<pubDate>Sat, 27 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</guid>
+				<description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online: S2E5 &#34;Night of the Comet&#34; (spoilers)</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e5-night-of-the-comet-spoilers/</link>
+				<pubDate>Sun, 14 Nov 2010 01:55:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e5-night-of-the-comet-spoilers/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online: S2E4 &#34;Everything Old is New Again&#34;</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e4-everything-old-is-new-again/</link>
+				<pubDate>Sun, 07 Nov 2010 19:51:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-s2e4-everything-old-is-new-again/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online: What Lies Beneath</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-what-lies-beneath/</link>
+				<pubDate>Fri, 05 Nov 2010 07:04:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-what-lies-beneath/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

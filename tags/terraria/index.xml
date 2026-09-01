@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Terraria on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/terraria/</link>
-    <description>Recent content in Terraria on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/terraria/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Palworld Does What Nintendon&#39;t. Again.</title>
-      <link>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont.-again./</link>
-      <pubDate>Tue, 01 Jul 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont.-again./</guid>
-      <description>&lt;p&gt;Palworld&amp;rsquo;s new update does more than let your Pals become their true selves. There&amp;rsquo;s also fishing. And, almost forgot, a portal to the world of Terraria!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Terraria on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/terraria/</link>
+		<description>Recent content in Terraria on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 01 Jul 2025 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/terraria/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Palworld Does What Nintendon&#39;t. Again.</title>
+				<link>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont-again/</link>
+				<pubDate>Tue, 01 Jul 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont-again/</guid>
+				<description>&lt;p&gt;Palworld&amp;rsquo;s new update does more than let your Pals become their true selves. There&amp;rsquo;s also fishing. And, almost forgot, a portal to the world of Terraria!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

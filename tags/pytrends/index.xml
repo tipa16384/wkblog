@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pytrends on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/pytrends/</link>
-    <description>Recent content in Pytrends on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 12 Aug 2021 23:42:37 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/pytrends/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Most Interesting MMO in the USA, Part Deux.</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-mmo-in-the-usa-part-deux./</link>
-      <pubDate>Thu, 12 Aug 2021 23:42:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-mmo-in-the-usa-part-deux./</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve just spent the entire night with my hands deep in the guts of the Google Trends API and the Python package that calls it&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Most Interesting Game of All Time!</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-game-of-all-time/</link>
-      <pubDate>Wed, 11 Aug 2021 22:44:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-game-of-all-time/</guid>
-      <description>&lt;p&gt;I was playing around with Google Trends last week, trying to see how a few MMOs compared to each on the &amp;lsquo;Trends. It was fun&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Pytrends on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/pytrends/</link>
+		<description>Recent content in Pytrends on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 12 Aug 2021 23:42:37 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/pytrends/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Most Interesting MMO in the USA, Part Deux.</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-mmo-in-the-usa-part-deux/</link>
+				<pubDate>Thu, 12 Aug 2021 23:42:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-mmo-in-the-usa-part-deux/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve just spent the entire night with my hands deep in the guts of the Google Trends API and the Python package that calls it&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Most Interesting Game of All Time!</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-game-of-all-time/</link>
+				<pubDate>Wed, 11 Aug 2021 22:44:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/the-most-interesting-game-of-all-time/</guid>
+				<description>&lt;p&gt;I was playing around with Google Trends last week, trying to see how a few MMOs compared to each on the &amp;lsquo;Trends. It was fun&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

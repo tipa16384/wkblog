@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Topdeck Automat on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/topdeck-automat/</link>
-    <description>Recent content in Topdeck Automat on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 10:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/topdeck-automat/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Preview: Topdeck Automat</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</link>
-      <pubDate>Wed, 25 Mar 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</guid>
-      <description>&lt;p&gt;A fun, quick engine building card battler that has you as a humble printer bot single-handedly battling an alien invasion. As one does.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Topdeck Automat on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/topdeck-automat/</link>
+		<description>Recent content in Topdeck Automat on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 25 Mar 2026 10:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/topdeck-automat/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Preview: Topdeck Automat</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</link>
+				<pubDate>Wed, 25 Mar 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</guid>
+				<description>&lt;p&gt;A fun, quick engine building card battler that has you as a humble printer bot single-handedly battling an alien invasion. As one does.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

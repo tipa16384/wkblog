@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rise Eterna on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rise-eterna/</link>
-    <description>Recent content in Rise Eterna on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jul 2021 23:01:10 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rise-eterna/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rise Eterna</title>
-      <link>https://tipa16384.github.io/wkblog/2021/07/rise-eterna/</link>
-      <pubDate>Tue, 20 Jul 2021 23:01:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/07/rise-eterna/</guid>
-      <description>&lt;p&gt;Rise Eterna claims to be a modern successor to the legendary tactical rpgs of the past. Can Rise Eterna really wear Final Fantasy Tactics&amp;rsquo; crown?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rise Eterna on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/rise-eterna/</link>
+		<description>Recent content in Rise Eterna on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Jul 2021 23:01:10 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/rise-eterna/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rise Eterna</title>
+				<link>https://tipa16384.github.io/wkblog/2021/07/rise-eterna/</link>
+				<pubDate>Tue, 20 Jul 2021 23:01:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/07/rise-eterna/</guid>
+				<description>&lt;p&gt;Rise Eterna claims to be a modern successor to the legendary tactical rpgs of the past. Can Rise Eterna really wear Final Fantasy Tactics&amp;rsquo; crown?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

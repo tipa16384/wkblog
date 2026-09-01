@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Swan Lake Basin on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/swan-lake-basin/</link>
-    <description>Recent content in Swan Lake Basin on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2008 10:09:02 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/swan-lake-basin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DOMO: Train to Zone!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</link>
-      <pubDate>Thu, 18 Dec 2008 10:09:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</guid>
-      <description>&lt;p&gt;They say you can&amp;rsquo;t polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Swan Lake Basin on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/swan-lake-basin/</link>
+		<description>Recent content in Swan Lake Basin on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Dec 2008 10:09:02 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/swan-lake-basin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DOMO: Train to Zone!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</link>
+				<pubDate>Thu, 18 Dec 2008 10:09:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</guid>
+				<description>&lt;p&gt;They say you can&amp;rsquo;t polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

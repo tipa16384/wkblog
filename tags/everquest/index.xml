@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>EverQuest on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/everquest/</link>
-    <description>Recent content in EverQuest on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2008 13:29:35 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/everquest/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ: Nostalgia enters Vex Thal!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</link>
-      <pubDate>Sat, 01 Nov 2008 13:29:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</guid>
-      <description>&lt;p&gt;Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;rsquo;t have&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: The Bastion of Thunder</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</link>
-      <pubDate>Sat, 25 Oct 2008 08:48:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</guid>
-      <description>&lt;p&gt;Because FRAPS conked out on me, and I didn&amp;rsquo;t notice until after. there&amp;rsquo;s no screen shots of our night in the Bastion of Thunder&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: October 7 update patch notes</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-october-7-update-patch-notes/</link>
-      <pubDate>Wed, 08 Oct 2008 12:00:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-october-7-update-patch-notes/</guid>
-      <description>&lt;p&gt;Reader and guildmate Egat pointed out that not only EverQuest 2 patched yesterday &amp;ndash; so did its daddy, EverQuest. Here&amp;rsquo;s the patch notes, along with&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: Oceangreen Hills and Oceangreen Village</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</link>
-      <pubDate>Wed, 08 Oct 2008 10:00:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll say straight out that I can be slow sometimes. Even after all the clues from the last update, even after I knew that the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Deep Ones</title>
-      <link>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</link>
-      <pubDate>Fri, 12 Oct 2007 12:24:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</guid>
-      <description>&lt;p&gt;And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>EverQuest on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/everquest/</link>
+		<description>Recent content in EverQuest on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 01 Nov 2008 13:29:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/everquest/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ: Nostalgia enters Vex Thal!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</link>
+				<pubDate>Sat, 01 Nov 2008 13:29:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</guid>
+				<description>&lt;p&gt;Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;rsquo;t have&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: The Bastion of Thunder</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</link>
+				<pubDate>Sat, 25 Oct 2008 08:48:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</guid>
+				<description>&lt;p&gt;Because FRAPS conked out on me, and I didn&amp;rsquo;t notice until after. there&amp;rsquo;s no screen shots of our night in the Bastion of Thunder&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: October 7 update patch notes</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-october-7-update-patch-notes/</link>
+				<pubDate>Wed, 08 Oct 2008 12:00:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-october-7-update-patch-notes/</guid>
+				<description>&lt;p&gt;Reader and guildmate Egat pointed out that not only EverQuest 2 patched yesterday &amp;ndash; so did its daddy, EverQuest. Here&amp;rsquo;s the patch notes, along with&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: Oceangreen Hills and Oceangreen Village</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</link>
+				<pubDate>Wed, 08 Oct 2008 10:00:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll say straight out that I can be slow sometimes. Even after all the clues from the last update, even after I knew that the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Deep Ones</title>
+				<link>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</link>
+				<pubDate>Fri, 12 Oct 2007 12:24:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/10/the-deep-ones/</guid>
+				<description>&lt;p&gt;And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

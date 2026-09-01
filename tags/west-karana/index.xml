@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>West Karana on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/west-karana/</link>
-    <description>Recent content in West Karana on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 08:46:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/west-karana/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Taking Control of my Skeets and Toots</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/taking-control-of-my-skeets-and-toots/</link>
-      <pubDate>Thu, 16 Oct 2025 08:46:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/taking-control-of-my-skeets-and-toots/</guid>
-      <description>&lt;p&gt;I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I&amp;rsquo;m using WordLand to control my social media.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/not-gonna-lose-my-blog-backups-saved-me-once-and-will-save-me-again/</link>
-      <pubDate>Mon, 05 Aug 2024 08:29:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/not-gonna-lose-my-blog-backups-saved-me-once-and-will-save-me-again/</guid>
-      <description>&lt;p&gt;I lost my blog. Backups saved me. Now I&amp;rsquo;m taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blaugust 2022: Staying (un)Motivated</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</link>
-      <pubDate>Mon, 29 Aug 2022 21:33:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</guid>
-      <description>&lt;p&gt;Keeping a blog alive is a lot of pressure. Wouldn&amp;rsquo;t it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chasing Dings! goes to West Karana</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</link>
-      <pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</guid>
-      <description>&lt;p&gt;I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resurrecting West Karana</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</link>
-      <pubDate>Wed, 01 Sep 2021 07:48:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</guid>
-      <description>&lt;p&gt;I was fascinated by UltrViolet&amp;rsquo;s DevOps-ification of his blog, &amp;ldquo;Endgame Viable&amp;rdquo;. The sort of stuff he&amp;rsquo;s doing is the sort of stuff I do every&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>West Karana on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/west-karana/</link>
+		<description>Recent content in West Karana on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 16 Oct 2025 08:46:20 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/west-karana/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Taking Control of my Skeets and Toots</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/taking-control-of-my-skeets-and-toots/</link>
+				<pubDate>Thu, 16 Oct 2025 08:46:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/taking-control-of-my-skeets-and-toots/</guid>
+				<description>&lt;p&gt;I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I&amp;rsquo;m using WordLand to control my social media.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/not-gonna-lose-my-blog-again/</link>
+				<pubDate>Mon, 05 Aug 2024 08:29:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/not-gonna-lose-my-blog-again/</guid>
+				<description>&lt;p&gt;I lost my blog. Backups saved me. Now I&amp;rsquo;m taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blaugust 2022: Staying (un)Motivated</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</link>
+				<pubDate>Mon, 29 Aug 2022 21:33:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</guid>
+				<description>&lt;p&gt;Keeping a blog alive is a lot of pressure. Wouldn&amp;rsquo;t it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chasing Dings! goes to West Karana</title>
+				<link>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</link>
+				<pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</guid>
+				<description>&lt;p&gt;I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Resurrecting West Karana</title>
+				<link>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</link>
+				<pubDate>Wed, 01 Sep 2021 07:48:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</guid>
+				<description>&lt;p&gt;I was fascinated by UltrViolet&amp;rsquo;s DevOps-ification of his blog, &amp;ldquo;Endgame Viable&amp;rdquo;. The sort of stuff he&amp;rsquo;s doing is the sort of stuff I do every&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

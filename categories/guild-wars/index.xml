@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Guild Wars on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/guild-wars/</link>
-    <description>Recent content in Guild Wars on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Dec 2025 08:25:57 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/guild-wars/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Mon, 15 Dec 2025 08:25:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;Time for another round-up of my recent gaming adventures.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GW2: She&#39;s Found the Altar to Balthazar</title>
-      <link>https://tipa16384.github.io/wkblog/2025/06/gw2-shes-found-the-altar-to-balthazar/</link>
-      <pubDate>Mon, 02 Jun 2025 08:45:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/06/gw2-shes-found-the-altar-to-balthazar/</guid>
-      <description>&lt;p&gt;He&amp;rsquo;s found the saucer news. Don&amp;rsquo;t report this. The end of Path of Fire was a thing that happened.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amounting to something in Guild Wars 2</title>
-      <link>https://tipa16384.github.io/wkblog/2025/05/amounting-to-something-in-guild-wars-2/</link>
-      <pubDate>Fri, 30 May 2025 18:40:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/05/amounting-to-something-in-guild-wars-2/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s about mounts. In Guild Wars 2.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GW2: I TAMED A SKYSCALE!*</title>
-      <link>https://tipa16384.github.io/wkblog/2025/05/gw2-i-tamed-a-skyscale/</link>
-      <pubDate>Tue, 06 May 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/05/gw2-i-tamed-a-skyscale/</guid>
-      <description>&lt;p&gt;*Well, it was a team effort.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Mon, 06 Jan 2025 08:16:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;This weekend was a little time in a lot of games. There&amp;rsquo;s a game or two in here you might not have heard of.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best of 2024: My Favorite MMOs</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-my-favorite-mmos/</link>
-      <pubDate>Sat, 04 Jan 2025 16:46:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-my-favorite-mmos/</guid>
-      <description>&lt;p&gt;I played a few MMOs this past year. Here&amp;rsquo;s some of my favorites, including two from way back when.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</link>
-      <pubDate>Mon, 09 Sep 2024 08:13:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</guid>
-      <description>&lt;p&gt;I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GW2: Unmounted Asura ISO Skyscale</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</link>
-      <pubDate>Mon, 06 Nov 2023 07:34:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</guid>
-      <description>&lt;p&gt;All my friends have skyscales and I am jealous and also lazy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Guild Wars 2: Dragon in Waiting</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/guild-wars-2-dragon-in-waiting/</link>
-      <pubDate>Mon, 02 Oct 2023 08:15:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/guild-wars-2-dragon-in-waiting/</guid>
-      <description>&lt;p&gt;After a decade or so of playing Guild Wars 2, I&amp;rsquo;m finally working on my character&amp;rsquo;s personal quest &amp;ndash; to save the world, and then rule it. Tonight: Chapter 6, &amp;ldquo;Retribution&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Hydaelyn to Veeshan: A Tribute to Creators</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/from-hydaelyn-to-veeshan-a-tribute-to-creators/</link>
-      <pubDate>Wed, 16 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/from-hydaelyn-to-veeshan-a-tribute-to-creators/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s creator appreciation week, and I&amp;rsquo;m appreciating the creation myths of the most popular MMOs in the world!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Guild Wars on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/guild-wars/</link>
+		<description>Recent content in Guild Wars on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 15 Dec 2025 08:25:57 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/guild-wars/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend-6/</link>
+				<pubDate>Mon, 15 Dec 2025 08:25:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend-6/</guid>
+				<description>&lt;p&gt;Time for another round-up of my recent gaming adventures.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GW2: She&#39;s Found the Altar to Balthazar</title>
+				<link>https://tipa16384.github.io/wkblog/2025/06/gw2-shes-found-the-altar-to-balthazar/</link>
+				<pubDate>Mon, 02 Jun 2025 08:45:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/06/gw2-shes-found-the-altar-to-balthazar/</guid>
+				<description>&lt;p&gt;He&amp;rsquo;s found the saucer news. Don&amp;rsquo;t report this. The end of Path of Fire was a thing that happened.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Amounting to something in Guild Wars 2</title>
+				<link>https://tipa16384.github.io/wkblog/2025/05/amounting-to-something-in-guild-wars-2/</link>
+				<pubDate>Fri, 30 May 2025 18:40:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/05/amounting-to-something-in-guild-wars-2/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s about mounts. In Guild Wars 2.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GW2: I TAMED A SKYSCALE!*</title>
+				<link>https://tipa16384.github.io/wkblog/2025/05/gw2-i-tamed-a-skyscale/</link>
+				<pubDate>Tue, 06 May 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/05/gw2-i-tamed-a-skyscale/</guid>
+				<description>&lt;p&gt;*Well, it was a team effort.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/i-know-what-i-did-last-weekend/</link>
+				<pubDate>Mon, 06 Jan 2025 08:16:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/i-know-what-i-did-last-weekend/</guid>
+				<description>&lt;p&gt;This weekend was a little time in a lot of games. There&amp;rsquo;s a game or two in here you might not have heard of.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Best of 2024: My Favorite MMOs</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-my-favorite-mmos/</link>
+				<pubDate>Sat, 04 Jan 2025 16:46:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-my-favorite-mmos/</guid>
+				<description>&lt;p&gt;I played a few MMOs this past year. Here&amp;rsquo;s some of my favorites, including two from way back when.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</link>
+				<pubDate>Mon, 09 Sep 2024 08:13:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</guid>
+				<description>&lt;p&gt;I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>GW2: Unmounted Asura ISO Skyscale</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</link>
+				<pubDate>Mon, 06 Nov 2023 07:34:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/gw2-unmounted-asura-iso-skyscale/</guid>
+				<description>&lt;p&gt;All my friends have skyscales and I am jealous and also lazy.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Guild Wars 2: Dragon in Waiting</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/guild-wars-2-dragon-in-waiting/</link>
+				<pubDate>Mon, 02 Oct 2023 08:15:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/guild-wars-2-dragon-in-waiting/</guid>
+				<description>&lt;p&gt;After a decade or so of playing Guild Wars 2, I&amp;rsquo;m finally working on my character&amp;rsquo;s personal quest &amp;ndash; to save the world, and then rule it. Tonight: Chapter 6, &amp;ldquo;Retribution&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>From Hydaelyn to Veeshan: A Tribute to Creators</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/a-tribute-to-creators/</link>
+				<pubDate>Wed, 16 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/a-tribute-to-creators/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s creator appreciation week, and I&amp;rsquo;m appreciating the creation myths of the most popular MMOs in the world!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

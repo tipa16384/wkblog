@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Generative AI on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/generative-ai/</link>
-    <description>Recent content in Generative AI on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 08:14:05 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/generative-ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Does AI need to be in EVERYTHING?</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/does-ai-need-to-be-in-everything/</link>
-      <pubDate>Mon, 10 Nov 2025 08:14:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/does-ai-need-to-be-in-everything/</guid>
-      <description>&lt;p&gt;Billionaires want you to become so dependent on AI that they finally get what they really want &amp;ndash; complete control over your life.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How To Fail at Writing A Game in 7 Days</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</link>
-      <pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</guid>
-      <description>&lt;p&gt;Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code 2024: The First Week</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
-      <pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
-      <description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Upping my game with AI</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/upping-my-game-with-ai/</link>
-      <pubDate>Thu, 12 Sep 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/upping-my-game-with-ai/</guid>
-      <description>&lt;p&gt;Designing better game streams with AI feedback—turning creative ideas into reality.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI has transformed the way I code</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</link>
-      <pubDate>Sat, 10 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</guid>
-      <description>&lt;p&gt;Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it&amp;rsquo;s here to stay.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Did a robot write this?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/did-a-robot-write-this/</link>
-      <pubDate>Thu, 08 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/did-a-robot-write-this/</guid>
-      <description>&lt;p&gt;When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Midjourney goes Web</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</link>
-      <pubDate>Fri, 17 May 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</guid>
-      <description>&lt;p&gt;Midjourney has famously relied upon the Discord app to be the front end to its image generation AI. But now, all you need is a browser and a prompt.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Generative AI on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/generative-ai/</link>
+		<description>Recent content in Generative AI on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 10 Nov 2025 08:14:05 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/generative-ai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Does AI need to be in EVERYTHING?</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/does-ai-need-to-be-in-everything/</link>
+				<pubDate>Mon, 10 Nov 2025 08:14:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/does-ai-need-to-be-in-everything/</guid>
+				<description>&lt;p&gt;Billionaires want you to become so dependent on AI that they finally get what they really want &amp;ndash; complete control over your life.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How To Fail at Writing A Game in 7 Days</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</link>
+				<pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</guid>
+				<description>&lt;p&gt;Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code 2024: The First Week</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
+				<pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
+				<description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Upping my game with AI</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/upping-my-game-with-ai/</link>
+				<pubDate>Thu, 12 Sep 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/upping-my-game-with-ai/</guid>
+				<description>&lt;p&gt;Designing better game streams with AI feedback—turning creative ideas into reality.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AI has transformed the way I code</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</link>
+				<pubDate>Sat, 10 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</guid>
+				<description>&lt;p&gt;Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it&amp;rsquo;s here to stay.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Did a robot write this?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/did-a-robot-write-this/</link>
+				<pubDate>Thu, 08 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/did-a-robot-write-this/</guid>
+				<description>&lt;p&gt;When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Midjourney goes Web</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</link>
+				<pubDate>Fri, 17 May 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/midjourney-goes-web/</guid>
+				<description>&lt;p&gt;Midjourney has famously relied upon the Discord app to be the front end to its image generation AI. But now, all you need is a browser and a prompt.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

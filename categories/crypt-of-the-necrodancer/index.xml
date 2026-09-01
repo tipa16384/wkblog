@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crypt of the Necrodancer on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/crypt-of-the-necrodancer/</link>
-    <description>Recent content in Crypt of the Necrodancer on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2015 20:58:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/crypt-of-the-necrodancer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Crypt of the NecroDancer: King Conga</title>
-      <link>https://tipa16384.github.io/wkblog/2015/01/crypt-of-the-necrodancer-king-conga/</link>
-      <pubDate>Thu, 01 Jan 2015 20:58:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/01/crypt-of-the-necrodancer-king-conga/</guid>
-      <description>&lt;p&gt;Finally got far enough in Crypt of the NecroDancer to hit my first chapter boss, King Conga. You have to move according to the conga&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Crypt of the Necrodancer on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/crypt-of-the-necrodancer/</link>
+		<description>Recent content in Crypt of the Necrodancer on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Jan 2015 20:58:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/crypt-of-the-necrodancer/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Crypt of the NecroDancer: King Conga</title>
+				<link>https://tipa16384.github.io/wkblog/2015/01/finally-got-far-enough-in-crypt-of-the-necrodancer-to-hit-my-first-chapter-boss-king-conga-you-have/</link>
+				<pubDate>Thu, 01 Jan 2015 20:58:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/01/finally-got-far-enough-in-crypt-of-the-necrodancer-to-hit-my-first-chapter-boss-king-conga-you-have/</guid>
+				<description>&lt;p&gt;Finally got far enough in Crypt of the NecroDancer to hit my first chapter boss, King Conga. You have to move according to the conga&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bowser on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/bowser/</link>
-    <description>Recent content in Bowser on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 19:45:36 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/bowser/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>8 Bit Love - The Princess and the Plumber</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/8-bit-love-the-princess-and-the-plumber/</link>
-      <pubDate>Mon, 08 Aug 2022 19:45:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/8-bit-love-the-princess-and-the-plumber/</guid>
-      <description>&lt;p&gt;Join Mario, Link, and Dirk in their fight to save Princess Toadstool from a life of misery with Bowser. Will they be able to get through to her? Or will she stay with the monster she loves? Find out in this heart-pounding adventure!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Bowser on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/bowser/</link>
+		<description>Recent content in Bowser on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 08 Aug 2022 19:45:36 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/bowser/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>8 Bit Love - The Princess and the Plumber</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/8-bit-love-the-princess-and-the-plumber/</link>
+				<pubDate>Mon, 08 Aug 2022 19:45:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/8-bit-love-the-princess-and-the-plumber/</guid>
+				<description>&lt;p&gt;Join Mario, Link, and Dirk in their fight to save Princess Toadstool from a life of misery with Bowser. Will they be able to get through to her? Or will she stay with the monster she loves? Find out in this heart-pounding adventure!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

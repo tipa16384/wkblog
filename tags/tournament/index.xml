@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tournament on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/tournament/</link>
-    <description>Recent content in Tournament on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/tournament/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Malifaux-ing in Massachusetts</title>
-      <link>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massachusetts/</link>
-      <pubDate>Mon, 04 Nov 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massachusetts/</guid>
-      <description>&lt;p&gt;To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Malifaux: &#34;Fall into Faux&#34; tournament</title>
-      <link>https://tipa16384.github.io/wkblog/2024/10/malifaux-fall-into-faux-tournament/</link>
-      <pubDate>Sun, 20 Oct 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/10/malifaux-fall-into-faux-tournament/</guid>
-      <description>&lt;p&gt;This tournament was the culmination of many games and a lot of paint.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tournament on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/tournament/</link>
+		<description>Recent content in Tournament on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 04 Nov 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/tournament/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Malifaux-ing in Massachusetts</title>
+				<link>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massacusetts/</link>
+				<pubDate>Mon, 04 Nov 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massacusetts/</guid>
+				<description>&lt;p&gt;To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Malifaux: &#34;Fall into Faux&#34; tournament</title>
+				<link>https://tipa16384.github.io/wkblog/2024/10/malifaux-fall-into-faux-tournament/</link>
+				<pubDate>Sun, 20 Oct 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/10/malifaux-fall-into-faux-tournament/</guid>
+				<description>&lt;p&gt;This tournament was the culmination of many games and a lot of paint.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

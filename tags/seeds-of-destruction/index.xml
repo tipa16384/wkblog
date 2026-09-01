@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Seeds of Destruction on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/seeds-of-destruction/</link>
-    <description>Recent content in Seeds of Destruction on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Oct 2008 08:48:27 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/seeds-of-destruction/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ: The Bastion of Thunder</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</link>
-      <pubDate>Sat, 25 Oct 2008 08:48:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</guid>
-      <description>&lt;p&gt;Because FRAPS conked out on me, and I didn&amp;rsquo;t notice until after. there&amp;rsquo;s no screen shots of our night in the Bastion of Thunder&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: Seeds of Destruction: Meet Caiffin, the Merc.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-meet-caiffin-the-merc./</link>
-      <pubDate>Wed, 22 Oct 2008 00:53:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-meet-caiffin-the-merc./</guid>
-      <description>&lt;p&gt;So this screen shot entirely contains my philosophy of life. I&amp;rsquo;m in this really stormy place, and I&amp;rsquo;m fighting for my life, but some souless&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: Seeds of Destruction goes live!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-goes-live/</link>
-      <pubDate>Tue, 21 Oct 2008 11:38:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-goes-live/</guid>
-      <description>&lt;p&gt;Massively is reporting that Seeds of Destruction goes live today. Since I abandoned the high level game over a year and a half ago, closer&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: Oceangreen Hills and Oceangreen Village</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</link>
-      <pubDate>Wed, 08 Oct 2008 10:00:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll say straight out that I can be slow sometimes. Even after all the clues from the last update, even after I knew that the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: Nostalgia enters the everlovin&#39; PLANE of TIME.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-nostalgia-enters-the-everlovin-plane-of-time./</link>
-      <pubDate>Sat, 04 Oct 2008 00:26:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-nostalgia-enters-the-everlovin-plane-of-time./</guid>
-      <description>&lt;p&gt;Photoshop stitched together four screenshots to make this, automatically. Pretty neat!&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First expansion reactions</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</link>
-      <pubDate>Sat, 16 Aug 2008 11:40:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be seeing these live hopefully later today, but here&amp;rsquo;s my first reactions to the expansions&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EverQuest expansion beta registration is now open</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</link>
-      <pubDate>Thu, 07 Aug 2008 23:29:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</guid>
-      <description>&lt;p&gt;Play EverQuest? Want to get in on the ground floor for the next expansion, Seeds of Destruction? Now&amp;rsquo;s your chance to sign up to get&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Seeds of Destruction on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/seeds-of-destruction/</link>
+		<description>Recent content in Seeds of Destruction on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 25 Oct 2008 08:48:27 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/seeds-of-destruction/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ: The Bastion of Thunder</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</link>
+				<pubDate>Sat, 25 Oct 2008 08:48:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-the-bastion-of-thunder/</guid>
+				<description>&lt;p&gt;Because FRAPS conked out on me, and I didn&amp;rsquo;t notice until after. there&amp;rsquo;s no screen shots of our night in the Bastion of Thunder&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: Seeds of Destruction: Meet Caiffin, the Merc.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-meet-caiffin-the-merc/</link>
+				<pubDate>Wed, 22 Oct 2008 00:53:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-meet-caiffin-the-merc/</guid>
+				<description>&lt;p&gt;So this screen shot entirely contains my philosophy of life. I&amp;rsquo;m in this really stormy place, and I&amp;rsquo;m fighting for my life, but some souless&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: Seeds of Destruction goes live!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-goes-live/</link>
+				<pubDate>Tue, 21 Oct 2008 11:38:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-seeds-of-destruction-goes-live/</guid>
+				<description>&lt;p&gt;Massively is reporting that Seeds of Destruction goes live today. Since I abandoned the high level game over a year and a half ago, closer&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: Oceangreen Hills and Oceangreen Village</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</link>
+				<pubDate>Wed, 08 Oct 2008 10:00:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-oceangreen-hills-and-oceangreen-village/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll say straight out that I can be slow sometimes. Even after all the clues from the last update, even after I knew that the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: Nostalgia enters the everlovin&#39; PLANE of TIME.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-nostalgia-enters-the-everlovin-plane-of-time/</link>
+				<pubDate>Sat, 04 Oct 2008 00:26:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-nostalgia-enters-the-everlovin-plane-of-time/</guid>
+				<description>&lt;p&gt;Photoshop stitched together four screenshots to make this, automatically. Pretty neat!&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>First expansion reactions</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</link>
+				<pubDate>Sat, 16 Aug 2008 11:40:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll be seeing these live hopefully later today, but here&amp;rsquo;s my first reactions to the expansions&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest expansion beta registration is now open</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</link>
+				<pubDate>Thu, 07 Aug 2008 23:29:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</guid>
+				<description>&lt;p&gt;Play EverQuest? Want to get in on the ground floor for the next expansion, Seeds of Destruction? Now&amp;rsquo;s your chance to sign up to get&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

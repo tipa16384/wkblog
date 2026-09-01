@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tunnels &amp; Trolls on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/tunnels--trolls/</link>
-    <description>Recent content in Tunnels &amp; Trolls on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 08:31:57 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/tunnels--trolls/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A new Tunnels &amp;amp; Trolls? In this economy?</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/a-new-tunnels-amp-trolls-in-this-economy/</link>
-      <pubDate>Wed, 18 Feb 2026 08:31:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/a-new-tunnels-amp-trolls-in-this-economy/</guid>
-      <description>&lt;p&gt;The second (but funniest) TTRPG ever reinvents itself for the third time with Tunnels &amp;amp; Trolls: A New Age.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sword for Hire: Vertical Slice &amp;amp; Vibe Coding</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/sword-for-hire-vertical-slice-amp-vibe-coding/</link>
-      <pubDate>Mon, 17 Mar 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/sword-for-hire-vertical-slice-amp-vibe-coding/</guid>
-      <description>&lt;p&gt;When it&amp;rsquo;s mapped out, Sword for Hire isn&amp;rsquo;t as large as it looks in the book. But, it is possible to play through the game and level up.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How To Fail at Writing A Game in 7 Days</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</link>
-      <pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</guid>
-      <description>&lt;p&gt;Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tunnels &amp;amp; Trolls: Sword for Hire</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/tunnels-amp-trolls-sword-for-hire/</link>
-      <pubDate>Mon, 03 Mar 2025 08:43:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/tunnels-amp-trolls-sword-for-hire/</guid>
-      <description>&lt;p&gt;I may be committing some light copyright infringement&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tunnels &amp; Trolls on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/tunnels--trolls/</link>
+		<description>Recent content in Tunnels &amp; Trolls on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 18 Feb 2026 08:31:57 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/tunnels--trolls/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A new Tunnels &amp;amp; Trolls? In this economy?</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/a-new-tunnels-trolls-in-this-economy/</link>
+				<pubDate>Wed, 18 Feb 2026 08:31:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/a-new-tunnels-trolls-in-this-economy/</guid>
+				<description>&lt;p&gt;The second (but funniest) TTRPG ever reinvents itself for the third time with Tunnels &amp;amp; Trolls: A New Age.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sword for Hire: Vertical Slice &amp;amp; Vibe Coding</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/sword-for-hire-vertical-slice-vibe-coding/</link>
+				<pubDate>Mon, 17 Mar 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/sword-for-hire-vertical-slice-vibe-coding/</guid>
+				<description>&lt;p&gt;When it&amp;rsquo;s mapped out, Sword for Hire isn&amp;rsquo;t as large as it looks in the book. But, it is possible to play through the game and level up.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How To Fail at Writing A Game in 7 Days</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</link>
+				<pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</guid>
+				<description>&lt;p&gt;Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tunnels &amp;amp; Trolls: Sword for Hire</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/tunnels-trolls-sword-for-hire/</link>
+				<pubDate>Mon, 03 Mar 2025 08:43:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/tunnels-trolls-sword-for-hire/</guid>
+				<description>&lt;p&gt;I may be committing some light copyright infringement&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Github on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/github/</link>
-    <description>Recent content in Github on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/github/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI has transformed the way I code</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</link>
-      <pubDate>Sat, 10 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</guid>
-      <description>&lt;p&gt;Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it&amp;rsquo;s here to stay.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Non-Controversial Take on the AI Revolution</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</link>
-      <pubDate>Mon, 14 Aug 2023 08:10:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</guid>
-      <description>&lt;p&gt;At least, I haven&amp;rsquo;t heard anyone contravene my take, yet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resurrecting West Karana</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</link>
-      <pubDate>Wed, 01 Sep 2021 07:48:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</guid>
-      <description>&lt;p&gt;I was fascinated by UltrViolet&amp;rsquo;s DevOps-ification of his blog, &amp;ldquo;Endgame Viable&amp;rdquo;. The sort of stuff he&amp;rsquo;s doing is the sort of stuff I do every&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Github on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/github/</link>
+		<description>Recent content in Github on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Aug 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/github/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AI has transformed the way I code</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</link>
+				<pubDate>Sat, 10 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/ai-has-transformed-the-way-i-code/</guid>
+				<description>&lt;p&gt;Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it&amp;rsquo;s here to stay.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My Non-Controversial Take on the AI Revolution</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</link>
+				<pubDate>Mon, 14 Aug 2023 08:10:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</guid>
+				<description>&lt;p&gt;At least, I haven&amp;rsquo;t heard anyone contravene my take, yet.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Resurrecting West Karana</title>
+				<link>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</link>
+				<pubDate>Wed, 01 Sep 2021 07:48:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/09/resurrecting-west-karana/</guid>
+				<description>&lt;p&gt;I was fascinated by UltrViolet&amp;rsquo;s DevOps-ification of his blog, &amp;ldquo;Endgame Viable&amp;rdquo;. The sort of stuff he&amp;rsquo;s doing is the sort of stuff I do every&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

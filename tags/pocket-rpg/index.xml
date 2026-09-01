@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pocket RPG on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/pocket-rpg/</link>
-    <description>Recent content in Pocket RPG on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 04 Sep 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/pocket-rpg/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Still More Confessions of a Kickstarter Superbacker</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</link>
-      <pubDate>Thu, 04 Sep 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</guid>
-      <description>&lt;p&gt;Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here&amp;rsquo;s what I&amp;rsquo;m waiting for today.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Pocket RPG on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/pocket-rpg/</link>
+		<description>Recent content in Pocket RPG on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 20 May 2026 10:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/pocket-rpg/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Confessions of a Superbacker: 2026 edition</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/confessions-of-a-superbacker-2026-edition/</link>
+				<pubDate>Wed, 20 May 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/confessions-of-a-superbacker-2026-edition/</guid>
+				<description>&lt;p&gt;I was writing about this really, really cruddy KS project on the other blog and realized it&amp;rsquo;s been awhile since I talked about my unhealthy crowdfunding obsession&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Still More Confessions of a Kickstarter Superbacker</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</link>
+				<pubDate>Thu, 04 Sep 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</guid>
+				<description>&lt;p&gt;Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here&amp;rsquo;s what I&amp;rsquo;m waiting for today.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

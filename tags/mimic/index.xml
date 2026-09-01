@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mimic on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mimic/</link>
-    <description>Recent content in Mimic on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2023 00:19:01 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mimic/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>D&amp;D Session 2: Gnomengarde</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</link>
-      <pubDate>Tue, 31 Oct 2023 00:19:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</guid>
-      <description>&lt;p&gt;Our adventuring party &amp;ndash; half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes &amp;ndash; travel to the tunnel city of rock gnomes, Gnomengarde.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mimic on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/mimic/</link>
+		<description>Recent content in Mimic on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 31 Oct 2023 00:19:01 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/mimic/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>D&amp;D Session 2: Gnomengarde</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</link>
+				<pubDate>Tue, 31 Oct 2023 00:19:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</guid>
+				<description>&lt;p&gt;Our adventuring party &amp;ndash; half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes &amp;ndash; travel to the tunnel city of rock gnomes, Gnomengarde.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

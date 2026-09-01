@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Single Player on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/single-player/</link>
-    <description>Recent content in Single Player on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 05 Jul 2014 10:47:43 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/single-player/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Brothers: A Tale of Two Sons</title>
-      <link>https://tipa16384.github.io/wkblog/2014/07/brothers-a-tale-of-two-sons/</link>
-      <pubDate>Sat, 05 Jul 2014 10:47:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/07/brothers-a-tale-of-two-sons/</guid>
-      <description>&lt;p&gt;I picked Brothers: A Tale of Two Sons up during the Steam summer sale, after remembering hearing good things about it when it came out&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Recettear: Decorating y&#39;r Itemme Shoppe.</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/recettear-decorating-yr-itemme-shoppe./</link>
-      <pubDate>Sun, 12 Sep 2010 17:26:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/recettear-decorating-yr-itemme-shoppe./</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Single Player on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/single-player/</link>
+		<description>Recent content in Single Player on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 05 Jul 2014 10:47:43 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/single-player/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Brothers: A Tale of Two Sons</title>
+				<link>https://tipa16384.github.io/wkblog/2014/07/brothers-a-tale-of-two-sons/</link>
+				<pubDate>Sat, 05 Jul 2014 10:47:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/07/brothers-a-tale-of-two-sons/</guid>
+				<description>&lt;p&gt;I picked Brothers: A Tale of Two Sons up during the Steam summer sale, after remembering hearing good things about it when it came out&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Recettear: Decorating y&#39;r Itemme Shoppe.</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/recettear-decorating-yr-itemme-shoppe/</link>
+				<pubDate>Sun, 12 Sep 2010 17:26:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/recettear-decorating-yr-itemme-shoppe/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

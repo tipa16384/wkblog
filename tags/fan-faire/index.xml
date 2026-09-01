@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fan Faire on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/fan-faire/</link>
-    <description>Recent content in Fan Faire on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2008 20:51:49 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/fan-faire/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ2: New clothes for old tailors</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/eq2-new-clothes-for-old-tailors/</link>
-      <pubDate>Sat, 16 Aug 2008 20:51:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/eq2-new-clothes-for-old-tailors/</guid>
-      <description>&lt;p&gt;Just a taste of the new low level crafted outfits. They add bunches of colors for all tiers, and some real choices for leather and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More on the Fan Faire</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/more-on-the-fan-faire/</link>
-      <pubDate>Sat, 16 Aug 2008 16:48:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/more-on-the-fan-faire/</guid>
-      <description>&lt;p&gt;On the way to the EQ2 expansion panel, stopped by the room to upload some pics&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First expansion reactions</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</link>
-      <pubDate>Sat, 16 Aug 2008 11:40:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be seeing these live hopefully later today, but here&amp;rsquo;s my first reactions to the expansions&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lost in the Shadow of Destruction... or something.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/lost-in-the-shadow-of-destruction...-or-something./</link>
-      <pubDate>Sat, 16 Aug 2008 04:05:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/lost-in-the-shadow-of-destruction...-or-something./</guid>
-      <description>&lt;p&gt;Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor&amp;rsquo;s.Wait forever. Doc says, hey,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Fan Faire on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/fan-faire/</link>
+		<description>Recent content in Fan Faire on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 16 Aug 2008 20:51:49 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/fan-faire/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ2: New clothes for old tailors</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/eq2-new-clothes-for-old-tailors/</link>
+				<pubDate>Sat, 16 Aug 2008 20:51:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/eq2-new-clothes-for-old-tailors/</guid>
+				<description>&lt;p&gt;Just a taste of the new low level crafted outfits. They add bunches of colors for all tiers, and some real choices for leather and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>More on the Fan Faire</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/more-on-the-fan-faire/</link>
+				<pubDate>Sat, 16 Aug 2008 16:48:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/more-on-the-fan-faire/</guid>
+				<description>&lt;p&gt;On the way to the EQ2 expansion panel, stopped by the room to upload some pics&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>First expansion reactions</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</link>
+				<pubDate>Sat, 16 Aug 2008 11:40:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/first-expansion-reactions/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ll be seeing these live hopefully later today, but here&amp;rsquo;s my first reactions to the expansions&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lost in the Shadow of Destruction... or something.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/lost-in-the-shadow-of-destruction-or-something/</link>
+				<pubDate>Sat, 16 Aug 2008 04:05:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/lost-in-the-shadow-of-destruction-or-something/</guid>
+				<description>&lt;p&gt;Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor&amp;rsquo;s.Wait forever. Doc says, hey,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

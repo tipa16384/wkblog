@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abashi on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/abashi/</link>
-    <description>Recent content in Abashi on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 11:45:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/abashi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EverQuest introduces &#34;appointment gaming&#34;; bring on the Abashi Server?</title>
-      <link>https://tipa16384.github.io/wkblog/2020/06/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/</link>
-      <pubDate>Mon, 01 Jun 2020 11:45:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/06/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/</guid>
-      <description>&lt;p&gt;I haven&amp;rsquo;t written much about our adventures on the Aradune server in EverQuest largely because we haven&amp;rsquo;t had very much time to adventure on the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Abashi on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/abashi/</link>
+		<description>Recent content in Abashi on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jun 2020 11:45:20 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/abashi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverQuest introduces &#34;appointment gaming&#34;; bring on the Abashi Server?</title>
+				<link>https://tipa16384.github.io/wkblog/2020/06/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/</link>
+				<pubDate>Mon, 01 Jun 2020 11:45:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/06/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/</guid>
+				<description>&lt;p&gt;I haven&amp;rsquo;t written much about our adventures on the Aradune server in EverQuest largely because we haven&amp;rsquo;t had very much time to adventure on the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

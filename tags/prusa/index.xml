@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Prusa on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/prusa/</link>
-    <description>Recent content in Prusa on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 09:04:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/prusa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Game Night: Jaws of the Lion</title>
-      <link>https://tipa16384.github.io/wkblog/2020/11/game-night-jaws-of-the-lion/</link>
-      <pubDate>Mon, 23 Nov 2020 09:04:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/11/game-night-jaws-of-the-lion/</guid>
-      <description>&lt;p&gt;I really want to apologize for the gaps in game blogging. I&amp;rsquo;m still gaming, as much as ever. I have a lot to write about&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Prusa i3 Mk3S 3D printer: When you just want to print</title>
-      <link>https://tipa16384.github.io/wkblog/2020/11/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</link>
-      <pubDate>Sun, 15 Nov 2020 09:38:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/11/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</guid>
-      <description>&lt;p&gt;I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Prusa on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/prusa/</link>
+		<description>Recent content in Prusa on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 23 Nov 2020 09:04:39 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/prusa/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Game Night: Jaws of the Lion</title>
+				<link>https://tipa16384.github.io/wkblog/2020/11/game-night-jaws-of-the-lion/</link>
+				<pubDate>Mon, 23 Nov 2020 09:04:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/11/game-night-jaws-of-the-lion/</guid>
+				<description>&lt;p&gt;I really want to apologize for the gaps in game blogging. I&amp;rsquo;m still gaming, as much as ever. I have a lot to write about&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Prusa i3 Mk3S 3D printer: When you just want to print</title>
+				<link>https://tipa16384.github.io/wkblog/2020/11/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</link>
+				<pubDate>Sun, 15 Nov 2020 09:38:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/11/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/</guid>
+				<description>&lt;p&gt;I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

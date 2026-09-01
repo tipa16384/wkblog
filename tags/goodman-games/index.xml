@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Goodman Games on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/goodman-games/</link>
-    <description>Recent content in Goodman Games on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jul 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/goodman-games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
-      <pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
-      <description>&lt;p&gt;Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Goodman Games on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/goodman-games/</link>
+		<description>Recent content in Goodman Games on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 24 Jul 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/goodman-games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
+				<pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
+				<description>&lt;p&gt;Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

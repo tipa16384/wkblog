@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Racing on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/racing/</link>
-    <description>Recent content in Racing on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Sep 2021 20:34:37 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/racing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GTI Racer: When Physical Media... isn&#39;t.</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/gti-racer-when-physical-media...-isnt./</link>
-      <pubDate>Thu, 23 Sep 2021 20:34:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/gti-racer-when-physical-media...-isnt./</guid>
-      <description>&lt;p&gt;I drive a VW GTI. My son drives a VW GTI. I have owned many VWs over the years. I bought GTI Racer for the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Steam Game of the Week: Little Racers STREET</title>
-      <link>https://tipa16384.github.io/wkblog/2014/06/steam-game-of-the-week-little-racers-street/</link>
-      <pubDate>Sun, 15 Jun 2014 07:11:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/06/steam-game-of-the-week-little-racers-street/</guid>
-      <description>&lt;p&gt;Every couple of weeks I buy something cheap and fun on Steam. Transistor a few weeks ago, Mirror&amp;rsquo;s Edge the week before last, Injustice: Gods&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Racing on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/racing/</link>
+		<description>Recent content in Racing on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 23 Sep 2021 20:34:37 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/racing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>GTI Racer: When Physical Media... isn&#39;t.</title>
+				<link>https://tipa16384.github.io/wkblog/2021/09/gti-racing-when-physical-media-isnt-i/</link>
+				<pubDate>Thu, 23 Sep 2021 20:34:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/09/gti-racing-when-physical-media-isnt-i/</guid>
+				<description>&lt;p&gt;I drive a VW GTI. My son drives a VW GTI. I have owned many VWs over the years. I bought GTI Racer for the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Steam Game of the Week: Little Racers STREET</title>
+				<link>https://tipa16384.github.io/wkblog/2014/06/steam-game-of-the-week-little-racers-street/</link>
+				<pubDate>Sun, 15 Jun 2014 07:11:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/06/steam-game-of-the-week-little-racers-street/</guid>
+				<description>&lt;p&gt;Every couple of weeks I buy something cheap and fun on Steam. Transistor a few weeks ago, Mirror&amp;rsquo;s Edge the week before last, Injustice: Gods&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

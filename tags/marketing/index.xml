@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Marketing on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/marketing/</link>
-    <description>Recent content in Marketing on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 13 Sep 2010 21:14:36 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Is Wizard101&#39;s marketing getting out of hand?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</link>
-      <pubDate>Mon, 13 Sep 2010 21:14:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Marketing on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/marketing/</link>
+		<description>Recent content in Marketing on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 Sep 2010 21:14:36 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Is Wizard101&#39;s marketing getting out of hand?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</link>
+				<pubDate>Mon, 13 Sep 2010 21:14:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/is-wizard101s-marketing-getting-out-of-hand/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

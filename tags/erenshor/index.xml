@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Erenshor on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/erenshor/</link>
-    <description>Recent content in Erenshor on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2025 08:42:08 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/erenshor/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wot&#39;s... Uh the Deal?</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/wots...-uh-the-deal/</link>
-      <pubDate>Tue, 18 Feb 2025 08:42:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/wots...-uh-the-deal/</guid>
-      <description>&lt;p&gt;Lots of stuff going on, I guess I should update on all the things.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Erenshor: Oh, by the way, which one is Bink?</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/erenshor-oh-by-the-way-which-one-is-bink/</link>
-      <pubDate>Tue, 11 Feb 2025 08:01:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/erenshor-oh-by-the-way-which-one-is-bink/</guid>
-      <description>&lt;p&gt;Erenshor is the single player RPG you tell MMO stories about.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best of 2024: Single-Player RPGs</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</link>
-      <pubDate>Mon, 30 Dec 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</guid>
-      <description>&lt;p&gt;2024 was a great year for RPGs. I didn&amp;rsquo;t play all the ones I wanted, but the ones I did play were pretty incredible.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Erenshor: The Shivering Steps</title>
-      <link>https://tipa16384.github.io/wkblog/2024/10/erenshor-the-shivering-steps/</link>
-      <pubDate>Fri, 18 Oct 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/10/erenshor-the-shivering-steps/</guid>
-      <description>&lt;p&gt;Took me a minute and some leading hints but I finally worked my way through the Halloween content and killed all six bosses.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>This Halloween, Erenshor Gets Spooky!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</link>
-      <pubDate>Sat, 14 Sep 2024 18:37:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</guid>
-      <description>&lt;p&gt;I can see this becoming a good &amp;ldquo;I got half an hour, I&amp;rsquo;ll just do this dungeon&amp;rdquo; game.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Erenshor -- EverQuest for soloers</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/erenshor--everquest-for-soloers/</link>
-      <pubDate>Wed, 28 Aug 2024 08:18:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/erenshor--everquest-for-soloers/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s not an MMO, it&amp;rsquo;s an MMO simulator where you can handpick the party of your dreams and clear dungeons, kill bosses, and find uber lewtz.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Erenshor on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/erenshor/</link>
+		<description>Recent content in Erenshor on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 18 Feb 2025 08:42:08 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/erenshor/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wot&#39;s... Uh the Deal?</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/wots-uh-the-deal/</link>
+				<pubDate>Tue, 18 Feb 2025 08:42:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/wots-uh-the-deal/</guid>
+				<description>&lt;p&gt;Lots of stuff going on, I guess I should update on all the things.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Erenshor: Oh, by the way, which one is Bink?</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/erenshor-oh-by-the-way-which-one-is-bink/</link>
+				<pubDate>Tue, 11 Feb 2025 08:01:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/erenshor-oh-by-the-way-which-one-is-bink/</guid>
+				<description>&lt;p&gt;Erenshor is the single player RPG you tell MMO stories about.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Best of 2024: Single-Player RPGs</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</link>
+				<pubDate>Mon, 30 Dec 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</guid>
+				<description>&lt;p&gt;2024 was a great year for RPGs. I didn&amp;rsquo;t play all the ones I wanted, but the ones I did play were pretty incredible.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Erenshor: The Shivering Steps</title>
+				<link>https://tipa16384.github.io/wkblog/2024/10/erenshor-the-shivering-steps/</link>
+				<pubDate>Fri, 18 Oct 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/10/erenshor-the-shivering-steps/</guid>
+				<description>&lt;p&gt;Took me a minute and some leading hints but I finally worked my way through the Halloween content and killed all six bosses.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>This Halloween, Erenshor Gets Spooky!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</link>
+				<pubDate>Sat, 14 Sep 2024 18:37:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</guid>
+				<description>&lt;p&gt;I can see this becoming a good &amp;ldquo;I got half an hour, I&amp;rsquo;ll just do this dungeon&amp;rdquo; game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Erenshor -- EverQuest for soloers</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/erenshor-everquest-for-soloers/</link>
+				<pubDate>Wed, 28 Aug 2024 08:18:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/erenshor-everquest-for-soloers/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s not an MMO, it&amp;rsquo;s an MMO simulator where you can handpick the party of your dreams and clear dungeons, kill bosses, and find uber lewtz.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

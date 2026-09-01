@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dungeons &amp; Dragons on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/dungeons--dragons/</link>
-    <description>Recent content in Dungeons &amp; Dragons on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/dungeons--dragons/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The End of the Dragon of Icespire Peak</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</link>
-      <pubDate>Sun, 08 Sep 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</guid>
-      <description>&lt;p&gt;Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Painting the White Dragon</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</link>
-      <pubDate>Wed, 14 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</guid>
-      <description>&lt;p&gt;I printed the White Dragon in white filament. Then I told the D&amp;amp;D group that I still needed to paint it. &amp;ldquo;Why? It&amp;rsquo;s already white?&amp;rdquo; Ha!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>D&amp;amp;D: I -- no, WE -- have a white dragon problem</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/dampd-i--no-we--have-a-white-dragon-problem/</link>
-      <pubDate>Mon, 12 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/dampd-i--no-we--have-a-white-dragon-problem/</guid>
-      <description>&lt;p&gt;The problem is, we&amp;rsquo;re about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
-      <pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
-      <description>&lt;p&gt;Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>D&amp;D Session 2: Gnomengarde</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</link>
-      <pubDate>Tue, 31 Oct 2023 00:19:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</guid>
-      <description>&lt;p&gt;Our adventuring party &amp;ndash; half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes &amp;ndash; travel to the tunnel city of rock gnomes, Gnomengarde.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baldur&#39;s Gate 3: Guilty</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-guilty/</link>
-      <pubDate>Wed, 25 Oct 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-guilty/</guid>
-      <description>&lt;p&gt;I said I wasn&amp;rsquo;t going to replay Baldur&amp;rsquo;s Gate 3, but then I went ahead and did. Am doing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baldur&#39;s Gate 3: Finished!</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-finished/</link>
-      <pubDate>Mon, 16 Oct 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-finished/</guid>
-      <description>&lt;p&gt;There will be spoilers below.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>D&amp;D: Deanna, the Bastion Cleric</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/dd-deanna-the-bastion-cleric/</link>
-      <pubDate>Thu, 12 Oct 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/dd-deanna-the-bastion-cleric/</guid>
-      <description>&lt;p&gt;Sometimes, the silliest rules in Dungeons &amp;amp; Dragons can be a blessing in disguise&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>D&amp;D: Bastions</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/dd-bastions/</link>
-      <pubDate>Wed, 11 Oct 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/dd-bastions/</guid>
-      <description>&lt;p&gt;Finally, after fifty years, housing comes to Dungeons &amp;amp; Dragons. Innkeepers across the land protest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baldur&#39;s Gate 3: Are We the Baddies?</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-are-we-the-baddies/</link>
-      <pubDate>Sat, 07 Oct 2023 11:35:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-are-we-the-baddies/</guid>
-      <description>&lt;p&gt;I think I really screwed it all up, this time.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dungeons &amp; Dragons on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/dungeons--dragons/</link>
+		<description>Recent content in Dungeons &amp; Dragons on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Sep 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/dungeons--dragons/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The End of the Dragon of Icespire Peak</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</link>
+				<pubDate>Sun, 08 Sep 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</guid>
+				<description>&lt;p&gt;Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Painting the White Dragon</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</link>
+				<pubDate>Wed, 14 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</guid>
+				<description>&lt;p&gt;I printed the White Dragon in white filament. Then I told the D&amp;amp;D group that I still needed to paint it. &amp;ldquo;Why? It&amp;rsquo;s already white?&amp;rdquo; Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>D&amp;amp;D: I -- no, WE -- have a white dragon problem</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/dd-i-no-we-have-a-white-dragon-problem/</link>
+				<pubDate>Mon, 12 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/dd-i-no-we-have-a-white-dragon-problem/</guid>
+				<description>&lt;p&gt;The problem is, we&amp;rsquo;re about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
+				<pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
+				<description>&lt;p&gt;Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>D&amp;D Session 2: Gnomengarde</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</link>
+				<pubDate>Tue, 31 Oct 2023 00:19:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/dd-session-2-gnomengarde/</guid>
+				<description>&lt;p&gt;Our adventuring party &amp;ndash; half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes &amp;ndash; travel to the tunnel city of rock gnomes, Gnomengarde.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Baldur&#39;s Gate 3: Guilty</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-guilty/</link>
+				<pubDate>Wed, 25 Oct 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-guilty/</guid>
+				<description>&lt;p&gt;I said I wasn&amp;rsquo;t going to replay Baldur&amp;rsquo;s Gate 3, but then I went ahead and did. Am doing.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Baldur&#39;s Gate 3: Finished!</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-finished/</link>
+				<pubDate>Mon, 16 Oct 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-finished/</guid>
+				<description>&lt;p&gt;There will be spoilers below.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>D&amp;D: Deanna, the Bastion Cleric</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/dd-deanna-the-bastion-cleric/</link>
+				<pubDate>Thu, 12 Oct 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/dd-deanna-the-bastion-cleric/</guid>
+				<description>&lt;p&gt;Sometimes, the silliest rules in Dungeons &amp;amp; Dragons can be a blessing in disguise&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>D&amp;D: Bastions</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/dd-bastion/</link>
+				<pubDate>Wed, 11 Oct 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/dd-bastion/</guid>
+				<description>&lt;p&gt;Finally, after fifty years, housing comes to Dungeons &amp;amp; Dragons. Innkeepers across the land protest.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Baldur&#39;s Gate 3: Are We the Baddies?</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-are-we-the-baddies/</link>
+				<pubDate>Sat, 07 Oct 2023 11:35:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/baldurs-gate-3-are-we-the-baddies/</guid>
+				<description>&lt;p&gt;I think I really screwed it all up, this time.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Concept on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/concept/</link>
-    <description>Recent content in Concept on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2010 07:37:05 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/concept/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Five Better Concepts for EverQuest Next?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/five-better-concepts-for-everquest-next/</link>
-      <pubDate>Wed, 18 Aug 2010 07:37:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/five-better-concepts-for-everquest-next/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Concept on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/concept/</link>
+		<description>Recent content in Concept on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 18 Aug 2010 07:37:05 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/concept/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Five Better Concepts for EverQuest Next?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/five-better-concepts-for-everquest-next/</link>
+				<pubDate>Wed, 18 Aug 2010 07:37:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/five-better-concepts-for-everquest-next/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

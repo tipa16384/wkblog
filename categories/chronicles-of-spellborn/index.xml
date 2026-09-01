@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chronicles of Spellborn on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/chronicles-of-spellborn/</link>
-    <description>Recent content in Chronicles of Spellborn on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2015 16:34:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/chronicles-of-spellborn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Spellborn... reborn?</title>
-      <link>https://tipa16384.github.io/wkblog/2015/07/spellborn...-reborn/</link>
-      <pubDate>Thu, 02 Jul 2015 16:34:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/07/spellborn...-reborn/</guid>
-      <description>&lt;p&gt;Some trufen managed to reverse engineer a beta version of the super-innovative MMO Spellborn enough so that folks can run around in the setting &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chronicles of Spellborn: Anatomy of a Failure</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</link>
-      <pubDate>Thu, 19 Aug 2010 06:48:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</guid>
-      <description>&lt;p&gt;The Chronicles of Spellborn seemed to provide a wish list of what people want in an MMO. You could look cool from day 1; the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 9/25 - Apocalypse edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-9/25-apocalypse-edition/</link>
-      <pubDate>Fri, 25 Sep 2009 07:08:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-9/25-apocalypse-edition/</guid>
-      <description>&lt;p&gt;Adventuring after a mysterious apocalypse forever changed the landscape, with strange creatures everywhere and a refugee populace just trying to survive in a mutant world&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 8/31 - End of Summer edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/31-end-of-summer-edition/</link>
-      <pubDate>Mon, 31 Aug 2009 07:19:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/31-end-of-summer-edition/</guid>
-      <description>&lt;p&gt;Wow, can&amp;rsquo;t believe it&amp;rsquo;s almost autumn. Summer came so late to New England; cool and rainy through most of it, a couple of hot and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 8/19 - L2Test edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/19-l2test-edition/</link>
-      <pubDate>Wed, 19 Aug 2009 08:00:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/19-l2test-edition/</guid>
-      <description>&lt;p&gt;Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MMORPGs in 3D: A Study in Red and Blue</title>
-      <link>https://tipa16384.github.io/wkblog/2009/07/mmorpgs-in-3d-a-study-in-red-and-blue/</link>
-      <pubDate>Wed, 29 Jul 2009 07:30:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/07/mmorpgs-in-3d-a-study-in-red-and-blue/</guid>
-      <description>&lt;p&gt;[slide width=&amp;ldquo;640&amp;rdquo; height=&amp;ldquo;480&amp;rdquo;]&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chronicles of Spellborn&#39;s European servers to close</title>
-      <link>https://tipa16384.github.io/wkblog/2009/07/chronicles-of-spellborns-european-servers-to-close/</link>
-      <pubDate>Thu, 23 Jul 2009 20:44:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/07/chronicles-of-spellborns-european-servers-to-close/</guid>
-      <description>&lt;p&gt;According to news sites T-Online and GameZone, Dutch-developed Fantasy MMORPG Chronicles of Spellborn will be shutting down the Frogster-operated European servers at the end of&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 7/23 -- Aftermath edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/23--aftermath-edition/</link>
-      <pubDate>Thu, 23 Jul 2009 07:26:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/23--aftermath-edition/</guid>
-      <description>&lt;p&gt;Okay, THAT was a day of good discussion, so thanks, Wolfshead :) Why did I feel your &amp;ldquo;first impressions&amp;rdquo; article needed rebutting? Well, SOMEONE had&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 7/13 -- Monday is Funday edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/13--monday-is-funday-edition/</link>
-      <pubDate>Mon, 13 Jul 2009 07:47:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/13--monday-is-funday-edition/</guid>
-      <description>&lt;p&gt;Like an ebbing tide, the weekend slowly recedes, leaving behind the flotsam and jetsam of yet another Monday. Only a few years too late to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 7/1 - MMO Overload edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/1-mmo-overload-edition/</link>
-      <pubDate>Wed, 01 Jul 2009 07:56:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/1-mmo-overload-edition/</guid>
-      <description>&lt;p&gt;Yesterday, EverQuest launched its new 51/50 server to rave reviews, and this morning, Wizard 101 launches its latest expansion, Grizzleheim&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Chronicles of Spellborn on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/chronicles-of-spellborn/</link>
+		<description>Recent content in Chronicles of Spellborn on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 02 Jul 2015 16:34:20 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/chronicles-of-spellborn/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Spellborn... reborn?</title>
+				<link>https://tipa16384.github.io/wkblog/2015/07/some-trufen-managed-to-re/</link>
+				<pubDate>Thu, 02 Jul 2015 16:34:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/07/some-trufen-managed-to-re/</guid>
+				<description>&lt;p&gt;Some trufen managed to reverse engineer a beta version of the super-innovative MMO Spellborn enough so that folks can run around in the setting &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chronicles of Spellborn: Anatomy of a Failure</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</link>
+				<pubDate>Thu, 19 Aug 2010 06:48:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/chronicles-of-spellborn-anatomy-of-a-failure/</guid>
+				<description>&lt;p&gt;The Chronicles of Spellborn seemed to provide a wish list of what people want in an MMO. You could look cool from day 1; the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 9/25 - Apocalypse edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-925-apocalypse-edition/</link>
+				<pubDate>Fri, 25 Sep 2009 07:08:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-925-apocalypse-edition/</guid>
+				<description>&lt;p&gt;Adventuring after a mysterious apocalypse forever changed the landscape, with strange creatures everywhere and a refugee populace just trying to survive in a mutant world&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 8/31 - End of Summer edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-831-end-of-summer-edition/</link>
+				<pubDate>Mon, 31 Aug 2009 07:19:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-831-end-of-summer-edition/</guid>
+				<description>&lt;p&gt;Wow, can&amp;rsquo;t believe it&amp;rsquo;s almost autumn. Summer came so late to New England; cool and rainy through most of it, a couple of hot and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 8/19 - L2Test edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-819-l2test-edition/</link>
+				<pubDate>Wed, 19 Aug 2009 08:00:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-819-l2test-edition/</guid>
+				<description>&lt;p&gt;Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>MMORPGs in 3D: A Study in Red and Blue</title>
+				<link>https://tipa16384.github.io/wkblog/2009/07/mmorpgs-in-3d-a-study-in-red-and-blue/</link>
+				<pubDate>Wed, 29 Jul 2009 07:30:31 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/07/mmorpgs-in-3d-a-study-in-red-and-blue/</guid>
+				<description>&lt;p&gt;[slide width=&amp;ldquo;640&amp;rdquo; height=&amp;ldquo;480&amp;rdquo;]&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chronicles of Spellborn&#39;s European servers to close</title>
+				<link>https://tipa16384.github.io/wkblog/2009/07/chronicles-of-spellborns-european-servers-to-close/</link>
+				<pubDate>Thu, 23 Jul 2009 20:44:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/07/chronicles-of-spellborns-european-servers-to-close/</guid>
+				<description>&lt;p&gt;According to news sites T-Online and GameZone, Dutch-developed Fantasy MMORPG Chronicles of Spellborn will be shutting down the Frogster-operated European servers at the end of&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 7/23 -- Aftermath edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-723-aftermath-edition/</link>
+				<pubDate>Thu, 23 Jul 2009 07:26:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-723-aftermath-edition/</guid>
+				<description>&lt;p&gt;Okay, THAT was a day of good discussion, so thanks, Wolfshead :) Why did I feel your &amp;ldquo;first impressions&amp;rdquo; article needed rebutting? Well, SOMEONE had&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 7/13 -- Monday is Funday edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-713-monday-is-funday-edition/</link>
+				<pubDate>Mon, 13 Jul 2009 07:47:19 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-713-monday-is-funday-edition/</guid>
+				<description>&lt;p&gt;Like an ebbing tide, the weekend slowly recedes, leaving behind the flotsam and jetsam of yet another Monday. Only a few years too late to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 7/1 - MMO Overload edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-71-mmo-overload-edition/</link>
+				<pubDate>Wed, 01 Jul 2009 07:56:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-71-mmo-overload-edition/</guid>
+				<description>&lt;p&gt;Yesterday, EverQuest launched its new 51/50 server to rave reviews, and this morning, Wizard 101 launches its latest expansion, Grizzleheim&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

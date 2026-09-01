@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tatakai Outpost on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/tatakai-outpost/</link>
-    <description>Recent content in Tatakai Outpost on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2008 08:20:40 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/tatakai-outpost/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard 101: Crimson Fields and Sunken City (again)</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</link>
-      <pubDate>Wed, 29 Oct 2008 08:20:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</guid>
-      <description>&lt;p&gt;Meet the War Oni, boss of Crimson Fields. I&amp;rsquo;ve been told Crimson Fields is the longest instance in Moo Shu, and so far it seems&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard 101: Hametsu Village</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/wizard-101-hametsu-village/</link>
-      <pubDate>Mon, 27 Oct 2008 08:45:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/wizard-101-hametsu-village/</guid>
-      <description>&lt;p&gt;Finished Moo Shu&amp;rsquo;s first quest hub, Hametsu Village. It&amp;rsquo;s nice to have kinda-safe sidewalks to run around in; there&amp;rsquo;s nothing more annoying than the Marleybone&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tatakai Outpost on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/tatakai-outpost/</link>
+		<description>Recent content in Tatakai Outpost on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 29 Oct 2008 08:20:40 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/tatakai-outpost/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard 101: Crimson Fields and Sunken City (again)</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</link>
+				<pubDate>Wed, 29 Oct 2008 08:20:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/wizard-101-crimson-fields-and-sunken-city-again/</guid>
+				<description>&lt;p&gt;Meet the War Oni, boss of Crimson Fields. I&amp;rsquo;ve been told Crimson Fields is the longest instance in Moo Shu, and so far it seems&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard 101: Hametsu Village</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/wizard-101-hametsu-village/</link>
+				<pubDate>Mon, 27 Oct 2008 08:45:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/wizard-101-hametsu-village/</guid>
+				<description>&lt;p&gt;Finished Moo Shu&amp;rsquo;s first quest hub, Hametsu Village. It&amp;rsquo;s nice to have kinda-safe sidewalks to run around in; there&amp;rsquo;s nothing more annoying than the Marleybone&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

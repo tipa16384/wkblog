@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crowfall on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/crowfall/</link>
-    <description>Recent content in Crowfall on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 10:11:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/crowfall/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MMOs on the Bubble</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</link>
-      <pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t play every MMO that comes out &amp;ndash; not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MMO updates: Crowfall, EverQuest, Chocobo&#39;s Mystery Dungeon, DCUO</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
-      <pubDate>Thu, 07 May 2020 11:20:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
-      <description>&lt;p&gt;I apologize for the brief news on Crowfall. I&amp;rsquo;d meant to get deeper into the PvE, but while I was building up my kingdom in&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Crowfall on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/crowfall/</link>
+		<description>Recent content in Crowfall on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Aug 2021 10:11:39 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/crowfall/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>MMOs on the Bubble</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</link>
+				<pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</guid>
+				<description>&lt;p&gt;I don&amp;rsquo;t play every MMO that comes out &amp;ndash; not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>MMO updates: Crowfall, EverQuest, Chocobo&#39;s Mystery Dungeon, DCUO</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
+				<pubDate>Thu, 07 May 2020 11:20:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
+				<description>&lt;p&gt;I apologize for the brief news on Crowfall. I&amp;rsquo;d meant to get deeper into the PvE, but while I was building up my kingdom in&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

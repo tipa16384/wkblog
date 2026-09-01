@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Space Invaders on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/space-invaders/</link>
-    <description>Recent content in Space Invaders on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2025 08:00:55 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/space-invaders/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Our STAR*VADERS!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</link>
-      <pubDate>Thu, 09 Jan 2025 08:00:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s &amp;ldquo;Slay the Spire&amp;rdquo; meets &amp;ldquo;Into the Breach&amp;rdquo; meets &amp;ldquo;Space Invaders&amp;rdquo; meets&amp;hellip; Space Battleship Yamato?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Bad Game Development</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</link>
-      <pubDate>Sat, 05 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Space Invaders on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/space-invaders/</link>
+		<description>Recent content in Space Invaders on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 09 Jan 2025 08:00:55 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/space-invaders/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Our STAR*VADERS!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</link>
+				<pubDate>Thu, 09 Jan 2025 08:00:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/our-starvaders/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s &amp;ldquo;Slay the Spire&amp;rdquo; meets &amp;ldquo;Into the Breach&amp;rdquo; meets &amp;ldquo;Space Invaders&amp;rdquo; meets&amp;hellip; Space Battleship Yamato?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Bad Game Development</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</link>
+				<pubDate>Sat, 05 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Axe-O-Lot-L on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/axe-o-lot-l/</link>
-    <description>Recent content in Axe-O-Lot-L on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 12:09:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/axe-o-lot-l/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Best Board Games of 2024!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</link>
-      <pubDate>Sun, 05 Jan 2025 12:09:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</guid>
-      <description>&lt;p&gt;The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Axe-O-Lot-L on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/axe-o-lot-l/</link>
+		<description>Recent content in Axe-O-Lot-L on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 05 Jan 2025 12:09:14 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/axe-o-lot-l/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Best Board Games of 2024!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</link>
+				<pubDate>Sun, 05 Jan 2025 12:09:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/best-board-games-of-2024/</guid>
+				<description>&lt;p&gt;The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

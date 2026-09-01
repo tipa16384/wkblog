@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Plugin on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/plugin/</link>
-    <description>Recent content in Plugin on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2009 23:53:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>XFire Wordpress Plugin -- first release</title>
-      <link>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin--first-release/</link>
-      <pubDate>Thu, 26 Mar 2009 23:53:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin--first-release/</guid>
-      <description>&lt;p&gt;Announcing the XFire Stats Wordpress Plugin. This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Plugin on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/plugin/</link>
+		<description>Recent content in Plugin on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 26 Mar 2009 23:53:14 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>XFire Wordpress Plugin -- first release</title>
+				<link>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin-first-release/</link>
+				<pubDate>Thu, 26 Mar 2009 23:53:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/03/xfire-wordpress-plugin-first-release/</guid>
+				<description>&lt;p&gt;Announcing the XFire Stats Wordpress Plugin. This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Advent of Code Day 10 -- Pipe Maze",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png",
+  
+  "datePublished": "2023-12-10T14:16:27-05:00",
+  "dateModified": "2023-12-10T14:16:27-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "https:\/\/tipa16384.github.io\/wkblog\/2023\/12\/advent-of-code-day-10-pipe-maze\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "Anyone else notice that this is the second puzzle in a row without any elves?\n",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.165.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="Anyone else notice that this is the second puzzle in a row without any elves?">
+
+
+<meta property="og:description" content="Anyone else notice that this is the second puzzle in a row without any elves?">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Advent of Code Day 10 -- Pipe Maze">
+<meta name="twitter:title" content="Advent of Code Day 10 -- Pipe Maze">
+<meta property="og:url" content="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/">
+<meta property="twitter:url" content="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="Anyone else notice that this is the second puzzle in a row without any elves?">
+<meta name="twitter:description" content="Anyone else notice that this is the second puzzle in a row without any elves?">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="article:published_time" content="2023-12-10T14:16:27">
+  
+  
+    <meta property="article:modified_time" content="2023-12-10T14:16:27">
+  
+  
+  
+    
+      <meta property="article:section" content="Advent of Code">
+    
+  
+  
+    
+      <meta property="article:tag" content="AoC 2023">
+    
+      <meta property="article:tag" content="Flood Fill">
+    
+      <meta property="article:tag" content="Maze">
+    
+      <meta property="article:tag" content="Pipes">
+    
+      <meta property="article:tag" content="Point in Polygon">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png">
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png">
+
+
+    <title>Advent of Code Day 10 -- Pipe Maze</title>
+
+    <link rel="icon" href="https://chasingdings.com/wp-content/uploads/2026/03/wkfavicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v5-font-face.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v4-shims.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="https://tipa16384.github.io/wkblog/css/tranquilpeak.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://tipa16384.github.io/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://tipa16384.github.io/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://tipa16384.github.io/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/tipa16384" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://gamepad.club/deck/@Tipa" target="_blank" rel="noopener" title="Mastodon">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-mastodon" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bsky.app/profile/chasingdings.com" target="_blank" rel="noopener" title="BlueSky">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-bluesky" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">BlueSky</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+<div id="right-sidebar" data-behavior="5">
+  
+    
+      <div class="right-sidebar-item">
+        
+          <img class="right-sidebar-image" src="https://chasingdings.com/wp-content/uploads/2024/01/dodologo-768x618.png" alt="" />
+        
+      </div>
+    
+      <div class="right-sidebar-item">
+        
+          
+          <ul class="sidebar-buttons right-sidebar-blogroll" id="right-sidebar-blogroll-1" data-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
+            <li class="sidebar-button"><span class="sidebar-button-link"><span class="sidebar-button-desc">Loading&hellip;</span></span></li>
+          </ul>
+          <script>
+            (function() {
+              var list = document.getElementById("right-sidebar-blogroll-1");
+              if (!list) return;
+              var sourceUrl = list.getAttribute("data-blogroll-url");
+              if (!sourceUrl) { list.parentNode.removeChild(list); return; }
+
+              function toRawGithubUrl(url) {
+                var m = url.match(/^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/);
+                return m ? "https://raw.githubusercontent.com/" + m[1] + "/" + m[2] + "/" + m[3] : url;
+              }
+
+              function parseBlogroll(text) {
+                var lines = text.split(/\r?\n/);
+                var heading = "Blogroll", items = [], i;
+                for (i = 0; i < lines.length; i++) {
+                  var hm = lines[i].match(/^#\s+(.+)$/);
+                  if (hm) {
+                    heading = hm[1].trim().replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
+                    break;
+                  }
+                }
+                for (i = 0; i < lines.length; i++) {
+                  var im = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)$/);
+                  if (im) items.push({ label: im[1].trim(), url: im[2].trim(), summary: im[3].trim() });
+                }
+                return { heading: heading, items: items };
+              }
+
+              function clear(node) { while (node.firstChild) node.removeChild(node.firstChild); }
+
+              function addRow(text, cls) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button" + (cls ? " " + cls : "");
+                var sp = document.createElement("span");
+                sp.className = "sidebar-button-link";
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = text;
+                sp.appendChild(d);
+                li.appendChild(sp);
+                list.appendChild(li);
+              }
+
+              function addLink(item) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button sidebar-blogroll-item";
+                var a = document.createElement("a");
+                a.className = "sidebar-button-link";
+                a.href = item.url;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.title = item.summary;
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = item.label;
+                a.appendChild(d);
+                li.appendChild(a);
+                list.appendChild(li);
+              }
+
+              fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
+                .then(function(r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+                .then(function(text) {
+                  var p = parseBlogroll(text);
+                  clear(list);
+                  addRow(p.heading, "sidebar-blogroll-heading");
+                  if (!p.items.length) { addRow("No links found", "sidebar-blogroll-empty"); return; }
+                  p.items.forEach(addLink);
+                })
+                .catch(function() {
+                  clear(list);
+                  addRow("Blogroll unavailable", "sidebar-blogroll-error");
+                });
+            })();
+          </script>
+        
+      </div>
+    
+  
+</div>
+
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      Advent of Code Day 10 -- Pipe Maze
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2023-12-10T14:16:27-05:00">
+        
+  December 10, 2023
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/advent-of-code">Advent of Code</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>Anyone else notice that this is the second puzzle in a row without any elves?</p>
+<p>Midjourney was entirely unable to render a picture using the holiday card style I&rsquo;d generated, so I removed that constraint and told it to use its best judgement today to render a repairman in a metal world of pipes and mazes. Dall-E 3 did a better job with what I asked for, but Midjourney&rsquo;s response was so creepy and cool that it had to be the header image.</p>
+
+
+
+<div class="figure fig-20" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-10.png" >
+  
+  
+</div>
+
+<p>So, here we are on the Metal Island, hang glider having successfully soared on thermals from the Desert Island, which is something I am not sure hang gliders can do, but who knows? The paraglider trike that Dall-E generated for yesterday could, I guess.</p>
+<p>Metal Island is a land where everything is made of metal. The trees are metal. The flowers are metal. The scurrying little animals are metal and&hellip; whoa, animals? The animal in question ducks into a pipe and disappears. You realize that you are standing on a maze of pipes, and if you have any hope of catching the metal animal (or whatever, my guess is robo-elf), you&rsquo;ll need to <a href="https://adventofcode.com/2023/day/10">solve the maze of pipes</a> and figure out where to stand to grab it.</p>
+<p>I&rsquo;m sure I will eventually go back and solve some of these puzzles in Haskell. This one: not so much. This one is all Python and that&rsquo;s all it will ever be. My use of AI for these later puzzles is near nil. I&rsquo;m doing them in Python, I&rsquo;m not trying to describe the problem to an AI so that it will solve it for me.</p>
+<p>The maze in this puzzle is made out of ASCII art, which uses letters, digits, and typography to &ldquo;suggest&rdquo; a maze shape. You can see one above. Not every pipe connects to another pipe. The &ldquo;S&rdquo; is the start position, where we saw Robo-Elf (just gonna assume this) duck into the pipe. It itself is also a pipe shape, that can be derived from its surrounding pipes. In this case, it is a &ldquo;F&rdquo;, a pipe leading south and east.</p>
+<p>The solution for Part 1 is to figure out the number of pipes the Robo-Elf would have to past through to get to the pipe that is furthest from the start position.</p>
+
+
+
+<div class="figure center" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/68047b89-bd19-4751-8e89-878a182ee06b-1024x585.webp"  alt="Dall-E 3">
+  
+   
+    <span class="caption">Dall-E 3</span>
+  
+</div>
+
+<p>First, we need to lay a little groundwork.</p>
+<p>`Direction = Enum(&lsquo;Direction&rsquo;, [&lsquo;NORTH&rsquo;, &lsquo;EAST&rsquo;, &lsquo;SOUTH&rsquo;, &lsquo;WEST&rsquo;])</p>
+<p>symbols = { &lsquo;|&rsquo; : [Direction.NORTH, Direction.SOUTH],
+&lsquo;-&rsquo; : [Direction.EAST, Direction.WEST],
+&lsquo;L&rsquo; : [Direction.NORTH, Direction.EAST],
+&lsquo;J&rsquo; : [Direction.NORTH, Direction.WEST],
+&lsquo;7&rsquo; : [Direction.SOUTH, Direction.WEST],
+&lsquo;F&rsquo; : [Direction.SOUTH, Direction.EAST] }</p>
+<p>offsets = { Direction.NORTH : (0, -1),
+Direction.EAST  : (1, 0),
+Direction.SOUTH : (0, 1),
+Direction.WEST  : (-1, 0) }</p>
+<p>opposite_offset = { Direction.NORTH : Direction.SOUTH,
+Direction.EAST  : Direction.WEST,
+Direction.SOUTH : Direction.NORTH,
+Direction.WEST  : Direction.EAST }</p>
+<p>blocking_direction = { Direction.NORTH : Direction.EAST,
+Direction.EAST  : Direction.SOUTH,
+Direction.SOUTH : Direction.WEST,
+Direction.WEST  : Direction.NORTH }`</p>
+<p>Inspired by the Haskell solutions I&rsquo;ve been seeing, I&rsquo;ve decided to get a little more formal with my Python. <strong>Direction</strong> is a list of directions, obviously. <strong>symbols</strong> is a dictionary that takes one of the pipe symbols from the puzzle and matches it with the directions the pipe exits the square it&rsquo;s on. <strong>offsets</strong> defines how to transform a position by the direction. <strong>opposite_offset</strong> just shows which direction is opposite the given direction. And <strong>blocking_direction</strong> is for part 2, so I&rsquo;ll get to that in a bit. It is the next direction clockwise from the given direction.</p>
+
+
+
+<div class="figure center" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-11-1024x643.png"  alt="My cute Midjourney style trying its best">
+  
+   
+    <span class="caption">My cute Midjourney style trying its best</span>
+  
+</div>
+
+<p>`lgrid = None
+lvisited = None</p>
+<p>def read_data() -&gt; list:
+with open(&ldquo;puzzle10.dat&rdquo;) as f:
+return f.read().splitlines()</p>
+<p>def find_start():
+# start position is marked with &lsquo;S&rsquo;.
+return [(row.index(&lsquo;S&rsquo;), i) for i, row in enumerate(lgrid) if &lsquo;S&rsquo; in row][0]`</p>
+<p>So here I am saving the grid (the puzzle input) and the visited pipes that determine which pipes are part of the maze (output from part 1) as global variables because I plan to use&hellip; <em>caching</em>&hellip; and the cache can&rsquo;t handle mutable types like these two lists.</p>
+<p><strong>find_start</strong> looks through the grid and returns the coordinates <em>(x,y)</em> of the &lsquo;S&rsquo;. It&rsquo;s our start position.</p>
+<p>`def part1() -&gt; list:
+starting_position = find_start()
+adjacent = find_adjacent(starting_position)
+mice = [move_pos(starting_position, direction) for direction in adjacent]
+visited = [starting_position] + mice
+while True:
+new_mice = [move_pos(mouse, z) for mouse in mice for z in find_adjacent(mouse) if move_pos(mouse, z) not in visited]
+if len(new_mice)</p>
+<p><strong>part1</strong> starts at the starting position, and sends mice running in both directions. When a mouse can&rsquo;t move without hitting a place it&rsquo;s visited, it returns the list of visited pipes.</p>
+<p>This is not the best way to do this. Best way would just be to run a mouse through the pipes in one direction and stop when it returns to start. But that would have meant having to figure out which direction it came in to choose the correct exit, and I didn&rsquo;t feel like it. It runs pretty slow as a result.</p>
+<p><code>@lru_cache(maxsize=None) def find_adjacent(pos: tuple) -&gt; list: # given the grid and a position (pos), return the offsets of the two orthogonally adjacent squares that point back to the position # using symbols and offsets. if no adjacent squares are found, return empty list if pos[0] = len(lgrid[0]) or pos[1] &gt;= len(lgrid): return [] symbol = lgrid[pos[1]][pos[0]] if symbol not in symbols and symbol != 'S': return [] if symbol in symbols: return symbols[lgrid[pos[1]][pos[0]]] return [direction for direction in Direction \ if opposite_offset[direction] in find_adjacent(move_pos(pos, direction))]</code></p>
+<p>Okay, <strong>find_adjacent</strong> finds the two adjacent symbols that point back at this one. This lets us find out what points back at the starting position so we can tell what symbol it should be. And I use it everywhere else, even though it might be faster to&hellip; not, and use one that reads the current symbol.</p>
+<p>In order to excuse my sloppy coding, I threw a cache on it, so that the <em>second</em> time it&rsquo;s asked to find the adjacent pipes for a position, it will just return immediately without calculating it again.</p>
+
+
+
+<div class="figure fig-20" >
+  
+    <img class="fig-img" src="https://tipa16384.github.io/wkblog/uploads/2023/12/DALL%c2%b7E-2023-12-10-13.52.31-35mm-photo-of-a-human-repairman-with-a-yellow-hardhat-and-orange-safety-vest-standing-on-a-maze-made-entirely-of-pipes-with-metal-trees-in-the-backgr-300x300.png"  alt="Dall-E 2">
+  
+   
+    <span class="caption">Dall-E 2</span>
+  
+</div>
+
+<p>Okay, so that wasn&rsquo;t so bad, right?</p>
+<p>Part 2 just messes the whole thing up.</p>
+<p>You, the helper who always seems to be called upon each year to save the elves from themselves, have decided that the Robo-Elf has maybe scurried out of the pipe maze and could be <em>anywhere</em> inside the area surrounded by the maze. Why? I don&rsquo;t know. It&rsquo;s something you decided. Don&rsquo;t blame me, I&rsquo;m not even there.</p>
+<p>Part 2 is to calculate the volume of the area that is within the loop made by the maze.</p>
+<p>So in the input, a period (&rsquo;.&rsquo;) denotes empty space. If you look way back up at the start of the post at the sample puzzle input, you won&rsquo;t see any empty space. But the empty space is implied; it is the space between the pipes.</p>
+<p>This is something I <em>did not understand</em> for a very long time. I was only calculating the interiosity of empty spaces, even though the puzzle description made it clear that this was not the correct solution.</p>
+<p>The algorithm I used was, you take a point and draw a line connecting it to a point known to be outside the area (i.e., any point outside the grid). <a href="https://en.wikipedia.org/wiki/Point_in_polygon">You then count the number of intersections with the edge of the polygon</a>. If that count is even, it is outside the shape, otherwise it is inside.</p>
+<p>Only one line is necessary, but because of the weird way they define interior points, I decided that a point was inside only if rays cast from all four cardinal directions all indicated it was inside. This was calculation intensive.</p>
+<p>`@lru_cache(maxsize=None)
+def blocked(direction: Direction, pos: tuple) -&gt; bool:
+looking_at = lgrid[pos[1]][pos[0]]
+if looking_at not in symbols:
+return False
+return blocking_direction[direction] in symbols[looking_at]</p>
+<h1 id="cache-this">cache this</h1>
+<p>@lru_cache(maxsize=None)
+def crossing_count(direction: Direction, pos: tuple) -&gt; int:
+if pos[0] = len(lgrid[0]) or pos[1] &gt;= len(lgrid):
+return 0
+# print (&ldquo;crossing_count&rdquo;, direction, pos)
+return (1 if pos in lvisited and blocked(direction, pos) else 0) + crossing_count(direction, move_pos(pos, direction))</p>
+<p>@lru_cache(maxsize=None)
+def is_inside(pos: tuple) -&gt; bool:
+return not any((crossing_count(direction, pos) % 2) == 0 for direction in Direction)`</p>
+<p>Liberally using caching here. It&rsquo;s like sugar. Just keep adding more. Eventually it will be sweet enough.</p>
+<p><strong>blocked</strong> is my special algorithm for deciding whether or not one of our virtual in between points intersected the maze loop. A ray casting north will be blocked if it encounters a symbol that indicates it exits east. A ray casting east, blocked if it finds a south, and so on. I had to work this out on a notepad. I&rsquo;m not going to copy that out here. <em>It works</em>. How it works is left to you, dear reader / elf helper.</p>
+<p>I originally wrote <strong>crossing_count</strong> to not be recursive, but I wanted to put that cache to work, so I rewrote it to be recursive. This is the ray caster.</p>
+<p>And finally, <strong>is_inside</strong> casts rays in all four directions and returns true if none of them crossed the maze loop an even number of times.</p>
+<p>`def part2() -&gt; int:
+# count the number of &lsquo;.&rsquo; in the grid that are not outside the maze
+return sum(1 for r, row in enumerate(lgrid) for x, c in enumerate(row) if is_inside((x, r)))</p>
+<p>def what_symbol_is_s():
+start_pos = find_start()
+adjacent = find_adjacent(start_pos)
+# find symbol matching adjacent value
+for symbol, directions in symbols.items():
+if len(adjacent) == len(set(adjacent + directions)):
+return symbol
+return None`</p>
+<p>Finally, <strong>part2</strong> calls <strong>is_inside</strong> on every grid position and sums up those that are actually inside. <strong>what_symbol_is_s</strong> calculates what to replace the &lsquo;S&rsquo; symbol in the grid with in order to have it work correctly for part 2.</p>
+<p>That&rsquo;s pretty much it. I saw that other solvers were using flood fill for this. I am not using flood fill.</p>
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/aoc-2023/">AoC 2023</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/flood-fill/">Flood Fill</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/maze/">Maze</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/pipes/">Pipes</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/point-in-polygon/">Point in Polygon</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-11-cosmic-expansion/" data-tooltip="Advent of Code Day 11 -- Cosmic Expansion" aria-label="NEXT: Advent of Code Day 11 -- Cosmic Expansion">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2023/12/monsters-memories-wish-you-were-here/" data-tooltip="Monsters &amp; Memories: Wish you were here?" aria-label="PREVIOUS: Monsters &amp; Memories: Wish you were here?">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'https:\/\/tipa16384.github.io\/wkblog\/2023\/12\/advent-of-code-day-10-pipe-maze\/';
+        
+          this.page.identifier = '2023\/12\/10\/advent-of-code-day-10-pipe-maze';
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = 'chasing-dings';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-11-cosmic-expansion/" data-tooltip="Advent of Code Day 11 -- Cosmic Expansion" aria-label="NEXT: Advent of Code Day 11 -- Cosmic Expansion">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2023/12/monsters-memories-wish-you-were-here/" data-tooltip="Monsters &amp; Memories: Wish you were here?" aria-label="PREVIOUS: Monsters &amp; Memories: Wish you were here?">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-10-pipe-maze/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2023%2F12%2Fadvent-of-code-day-10-pipe-maze%2F" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://bsky.app/intent/compose?text=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2023%2F12%2Fadvent-of-code-day-10-pipe-maze%2F" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i><span>Share on BlueSky</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2023%2F12%2Fadvent-of-code-day-10-pipe-maze%2F" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="https://tipa16384.github.io/js/tranquilpeak.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

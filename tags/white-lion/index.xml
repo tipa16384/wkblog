@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>White Lion on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/white-lion/</link>
-    <description>Recent content in White Lion on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Sep 2008 01:18:53 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/white-lion/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Straight Talk Warhammer: The White Lion profession.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-white-lion-profession./</link>
-      <pubDate>Tue, 16 Sep 2008 01:18:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-white-lion-profession./</guid>
-      <description>&lt;p&gt;Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>White Lion on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/white-lion/</link>
+		<description>Recent content in White Lion on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 16 Sep 2008 01:18:53 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/white-lion/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Straight Talk Warhammer: The White Lion profession.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-white-lion-profession/</link>
+				<pubDate>Tue, 16 Sep 2008 01:18:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-white-lion-profession/</guid>
+				<description>&lt;p&gt;Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

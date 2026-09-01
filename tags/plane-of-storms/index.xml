@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Plane of Storms on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/plane-of-storms/</link>
-    <description>Recent content in Plane of Storms on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 11 Sep 2008 08:32:16 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/plane-of-storms/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ: Plane of Storms</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/eq-plane-of-storms/</link>
-      <pubDate>Thu, 11 Sep 2008 08:32:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/eq-plane-of-storms/</guid>
-      <description>&lt;p&gt;Oy vey, this post is late! From our weekly group almost a week ago. It&amp;rsquo;s just been a bad week, what with another trip to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: Hot zone hoedown</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</link>
-      <pubDate>Sat, 23 Aug 2008 08:19:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</guid>
-      <description>&lt;p&gt;The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Plane of Storms on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/plane-of-storms/</link>
+		<description>Recent content in Plane of Storms on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 11 Sep 2008 08:32:16 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/plane-of-storms/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ: Plane of Storms</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/eq-plane-of-storms/</link>
+				<pubDate>Thu, 11 Sep 2008 08:32:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/eq-plane-of-storms/</guid>
+				<description>&lt;p&gt;Oy vey, this post is late! From our weekly group almost a week ago. It&amp;rsquo;s just been a bad week, what with another trip to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: Hot zone hoedown</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</link>
+				<pubDate>Sat, 23 Aug 2008 08:19:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/eq-hot-zone-hoedown/</guid>
+				<description>&lt;p&gt;The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

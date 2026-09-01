@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Programming Language on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/programming-language/</link>
-    <description>Recent content in Programming Language on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2024 19:56:05 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/programming-language/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code 2024: The First Week</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
-      <pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
-      <description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>It&#39;s not writer&#39;s block, it&#39;s distraction</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/its-not-writers-block-its-distraction/</link>
-      <pubDate>Tue, 25 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/its-not-writers-block-its-distraction/</guid>
-      <description>&lt;p&gt;I wanted to write about Origins 2024, but then I just got to wondering if I could write an aquarium simulator for an ASCII terminal, and eventually this happened.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 9 -- Rope Bridge</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9--rope-bridge/</link>
-      <pubDate>Fri, 09 Dec 2022 21:35:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9--rope-bridge/</guid>
-      <description>&lt;p&gt;The elves are crossing a bridge, but it is a really short bridge &amp;ndash; in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 4 -- Camp Cleanup</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/</link>
-      <pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/</guid>
-      <description>&lt;p&gt;As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chasing Dings! goes to West Karana</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</link>
-      <pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</guid>
-      <description>&lt;p&gt;I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Programming Language on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/programming-language/</link>
+		<description>Recent content in Programming Language on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Dec 2024 19:56:05 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/programming-language/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code 2024: The First Week</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
+				<pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
+				<description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>It&#39;s not writer&#39;s block, it&#39;s distraction</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/its-not-writers-block-its-distraction/</link>
+				<pubDate>Tue, 25 Jun 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/its-not-writers-block-its-distraction/</guid>
+				<description>&lt;p&gt;I wanted to write about Origins 2024, but then I just got to wondering if I could write an aquarium simulator for an ASCII terminal, and eventually this happened.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 9 -- Rope Bridge</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9-rope-bridge/</link>
+				<pubDate>Fri, 09 Dec 2022 21:35:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9-rope-bridge/</guid>
+				<description>&lt;p&gt;The elves are crossing a bridge, but it is a really short bridge &amp;ndash; in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 4 -- Camp Cleanup</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/</link>
+				<pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/</guid>
+				<description>&lt;p&gt;As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chasing Dings! goes to West Karana</title>
+				<link>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</link>
+				<pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/09/chasing-dings-goes-to-west-karana/</guid>
+				<description>&lt;p&gt;I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

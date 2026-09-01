@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Runepriest on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/runepriest/</link>
-    <description>Recent content in Runepriest on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2008 08:00:33 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/runepriest/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Straight Talk Warhammer: The Runepriest</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-runepriest/</link>
-      <pubDate>Thu, 25 Sep 2008 08:00:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-runepriest/</guid>
-      <description>&lt;p&gt;You love you some Warhammer Online: Age of Reckoning, but the game isn&amp;rsquo;t addicting enough. There should be some way of making your time away&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Runepriest on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/runepriest/</link>
+		<description>Recent content in Runepriest on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 25 Sep 2008 08:00:33 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/runepriest/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Straight Talk Warhammer: The Runepriest</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-runepriest/</link>
+				<pubDate>Thu, 25 Sep 2008 08:00:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/straight-talk-warhammer-the-runepriest/</guid>
+				<description>&lt;p&gt;You love you some Warhammer Online: Age of Reckoning, but the game isn&amp;rsquo;t addicting enough. There should be some way of making your time away&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

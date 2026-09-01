@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/home/</link>
-    <description>Recent content in Home on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2009 13:00:57 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/home/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PS3: Limited edition free &#34;Home&#34; Chamber apartment</title>
-      <link>https://tipa16384.github.io/wkblog/2009/05/ps3-limited-edition-free-home-chamber-apartment/</link>
-      <pubDate>Fri, 15 May 2009 13:00:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/05/ps3-limited-edition-free-home-chamber-apartment/</guid>
-      <description>&lt;p&gt;SCEA wants all you PS3 owners who tried their &amp;ldquo;Home&amp;rdquo; virtual lobby once and then never tried it again that if you log in from&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Playstation 3 Home beta</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/playstation-3-home-beta/</link>
-      <pubDate>Fri, 12 Dec 2008 09:51:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/playstation-3-home-beta/</guid>
-      <description>&lt;p&gt;Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Home on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/home/</link>
+		<description>Recent content in Home on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 15 May 2009 13:00:57 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/home/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>PS3: Limited edition free &#34;Home&#34; Chamber apartment</title>
+				<link>https://tipa16384.github.io/wkblog/2009/05/ps3-limited-edition-free-home-chamber-apartment/</link>
+				<pubDate>Fri, 15 May 2009 13:00:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/05/ps3-limited-edition-free-home-chamber-apartment/</guid>
+				<description>&lt;p&gt;SCEA wants all you PS3 owners who tried their &amp;ldquo;Home&amp;rdquo; virtual lobby once and then never tried it again that if you log in from&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Playstation 3 Home beta</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/playstation-3-home-beta/</link>
+				<pubDate>Fri, 12 Dec 2008 09:51:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/playstation-3-home-beta/</guid>
+				<description>&lt;p&gt;Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

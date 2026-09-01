@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Othello on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/othello/</link>
-    <description>Recent content in Othello on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 08:21:17 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/othello/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Othello Trigger for the Gameboy Color</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</link>
-      <pubDate>Fri, 13 Feb 2026 08:21:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Othello Trigger&amp;rdquo; smashes a Chrono Trigger de-make into Othello using GB Studio. Can drag-and-drop game engines really make worthwhile games?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The End of the Othello World Saga</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/the-end-of-the-othello-world-saga/</link>
-      <pubDate>Tue, 03 Feb 2026 07:59:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/the-end-of-the-othello-world-saga/</guid>
-      <description>&lt;p&gt;I humiliated the world&amp;rsquo;s greatest Othello player &amp;ndash; Tamenori. And I feel pretty good about it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Othello World: I Killed the Dragon</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</link>
-      <pubDate>Fri, 30 Jan 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been working on beating this Othello boss for years. Now it&amp;rsquo;s dead and I am one step closer to meeting the Othello master.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro Game Haul: Tron Deadly Discs and Reversi</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/retro-game-haul-tron-deadly-discs-and-reversi/</link>
-      <pubDate>Sat, 25 May 2024 17:18:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/retro-game-haul-tron-deadly-discs-and-reversi/</guid>
-      <description>&lt;p&gt;The sale of the Intellivision brand to the Atari brand means it&amp;rsquo;s finally legal for me to play Intellivision games after only 40 years.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro Game Haul: March 30, 2024</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</link>
-      <pubDate>Sat, 30 Mar 2024 14:54:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</guid>
-      <description>&lt;p&gt;I have way too many games to ever play, but still I can&amp;rsquo;t help it. Today&amp;rsquo;s haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Find: Othello World</title>
-      <link>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</link>
-      <pubDate>Mon, 04 Sep 2023 16:21:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</guid>
-      <description>&lt;p&gt;This Othello game for the Super Famicom is funny and surprisingly challenging.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo Scorecard</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</link>
-      <pubDate>Mon, 28 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</guid>
-      <description>&lt;p&gt;Retro World Expo has been defeated by us. Here&amp;rsquo;s the games we ripped from its steaming corpse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quick Look: Phaser Game Engine</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/quick-look-phaser-game-engine/</link>
-      <pubDate>Thu, 10 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/quick-look-phaser-game-engine/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been spending a few hours trying to get this Asteroids clone to some sort of playable state. Since I haven&amp;rsquo;t really done anything else&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Jump on Bandwagons</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/i-jump-on-bandwagons/</link>
-      <pubDate>Sat, 22 Aug 2020 09:28:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/i-jump-on-bandwagons/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s a lot of issues I have with gaming. Lack of time, for one. I&amp;rsquo;d really like to have a lot more time for gaming,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Go: Absolute Beginner</title>
-      <link>https://tipa16384.github.io/wkblog/2011/06/go-absolute-beginner/</link>
-      <pubDate>Mon, 20 Jun 2011 20:51:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/06/go-absolute-beginner/</guid>
-      <description>&lt;p&gt;My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Othello on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/othello/</link>
+		<description>Recent content in Othello on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 29 Apr 2026 10:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/othello/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>GiiKER Super Reversi</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/giiker-super-reversi/</link>
+				<pubDate>Wed, 29 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/giiker-super-reversi/</guid>
+				<description>&lt;p&gt;This handheld game wants to teach you the game of Othello/Reversi. But how does it do against&amp;hellip; ninja turtles?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Othello Trigger for the Gameboy Color</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</link>
+				<pubDate>Fri, 13 Feb 2026 08:21:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Othello Trigger&amp;rdquo; smashes a Chrono Trigger de-make into Othello using GB Studio. Can drag-and-drop game engines really make worthwhile games?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The End of the Othello World Saga</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/the-end-of-the-othello-world-saga/</link>
+				<pubDate>Tue, 03 Feb 2026 07:59:07 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/the-end-of-the-othello-world-saga/</guid>
+				<description>&lt;p&gt;I humiliated the world&amp;rsquo;s greatest Othello player &amp;ndash; Tamenori. And I feel pretty good about it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Othello World: I Killed the Dragon</title>
+				<link>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</link>
+				<pubDate>Fri, 30 Jan 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been working on beating this Othello boss for years. Now it&amp;rsquo;s dead and I am one step closer to meeting the Othello master.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro Game Haul: Tron Deadly Discs and Reversi</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/retro-game-haul-tron-deadly-discs-and-reversi/</link>
+				<pubDate>Sat, 25 May 2024 17:18:51 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/retro-game-haul-tron-deadly-discs-and-reversi/</guid>
+				<description>&lt;p&gt;The sale of the Intellivision brand to the Atari brand means it&amp;rsquo;s finally legal for me to play Intellivision games after only 40 years.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro Game Haul: March 30, 2024</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</link>
+				<pubDate>Sat, 30 Mar 2024 14:54:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</guid>
+				<description>&lt;p&gt;I have way too many games to ever play, but still I can&amp;rsquo;t help it. Today&amp;rsquo;s haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Find: Othello World</title>
+				<link>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</link>
+				<pubDate>Mon, 04 Sep 2023 16:21:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</guid>
+				<description>&lt;p&gt;This Othello game for the Super Famicom is funny and surprisingly challenging.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo Scorecard</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</link>
+				<pubDate>Mon, 28 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</guid>
+				<description>&lt;p&gt;Retro World Expo has been defeated by us. Here&amp;rsquo;s the games we ripped from its steaming corpse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Quick Look: Phaser Game Engine</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/quick-look-phaser-game-engine/</link>
+				<pubDate>Thu, 10 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/quick-look-phaser-game-engine/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been spending a few hours trying to get this Asteroids clone to some sort of playable state. Since I haven&amp;rsquo;t really done anything else&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I Jump on Bandwagons</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/i-jump-on-bandwagons/</link>
+				<pubDate>Sat, 22 Aug 2020 09:28:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/i-jump-on-bandwagons/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s a lot of issues I have with gaming. Lack of time, for one. I&amp;rsquo;d really like to have a lot more time for gaming,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>3D Printing on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/3d-printing/</link>
-    <description>Recent content in 3D Printing on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 08:05:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/3d-printing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Bambu Lab AMS Pro 2</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/the-bambu-lab-ams-pro-2/</link>
-      <pubDate>Tue, 17 Mar 2026 08:05:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/the-bambu-lab-ams-pro-2/</guid>
-      <description>&lt;p&gt;The exciting tale of how I destroyed my first &amp;ldquo;Automatic Material System&amp;rdquo; and came to replace it with something better.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Perfect Christmas Gift</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/the-perfect-christmas-gift/</link>
-      <pubDate>Mon, 22 Dec 2025 08:07:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/the-perfect-christmas-gift/</guid>
-      <description>&lt;p&gt;Hint: It&amp;rsquo;s not 3D printed puzzle boxes. But that&amp;rsquo;s what they&amp;rsquo;re getting, anyway.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven #7: The Edge of the World</title>
-      <link>https://tipa16384.github.io/wkblog/2025/06/frosthaven-%237-the-edge-of-the-world/</link>
-      <pubDate>Tue, 24 Jun 2025 08:22:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/06/frosthaven-%237-the-edge-of-the-world/</guid>
-      <description>&lt;p&gt;Taking a break from the Algox situation to have a seafood snack.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frosthaven Scenario #1: Town in Flames</title>
-      <link>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-%231-town-in-flames/</link>
-      <pubDate>Tue, 29 Apr 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-%231-town-in-flames/</guid>
-      <description>&lt;p&gt;Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Night: Frosthaven! And So It Begins...</title>
-      <link>https://tipa16384.github.io/wkblog/2025/04/game-night-frosthaven-and-so-it-begins.../</link>
-      <pubDate>Tue, 01 Apr 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/04/game-night-frosthaven-and-so-it-begins.../</guid>
-      <description>&lt;p&gt;After a few years on the shelf, we&amp;rsquo;re finally playing Frosthaven. It&amp;rsquo;s pretty different from Gloomhaven; could be a real challenge.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Great Wave Off Kanagawa, by Hokusai</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</link>
-      <pubDate>Sat, 22 Feb 2025 10:31:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</guid>
-      <description>&lt;p&gt;Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hueforge: High Rez Color Pictures on your 3D Printer</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/hueforge-high-rez-color-pictures-on-your-3d-printer/</link>
-      <pubDate>Fri, 21 Feb 2025 09:03:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/hueforge-high-rez-color-pictures-on-your-3d-printer/</guid>
-      <description>&lt;p&gt;Hueforge prints using very thin layers so that colors bleed through to create blends, shades and gradients on any printer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Painting the White Dragon</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</link>
-      <pubDate>Wed, 14 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</guid>
-      <description>&lt;p&gt;I printed the White Dragon in white filament. Then I told the D&amp;amp;D group that I still needed to paint it. &amp;ldquo;Why? It&amp;rsquo;s already white?&amp;rdquo; Ha!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>D&amp;amp;D: I -- no, WE -- have a white dragon problem</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/dampd-i--no-we--have-a-white-dragon-problem/</link>
-      <pubDate>Mon, 12 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/dampd-i--no-we--have-a-white-dragon-problem/</guid>
-      <description>&lt;p&gt;The problem is, we&amp;rsquo;re about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Scraping BattleTech</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/scraping-battletech/</link>
-      <pubDate>Tue, 22 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/scraping-battletech/</guid>
-      <description>&lt;p&gt;What was that old saying? &amp;ldquo;Information wants to be free&amp;rdquo;?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>3D Printing on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/3d-printing/</link>
+		<description>Recent content in 3D Printing on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Mar 2026 08:05:58 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Bambu Lab AMS Pro 2</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/the-bambu-lab-ams-pro-2/</link>
+				<pubDate>Tue, 17 Mar 2026 08:05:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/the-bambu-lab-ams-pro-2/</guid>
+				<description>&lt;p&gt;The exciting tale of how I destroyed my first &amp;ldquo;Automatic Material System&amp;rdquo; and came to replace it with something better.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Perfect Christmas Gift</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/the-perfect-christmas-gift/</link>
+				<pubDate>Mon, 22 Dec 2025 08:07:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/the-perfect-christmas-gift/</guid>
+				<description>&lt;p&gt;Hint: It&amp;rsquo;s not 3D printed puzzle boxes. But that&amp;rsquo;s what they&amp;rsquo;re getting, anyway.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven #7: The Edge of the World</title>
+				<link>https://tipa16384.github.io/wkblog/2025/06/frosthaven-7-the-edge-of-the-world/</link>
+				<pubDate>Tue, 24 Jun 2025 08:22:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/06/frosthaven-7-the-edge-of-the-world/</guid>
+				<description>&lt;p&gt;Taking a break from the Algox situation to have a seafood snack.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frosthaven Scenario #1: Town in Flames</title>
+				<link>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-1-town-in-flames/</link>
+				<pubDate>Tue, 29 Apr 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/04/frosthaven-scenario-1-town-in-flames/</guid>
+				<description>&lt;p&gt;Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Night: Frosthaven! And So It Begins...</title>
+				<link>https://tipa16384.github.io/wkblog/2025/04/frosthaven-and-so-it-begins/</link>
+				<pubDate>Tue, 01 Apr 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/04/frosthaven-and-so-it-begins/</guid>
+				<description>&lt;p&gt;After a few years on the shelf, we&amp;rsquo;re finally playing Frosthaven. It&amp;rsquo;s pretty different from Gloomhaven; could be a real challenge.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Great Wave Off Kanagawa, by Hokusai</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</link>
+				<pubDate>Sat, 22 Feb 2025 10:31:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</guid>
+				<description>&lt;p&gt;Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hueforge: High Rez Color Pictures on your 3D Printer</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/hueforge-high-rez-color-pictures-on-your-3d-printer/</link>
+				<pubDate>Fri, 21 Feb 2025 09:03:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/hueforge-high-rez-color-pictures-on-your-3d-printer/</guid>
+				<description>&lt;p&gt;Hueforge prints using very thin layers so that colors bleed through to create blends, shades and gradients on any printer.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Painting the White Dragon</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</link>
+				<pubDate>Wed, 14 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/painting-the-white-dragon/</guid>
+				<description>&lt;p&gt;I printed the White Dragon in white filament. Then I told the D&amp;amp;D group that I still needed to paint it. &amp;ldquo;Why? It&amp;rsquo;s already white?&amp;rdquo; Ha!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>D&amp;amp;D: I -- no, WE -- have a white dragon problem</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/dd-i-no-we-have-a-white-dragon-problem/</link>
+				<pubDate>Mon, 12 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/dd-i-no-we-have-a-white-dragon-problem/</guid>
+				<description>&lt;p&gt;The problem is, we&amp;rsquo;re about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Scraping BattleTech</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/scraping-battletech/</link>
+				<pubDate>Tue, 22 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/scraping-battletech/</guid>
+				<description>&lt;p&gt;What was that old saying? &amp;ldquo;Information wants to be free&amp;rdquo;?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

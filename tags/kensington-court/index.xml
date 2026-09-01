@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kensington Court on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/kensington-court/</link>
-    <description>Recent content in Kensington Court on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jan 2009 14:28:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/kensington-court/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard 101: Kensington... and DRAGONSPYRE!</title>
-      <link>https://tipa16384.github.io/wkblog/2009/01/wizard-101-kensington...-and-dragonspyre/</link>
-      <pubDate>Sat, 10 Jan 2009 14:28:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/01/wizard-101-kensington...-and-dragonspyre/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m mad at my Sprite. Most of the time, she&amp;rsquo;s a good pal. We go out in the world, fight evil, have a laugh, do&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kensington Court on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/kensington-court/</link>
+		<description>Recent content in Kensington Court on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Jan 2009 14:28:28 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/kensington-court/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard 101: Kensington... and DRAGONSPYRE!</title>
+				<link>https://tipa16384.github.io/wkblog/2009/01/wizard-101-kensington-and-dragonspyre/</link>
+				<pubDate>Sat, 10 Jan 2009 14:28:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/01/wizard-101-kensington-and-dragonspyre/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m mad at my Sprite. Most of the time, she&amp;rsquo;s a good pal. We go out in the world, fight evil, have a laugh, do&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

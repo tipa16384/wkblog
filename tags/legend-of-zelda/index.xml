@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Legend of Zelda on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/legend-of-zelda/</link>
-    <description>Recent content in Legend of Zelda on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/legend-of-zelda/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Analogue 3D: If I were to get one...</title>
-      <link>https://tipa16384.github.io/wkblog/2024/10/analogue-3d-if-i-were-to-get-one.../</link>
-      <pubDate>Sat, 19 Oct 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/10/analogue-3d-if-i-were-to-get-one.../</guid>
-      <description>&lt;p&gt;Do I love Nintendo 64 games enough to buy a $250 console that would bring them into the 21st century?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>(Not) Taming the Backlog</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</link>
-      <pubDate>Thu, 03 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</guid>
-      <description>&lt;p&gt;If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Legend of Zelda on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/legend-of-zelda/</link>
+		<description>Recent content in Legend of Zelda on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 19 Oct 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/legend-of-zelda/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Analogue 3D: If I were to get one...</title>
+				<link>https://tipa16384.github.io/wkblog/2024/10/analogue-3d-if-i-were-to-get-one/</link>
+				<pubDate>Sat, 19 Oct 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/10/analogue-3d-if-i-were-to-get-one/</guid>
+				<description>&lt;p&gt;Do I love Nintendo 64 games enough to buy a $250 console that would bring them into the 21st century?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>(Not) Taming the Backlog</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</link>
+				<pubDate>Thu, 03 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</guid>
+				<description>&lt;p&gt;If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Quarterstone on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/quarterstone/</link>
-    <description>Recent content in Quarterstone on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2009 12:00:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/quarterstone/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chronicles of Spellborn: Returning to Parliament</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/chronicles-of-spellborn-returning-to-parliament/</link>
-      <pubDate>Mon, 27 Apr 2009 12:00:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/chronicles-of-spellborn-returning-to-parliament/</guid>
-      <description>&lt;p&gt;I spent a couple of days wandering lost through the silver mines in Quarterstone&amp;rsquo;s Statue District, which ended the only way they could possibly end&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The many worlds of Chronicles of Spellborn</title>
-      <link>https://tipa16384.github.io/wkblog/2009/01/the-many-worlds-of-chronicles-of-spellborn/</link>
-      <pubDate>Sat, 03 Jan 2009 17:35:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/01/the-many-worlds-of-chronicles-of-spellborn/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been very, very many places in Spellborn. I&amp;rsquo;ve reached level 11 and am closing in on level 12, working on Quarterstone quests while I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Quarterstone on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/quarterstone/</link>
+		<description>Recent content in Quarterstone on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 27 Apr 2009 12:00:58 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/quarterstone/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Chronicles of Spellborn: Returning to Parliament</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/chronicles-of-spellborn-returning-to-parliament/</link>
+				<pubDate>Mon, 27 Apr 2009 12:00:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/chronicles-of-spellborn-returning-to-parliament/</guid>
+				<description>&lt;p&gt;I spent a couple of days wandering lost through the silver mines in Quarterstone&amp;rsquo;s Statue District, which ended the only way they could possibly end&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The many worlds of Chronicles of Spellborn</title>
+				<link>https://tipa16384.github.io/wkblog/2009/01/the-many-worlds-of-chronicles-of-spellborn/</link>
+				<pubDate>Sat, 03 Jan 2009 17:35:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/01/the-many-worlds-of-chronicles-of-spellborn/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been very, very many places in Spellborn. I&amp;rsquo;ve reached level 11 and am closing in on level 12, working on Quarterstone quests while I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

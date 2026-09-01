@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fomo on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/fomo/</link>
-    <description>Recent content in Fomo on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jul 2021 21:16:15 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/fomo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New World: FOMO or FOTM?</title>
-      <link>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</link>
-      <pubDate>Thu, 22 Jul 2021 21:16:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</guid>
-      <description>&lt;p&gt;Amazon&amp;rsquo;s new MMO, &amp;ldquo;New World&amp;rdquo;, comes out soon. Everyone is excited &amp;ndash; but I don&amp;rsquo;t know if I&amp;rsquo;m ready for a new MMO commitment.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Fomo on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/fomo/</link>
+		<description>Recent content in Fomo on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Jul 2021 21:16:15 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/fomo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>New World: FOMO or FOTM?</title>
+				<link>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</link>
+				<pubDate>Thu, 22 Jul 2021 21:16:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</guid>
+				<description>&lt;p&gt;Amazon&amp;rsquo;s new MMO, &amp;ldquo;New World&amp;rdquo;, comes out soon. Everyone is excited &amp;ndash; but I don&amp;rsquo;t know if I&amp;rsquo;m ready for a new MMO commitment.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

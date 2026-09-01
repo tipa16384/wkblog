@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Person of Lordly Caliber on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/person-of-lordly-caliber/</link>
-    <description>Recent content in Person of Lordly Caliber on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 14:58:23 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/person-of-lordly-caliber/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
-      <pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
-      <description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ogre Battle: Curse your sudden, but inevitable, betrayal</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</link>
-      <pubDate>Wed, 13 Jul 2022 08:16:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</guid>
-      <description>&lt;p&gt;Now that I&amp;rsquo;ve gotten the game so that it works and looks decent, it&amp;rsquo;s time to ask the big question: How do I get Deneb&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Person of Lordly Caliber on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/person-of-lordly-caliber/</link>
+		<description>Recent content in Person of Lordly Caliber on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 24 Jul 2022 14:58:23 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/person-of-lordly-caliber/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
+				<pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
+				<description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ogre Battle: Curse your sudden, but inevitable, betrayal</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</link>
+				<pubDate>Wed, 13 Jul 2022 08:16:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</guid>
+				<description>&lt;p&gt;Now that I&amp;rsquo;ve gotten the game so that it works and looks decent, it&amp;rsquo;s time to ask the big question: How do I get Deneb&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

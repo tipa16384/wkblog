@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dark Quest on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dark-quest/</link>
-    <description>Recent content in Dark Quest on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Nov 2025 08:30:09 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dark-quest/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>You had ONE JOB, Dark Quest 4!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</link>
-      <pubDate>Wed, 12 Nov 2025 08:30:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</guid>
-      <description>&lt;p&gt;You had one job &amp;ndash; bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dark Quest 4: More Hero Quest than ever?</title>
-      <link>https://tipa16384.github.io/wkblog/2025/06/dark-quest-4-more-hero-quest-than-ever/</link>
-      <pubDate>Wed, 11 Jun 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/06/dark-quest-4-more-hero-quest-than-ever/</guid>
-      <description>&lt;p&gt;Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dark Quest on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/dark-quest/</link>
+		<description>Recent content in Dark Quest on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 12 Nov 2025 08:30:09 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/dark-quest/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>You had ONE JOB, Dark Quest 4!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</link>
+				<pubDate>Wed, 12 Nov 2025 08:30:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/you-had-one-job-dark-quest-4/</guid>
+				<description>&lt;p&gt;You had one job &amp;ndash; bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dark Quest 4: More Hero Quest than ever?</title>
+				<link>https://tipa16384.github.io/wkblog/2025/06/dark-quest-4-more-hero-quest-than-ever/</link>
+				<pubDate>Wed, 11 Jun 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/06/dark-quest-4-more-hero-quest-than-ever/</guid>
+				<description>&lt;p&gt;Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

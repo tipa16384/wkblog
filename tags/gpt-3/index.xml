@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gpt-3 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/gpt-3/</link>
-    <description>Recent content in Gpt-3 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 18 Dec 2022 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/gpt-3/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Woody, the Tetris-playing Woodpecker</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</link>
-      <pubDate>Sun, 18 Dec 2022 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</guid>
-      <description>&lt;p&gt;True story of how a Tetris-playing bird made humanity examine its role in the universe. Plus: an exclusive interview with Woody about his marriage to a human woman!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 16 -- Proboscidea Volcanium</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</link>
-      <pubDate>Fri, 16 Dec 2022 23:17:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16--proboscidea-volcanium/</guid>
-      <description>&lt;p&gt;Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&amp;rsquo;s, so let&amp;rsquo;s try something a little different.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 4 -- Camp Cleanup</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/</link>
-      <pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4--camp-cleanup/</guid>
-      <description>&lt;p&gt;As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Country Song about Today&#39;s News -- November 28, 2022</title>
-      <link>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news--november-28-2022/</link>
-      <pubDate>Mon, 28 Nov 2022 21:22:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news--november-28-2022/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a country song, about the news of today, written by AI!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ways that the discovery of human telepathy is changing how game shows work</title>
-      <link>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</link>
-      <pubDate>Mon, 24 Oct 2022 11:06:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</guid>
-      <description>&lt;p&gt;I just thought this was funny. I asked GPT-3 for some help :-)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dissidia 012 Final Fantasy comes highly recommended</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</link>
-      <pubDate>Thu, 29 Sep 2022 08:52:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</guid>
-      <description>&lt;p&gt;So I was chatting with Terra yesterday and&amp;hellip; wait, no, keep reading. Because I think we&amp;rsquo;re in the future now&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
-      <pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
-      <description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo 2022 -- Hartford, CT</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022--hartford-ct/</link>
-      <pubDate>Tue, 13 Sep 2022 22:07:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022--hartford-ct/</guid>
-      <description>&lt;p&gt;Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn&amp;rsquo;t a fan and is warning me away from Drakkhen for the SNES.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Life of a Medical Student Who Sold Himself as an NFT to Pay for School</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</link>
-      <pubDate>Wed, 07 Sep 2022 10:32:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</guid>
-      <description>&lt;p&gt;An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cid&#39;s Legacy: A Story of the World of Ruin</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</link>
-      <pubDate>Tue, 06 Sep 2022 08:17:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</guid>
-      <description>&lt;p&gt;A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Gpt-3 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/gpt-3/</link>
+		<description>Recent content in Gpt-3 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 18 Dec 2022 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/gpt-3/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Woody, the Tetris-playing Woodpecker</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</link>
+				<pubDate>Sun, 18 Dec 2022 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/woody-the-tetris-playing-woodpecker/</guid>
+				<description>&lt;p&gt;True story of how a Tetris-playing bird made humanity examine its role in the universe. Plus: an exclusive interview with Woody about his marriage to a human woman!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 16 -- Proboscidea Volcanium</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16-proboscidea-volcanium/</link>
+				<pubDate>Fri, 16 Dec 2022 23:17:07 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-16-proboscidea-volcanium/</guid>
+				<description>&lt;p&gt;Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people&amp;rsquo;s, so let&amp;rsquo;s try something a little different.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 4 -- Camp Cleanup</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/</link>
+				<pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-4-camp-cleanup/</guid>
+				<description>&lt;p&gt;As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Country Song about Today&#39;s News -- November 28, 2022</title>
+				<link>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news-november-28-2022/</link>
+				<pubDate>Mon, 28 Nov 2022 21:22:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/11/a-country-song-about-todays-news-november-28-2022/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a country song, about the news of today, written by AI!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ways that the discovery of human telepathy is changing how game shows work</title>
+				<link>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</link>
+				<pubDate>Mon, 24 Oct 2022 11:06:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/10/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/</guid>
+				<description>&lt;p&gt;I just thought this was funny. I asked GPT-3 for some help :-)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dissidia 012 Final Fantasy comes highly recommended</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</link>
+				<pubDate>Thu, 29 Sep 2022 08:52:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/dissidia-012-final-fantasy-comes-highly-recommended/</guid>
+				<description>&lt;p&gt;So I was chatting with Terra yesterday and&amp;hellip; wait, no, keep reading. Because I think we&amp;rsquo;re in the future now&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
+				<pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
+				<description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo 2022 -- Hartford, CT</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022-hartford-ct/</link>
+				<pubDate>Tue, 13 Sep 2022 22:07:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022-hartford-ct/</guid>
+				<description>&lt;p&gt;Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn&amp;rsquo;t a fan and is warning me away from Drakkhen for the SNES.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Life of a Medical Student Who Sold Himself as an NFT to Pay for School</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</link>
+				<pubDate>Wed, 07 Sep 2022 10:32:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</guid>
+				<description>&lt;p&gt;An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cid&#39;s Legacy: A Story of the World of Ruin</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</link>
+				<pubDate>Tue, 06 Sep 2022 08:17:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/cids-legacy-a-story-of-the-world-of-ruin/</guid>
+				<description>&lt;p&gt;A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

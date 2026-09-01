@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pillars of Eternity on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/pillars-of-eternity/</link>
-    <description>Recent content in Pillars of Eternity on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2015 10:57:03 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/pillars-of-eternity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Finished Pillars of Eternity!</title>
-      <link>https://tipa16384.github.io/wkblog/2015/06/finished-pillars-of-eternity/</link>
-      <pubDate>Mon, 22 Jun 2015 10:57:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/06/finished-pillars-of-eternity/</guid>
-      <description>&lt;p&gt;Well, until the expansion, anyway&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Act III: The Anger of the Gods</title>
-      <link>https://tipa16384.github.io/wkblog/2015/05/act-iii-the-anger-of-the-gods/</link>
-      <pubDate>Sun, 31 May 2015 16:33:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/05/act-iii-the-anger-of-the-gods/</guid>
-      <description>&lt;p&gt;When I got to Act III in Pillars of Eternity, I stopped. One of the first quests I got asked me to strengthen the future&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Suddenly, a dragon...</title>
-      <link>https://tipa16384.github.io/wkblog/2015/05/suddenly-a-dragon.../</link>
-      <pubDate>Sat, 30 May 2015 20:32:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/05/suddenly-a-dragon.../</guid>
-      <description>&lt;p&gt;I kinda figured there&amp;rsquo;d be a dragon at the bottom of the Endless Paths. I knew there was an achievement for killing all the dragons&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tanks for all the help...</title>
-      <link>https://tipa16384.github.io/wkblog/2015/05/tanks-for-all-the-help.../</link>
-      <pubDate>Fri, 22 May 2015 00:06:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/05/tanks-for-all-the-help.../</guid>
-      <description>&lt;p&gt;Darna was a long time, well-respected member of Team Tanglewood. I loved her from the moment I first recruited her back at the Black Hound&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Pillars of Eternity on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/pillars-of-eternity/</link>
+		<description>Recent content in Pillars of Eternity on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Jun 2015 10:57:03 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/pillars-of-eternity/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Finished Pillars of Eternity!</title>
+				<link>https://tipa16384.github.io/wkblog/2015/06/finished-pillars-of-etern/</link>
+				<pubDate>Mon, 22 Jun 2015 10:57:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/06/finished-pillars-of-etern/</guid>
+				<description>&lt;p&gt;Well, until the expansion, anyway&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Act III: The Anger of the Gods</title>
+				<link>https://tipa16384.github.io/wkblog/2015/05/when-i-got-to-act-iii-in/</link>
+				<pubDate>Sun, 31 May 2015 16:33:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/05/when-i-got-to-act-iii-in/</guid>
+				<description>&lt;p&gt;When I got to Act III in Pillars of Eternity, I stopped. One of the first quests I got asked me to strengthen the future&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Suddenly, a dragon...</title>
+				<link>https://tipa16384.github.io/wkblog/2015/05/i-kinda-figured-thered-be-a-dragon-at-the-bottom-of-the-endless-paths-i-knew-there-was-an-achievement/</link>
+				<pubDate>Sat, 30 May 2015 20:32:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/05/i-kinda-figured-thered-be-a-dragon-at-the-bottom-of-the-endless-paths-i-knew-there-was-an-achievement/</guid>
+				<description>&lt;p&gt;I kinda figured there&amp;rsquo;d be a dragon at the bottom of the Endless Paths. I knew there was an achievement for killing all the dragons&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tanks for all the help...</title>
+				<link>https://tipa16384.github.io/wkblog/2015/05/darna-was-a-long-time-well-respected-member-of-team-tanglewood-i-loved-her-from-the-moment-i-first/</link>
+				<pubDate>Fri, 22 May 2015 00:06:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/05/darna-was-a-long-time-well-respected-member-of-team-tanglewood-i-loved-her-from-the-moment-i-first/</guid>
+				<description>&lt;p&gt;Darna was a long time, well-respected member of Team Tanglewood. I loved her from the moment I first recruited her back at the Black Hound&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

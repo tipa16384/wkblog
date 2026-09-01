@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Social Game on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/social-game/</link>
-    <description>Recent content in Social Game on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Sep 2010 00:41:18 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/social-game/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Social Game Review: Backyard Monsters</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</link>
-      <pubDate>Sat, 25 Sep 2010 00:41:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Facebook game roundup: Warstorm and City of Wonder</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</link>
-      <pubDate>Tue, 14 Sep 2010 07:03:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Thoughts on the social gaming explosion</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</link>
-      <pubDate>Fri, 27 Aug 2010 18:52:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More Social Games: Office Heroes, Kingdoms of Camelot, Virtual Villagers</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/more-social-games-office-heroes-kingdoms-of-camelot-virtual-villagers/</link>
-      <pubDate>Sat, 21 Aug 2010 11:31:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/more-social-games-office-heroes-kingdoms-of-camelot-virtual-villagers/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Social Game on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/social-game/</link>
+		<description>Recent content in Social Game on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 25 Sep 2010 00:41:18 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/social-game/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Social Game Review: Backyard Monsters</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</link>
+				<pubDate>Sat, 25 Sep 2010 00:41:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/social-game-review-backyard-monsters/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Facebook game roundup: Warstorm and City of Wonder</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</link>
+				<pubDate>Tue, 14 Sep 2010 07:03:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/facebook-game-roundup-warstorm-and-city-of-wonder/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Thoughts on the social gaming explosion</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</link>
+				<pubDate>Fri, 27 Aug 2010 18:52:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>More Social Games: Office Heroes, Kingdoms of Camelot, Virtual Villagers</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/society-at-large-more-social-games/</link>
+				<pubDate>Sat, 21 Aug 2010 11:31:48 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/society-at-large-more-social-games/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

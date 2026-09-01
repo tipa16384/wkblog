@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dungeons &amp; Dragons Online on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/dungeons--dragons-online/</link>
-    <description>Recent content in Dungeons &amp; Dragons Online on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 07:35:07 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/dungeons--dragons-online/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The final days of Blaugust</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/the-final-days-of-blaugust/</link>
-      <pubDate>Thu, 31 Aug 2023 07:35:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/the-final-days-of-blaugust/</guid>
-      <description>&lt;p&gt;&amp;hellip;and I&amp;rsquo;m ending it as I began it&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
-      <link>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
-      <pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
-      <description>&lt;p&gt;Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Neverwinter: It&#39;s Forgotten Realms, but is it D&amp;D?</title>
-      <link>https://tipa16384.github.io/wkblog/2013/02/neverwinter-its-forgotten-realms-but-is-it-dd/</link>
-      <pubDate>Sun, 10 Feb 2013 10:42:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2013/02/neverwinter-its-forgotten-realms-but-is-it-dd/</guid>
-      <description>&lt;p&gt;This is the first beta weekend for Cryptic&amp;rsquo;s &amp;ldquo;Neverwinter&amp;rdquo;, an action-oriented MMO set in one of the more famous of the Forgotten Realm&amp;rsquo;s cities. We&amp;rsquo;ve&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDO: Web of Chaos</title>
-      <link>https://tipa16384.github.io/wkblog/2012/04/ddo-web-of-chaos/</link>
-      <pubDate>Fri, 06 Apr 2012 23:20:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/04/ddo-web-of-chaos/</guid>
-      <description>&lt;p&gt;What I want to know is, if the Spinner of Shadows could &amp;ldquo;hold person&amp;rdquo; everyone in the party instantly, with no saving throw, for as&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDO: Doomsphere the Dull</title>
-      <link>https://tipa16384.github.io/wkblog/2012/01/ddo-doomsphere-the-dull/</link>
-      <pubDate>Mon, 30 Jan 2012 07:20:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/01/ddo-doomsphere-the-dull/</guid>
-      <description>&lt;p&gt;After last week&amp;rsquo;s mass dragon death in Gianthold Tor, we were back in the Cornfields of Catastrophe Greenhouse of Gore Tidepools of Terror Orchard of&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDO: Unfinished business in Gianthold Tor</title>
-      <link>https://tipa16384.github.io/wkblog/2012/01/ddo-unfinished-business-in-gianthold-tor/</link>
-      <pubDate>Mon, 23 Jan 2012 07:13:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/01/ddo-unfinished-business-in-gianthold-tor/</guid>
-      <description>&lt;p&gt;None of us was happy about the way we left Gianthold Tor; expert at getting through the dungeon and killing the Gatekeeper, unable to kill&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDO: Inferno of the Damned</title>
-      <link>https://tipa16384.github.io/wkblog/2012/01/ddo-inferno-of-the-damned/</link>
-      <pubDate>Mon, 16 Jan 2012 11:15:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/01/ddo-inferno-of-the-damned/</guid>
-      <description>&lt;p&gt;Having spent the last month or so running errands for lazy journalists in the Harbingers of Madness module, we all felt it was time for&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDO: Buying Time</title>
-      <link>https://tipa16384.github.io/wkblog/2012/01/ddo-buying-time/</link>
-      <pubDate>Wed, 11 Jan 2012 00:28:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/01/ddo-buying-time/</guid>
-      <description>&lt;p&gt;None of Team Spode much liked working so hard on In The Flesh and failing it Sunday. We were so close, but we were just&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDO: It&#39;s a Hard Night...</title>
-      <link>https://tipa16384.github.io/wkblog/2012/01/ddo-its-a-hard-night.../</link>
-      <pubDate>Mon, 09 Jan 2012 08:11:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/01/ddo-its-a-hard-night.../</guid>
-      <description>&lt;p&gt;All we wanted to do last night was finish The Harbingers of Madness quest for the second time, this time on Hard mode. The quest&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DDO: How to gimp your character</title>
-      <link>https://tipa16384.github.io/wkblog/2012/01/ddo-how-to-gimp-your-character/</link>
-      <pubDate>Tue, 03 Jan 2012 23:43:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/01/ddo-how-to-gimp-your-character/</guid>
-      <description>&lt;p&gt;My first Dungeons and Dragons character, I had no idea about. She was a dwarf cleric, a Hobbesian cleric &amp;ndash; solitary, poor, brutish, nasty and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dungeons &amp; Dragons Online on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/dungeons--dragons-online/</link>
+		<description>Recent content in Dungeons &amp; Dragons Online on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 31 Aug 2023 07:35:07 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/dungeons--dragons-online/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The final days of Blaugust</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/the-final-days-of-blaugust/</link>
+				<pubDate>Thu, 31 Aug 2023 07:35:07 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/the-final-days-of-blaugust/</guid>
+				<description>&lt;p&gt;&amp;hellip;and I&amp;rsquo;m ending it as I began it&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
+				<link>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
+				<pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
+				<description>&lt;p&gt;Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Neverwinter: It&#39;s Forgotten Realms, but is it D&amp;D?</title>
+				<link>https://tipa16384.github.io/wkblog/2013/02/neverwinter-its-forgotten-realms-but-is-it-dd/</link>
+				<pubDate>Sun, 10 Feb 2013 10:42:48 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2013/02/neverwinter-its-forgotten-realms-but-is-it-dd/</guid>
+				<description>&lt;p&gt;This is the first beta weekend for Cryptic&amp;rsquo;s &amp;ldquo;Neverwinter&amp;rdquo;, an action-oriented MMO set in one of the more famous of the Forgotten Realm&amp;rsquo;s cities. We&amp;rsquo;ve&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DDO: Web of Chaos</title>
+				<link>https://tipa16384.github.io/wkblog/2012/04/ddo-web-of-chaos/</link>
+				<pubDate>Fri, 06 Apr 2012 23:20:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/04/ddo-web-of-chaos/</guid>
+				<description>&lt;p&gt;What I want to know is, if the Spinner of Shadows could &amp;ldquo;hold person&amp;rdquo; everyone in the party instantly, with no saving throw, for as&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DDO: Doomsphere the Dull</title>
+				<link>https://tipa16384.github.io/wkblog/2012/01/ddo-doomsphere-the-dull/</link>
+				<pubDate>Mon, 30 Jan 2012 07:20:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/01/ddo-doomsphere-the-dull/</guid>
+				<description>&lt;p&gt;After last week&amp;rsquo;s mass dragon death in Gianthold Tor, we were back in the Cornfields of Catastrophe Greenhouse of Gore Tidepools of Terror Orchard of&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DDO: Unfinished business in Gianthold Tor</title>
+				<link>https://tipa16384.github.io/wkblog/2012/01/ddo-unfinished-business-in-gianthold-tor/</link>
+				<pubDate>Mon, 23 Jan 2012 07:13:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/01/ddo-unfinished-business-in-gianthold-tor/</guid>
+				<description>&lt;p&gt;None of us was happy about the way we left Gianthold Tor; expert at getting through the dungeon and killing the Gatekeeper, unable to kill&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DDO: Inferno of the Damned</title>
+				<link>https://tipa16384.github.io/wkblog/2012/01/ddo-inferno-of-the-damned/</link>
+				<pubDate>Mon, 16 Jan 2012 11:15:13 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/01/ddo-inferno-of-the-damned/</guid>
+				<description>&lt;p&gt;Having spent the last month or so running errands for lazy journalists in the Harbingers of Madness module, we all felt it was time for&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DDO: Buying Time</title>
+				<link>https://tipa16384.github.io/wkblog/2012/01/ddo-buying-time/</link>
+				<pubDate>Wed, 11 Jan 2012 00:28:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/01/ddo-buying-time/</guid>
+				<description>&lt;p&gt;None of Team Spode much liked working so hard on In The Flesh and failing it Sunday. We were so close, but we were just&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DDO: It&#39;s a Hard Night...</title>
+				<link>https://tipa16384.github.io/wkblog/2012/01/ddo-its-a-hard-night/</link>
+				<pubDate>Mon, 09 Jan 2012 08:11:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/01/ddo-its-a-hard-night/</guid>
+				<description>&lt;p&gt;All we wanted to do last night was finish The Harbingers of Madness quest for the second time, this time on Hard mode. The quest&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DDO: How to gimp your character</title>
+				<link>https://tipa16384.github.io/wkblog/2012/01/ddo-how-to-gimp-your-character/</link>
+				<pubDate>Tue, 03 Jan 2012 23:43:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/01/ddo-how-to-gimp-your-character/</guid>
+				<description>&lt;p&gt;My first Dungeons and Dragons character, I had no idea about. She was a dwarf cleric, a Hobbesian cleric &amp;ndash; solitary, poor, brutish, nasty and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

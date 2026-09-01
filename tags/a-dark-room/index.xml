@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>A Dark Room on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/a-dark-room/</link>
-    <description>Recent content in A Dark Room on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 31 Mar 2025 12:48:32 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/a-dark-room/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Mon, 31 Mar 2025 12:48:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O&amp;rsquo; STUFF.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>A Dark Room on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/a-dark-room/</link>
+		<description>Recent content in A Dark Room on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 31 Mar 2025 12:48:32 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/a-dark-room/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend-3/</link>
+				<pubDate>Mon, 31 Mar 2025 12:48:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/i-know-what-i-did-last-weekend-3/</guid>
+				<description>&lt;p&gt;Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O&amp;rsquo; STUFF.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Frontierville on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/frontierville/</link>
-    <description>Recent content in Frontierville on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Aug 2010 18:52:43 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/frontierville/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Thoughts on the social gaming explosion</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</link>
-      <pubDate>Fri, 27 Aug 2010 18:52:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frontierville: the Panorama</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/frontierville-the-panorama/</link>
-      <pubDate>Sat, 07 Aug 2010 12:55:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/frontierville-the-panorama/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zynga&#39;s Frontierville is Capitalism for Kids</title>
-      <link>https://tipa16384.github.io/wkblog/2010/07/zyngas-frontierville-is-capitalism-for-kids/</link>
-      <pubDate>Thu, 29 Jul 2010 23:14:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/07/zyngas-frontierville-is-capitalism-for-kids/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Frontierville on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/frontierville/</link>
+		<description>Recent content in Frontierville on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 Aug 2010 18:52:43 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/frontierville/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Thoughts on the social gaming explosion</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</link>
+				<pubDate>Fri, 27 Aug 2010 18:52:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/thoughts-on-the-social-gaming-explosion/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Frontierville: the Panorama</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/frontierville-the-panorama/</link>
+				<pubDate>Sat, 07 Aug 2010 12:55:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/frontierville-the-panorama/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Zynga&#39;s Frontierville is Capitalism for Kids</title>
+				<link>https://tipa16384.github.io/wkblog/2010/07/zyngas-frontierville-is-capitalism-for-kids/</link>
+				<pubDate>Thu, 29 Jul 2010 23:14:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/07/zyngas-frontierville-is-capitalism-for-kids/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

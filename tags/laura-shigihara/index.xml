@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Laura Shigihara on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/laura-shigihara/</link>
-    <description>Recent content in Laura Shigihara on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Aug 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/laura-shigihara/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The 14 Pages of Sarah Woods</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</link>
-      <pubDate>Sun, 14 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</guid>
-      <description>&lt;p&gt;The Number 14: A Touching Game with Excellent Writing and Interesting Characters&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Laura Shigihara on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/laura-shigihara/</link>
+		<description>Recent content in Laura Shigihara on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 14 Aug 2022 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/laura-shigihara/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The 14 Pages of Sarah Woods</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</link>
+				<pubDate>Sun, 14 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/the-14-pages-of-sarah-woods/</guid>
+				<description>&lt;p&gt;The Number 14: A Touching Game with Excellent Writing and Interesting Characters&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

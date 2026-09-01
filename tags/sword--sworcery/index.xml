@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sword &amp; Sworcery on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/sword--sworcery/</link>
-    <description>Recent content in Sword &amp; Sworcery on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 10:51:06 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/sword--sworcery/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The White Raven: A Cinematic Tactical RPG</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</link>
-      <pubDate>Sat, 06 Jul 2024 10:51:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</guid>
-      <description>&lt;p&gt;After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Sword &amp; Sworcery on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/sword--sworcery/</link>
+		<description>Recent content in Sword &amp; Sworcery on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 06 Jul 2024 10:51:06 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/sword--sworcery/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The White Raven: A Cinematic Tactical RPG</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</link>
+				<pubDate>Sat, 06 Jul 2024 10:51:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/the-white-raven-a-cinematic-tactical-rpg/</guid>
+				<description>&lt;p&gt;After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Simon Stålenhag on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/simon-st%C3%A5lenhag/</link>
-    <description>Recent content in Simon Stålenhag on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/simon-st%C3%A5lenhag/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Game Night: Tales from the Loop</title>
-      <link>https://tipa16384.github.io/wkblog/2024/11/game-night-tales-from-the-loop/</link>
-      <pubDate>Tue, 05 Nov 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/11/game-night-tales-from-the-loop/</guid>
-      <description>&lt;p&gt;Goonies meets Stranger Things meets robots in a board game set in an alternate 80s Sweden, inspired by the art of Simon Stålenhag.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Simon Stålenhag on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/simon-st%C3%A5lenhag/</link>
+		<description>Recent content in Simon Stålenhag on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 05 Nov 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/simon-st%C3%A5lenhag/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Game Night: Tales from the Loop</title>
+				<link>https://tipa16384.github.io/wkblog/2024/11/game-night-tales-from-the-loop/</link>
+				<pubDate>Tue, 05 Nov 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/11/game-night-tales-from-the-loop/</guid>
+				<description>&lt;p&gt;Goonies meets Stranger Things meets robots in a board game set in an alternate 80s Sweden, inspired by the art of Simon Stålenhag.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

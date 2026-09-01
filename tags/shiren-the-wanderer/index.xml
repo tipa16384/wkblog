@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shiren the Wanderer on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/shiren-the-wanderer/</link>
-    <description>Recent content in Shiren the Wanderer on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2009 19:12:26 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/shiren-the-wanderer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shiren the Wanderer 3 coming next year for the Wii</title>
-      <link>https://tipa16384.github.io/wkblog/2009/06/shiren-the-wanderer-3-coming-next-year-for-the-wii/</link>
-      <pubDate>Tue, 09 Jun 2009 19:12:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/06/shiren-the-wanderer-3-coming-next-year-for-the-wii/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Shiren the Wanderer on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/shiren-the-wanderer/</link>
+		<description>Recent content in Shiren the Wanderer on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2009 19:12:26 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/shiren-the-wanderer/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Shiren the Wanderer 3 coming next year for the Wii</title>
+				<link>https://tipa16384.github.io/wkblog/2009/06/shiren-the-wanderer-3-coming-next-year-for-the-wii/</link>
+				<pubDate>Tue, 09 Jun 2009 19:12:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/06/shiren-the-wanderer-3-coming-next-year-for-the-wii/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

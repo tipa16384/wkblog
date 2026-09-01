@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pollock on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/pollock/</link>
-    <description>Recent content in Pollock on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2025 10:31:36 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/pollock/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Great Wave Off Kanagawa, by Hokusai</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</link>
-      <pubDate>Sat, 22 Feb 2025 10:31:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</guid>
-      <description>&lt;p&gt;Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Pollock on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/pollock/</link>
+		<description>Recent content in Pollock on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 22 Feb 2025 10:31:36 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/pollock/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Great Wave Off Kanagawa, by Hokusai</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</link>
+				<pubDate>Sat, 22 Feb 2025 10:31:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/the-great-wave-off-kanagawa-by-hokusai/</guid>
+				<description>&lt;p&gt;Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

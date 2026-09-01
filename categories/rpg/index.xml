@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>RPG on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/rpg/</link>
-    <description>Recent content in RPG on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 09:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/rpg/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Star Trek Voyager -- Across the Unknown</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/star-trek-voyager--across-the-unknown/</link>
-      <pubDate>Tue, 24 Feb 2026 09:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/star-trek-voyager--across-the-unknown/</guid>
-      <description>&lt;p&gt;If you need me, I&amp;rsquo;ll be playing Wuthering Heights in the holodeck. Bring coffee.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Fellowship of the Ring (PS2)</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</link>
-      <pubDate>Tue, 17 Feb 2026 07:51:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</guid>
-      <description>&lt;p&gt;Full name: The Lord of the Rings: The Fellowship of the Ring: The Video Game: For the PlayStation 2: Collectible Card Inside.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/quest-64-i-played-the-worst-rpg-on-the-nintendo-64--and-i-liked-it/</link>
-      <pubDate>Sun, 11 Jan 2026 21:08:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/quest-64-i-played-the-worst-rpg-on-the-nintendo-64--and-i-liked-it/</guid>
-      <description>&lt;p&gt;My quest to play every RPG on the Nintendo 64 continues with Quest 64, often called the worst RPG on the system. But is it?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Clair Obscur: Expedition 33 1/3</title>
-      <link>https://tipa16384.github.io/wkblog/2025/05/clair-obscur-expedition-33-1/3/</link>
-      <pubDate>Sun, 18 May 2025 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/05/clair-obscur-expedition-33-1/3/</guid>
-      <description>&lt;p&gt;Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blue Prince: Welcome to the Gift Shop</title>
-      <link>https://tipa16384.github.io/wkblog/2025/05/blue-prince-welcome-to-the-gift-shop/</link>
-      <pubDate>Mon, 05 May 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/05/blue-prince-welcome-to-the-gift-shop/</guid>
-      <description>&lt;p&gt;Hey, I completed another game! And what a journey&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>&#34;YES&#34;, the first cheat code.</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/yes-the-first-cheat-code./</link>
-      <pubDate>Wed, 05 Mar 2025 07:52:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/yes-the-first-cheat-code./</guid>
-      <description>&lt;p&gt;Is this blog post worth $3.50 to you?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rolling Dice and Taking Names: My CaptainCon 2025 Experience</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/rolling-dice-and-taking-names-my-captaincon-2025-experience/</link>
-      <pubDate>Mon, 03 Feb 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/rolling-dice-and-taking-names-my-captaincon-2025-experience/</guid>
-      <description>&lt;p&gt;We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best of 2024: Single-Player RPGs</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</link>
-      <pubDate>Mon, 30 Dec 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</guid>
-      <description>&lt;p&gt;2024 was a great year for RPGs. I didn&amp;rsquo;t play all the ones I wanted, but the ones I did play were pretty incredible.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Odin Sphere: Two dimensions is more than enough</title>
-      <link>https://tipa16384.github.io/wkblog/2024/11/odin-sphere-two-dimensions-is-more-than-enough/</link>
-      <pubDate>Wed, 27 Nov 2024 14:04:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/11/odin-sphere-two-dimensions-is-more-than-enough/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dragon Age: the Veilguard finished</title>
-      <link>https://tipa16384.github.io/wkblog/2024/11/dragon-age-the-veilguard-finished/</link>
-      <pubDate>Thu, 21 Nov 2024 16:56:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/11/dragon-age-the-veilguard-finished/</guid>
-      <description>&lt;p&gt;82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>RPG on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/rpg/</link>
+		<description>Recent content in RPG on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 24 Feb 2026 09:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/rpg/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Star Trek Voyager -- Across the Unknown</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/star-trek-voyager-across-the-unknown/</link>
+				<pubDate>Tue, 24 Feb 2026 09:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/star-trek-voyager-across-the-unknown/</guid>
+				<description>&lt;p&gt;If you need me, I&amp;rsquo;ll be playing Wuthering Heights in the holodeck. Bring coffee.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Fellowship of the Ring (PS2)</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</link>
+				<pubDate>Tue, 17 Feb 2026 07:51:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/the-fellowship-of-the-ring-ps2/</guid>
+				<description>&lt;p&gt;Full name: The Lord of the Rings: The Fellowship of the Ring: The Video Game: For the PlayStation 2: Collectible Card Inside.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it</title>
+				<link>https://tipa16384.github.io/wkblog/2026/01/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/</link>
+				<pubDate>Sun, 11 Jan 2026 21:08:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/01/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/</guid>
+				<description>&lt;p&gt;My quest to play every RPG on the Nintendo 64 continues with Quest 64, often called the worst RPG on the system. But is it?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Clair Obscur: Expedition 33 1/3</title>
+				<link>https://tipa16384.github.io/wkblog/2025/05/clair-obscur-expedition-33-1-3/</link>
+				<pubDate>Sun, 18 May 2025 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/05/clair-obscur-expedition-33-1-3/</guid>
+				<description>&lt;p&gt;Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blue Prince: Welcome to the Gift Shop</title>
+				<link>https://tipa16384.github.io/wkblog/2025/05/blue-prince-welcome-to-the-gift-shop/</link>
+				<pubDate>Mon, 05 May 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/05/blue-prince-welcome-to-the-gift-shop/</guid>
+				<description>&lt;p&gt;Hey, I completed another game! And what a journey&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>&#34;YES&#34;, the first cheat code.</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/yes-the-first-cheat-code/</link>
+				<pubDate>Wed, 05 Mar 2025 07:52:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/yes-the-first-cheat-code/</guid>
+				<description>&lt;p&gt;Is this blog post worth $3.50 to you?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rolling Dice and Taking Names: My CaptainCon 2025 Experience</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/my-adventures-at-captaincon-2025/</link>
+				<pubDate>Mon, 03 Feb 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/my-adventures-at-captaincon-2025/</guid>
+				<description>&lt;p&gt;We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Best of 2024: Single-Player RPGs</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</link>
+				<pubDate>Mon, 30 Dec 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/best-of-2024-single-player-rpgs/</guid>
+				<description>&lt;p&gt;2024 was a great year for RPGs. I didn&amp;rsquo;t play all the ones I wanted, but the ones I did play were pretty incredible.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Odin Sphere: Two dimensions is more than enough</title>
+				<link>https://tipa16384.github.io/wkblog/2024/11/odin-sphere-two-dimensions-is-more-than-enough/</link>
+				<pubDate>Wed, 27 Nov 2024 14:04:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/11/odin-sphere-two-dimensions-is-more-than-enough/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dragon Age: the Veilguard finished</title>
+				<link>https://tipa16384.github.io/wkblog/2024/11/dragon-age-the-veilguard-finished/</link>
+				<pubDate>Thu, 21 Nov 2024 16:56:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/11/dragon-age-the-veilguard-finished/</guid>
+				<description>&lt;p&gt;82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

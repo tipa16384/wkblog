@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dawnguard on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dawnguard/</link>
-    <description>Recent content in Dawnguard on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 21:00:56 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dawnguard/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I Was Trapped in a Closet and Forced to Play Skyrim</title>
-      <link>https://tipa16384.github.io/wkblog/2023/02/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/</link>
-      <pubDate>Sat, 04 Feb 2023 21:00:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/02/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/</guid>
-      <description>&lt;p&gt;I mean, there must be some reason why I was unable to play any other game until I played through Skyrim and all three of its expansions&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dawnguard on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/dawnguard/</link>
+		<description>Recent content in Dawnguard on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 04 Feb 2023 21:00:56 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/dawnguard/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I Was Trapped in a Closet and Forced to Play Skyrim</title>
+				<link>https://tipa16384.github.io/wkblog/2023/02/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/</link>
+				<pubDate>Sat, 04 Feb 2023 21:00:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/02/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/</guid>
+				<description>&lt;p&gt;I mean, there must be some reason why I was unable to play any other game until I played through Skyrim and all three of its expansions&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

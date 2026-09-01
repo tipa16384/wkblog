@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Oblivion on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/oblivion/</link>
-    <description>Recent content in Oblivion on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Apr 2006 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/oblivion/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Academy of Arcane Science</title>
-      <link>https://tipa16384.github.io/wkblog/2006/04/academy-of-arcane-science/</link>
-      <pubDate>Wed, 26 Apr 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/04/academy-of-arcane-science/</guid>
-      <description>&lt;p&gt;Dear Mom and Dad;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Leyawiin, my old home town</title>
-      <link>https://tipa16384.github.io/wkblog/2006/04/leyawiin-my-old-home-town/</link>
-      <pubDate>Thu, 13 Apr 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/04/leyawiin-my-old-home-town/</guid>
-      <description>&lt;p&gt;I moved to Leyawiin, in Oblivion. Bought a house. It&amp;rsquo;s a rat-trap. I keep it dark because any candle could burn the whole place down&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Pressing Obliviation</title>
-      <link>https://tipa16384.github.io/wkblog/2006/04/a-pressing-obliviation/</link>
-      <pubDate>Tue, 11 Apr 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/04/a-pressing-obliviation/</guid>
-      <description>&lt;p&gt;Yes, and my apologies to my friends in EQ1, EQ2 and WoW, but I have been Obliviated. I went to Fry&amp;rsquo;s for a coax cable,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nightmares</title>
-      <link>https://tipa16384.github.io/wkblog/2006/04/nightmares/</link>
-      <pubDate>Tue, 11 Apr 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/04/nightmares/</guid>
-      <description>&lt;p&gt;I have been playing too much Oblivion lately. And I didn&amp;rsquo;t feed my cat last night before bed - he&amp;rsquo;d shared my chicken at supper,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Oblivion on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/oblivion/</link>
+		<description>Recent content in Oblivion on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 26 Apr 2006 00:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/oblivion/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Academy of Arcane Science</title>
+				<link>https://tipa16384.github.io/wkblog/2006/04/academy-of-arcane-science/</link>
+				<pubDate>Wed, 26 Apr 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/04/academy-of-arcane-science/</guid>
+				<description>&lt;p&gt;Dear Mom and Dad;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Leyawiin, my old home town</title>
+				<link>https://tipa16384.github.io/wkblog/2006/04/leyawiin-my-old-home-town/</link>
+				<pubDate>Thu, 13 Apr 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/04/leyawiin-my-old-home-town/</guid>
+				<description>&lt;p&gt;I moved to Leyawiin, in Oblivion. Bought a house. It&amp;rsquo;s a rat-trap. I keep it dark because any candle could burn the whole place down&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Pressing Obliviation</title>
+				<link>https://tipa16384.github.io/wkblog/2006/04/a-pressing-obliviation/</link>
+				<pubDate>Tue, 11 Apr 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/04/a-pressing-obliviation/</guid>
+				<description>&lt;p&gt;Yes, and my apologies to my friends in EQ1, EQ2 and WoW, but I have been Obliviated. I went to Fry&amp;rsquo;s for a coax cable,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nightmares</title>
+				<link>https://tipa16384.github.io/wkblog/2006/04/nightmares/</link>
+				<pubDate>Tue, 11 Apr 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/04/nightmares/</guid>
+				<description>&lt;p&gt;I have been playing too much Oblivion lately. And I didn&amp;rsquo;t feed my cat last night before bed - he&amp;rsquo;d shared my chicken at supper,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Void Seer on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/void-seer/</link>
-    <description>Recent content in Void Seer on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2009 23:40:57 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/void-seer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chronicles of Spellborn: The Void Seer</title>
-      <link>https://tipa16384.github.io/wkblog/2009/03/chronicles-of-spellborn-the-void-seer/</link>
-      <pubDate>Thu, 19 Mar 2009 23:40:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/03/chronicles-of-spellborn-the-void-seer/</guid>
-      <description>&lt;p&gt;The second round of closed beta has begun, all the old characters were wiped away (well, at least mine were), so I started up a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Void Seer on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/void-seer/</link>
+		<description>Recent content in Void Seer on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 19 Mar 2009 23:40:57 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/void-seer/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Chronicles of Spellborn: The Void Seer</title>
+				<link>https://tipa16384.github.io/wkblog/2009/03/chronicles-of-spellborn-the-void-seer/</link>
+				<pubDate>Thu, 19 Mar 2009 23:40:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/03/chronicles-of-spellborn-the-void-seer/</guid>
+				<description>&lt;p&gt;The second round of closed beta has begun, all the old characters were wiped away (well, at least mine were), so I started up a&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

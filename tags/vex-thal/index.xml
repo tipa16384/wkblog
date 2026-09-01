@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vex Thal on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/vex-thal/</link>
-    <description>Recent content in Vex Thal on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2008 13:29:35 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/vex-thal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ: Nostalgia enters Vex Thal!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</link>
-      <pubDate>Sat, 01 Nov 2008 13:29:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</guid>
-      <description>&lt;p&gt;Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;rsquo;t have&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Vex Thal on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/vex-thal/</link>
+		<description>Recent content in Vex Thal on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 01 Nov 2008 13:29:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/vex-thal/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ: Nostalgia enters Vex Thal!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</link>
+				<pubDate>Sat, 01 Nov 2008 13:29:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</guid>
+				<description>&lt;p&gt;Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;rsquo;t have&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

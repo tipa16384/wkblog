@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rainbow&#39;s End on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rainbows-end/</link>
-    <description>Recent content in Rainbow&#39;s End on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Nov 2007 11:08:18 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rainbows-end/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vernor Vinge&#39;s &#34;Rainbow&#39;s End&#34; free to read... so go read it</title>
-      <link>https://tipa16384.github.io/wkblog/2007/11/vernor-vinges-rainbows-end-free-to-read...-so-go-read-it/</link>
-      <pubDate>Thu, 29 Nov 2007 11:08:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/11/vernor-vinges-rainbows-end-free-to-read...-so-go-read-it/</guid>
-      <description>&lt;p&gt;Way back in the 70s, Vernor Vinge wrote a short story called &amp;ldquo;True Names&amp;rdquo; which is about a bunch of people who hang out in&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rainbow&#39;s End on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/rainbows-end/</link>
+		<description>Recent content in Rainbow&#39;s End on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 29 Nov 2007 11:08:18 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/rainbows-end/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Vernor Vinge&#39;s &#34;Rainbow&#39;s End&#34; free to read... so go read it</title>
+				<link>https://tipa16384.github.io/wkblog/2007/11/vernor-vinges-rainbows-end-free-to-read-so-go-read-it/</link>
+				<pubDate>Thu, 29 Nov 2007 11:08:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/11/vernor-vinges-rainbows-end-free-to-read-so-go-read-it/</guid>
+				<description>&lt;p&gt;Way back in the 70s, Vernor Vinge wrote a short story called &amp;ldquo;True Names&amp;rdquo; which is about a bunch of people who hang out in&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

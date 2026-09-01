@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kipling on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/kipling/</link>
-    <description>Recent content in Kipling on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2010 20:09:04 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/kipling/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard101: Farmville (and what of Celestia?)</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/wizard101-farmville-and-what-of-celestia/</link>
-      <pubDate>Sun, 08 Aug 2010 20:09:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/wizard101-farmville-and-what-of-celestia/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kipling on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/kipling/</link>
+		<description>Recent content in Kipling on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Aug 2010 20:09:04 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/kipling/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard101: Farmville (and what of Celestia?)</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/wizard101-farmville-and-what-of-celestia/</link>
+				<pubDate>Sun, 08 Aug 2010 20:09:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/wizard101-farmville-and-what-of-celestia/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

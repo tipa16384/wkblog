@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    
+    <script type="application/ld+json">
+
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "7DRL: Building an Engine -- Path Finding",
+  
+  "image": "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png",
+  
+  "datePublished": "2022-02-17T23:30:32-05:00",
+  "dateModified": "2022-02-17T23:30:32-05:00",
+  "author": {
+    "@type": "Person",
+    "name": "Tipa",
+    
+    "image": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    
+  },
+  "mainEntityOfPage": { 
+    "@type": "WebPage",
+    "@id": "https:\/\/tipa16384.github.io\/wkblog\/2022\/02\/7drl-building-an-engine-path-finding\/" 
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chasing Dings!",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676"
+    }
+    
+  },
+  "description": "Path finding is central to all rogue-likes. If an enemy can\u0026rsquo;t find you, they can\u0026rsquo;t fight you\u0026hellip; and that wouldn\u0026rsquo;t be any fun. Tonight, I\u0026hellip;\n",
+  "keywords": []
+}
+
+</script>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.165.0 with theme Tranquilpeak 0.5.3-BETA">
+<meta name="author" content="Tipa">
+<meta name="keywords" content="">
+<meta name="description" content="Path finding is central to all rogue-likes. If an enemy can&rsquo;t find you, they can&rsquo;t fight you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I&hellip;">
+
+
+<meta property="og:description" content="Path finding is central to all rogue-likes. If an enemy can&rsquo;t find you, they can&rsquo;t fight you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I&hellip;">
+<meta property="og:type" content="article">
+<meta property="og:title" content="7DRL: Building an Engine -- Path Finding">
+<meta name="twitter:title" content="7DRL: Building an Engine -- Path Finding">
+<meta property="og:url" content="https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/">
+<meta property="twitter:url" content="https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/">
+<meta property="og:site_name" content="Chasing Dings!">
+<meta property="og:description" content="Path finding is central to all rogue-likes. If an enemy can&rsquo;t find you, they can&rsquo;t fight you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I&hellip;">
+<meta name="twitter:description" content="Path finding is central to all rogue-likes. If an enemy can&rsquo;t find you, they can&rsquo;t fight you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I&hellip;">
+<meta property="og:locale" content="en">
+
+  
+    <meta property="article:published_time" content="2022-02-17T23:30:32">
+  
+  
+    <meta property="article:modified_time" content="2022-02-17T23:30:32">
+  
+  
+  
+    
+      <meta property="article:section" content="7DRL">
+    
+  
+  
+    
+      <meta property="article:tag" content="A*">
+    
+      <meta property="article:tag" content="Dijkstra">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=640">
+
+
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png">
+
+
+  <meta property="og:image" content="https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png">
+  <meta property="twitter:image" content="https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png">
+
+
+    <title>7DRL: Building an Engine -- Path Finding</title>
+
+    <link rel="icon" href="https://chasingdings.com/wp-content/uploads/2026/03/wkfavicon.png">
+    
+
+    
+
+    <link rel="canonical" href="https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/">
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v5-font-face.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/v4-shims.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    
+    
+    <link rel="stylesheet" href="https://tipa16384.github.io/wkblog/css/tranquilpeak.css" />
+    
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="5">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://tipa16384.github.io/wkblog/" aria-label="Go to homepage">Chasing Dings!</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://tipa16384.github.io/wkblog/#about" aria-label="Open the link: /#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=90" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="5">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://tipa16384.github.io/wkblog/#about" aria-label="Read more about the author">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Tipa</h4>
+        
+          <h5 class="sidebar-profile-bio">Dum de dum de dum</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/" title="Home">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-home" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/categories" title="Categories">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-bookmark" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/tags" title="Tags">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-tags" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/archives" title="Archives">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-archive" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/#about" title="About">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-question" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/tipa16384" target="_blank" rel="noopener" title="GitHub">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-github" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://gamepad.club/deck/@Tipa" target="_blank" rel="noopener" title="Mastodon">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-mastodon" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">Mastodon</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://bsky.app/profile/chasingdings.com" target="_blank" rel="noopener" title="BlueSky">
+    
+      <i class="sidebar-button-icon fa-brands fa-lg fa-bluesky" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">BlueSky</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tipa16384.github.io/wkblog/index.xml" title="RSS">
+    
+      <i class="sidebar-button-icon fa-solid fa-lg fa-rss" aria-hidden="true"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+<div id="right-sidebar" data-behavior="5">
+  
+    
+      <div class="right-sidebar-item">
+        
+          <img class="right-sidebar-image" src="https://chasingdings.com/wp-content/uploads/2024/01/dodologo-768x618.png" alt="" />
+        
+      </div>
+    
+      <div class="right-sidebar-item">
+        
+          
+          <ul class="sidebar-buttons right-sidebar-blogroll" id="right-sidebar-blogroll-1" data-blogroll-url="https://github.com/tipa16384/dailyblogroll/blob/main/docs/latest.md">
+            <li class="sidebar-button"><span class="sidebar-button-link"><span class="sidebar-button-desc">Loading&hellip;</span></span></li>
+          </ul>
+          <script>
+            (function() {
+              var list = document.getElementById("right-sidebar-blogroll-1");
+              if (!list) return;
+              var sourceUrl = list.getAttribute("data-blogroll-url");
+              if (!sourceUrl) { list.parentNode.removeChild(list); return; }
+
+              function toRawGithubUrl(url) {
+                var m = url.match(/^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/);
+                return m ? "https://raw.githubusercontent.com/" + m[1] + "/" + m[2] + "/" + m[3] : url;
+              }
+
+              function parseBlogroll(text) {
+                var lines = text.split(/\r?\n/);
+                var heading = "Blogroll", items = [], i;
+                for (i = 0; i < lines.length; i++) {
+                  var hm = lines[i].match(/^#\s+(.+)$/);
+                  if (hm) {
+                    heading = hm[1].trim().replace(/\s*[:\-]\s*\d{4}-\d{2}-\d{2}\s*$/, "").trim();
+                    break;
+                  }
+                }
+                for (i = 0; i < lines.length; i++) {
+                  var im = lines[i].match(/^-\s+\*\*\[([^\]]+)\]\(([^)]+)\)\*\*\s+(?:\u2014|-)\s+(.+)$/);
+                  if (im) items.push({ label: im[1].trim(), url: im[2].trim(), summary: im[3].trim() });
+                }
+                return { heading: heading, items: items };
+              }
+
+              function clear(node) { while (node.firstChild) node.removeChild(node.firstChild); }
+
+              function addRow(text, cls) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button" + (cls ? " " + cls : "");
+                var sp = document.createElement("span");
+                sp.className = "sidebar-button-link";
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = text;
+                sp.appendChild(d);
+                li.appendChild(sp);
+                list.appendChild(li);
+              }
+
+              function addLink(item) {
+                var li = document.createElement("li");
+                li.className = "sidebar-button sidebar-blogroll-item";
+                var a = document.createElement("a");
+                a.className = "sidebar-button-link";
+                a.href = item.url;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.title = item.summary;
+                var d = document.createElement("span");
+                d.className = "sidebar-button-desc";
+                d.textContent = item.label;
+                a.appendChild(d);
+                li.appendChild(a);
+                list.appendChild(li);
+              }
+
+              fetch(toRawGithubUrl(sourceUrl), { cache: "no-store" })
+                .then(function(r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+                .then(function(text) {
+                  var p = parseBlogroll(text);
+                  clear(list);
+                  addRow(p.heading, "sidebar-blogroll-heading");
+                  if (!p.items.length) { addRow("No links found", "sidebar-blogroll-empty"); return; }
+                  p.items.forEach(addLink);
+                })
+                .catch(function() {
+                  clear(list);
+                  addRow("Blogroll unavailable", "sidebar-blogroll-error");
+                });
+            })();
+          </script>
+        
+      </div>
+    
+  
+</div>
+
+
+      
+  <div class="post-header-cover
+              text-left
+              "
+       style="background-image:url('https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png')"
+       data-behavior="5">
+    
+      <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title">
+      7DRL: Building an Engine -- Path Finding
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time datetime="2022-02-17T23:30:32-05:00">
+        
+  February 17, 2022
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://tipa16384.github.io/wkblog/categories/7drl">7DRL</a>
+    
+  
+
+  </div>
+
+</div>
+    
+  </div>
+
+
+      <div id="main" data-behavior="5"
+        class="hasCover
+               hasCoverMetaIn
+               ">
+        <article class="post" id="top">
+          
+          
+          <div class="post-content markdown">
+            <div class="main-content-wrap">
+              <p>Path finding is central to all rogue-likes. If an enemy can&rsquo;t find you, they can&rsquo;t fight you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I&hellip;</p>
+<p>Path finding is central to all rogue-likes. If an enemy can&rsquo;t <em>find</em> you, they can&rsquo;t <em>fight</em> you&hellip; and that wouldn&rsquo;t be any fun. Tonight, I go over Dijkstra&rsquo;s famous pathfinding algorithm, the differences between that and A*, and how I implemented them in the engine.</p>
+<p>Once again, you can play the engine as it currently exists by <a href="https://trinket.io/pygame/86b9301490?outputOnly=true">clicking this link</a> and then clicking the &ldquo;Run&rdquo; button near the top of the window. New for today: pressing the F5 button on the keyboard creates a new, random map. I don&rsquo;t pretend this is a game &ndash; the game has to wait for 7DRL to officially begin.</p>
+<p>Before I got started tonight, I had to do a little more refactoring. Terrain is now managed by a terrain factory &ndash; I tell it what type I want, and it hands me back a terrain all sliced up and measured from the sprite sheet. I also did as promised earlier and moved the Actors &ndash; anything that moves &ndash; into the main game object. Now the entire state of the game is in one place.</p>
+<p>Few monsters in a roguelike are content to stay in one spot for long. Some fall asleep now and then, but usually they are on the prowl, patrolling the dungeon and investigating strange clanking noises and <em>is that an adventurer?</em></p>
+<p>Path finding forces monsters to follow the same movement rules as adventurers. To get to a spot, they have to go through all the spots between their current location and their destination, and if something&rsquo;s in the way, they will have to figure out how to go around.</p>
+<p>In 1956, mathematician <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm">Edsger Dijkstra</a> was drinking coffee at a café and came up with the simple algorithm to find the shortest path between any two points while musing on how to find the shortest route from Rotterdam to Groningen.</p>
+<p>The algorithm is simple and elegant. Any particular place you might stop on the way is considered a node; the route from one node to another is called an edge; and the cost to get from one node to another is called the weight. That cost might be money, or time, or distance, or any other way of determining if one route is better than another.</p>
+<p>You make two lists; a list of open nodes, which are potential places to travel from where you are now, and a list of closed nodes, which is a list of places where you have been. To find the best path, you choose the node from the list of open nodes with the least accumulated weight, travel there, add it to the list of closed nodes, then add to the list of open nodes all the nodes to which you could travel from your current spot, adding their weights to the accumulated weight. Stop when you arrive at your destination.</p>
+<p>This is provably the shortest path from <em>A</em> to <em>B</em>. The most recent Advent of Code had at least three puzzles that could be solved this way. Here&rsquo;s the specific pathfinding code from the Actor object. The &ldquo;heapq&rdquo; is Python&rsquo;s priority heap implementation &ndash; it always returns the cheapest open node. &ldquo;bad_spaces&rdquo; are positions which are occupied by something else. If the Actor finds itself in a good position at the start, it returns without setting a path.</p>
+<p>`    def pathfind(self, player, bad_spaces):
+if self.room != player.room or self.moving:
+return</p>
+<pre><code>    heap = list()
+    heapq.heappush(heap, (0, self.pos, []))
+    closed_nodes = set()
+    while heap:
+        dist, pos, path = heapq.heappop(heap)
+        if self.good_pos(pos, player.getPos()):
+            if len(path):
+                self.move_to(*self.pos, *path[0])
+            return
+        if pos in closed_nodes:
+            continue
+        closed_nodes.add(pos)
+        for dx, dy in __facing_deltas__:
+            new_pos = (pos[0] + dx, pos[1] + dy)
+            if new_pos in closed_nodes:
+                continue
+            if not self.in_room(*new_pos):
+                continue
+            if new_pos in bad_spaces:
+                continue
+            heapq.heappush(heap, (dist+1, new_pos, path + [new_pos]))
+</code></pre>
+<p>`</p>
+<p>The <a href="https://en.wikipedia.org/wiki/A*_search_algorithm">A* (A-star) algorithm</a> is a variant of Dijkstra&rsquo;s. It&rsquo;s identical, except when adding a new open node, you add the sum accumulated weight and a value that represents the distance of this node from the final destination. This tends to favor nodes that are headed generally in the right direction. Dijkstra will happily offer up nodes in the entirely wrong direction if it&rsquo;s cheap to do so. Both algorithms will return the shortest path; but if the A* value is a good indicator of the effort required to get to the destination, it will find the shortest route more quickly.</p>
+<p>I chose to just go with Dijkstra, as my rooms will not be placed in some larger map; they will be just connected with exits and entrances and they all have their own coordinate system. A* would still work well within the room, but that search space is so small that there&rsquo;s no difference between that and Dijkstra.</p>
+<p>In the demo (as it is today, anyway), you can see the NPCs walking around to get in their best positions. In the actual game, they will only move when you move, but for purposes of getting this working, I let them move as much as they like.</p>
+<p>They don&rsquo;t all end up pinned to the player, though. I&rsquo;ve set up the Actors so that they can define what a destination node means to them. The archer wants to be between three and five squares away, so she can shoot an arrow from range. The mog knight wants to be on the same row or column as the player, so that he can do a charge attack. The templar wants to be right in your face. When Babus is an NPC, he just wants to stay four squares away so that he can cast spells.</p>
+<p>Since each Actor inherits from the main class, it can override the default destination algorithm that Babus uses, with one of their own, without affecting any other Actor, as they are totally separate blocks of code. It&rsquo;s in this way that I&rsquo;ll be making every creature the adventurer encounters a unique experience.</p>
+<p>The next big thing is multiple rooms, and after that, level creation. Right now pathfinding only works in the current room, so I&rsquo;ll have to revisit that again once I have a map where it makes sense.</p>
+<p>Tomorrow is probably Horizon: Forbidden West, though&hellip;</p>
+              
+
+
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/a/">A*</a>
+
+  <a class="tag tag--primary tag--small" href="https://tipa16384.github.io/wkblog/tags/dijkstra/">Dijkstra</a>
+
+                  </div>
+                
+              
+            
+            
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-line-of-sight/" data-tooltip="7DRL: Building an Engine -- Line of Sight" aria-label="NEXT: 7DRL: Building an Engine -- Line of Sight">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-refactoring/" data-tooltip="7DRL: Building an Engine -- Refactoring" aria-label="PREVIOUS: 7DRL: Building an Engine -- Refactoring">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+  
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+    </div>
+    <script type="text/javascript">
+      var disqus_config = function() {
+        this.page.url = 'https:\/\/tipa16384.github.io\/wkblog\/2022\/02\/7drl-building-an-engine-path-finding\/';
+        
+          this.page.identifier = '2022\/02\/17\/7drl-building-an-engine-path-finding';
+        
+      };
+      (function() {
+        
+        
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+          document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+          return;
+        }
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = 'chasing-dings';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+  
+
+
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2026 Tipa. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="5">
+        
+<div class="post-actions-wrap">
+  <nav >
+    <ul class="post-actions post-action-nav">
+      
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-line-of-sight/" data-tooltip="7DRL: Building an Engine -- Line of Sight" aria-label="NEXT: 7DRL: Building an Engine -- Line of Sight">
+          
+              <i class="fa fa-angle-left"></i>
+              <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+            </a>
+        </li>
+        <li class="post-action">
+          
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-refactoring/" data-tooltip="7DRL: Building an Engine -- Refactoring" aria-label="PREVIOUS: 7DRL: Building an Engine -- Refactoring">
+          
+              <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+              <i class="fa fa-angle-right"></i>
+            </a>
+        </li>
+      
+    </ul>
+  </nav>
+<ul class="post-actions post-action-share" >
+  
+    <li class="post-action hide-lg hide-md hide-sm">
+      <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions" aria-label="Share this post">
+        <i class="fa fa-share-alt" aria-hidden="true"></i>
+      </a>
+    </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/" title="Share on Facebook" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://bsky.app/intent/compose?text=https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/" title="Share on BlueSky" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+      <li class="post-action hide-xs">
+        <a class="post-action-btn btn btn--default" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https://tipa16384.github.io/wkblog/2022/02/7drl-building-an-engine-path-finding/" title="Share on Linkedin" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </li>
+    
+  
+  
+    <li class="post-action">
+      <a class="post-action-btn btn btn--default" href="#disqus_thread" aria-label="Leave a comment">
+        <i class="far fa-comment"></i>
+      </a>
+    </li>
+  
+  <li class="post-action">
+    
+      <a class="post-action-btn btn btn--default" href="#top" aria-label="Back to top">
+      <i class="fa fa-arrow-up" aria-hidden="true"></i>
+    
+    </a>
+  </li>
+</ul>
+</div>
+
+
+      </div>
+      
+<div id="share-options-bar" class="share-options-bar" data-behavior="5">
+  <i id="btn-close-shareoptions" class="fa fa-times"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F02%2F7drl-building-an-engine-path-finding%2F" aria-label="Share on Facebook">
+          <i class="fa-brands fa-facebook-square" aria-hidden="true"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://bsky.app/intent/compose?text=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F02%2F7drl-building-an-engine-path-finding%2F" aria-label="Share on BlueSky">
+          <i class="fa-brands fa-bluesky" aria-hidden="true"></i><span>Share on BlueSky</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftipa16384.github.io%2Fwkblog%2F2022%2F02%2F7drl-building-an-engine-path-finding%2F" aria-label="Share on Linkedin">
+          <i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>Share on Linkedin</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+
+
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-times"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/02201c7ae3ee65b2dc6c8a4964ab0676?s=110" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Tipa</h4>
+    
+      <div id="about-card-bio">Dum de dum de dum</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        Tech Lead
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker-alt"></i>
+        <br/>
+        Yankeeland
+      </div>
+    
+  </div>
+</div>
+
+    
+
+    
+  
+    <div id="cover" style="background-image:url('https://chasingdings.com/wp-content/uploads/2026/03/darkmap.png');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js" integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<script src="https://tipa16384.github.io/js/tranquilpeak.js"></script>
+
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js"></script>
+  
+
+  
+    <script async crossorigin="anonymous" defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js"></script>
+  
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+
+
+    
+  </body>
+</html>
+

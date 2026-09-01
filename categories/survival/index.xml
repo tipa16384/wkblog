@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Survival on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/survival/</link>
-    <description>Recent content in Survival on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jul 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/survival/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Palworld Does What Nintendon&#39;t. Again.</title>
-      <link>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont.-again./</link>
-      <pubDate>Tue, 01 Jul 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont.-again./</guid>
-      <description>&lt;p&gt;Palworld&amp;rsquo;s new update does more than let your Pals become their true selves. There&amp;rsquo;s also fishing. And, almost forgot, a portal to the world of Terraria!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Impressions: Stars Reach</title>
-      <link>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</link>
-      <pubDate>Wed, 26 Feb 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</guid>
-      <description>&lt;p&gt;The game is very much in development and far from finished, but I think I see where it wants to go.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Best of 2024: Survival Crafting Games</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</link>
-      <pubDate>Thu, 02 Jan 2025 08:22:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;ve ever punched a tree, you&amp;rsquo;ve played a survival crafting game. There were a lot of these in 2024. Here&amp;rsquo;s the ones I played.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Worshippers of Cthulhu: the Demo</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/worshippers-of-cthulhu-the-demo/</link>
-      <pubDate>Sun, 11 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/worshippers-of-cthulhu-the-demo/</guid>
-      <description>&lt;p&gt;Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Valheim: The Endless Corpse Run</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</link>
-      <pubDate>Mon, 17 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</guid>
-      <description>&lt;p&gt;Getting ready for killing the Goblin King was bad enough. Mistlands is worse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Palworld is a thing that happened, I guess</title>
-      <link>https://tipa16384.github.io/wkblog/2024/02/palworld-is-a-thing-that-happened-i-guess/</link>
-      <pubDate>Sun, 18 Feb 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/02/palworld-is-a-thing-that-happened-i-guess/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m still playing Palworld, but I&amp;rsquo;m really not sure why&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Palworld, Vandal Hearts, Hons VR Lenses</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</link>
-      <pubDate>Wed, 31 Jan 2024 07:56:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</guid>
-      <description>&lt;p&gt;Okay, there&amp;rsquo;s a lot of gaming stuff going on so I&amp;rsquo;m just going to go over some of it, briefly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ark: Survival Evolved -- Night 1</title>
-      <link>https://tipa16384.github.io/wkblog/2022/10/ark-survival-evolved--night-1/</link>
-      <pubDate>Thu, 13 Oct 2022 08:20:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/10/ark-survival-evolved--night-1/</guid>
-      <description>&lt;p&gt;PlayStation Plus offered Ark: Survival Evolved last spring, but I only got intrigued enough to give it a try when I saw a friend tweeting&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>10 Million B.C.: An open-world action RPG set in the time of the dinosaurs</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/10-million-b.c.-an-open-world-action-rpg-set-in-the-time-of-the-dinosaurs/</link>
-      <pubDate>Wed, 10 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/10-million-b.c.-an-open-world-action-rpg-set-in-the-time-of-the-dinosaurs/</guid>
-      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>V Rising: Hitting the Hemoglobin</title>
-      <link>https://tipa16384.github.io/wkblog/2022/06/v-rising-hitting-the-hemoglobin/</link>
-      <pubDate>Sun, 26 Jun 2022 11:12:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/06/v-rising-hitting-the-hemoglobin/</guid>
-      <description>&lt;p&gt;Ever want to play a vampire who hides from the sun in the castle they have built to protect their riches from other vampires? Then&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Survival on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/survival/</link>
+		<description>Recent content in Survival on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 17 May 2026 15:28:41 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/survival/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Windrose: A Fine Collection of Ne&#39;er-do-Wells</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</link>
+				<pubDate>Sun, 17 May 2026 15:28:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</guid>
+				<description>&lt;p&gt;With the death of the boss of the Cursed Swamp, Team Spode has finished Windrose&amp;rsquo;s current content. How did it stack up against Valheim in the end?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Speedrunning Windrose</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/speedrunning-windrose/</link>
+				<pubDate>Mon, 27 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/speedrunning-windrose/</guid>
+				<description>&lt;p&gt;Second boss down; will Team Spode have finished with Windrose before our month of server time is up?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Windrose: Yo ho ho, it&#39;s the pirate life for me</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</link>
+				<pubDate>Tue, 21 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</guid>
+				<description>&lt;p&gt;The new Age of Piracy game from Kraken Express and Pocketpair adds ship combat to the familiar post-Valheim survival-crafting genre.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Palworld Does What Nintendon&#39;t. Again.</title>
+				<link>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont-again/</link>
+				<pubDate>Tue, 01 Jul 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/07/palworld-does-what-nintendont-again/</guid>
+				<description>&lt;p&gt;Palworld&amp;rsquo;s new update does more than let your Pals become their true selves. There&amp;rsquo;s also fishing. And, almost forgot, a portal to the world of Terraria!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>First Impressions: Stars Reach</title>
+				<link>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</link>
+				<pubDate>Wed, 26 Feb 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/02/first-impressions-stars-reach/</guid>
+				<description>&lt;p&gt;The game is very much in development and far from finished, but I think I see where it wants to go.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Best of 2024: Survival Crafting Games</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</link>
+				<pubDate>Thu, 02 Jan 2025 08:22:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</guid>
+				<description>&lt;p&gt;If you&amp;rsquo;ve ever punched a tree, you&amp;rsquo;ve played a survival crafting game. There were a lot of these in 2024. Here&amp;rsquo;s the ones I played.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Worshippers of Cthulhu: the Demo</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/worshippers-of-cthulhu-the-demo/</link>
+				<pubDate>Sun, 11 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/worshippers-of-cthulhu-the-demo/</guid>
+				<description>&lt;p&gt;Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Valheim: The Endless Corpse Run</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</link>
+				<pubDate>Mon, 17 Jun 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</guid>
+				<description>&lt;p&gt;Getting ready for killing the Goblin King was bad enough. Mistlands is worse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Palworld is a thing that happened, I guess</title>
+				<link>https://tipa16384.github.io/wkblog/2024/02/palworld-is-a-thing-that-happened-i-guess/</link>
+				<pubDate>Sun, 18 Feb 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/02/palworld-is-a-thing-that-happened-i-guess/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m still playing Palworld, but I&amp;rsquo;m really not sure why&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Palworld, Vandal Hearts, Hons VR Lenses</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</link>
+				<pubDate>Wed, 31 Jan 2024 07:56:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</guid>
+				<description>&lt;p&gt;Okay, there&amp;rsquo;s a lot of gaming stuff going on so I&amp;rsquo;m just going to go over some of it, briefly.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

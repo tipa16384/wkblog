@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Endless Runner on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/endless-runner/</link>
-    <description>Recent content in Endless Runner on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 19 Aug 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/endless-runner/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Can You Make It To The End Of 19th Street In This Frantic Endless Runner?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/</link>
-      <pubDate>Fri, 19 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/</guid>
-      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Endless Runner on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/endless-runner/</link>
+		<description>Recent content in Endless Runner on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 19 Aug 2022 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/endless-runner/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Can You Make It To The End Of 19th Street In This Frantic Endless Runner?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/</link>
+				<pubDate>Fri, 19 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/</guid>
+				<description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

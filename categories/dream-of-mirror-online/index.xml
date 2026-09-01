@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dream of Mirror Online on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/dream-of-mirror-online/</link>
-    <description>Recent content in Dream of Mirror Online on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 14 Apr 2010 06:51:40 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/dream-of-mirror-online/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The best MMO for a new player?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/04/the-best-mmo-for-a-new-player/</link>
-      <pubDate>Wed, 14 Apr 2010 06:51:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/04/the-best-mmo-for-a-new-player/</guid>
-      <description>&lt;p&gt;Reader Velmonte asks:&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 8/19 - L2Test edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/19-l2test-edition/</link>
-      <pubDate>Wed, 19 Aug 2009 08:00:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/19-l2test-edition/</guid>
-      <description>&lt;p&gt;Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 5/4 -- Dragon Claw Style edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/05/daily-blogroll-5/4--dragon-claw-style-edition/</link>
-      <pubDate>Mon, 04 May 2009 07:52:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/05/daily-blogroll-5/4--dragon-claw-style-edition/</guid>
-      <description>&lt;p&gt;Yes, this is the Daily Blogroll MY OWN BLOG didn&amp;rsquo;t want you to see!&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard 101: Plague Oni, why can&#39;t I quit you?</title>
-      <link>https://tipa16384.github.io/wkblog/2009/01/wizard-101-plague-oni-why-cant-i-quit-you/</link>
-      <pubDate>Fri, 09 Jan 2009 07:35:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/01/wizard-101-plague-oni-why-cant-i-quit-you/</guid>
-      <description>&lt;p&gt;Check out that xp bar! Less than one bubble to 46&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A look back at 2008</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/a-look-back-at-2008/</link>
-      <pubDate>Wed, 24 Dec 2008 14:20:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/a-look-back-at-2008/</guid>
-      <description>&lt;p&gt;2008 has been an absolutely amazing year for MMOs, and my personal progress through them&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DOMO Mission night</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/domo-mission-night/</link>
-      <pubDate>Wed, 24 Dec 2008 08:47:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/domo-mission-night/</guid>
-      <description>&lt;p&gt;You don&amp;rsquo;t lose xp when you die in one of Dream of Mirror Online&amp;rsquo;s missions, which is very nice of the devs, because, who&amp;rsquo;d do&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crayon Physics Deluxe &amp; DOMO Christmas</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/crayon-physics-deluxe-domo-christmas/</link>
-      <pubDate>Tue, 23 Dec 2008 07:50:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/crayon-physics-deluxe-domo-christmas/</guid>
-      <description>&lt;p&gt;Ripped right from the refrigerator door, Crayon Physics Deluxe answers the age-old question, &amp;ldquo;What if those drawings I made in kindergarten were REAL? And I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DOMO: Level 25, but Alchemy is hard :(</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/domo-level-25-but-alchemy-is-hard/</link>
-      <pubDate>Mon, 22 Dec 2008 08:50:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/domo-level-25-but-alchemy-is-hard/</guid>
-      <description>&lt;p&gt;Taking on the Giant Butterfly outside the bandit camp in Copperhorn Mountain&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DOMO: Train to Zone!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</link>
-      <pubDate>Thu, 18 Dec 2008 10:09:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</guid>
-      <description>&lt;p&gt;They say you can&amp;rsquo;t polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AFK today ~</title>
-      <link>https://tipa16384.github.io/wkblog/2008/12/afk-today-~/</link>
-      <pubDate>Tue, 16 Dec 2008 09:50:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/12/afk-today-~/</guid>
-      <description>&lt;p&gt;Computer on, online, but AFK while at work today. Today, while I am converting bond letters at work, my DOMO character will be doing a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dream of Mirror Online on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/dream-of-mirror-online/</link>
+		<description>Recent content in Dream of Mirror Online on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 14 Apr 2010 06:51:40 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/dream-of-mirror-online/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The best MMO for a new player?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/04/the-best-mmo-for-a-new-player/</link>
+				<pubDate>Wed, 14 Apr 2010 06:51:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/04/the-best-mmo-for-a-new-player/</guid>
+				<description>&lt;p&gt;Reader Velmonte asks:&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 8/19 - L2Test edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-819-l2test-edition/</link>
+				<pubDate>Wed, 19 Aug 2009 08:00:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-819-l2test-edition/</guid>
+				<description>&lt;p&gt;Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 5/4 -- Dragon Claw Style edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/05/daily-blogroll-54-dragon-claw-style-edition/</link>
+				<pubDate>Mon, 04 May 2009 07:52:13 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/05/daily-blogroll-54-dragon-claw-style-edition/</guid>
+				<description>&lt;p&gt;Yes, this is the Daily Blogroll MY OWN BLOG didn&amp;rsquo;t want you to see!&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard 101: Plague Oni, why can&#39;t I quit you?</title>
+				<link>https://tipa16384.github.io/wkblog/2009/01/wizard-101-plague-oni-why-cant-i-quit-you/</link>
+				<pubDate>Fri, 09 Jan 2009 07:35:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/01/wizard-101-plague-oni-why-cant-i-quit-you/</guid>
+				<description>&lt;p&gt;Check out that xp bar! Less than one bubble to 46&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A look back at 2008</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/a-look-back-at-2008/</link>
+				<pubDate>Wed, 24 Dec 2008 14:20:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/a-look-back-at-2008/</guid>
+				<description>&lt;p&gt;2008 has been an absolutely amazing year for MMOs, and my personal progress through them&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DOMO Mission night</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/domo-mission-night/</link>
+				<pubDate>Wed, 24 Dec 2008 08:47:38 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/domo-mission-night/</guid>
+				<description>&lt;p&gt;You don&amp;rsquo;t lose xp when you die in one of Dream of Mirror Online&amp;rsquo;s missions, which is very nice of the devs, because, who&amp;rsquo;d do&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Crayon Physics Deluxe &amp; DOMO Christmas</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/crayon-physics-deluxe-domo-christmas/</link>
+				<pubDate>Tue, 23 Dec 2008 07:50:19 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/crayon-physics-deluxe-domo-christmas/</guid>
+				<description>&lt;p&gt;Ripped right from the refrigerator door, Crayon Physics Deluxe answers the age-old question, &amp;ldquo;What if those drawings I made in kindergarten were REAL? And I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DOMO: Level 25, but Alchemy is hard :(</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/domo-level-25-but-alchemy-is-hard/</link>
+				<pubDate>Mon, 22 Dec 2008 08:50:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/domo-level-25-but-alchemy-is-hard/</guid>
+				<description>&lt;p&gt;Taking on the Giant Butterfly outside the bandit camp in Copperhorn Mountain&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DOMO: Train to Zone!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</link>
+				<pubDate>Thu, 18 Dec 2008 10:09:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/domo-train-to-zone/</guid>
+				<description>&lt;p&gt;They say you can&amp;rsquo;t polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AFK today ~</title>
+				<link>https://tipa16384.github.io/wkblog/2008/12/afk-today/</link>
+				<pubDate>Tue, 16 Dec 2008 09:50:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/12/afk-today/</guid>
+				<description>&lt;p&gt;Computer on, online, but AFK while at work today. Today, while I am converting bond letters at work, my DOMO character will be doing a&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

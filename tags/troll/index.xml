@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Troll on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/troll/</link>
-    <description>Recent content in Troll on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/troll/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ADVENT: Seasoned Adventurer</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/advent-seasoned-adventurer/</link>
-      <pubDate>Sat, 11 May 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/advent-seasoned-adventurer/</guid>
-      <description>&lt;p&gt;I got all the treasures I knew about&amp;hellip; now, how about the treasures I don&amp;rsquo;t know about?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lord of the Rings Online: Hobbit vs Troll</title>
-      <link>https://tipa16384.github.io/wkblog/2009/01/lord-of-the-rings-online-hobbit-vs-troll/</link>
-      <pubDate>Mon, 19 Jan 2009 13:57:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/01/lord-of-the-rings-online-hobbit-vs-troll/</guid>
-      <description>&lt;p&gt;If Bilbo could see me now, why, he&amp;rsquo;d be talking about how he (with maybe a very little help from a certain gray-robed wizard) kept&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Troll on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/troll/</link>
+		<description>Recent content in Troll on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 11 May 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/troll/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ADVENT: Seasoned Adventurer</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/advent-seasoned-adventurer/</link>
+				<pubDate>Sat, 11 May 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/advent-seasoned-adventurer/</guid>
+				<description>&lt;p&gt;I got all the treasures I knew about&amp;hellip; now, how about the treasures I don&amp;rsquo;t know about?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lord of the Rings Online: Hobbit vs Troll</title>
+				<link>https://tipa16384.github.io/wkblog/2009/01/lord-of-the-rings-online-hobbit-vs-troll/</link>
+				<pubDate>Mon, 19 Jan 2009 13:57:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/01/lord-of-the-rings-online-hobbit-vs-troll/</guid>
+				<description>&lt;p&gt;If Bilbo could see me now, why, he&amp;rsquo;d be talking about how he (with maybe a very little help from a certain gray-robed wizard) kept&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

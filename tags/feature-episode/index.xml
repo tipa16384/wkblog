@@ -1,68 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Feature Episode on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/feature-episode/</link>
-    <description>Recent content in Feature Episode on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2012 22:08:56 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/feature-episode/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Star Trek Online: The 2800 Return this weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2012/02/star-trek-online-the-2800-return-this-weekend/</link>
-      <pubDate>Mon, 06 Feb 2012 22:08:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/02/star-trek-online-the-2800-return-this-weekend/</guid>
-      <description>&lt;p&gt;Who are &amp;ldquo;the 2800&amp;rdquo;? They are the 2,800 ships in the Dominion fleet that was swallowed up in the wormhole by the Prophets during a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online FE305: Cutting the Cord (spoilers)</title>
-      <link>https://tipa16384.github.io/wkblog/2011/03/star-trek-online-fe305-cutting-the-cord-spoilers/</link>
-      <pubDate>Sun, 06 Mar 2011 00:00:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/03/star-trek-online-fe305-cutting-the-cord-spoilers/</guid>
-      <description>&lt;p&gt;After last week&amp;rsquo;s epic episode, &amp;ldquo;Coliseum&amp;rdquo;, those of us at the Federation News Service were intrigued to see just how they could possibly top that&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online FE303: Frozen (Spoilers)</title>
-      <link>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</link>
-      <pubDate>Mon, 21 Feb 2011 07:37:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online: FE302 &#34;Mine Enemy&#34; (spoilers!)</title>
-      <link>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe302-mine-enemy-spoilers/</link>
-      <pubDate>Sun, 13 Feb 2011 17:22:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe302-mine-enemy-spoilers/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online FE301: The Vault (spoilers)</title>
-      <link>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe301-the-vault-spoilers/</link>
-      <pubDate>Sun, 06 Feb 2011 11:52:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe301-the-vault-spoilers/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online: The Enterprise Pack (and Genesis)</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-the-enterprise-pack-and-genesis/</link>
-      <pubDate>Thu, 18 Nov 2010 07:27:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-the-enterprise-pack-and-genesis/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online: Skirmish (spoilers)</title>
-      <link>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-skirmish-spoilers/</link>
-      <pubDate>Sat, 16 Oct 2010 17:27:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-skirmish-spoilers/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online: Cold Call (spoilers)</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/star-trek-online-cold-call-spoilers/</link>
-      <pubDate>Sun, 29 Aug 2010 08:45:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/star-trek-online-cold-call-spoilers/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Feature Episode on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/feature-episode/</link>
+		<description>Recent content in Feature Episode on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 06 Feb 2012 22:08:56 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/feature-episode/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Star Trek Online: The 2800 Return this weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2012/02/star-trek-online-the-2800-return-this-weekend/</link>
+				<pubDate>Mon, 06 Feb 2012 22:08:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/02/star-trek-online-the-2800-return-this-weekend/</guid>
+				<description>&lt;p&gt;Who are &amp;ldquo;the 2800&amp;rdquo;? They are the 2,800 ships in the Dominion fleet that was swallowed up in the wormhole by the Prophets during a&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online FE305: Cutting the Cord (spoilers)</title>
+				<link>https://tipa16384.github.io/wkblog/2011/03/star-trek-online-fe305-cut-the-cord-spoilers/</link>
+				<pubDate>Sun, 06 Mar 2011 00:00:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/03/star-trek-online-fe305-cut-the-cord-spoilers/</guid>
+				<description>&lt;p&gt;After last week&amp;rsquo;s epic episode, &amp;ldquo;Coliseum&amp;rdquo;, those of us at the Federation News Service were intrigued to see just how they could possibly top that&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online FE303: Frozen (Spoilers)</title>
+				<link>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</link>
+				<pubDate>Mon, 21 Feb 2011 07:37:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe303-frozen-spoilers/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online: FE302 &#34;Mine Enemy&#34; (spoilers!)</title>
+				<link>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe302-mine-enemy-spoilers/</link>
+				<pubDate>Sun, 13 Feb 2011 17:22:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe302-mine-enemy-spoilers/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online FE301: The Vault (spoilers)</title>
+				<link>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe301-the-vault-spoilers/</link>
+				<pubDate>Sun, 06 Feb 2011 11:52:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/02/star-trek-online-fe301-the-vault-spoilers/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online: The Enterprise Pack (and Genesis)</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-the-enterprise-pack-and-genesis/</link>
+				<pubDate>Thu, 18 Nov 2010 07:27:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/star-trek-online-the-enterprise-pack-and-genesis/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online: Skirmish (spoilers)</title>
+				<link>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-skirmish-spoilers/</link>
+				<pubDate>Sat, 16 Oct 2010 17:27:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-skirmish-spoilers/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online: Cold Call (spoilers)</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/star-trek-online-cold-call-spoilers/</link>
+				<pubDate>Sun, 29 Aug 2010 08:45:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/star-trek-online-cold-call-spoilers/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

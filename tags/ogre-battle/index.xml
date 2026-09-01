@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ogre Battle on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/ogre-battle/</link>
-    <description>Recent content in Ogre Battle on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2024 10:03:57 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/ogre-battle/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Unicorn Overlord -- Whose Overlord Is It, Anyway?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</link>
-      <pubDate>Sat, 23 Mar 2024 10:03:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</guid>
-      <description>&lt;p&gt;After playing through this amazing real-time tactics RPG, the only question I hadn&amp;rsquo;t answered was&amp;hellip; were we the baddies all the time?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tactics Ogre: The Knight of Lodis FINISHED!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</link>
-      <pubDate>Sat, 06 Jan 2024 11:38:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight&amp;rsquo;s journey to discover his place in the world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Christmas Loot: Knight of Lodis and Prince of Zenobia</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/christmas-loot-knight-of-lodis-and-prince-of-zenobia/</link>
-      <pubDate>Fri, 29 Dec 2023 09:10:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/christmas-loot-knight-of-lodis-and-prince-of-zenobia/</guid>
-      <description>&lt;p&gt;For Christmas, I got two more entries in the Tactics Ogre/Ogre Battle series&amp;hellip; one I have played before, and the other is going to need some work to be able to play&amp;hellip; and understand.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Knight of Lodis: Entering the Crypt</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</link>
-      <pubDate>Fri, 10 Nov 2023 20:21:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</guid>
-      <description>&lt;p&gt;It was supposed to just be a battle. It turned into a gauntlet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo Scorecard</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</link>
-      <pubDate>Mon, 28 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</guid>
-      <description>&lt;p&gt;Retro World Expo has been defeated by us. Here&amp;rsquo;s the games we ripped from its steaming corpse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
-      <pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
-      <description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</link>
-      <pubDate>Mon, 18 Jul 2022 08:25:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</guid>
-      <description>&lt;p&gt;Each of these probably should get their own posts, but I am exceedingly lazy&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ogre Battle: Curse your sudden, but inevitable, betrayal</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</link>
-      <pubDate>Wed, 13 Jul 2022 08:16:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</guid>
-      <description>&lt;p&gt;Now that I&amp;rsquo;ve gotten the game so that it works and looks decent, it&amp;rsquo;s time to ask the big question: How do I get Deneb&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is playing on the original hardware worth the trouble?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</link>
-      <pubDate>Mon, 11 Jul 2022 08:24:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
-      <description>&lt;p&gt;I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today&amp;rsquo;s high resolution, digital monitors&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Symphony of War: The Nephilim Saga</title>
-      <link>https://tipa16384.github.io/wkblog/2022/06/symphony-of-war-the-nephilim-saga/</link>
-      <pubDate>Thu, 23 Jun 2022 21:17:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/06/symphony-of-war-the-nephilim-saga/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a tactical RPG where you control an army on the battlefield made of several squads. It&amp;rsquo;s a callout to one of the most unusual&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ogre Battle on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/ogre-battle/</link>
+		<description>Recent content in Ogre Battle on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 23 Mar 2024 10:03:57 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/ogre-battle/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Unicorn Overlord -- Whose Overlord Is It, Anyway?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord-whose-overlord-is-it-anyway/</link>
+				<pubDate>Sat, 23 Mar 2024 10:03:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord-whose-overlord-is-it-anyway/</guid>
+				<description>&lt;p&gt;After playing through this amazing real-time tactics RPG, the only question I hadn&amp;rsquo;t answered was&amp;hellip; were we the baddies all the time?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tactics Ogre: The Knight of Lodis FINISHED!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</link>
+				<pubDate>Sat, 06 Jan 2024 11:38:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/tactics-ogre-the-knight-of-lodis-finished/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight&amp;rsquo;s journey to discover his place in the world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Christmas Loot: Knight of Lodis and Prince of Zenobia</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/christmas-loot-knight-of-lodis-and-prince-of-zenobia/</link>
+				<pubDate>Fri, 29 Dec 2023 09:10:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/christmas-loot-knight-of-lodis-and-prince-of-zenobia/</guid>
+				<description>&lt;p&gt;For Christmas, I got two more entries in the Tactics Ogre/Ogre Battle series&amp;hellip; one I have played before, and the other is going to need some work to be able to play&amp;hellip; and understand.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Knight of Lodis: Entering the Crypt</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</link>
+				<pubDate>Fri, 10 Nov 2023 20:21:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</guid>
+				<description>&lt;p&gt;It was supposed to just be a battle. It turned into a gauntlet.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo Scorecard</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</link>
+				<pubDate>Mon, 28 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</guid>
+				<description>&lt;p&gt;Retro World Expo has been defeated by us. Here&amp;rsquo;s the games we ripped from its steaming corpse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
+				<pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
+				<description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</link>
+				<pubDate>Mon, 18 Jul 2022 08:25:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</guid>
+				<description>&lt;p&gt;Each of these probably should get their own posts, but I am exceedingly lazy&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ogre Battle: Curse your sudden, but inevitable, betrayal</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</link>
+				<pubDate>Wed, 13 Jul 2022 08:16:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</guid>
+				<description>&lt;p&gt;Now that I&amp;rsquo;ve gotten the game so that it works and looks decent, it&amp;rsquo;s time to ask the big question: How do I get Deneb&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Is playing on the original hardware worth the trouble?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</link>
+				<pubDate>Mon, 11 Jul 2022 08:24:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
+				<description>&lt;p&gt;I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today&amp;rsquo;s high resolution, digital monitors&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Symphony of War: The Nephilim Saga</title>
+				<link>https://tipa16384.github.io/wkblog/2022/06/symphony-of-war-the-nephilim-saga/</link>
+				<pubDate>Thu, 23 Jun 2022 21:17:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/06/symphony-of-war-the-nephilim-saga/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a tactical RPG where you control an army on the battlefield made of several squads. It&amp;rsquo;s a callout to one of the most unusual&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

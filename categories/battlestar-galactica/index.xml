@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Battlestar Galactica on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/battlestar-galactica/</link>
-    <description>Recent content in Battlestar Galactica on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Aug 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/battlestar-galactica/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PS2 RPGs: Quick Reviews</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</link>
-      <pubDate>Thu, 22 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</guid>
-      <description>&lt;p&gt;You&amp;rsquo;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Battlestar Galactica - the Ties that Bind</title>
-      <link>https://tipa16384.github.io/wkblog/2008/04/battlestar-galactica-the-ties-that-bind/</link>
-      <pubDate>Sun, 20 Apr 2008 13:44:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/04/battlestar-galactica-the-ties-that-bind/</guid>
-      <description>&lt;p&gt;The problem is not that Battlestar Galactica has tranformed science fiction television. The problem is that it has set such an impossibly high bar that&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Battlestar Galactica, frame by frame</title>
-      <link>https://tipa16384.github.io/wkblog/2007/03/battlestar-galactica-frame-by-frame/</link>
-      <pubDate>Wed, 07 Mar 2007 07:55:38 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/03/battlestar-galactica-frame-by-frame/</guid>
-      <description>&lt;p&gt;What really happened at the end of Battlestar Galactica? Here&amp;rsquo;s a frame-by-frame examination of the last few seconds. It&amp;rsquo;s full of spoilers, so DO NOT&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When We Return: Television&#39;s Finest (Part 1)</title>
-      <link>https://tipa16384.github.io/wkblog/2007/01/when-we-return-televisions-finest-part-1/</link>
-      <pubDate>Fri, 05 Jan 2007 14:29:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/01/when-we-return-televisions-finest-part-1/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a new year and time for all the shows that left us hanging last year to finally get around to rescuing us from that&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Battlestar Galactica Webisodes</title>
-      <link>https://tipa16384.github.io/wkblog/2006/09/battlestar-galactica-webisodes/</link>
-      <pubDate>Wed, 06 Sep 2006 08:45:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/09/battlestar-galactica-webisodes/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been in and out of the SciFi Channel&amp;rsquo;s website for the past couple of weeks working on my Who Wants to be a Superhero&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Battlestar Galactica on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/battlestar-galactica/</link>
+		<description>Recent content in Battlestar Galactica on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Aug 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/battlestar-galactica/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>PS2 RPGs: Quick Reviews</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</link>
+				<pubDate>Thu, 22 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/ps2-rpgs-quick-reviews/</guid>
+				<description>&lt;p&gt;You&amp;rsquo;re down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Battlestar Galactica - the Ties that Bind</title>
+				<link>https://tipa16384.github.io/wkblog/2008/04/battlestar-galactica-the-ties-that-bind/</link>
+				<pubDate>Sun, 20 Apr 2008 13:44:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/04/battlestar-galactica-the-ties-that-bind/</guid>
+				<description>&lt;p&gt;The problem is not that Battlestar Galactica has tranformed science fiction television. The problem is that it has set such an impossibly high bar that&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Battlestar Galactica, frame by frame</title>
+				<link>https://tipa16384.github.io/wkblog/2007/03/battlestar-galactica-frame-by-frame/</link>
+				<pubDate>Wed, 07 Mar 2007 07:55:38 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/03/battlestar-galactica-frame-by-frame/</guid>
+				<description>&lt;p&gt;What really happened at the end of Battlestar Galactica? Here&amp;rsquo;s a frame-by-frame examination of the last few seconds. It&amp;rsquo;s full of spoilers, so DO NOT&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>When We Return: Television&#39;s Finest (Part 1)</title>
+				<link>https://tipa16384.github.io/wkblog/2007/01/when-we-return-televisions-finest-part-1/</link>
+				<pubDate>Fri, 05 Jan 2007 14:29:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/01/when-we-return-televisions-finest-part-1/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a new year and time for all the shows that left us hanging last year to finally get around to rescuing us from that&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Battlestar Galactica Webisodes</title>
+				<link>https://tipa16384.github.io/wkblog/2006/09/battlestar-galactica-webisodes/</link>
+				<pubDate>Wed, 06 Sep 2006 08:45:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/09/battlestar-galactica-webisodes/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been in and out of the SciFi Channel&amp;rsquo;s website for the past couple of weeks working on my Who Wants to be a Superhero&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

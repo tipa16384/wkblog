@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Young Frankenstein on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/young-frankenstein/</link>
-    <description>Recent content in Young Frankenstein on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 07:13:06 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/young-frankenstein/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adventures in Monopoly -- Darkfall, Part III</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-part-iii/</link>
-      <pubDate>Tue, 15 Sep 2020 07:13:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-part-iii/</guid>
-      <description>&lt;p&gt;Header pic has nothing to do with this comic. Header pic was based off an old John Varley story&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Young Frankenstein on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/young-frankenstein/</link>
+		<description>Recent content in Young Frankenstein on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 15 Sep 2020 07:13:06 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/young-frankenstein/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Adventures in Monopoly -- Darkfall, Part III</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-part-iii/</link>
+				<pubDate>Tue, 15 Sep 2020 07:13:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-part-iii/</guid>
+				<description>&lt;p&gt;Header pic has nothing to do with this comic. Header pic was based off an old John Varley story&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

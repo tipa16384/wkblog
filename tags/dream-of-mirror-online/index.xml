@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dream of Mirror Online on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dream-of-mirror-online/</link>
-    <description>Recent content in Dream of Mirror Online on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jul 2008 08:15:56 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dream-of-mirror-online/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A first look at Florensia</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/a-first-look-at-florensia/</link>
-      <pubDate>Fri, 25 Jul 2008 08:15:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/a-first-look-at-florensia/</guid>
-      <description>&lt;p&gt;Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Free-to-play game of the month?</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/free-to-play-game-of-the-month/</link>
-      <pubDate>Thu, 24 Jul 2008 09:07:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/free-to-play-game-of-the-month/</guid>
-      <description>&lt;p&gt;As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dream of Mirror Online on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/dream-of-mirror-online/</link>
+		<description>Recent content in Dream of Mirror Online on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 25 Jul 2008 08:15:56 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/dream-of-mirror-online/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A first look at Florensia</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/a-first-look-at-florensia/</link>
+				<pubDate>Fri, 25 Jul 2008 08:15:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/a-first-look-at-florensia/</guid>
+				<description>&lt;p&gt;Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Free-to-play game of the month?</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/free-to-play-game-of-the-month/</link>
+				<pubDate>Thu, 24 Jul 2008 09:07:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/free-to-play-game-of-the-month/</guid>
+				<description>&lt;p&gt;As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

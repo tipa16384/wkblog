@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Reader on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/reader/</link>
-    <description>Recent content in Reader on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2009 14:16:36 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/reader/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sony announces half a million public domain books for its E-Ink Reader</title>
-      <link>https://tipa16384.github.io/wkblog/2009/03/sony-announces-half-a-million-public-domain-books-for-its-e-ink-reader/</link>
-      <pubDate>Thu, 19 Mar 2009 14:16:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/03/sony-announces-half-a-million-public-domain-books-for-its-e-ink-reader/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s plenty of free books on the internet. Current ones, too, and legally. Project Gutenberg has an extensive library of free, public domain (or merely&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Reader on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/reader/</link>
+		<description>Recent content in Reader on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 19 Mar 2009 14:16:36 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/reader/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sony announces half a million public domain books for its E-Ink Reader</title>
+				<link>https://tipa16384.github.io/wkblog/2009/03/sony-announces-half-a-million-public-domain-books-for-its-e-ink-reader/</link>
+				<pubDate>Thu, 19 Mar 2009 14:16:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/03/sony-announces-half-a-million-public-domain-books-for-its-e-ink-reader/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s plenty of free books on the internet. Current ones, too, and legally. Project Gutenberg has an extensive library of free, public domain (or merely&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

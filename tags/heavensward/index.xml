@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Heavensward on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/heavensward/</link>
-    <description>Recent content in Heavensward on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 07 May 2023 12:10:55 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/heavensward/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FFXIV: How I Ruined a Realm Reborn...</title>
-      <link>https://tipa16384.github.io/wkblog/2023/05/ffxiv-how-i-ruined-a-realm-reborn.../</link>
-      <pubDate>Sun, 07 May 2023 12:10:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/05/ffxiv-how-i-ruined-a-realm-reborn.../</guid>
-      <description>&lt;p&gt;I really wanted to title this post, &amp;ldquo;FFXIV: Who Hurt You To Make You Do This?&amp;rdquo;. I didn&amp;rsquo;t, because I knew the answer. It was me. I&amp;rsquo;m to blame.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Heavensward on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/heavensward/</link>
+		<description>Recent content in Heavensward on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 07 May 2023 12:10:55 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/heavensward/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>FFXIV: How I Ruined a Realm Reborn...</title>
+				<link>https://tipa16384.github.io/wkblog/2023/05/ffxiv-how-i-ruined-a-realm-reborn/</link>
+				<pubDate>Sun, 07 May 2023 12:10:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/05/ffxiv-how-i-ruined-a-realm-reborn/</guid>
+				<description>&lt;p&gt;I really wanted to title this post, &amp;ldquo;FFXIV: Who Hurt You To Make You Do This?&amp;rdquo;. I didn&amp;rsquo;t, because I knew the answer. It was me. I&amp;rsquo;m to blame.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

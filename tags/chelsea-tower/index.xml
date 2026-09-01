@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chelsea Tower on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/chelsea-tower/</link>
-    <description>Recent content in Chelsea Tower on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2008 08:59:48 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/chelsea-tower/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>W101: The Ironworks</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/w101-the-ironworks/</link>
-      <pubDate>Thu, 16 Oct 2008 08:59:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/w101-the-ironworks/</guid>
-      <description>&lt;p&gt;Marleybone&amp;rsquo;s Regent&amp;rsquo;s Square at the end of last night&amp;rsquo;s adventure. New staff, the Staff of Rejuvenation; my school, of course, which is kind of a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Chelsea Tower on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/chelsea-tower/</link>
+		<description>Recent content in Chelsea Tower on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 16 Oct 2008 08:59:48 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/chelsea-tower/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>W101: The Ironworks</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/w101-the-ironworks/</link>
+				<pubDate>Thu, 16 Oct 2008 08:59:48 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/w101-the-ironworks/</guid>
+				<description>&lt;p&gt;Marleybone&amp;rsquo;s Regent&amp;rsquo;s Square at the end of last night&amp;rsquo;s adventure. New staff, the Staff of Rejuvenation; my school, of course, which is kind of a&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

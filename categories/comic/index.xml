@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Comic on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/comic/</link>
-    <description>Recent content in Comic on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2023 08:25:03 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/comic/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>No kidding: I bought (and sold) an NFT.</title>
-      <link>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft./</link>
-      <pubDate>Fri, 27 Jan 2023 08:25:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft./</guid>
-      <description>&lt;p&gt;Turns out there might be at least one use case for the things.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Order of the Stick: The Dungeon of Dorukan</title>
-      <link>https://tipa16384.github.io/wkblog/2023/01/the-order-of-the-stick-the-dungeon-of-dorukan/</link>
-      <pubDate>Mon, 23 Jan 2023 08:18:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/01/the-order-of-the-stick-the-dungeon-of-dorukan/</guid>
-      <description>&lt;p&gt;Ever like a web comic that satirizes Dungeons and Dragons so much that you wanted to play as those characters in a board game? You&amp;rsquo;re in luck &amp;ndash; &amp;ldquo;The Order of the Stick: The Dungeon of Dorukan&amp;rdquo; is here.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Breaking the 4th Wall: A Mysterious Point-and-Click Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</link>
-      <pubDate>Fri, 29 Jul 2022 08:06:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</guid>
-      <description>&lt;p&gt;I ran across this gem by accident, actually &amp;ndash; an AI told me about it&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Monopoly -- Darkfall, Part III</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-part-iii/</link>
-      <pubDate>Tue, 15 Sep 2020 07:13:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-part-iii/</guid>
-      <description>&lt;p&gt;Header pic has nothing to do with this comic. Header pic was based off an old John Varley story&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Monopoly -- Darkfall, Part II</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-part-ii/</link>
-      <pubDate>Tue, 08 Sep 2020 07:07:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-part-ii/</guid>
-      <description>&lt;p&gt;The first part to the comic in the header image was over here, and the second part was right over there&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Monopoly -- Darkfall Pt. 1</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-pt.-1/</link>
-      <pubDate>Tue, 01 Sep 2020 07:10:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly--darkfall-pt.-1/</guid>
-      <description>&lt;p&gt;The first panel of this header comic was posted last week, and the third part will be posted next week. They were used in one&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blaugust #27: Be the Content You Want to See</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2327-be-the-content-you-want-to-see/</link>
-      <pubDate>Thu, 27 Aug 2020 08:20:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2327-be-the-content-you-want-to-see/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t even know if that title makes any sense. Anyway. A bunch of the prompts from the past week have dealt, in some way,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Monopoly -- Cash Shop</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly--cash-shop/</link>
-      <pubDate>Mon, 24 Aug 2020 06:35:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly--cash-shop/</guid>
-      <description>&lt;p&gt;Turns out that everything that ever happened in online games happened first in Monopoly. They said the Monopoly Cash Shop would only sell cosmetic items&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Monopoly: The Beginning</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly-the-beginning/</link>
-      <pubDate>Mon, 17 Aug 2020 17:34:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly-the-beginning/</guid>
-      <description>&lt;p&gt;A long, long time ago, I got a shiny metal bear in an EverQuest 2 expansion box. I kinda thought it looked like it could&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Look Back to Champions Online -- in Comic Form!</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/a-look-back-to-champions-online--in-comic-form/</link>
-      <pubDate>Wed, 12 Aug 2020 04:23:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/a-look-back-to-champions-online--in-comic-form/</guid>
-      <description>&lt;p&gt;I read on Twitter today that Daybreak Games had bought out another studio, Cold Iron, who are working on a game set in the Ridley&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Comic on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/comic/</link>
+		<description>Recent content in Comic on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 Jan 2023 08:25:03 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/comic/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>No kidding: I bought (and sold) an NFT.</title>
+				<link>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft/</link>
+				<pubDate>Fri, 27 Jan 2023 08:25:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft/</guid>
+				<description>&lt;p&gt;Turns out there might be at least one use case for the things.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Order of the Stick: The Dungeon of Dorukan</title>
+				<link>https://tipa16384.github.io/wkblog/2023/01/the-order-of-the-stick-the-dungeon-of-dorukan/</link>
+				<pubDate>Mon, 23 Jan 2023 08:18:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/01/the-order-of-the-stick-the-dungeon-of-dorukan/</guid>
+				<description>&lt;p&gt;Ever like a web comic that satirizes Dungeons and Dragons so much that you wanted to play as those characters in a board game? You&amp;rsquo;re in luck &amp;ndash; &amp;ldquo;The Order of the Stick: The Dungeon of Dorukan&amp;rdquo; is here.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Breaking the 4th Wall: A Mysterious Point-and-Click Adventure</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</link>
+				<pubDate>Fri, 29 Jul 2022 08:06:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</guid>
+				<description>&lt;p&gt;I ran across this gem by accident, actually &amp;ndash; an AI told me about it&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Monopoly -- Darkfall, Part III</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-part-iii/</link>
+				<pubDate>Tue, 15 Sep 2020 07:13:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-part-iii/</guid>
+				<description>&lt;p&gt;Header pic has nothing to do with this comic. Header pic was based off an old John Varley story&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Monopoly -- Darkfall, Part II</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-part-ii/</link>
+				<pubDate>Tue, 08 Sep 2020 07:07:13 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-part-ii/</guid>
+				<description>&lt;p&gt;The first part to the comic in the header image was over here, and the second part was right over there&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Monopoly -- Darkfall Pt. 1</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-pt-1/</link>
+				<pubDate>Tue, 01 Sep 2020 07:10:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/adventures-in-monopoly-darkfall-pt-1/</guid>
+				<description>&lt;p&gt;The first panel of this header comic was posted last week, and the third part will be posted next week. They were used in one&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blaugust #27: Be the Content You Want to See</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/blaugust-27-be-the-content-you-want-to-see/</link>
+				<pubDate>Thu, 27 Aug 2020 08:20:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/blaugust-27-be-the-content-you-want-to-see/</guid>
+				<description>&lt;p&gt;I don&amp;rsquo;t even know if that title makes any sense. Anyway. A bunch of the prompts from the past week have dealt, in some way,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Monopoly -- Cash Shop</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly-cash-shop/</link>
+				<pubDate>Mon, 24 Aug 2020 06:35:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly-cash-shop/</guid>
+				<description>&lt;p&gt;Turns out that everything that ever happened in online games happened first in Monopoly. They said the Monopoly Cash Shop would only sell cosmetic items&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Monopoly: The Beginning</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly-the-beginning/</link>
+				<pubDate>Mon, 17 Aug 2020 17:34:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/adventures-in-monopoly-the-beginning/</guid>
+				<description>&lt;p&gt;A long, long time ago, I got a shiny metal bear in an EverQuest 2 expansion box. I kinda thought it looked like it could&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Look Back to Champions Online -- in Comic Form!</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/a-look-back-to-champions-online-in-comic-form/</link>
+				<pubDate>Wed, 12 Aug 2020 04:23:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/a-look-back-to-champions-online-in-comic-form/</guid>
+				<description>&lt;p&gt;I read on Twitter today that Daybreak Games had bought out another studio, Cold Iron, who are working on a game set in the Ridley&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

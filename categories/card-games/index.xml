@@ -1,61 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Card Games on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/card-games/</link>
-    <description>Recent content in Card Games on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Oct 2025 07:37:26 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/card-games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I cancelled my Pokémon TCG Pocket premium subscription</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/i-cancelled-my-pok%C3%A9mon-tcg-pocket-premium-subscription/</link>
-      <pubDate>Wed, 01 Oct 2025 07:37:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/i-cancelled-my-pok%C3%A9mon-tcg-pocket-premium-subscription/</guid>
-      <description>&lt;p&gt;The latest expansion pack is really a slap in the face of dedicated collectors.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Micro Hero: Hercules</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/micro-hero-hercules/</link>
-      <pubDate>Thu, 14 Aug 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/micro-hero-hercules/</guid>
-      <description>&lt;p&gt;Hercules has to complete a dozen tough jobs to atone for killing his family. Only you can help him in this solo deckbuilding game!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Dishonesty of Balatro</title>
-      <link>https://tipa16384.github.io/wkblog/2025/06/the-dishonesty-of-balatro/</link>
-      <pubDate>Sun, 15 Jun 2025 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/06/the-dishonesty-of-balatro/</guid>
-      <description>&lt;p&gt;Now that I have finally won the game, I have some thoughts&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Let&#39;s Go Looking For My Games</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/lets-go-looking-for-my-games/</link>
-      <pubDate>Wed, 15 Sep 2021 23:42:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/lets-go-looking-for-my-games/</guid>
-      <description>&lt;p&gt;Spoiler alert: They&amp;rsquo;re in China&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shadowverse Showdown!</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/shadowverse-showdown/</link>
-      <pubDate>Fri, 27 Aug 2021 00:07:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/shadowverse-showdown/</guid>
-      <description>&lt;p&gt;Okay, picture this: A collectible card game &amp;ndash; except digital! And you play as one of a bunch of different classes, with cards themed to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terraforming Mars: Ares Expedition Review</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/terraforming-mars-ares-expedition-review/</link>
-      <pubDate>Fri, 06 Aug 2021 08:22:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/terraforming-mars-ares-expedition-review/</guid>
-      <description>&lt;p&gt;Terraforming Mars, the big box game by FryxGames, is a long-time favorite board game at our kitchen table. As the name implies, it&amp;rsquo;s a game&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Night: Heart of Crown</title>
-      <link>https://tipa16384.github.io/wkblog/2020/10/game-night-heart-of-crown/</link>
-      <pubDate>Thu, 29 Oct 2020 07:34:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/10/game-night-heart-of-crown/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;d forgotten we&amp;rsquo;d discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Card Games on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/card-games/</link>
+		<description>Recent content in Card Games on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 May 2026 12:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/card-games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rogue Solitaire: a TRUE Roguelike Card Game</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/</link>
+				<pubDate>Tue, 12 May 2026 12:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/rogue-solitaire-a-true-roguelike-card-game/</guid>
+				<description>&lt;p&gt;I have written a 100% authentic Rogue experience in a standard deck of cards. Complete rules inside!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I cancelled my Pokémon TCG Pocket premium subscription</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/</link>
+				<pubDate>Wed, 01 Oct 2025 07:37:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/</guid>
+				<description>&lt;p&gt;The latest expansion pack is really a slap in the face of dedicated collectors.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Micro Hero: Hercules</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/micro-hero-hercules/</link>
+				<pubDate>Thu, 14 Aug 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/micro-hero-hercules/</guid>
+				<description>&lt;p&gt;Hercules has to complete a dozen tough jobs to atone for killing his family. Only you can help him in this solo deckbuilding game!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Dishonesty of Balatro</title>
+				<link>https://tipa16384.github.io/wkblog/2025/06/the-dishonesty-of-balatro/</link>
+				<pubDate>Sun, 15 Jun 2025 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/06/the-dishonesty-of-balatro/</guid>
+				<description>&lt;p&gt;Now that I have finally won the game, I have some thoughts&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Let&#39;s Go Looking For My Games</title>
+				<link>https://tipa16384.github.io/wkblog/2021/09/lets-go-looking-for-my-games/</link>
+				<pubDate>Wed, 15 Sep 2021 23:42:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/09/lets-go-looking-for-my-games/</guid>
+				<description>&lt;p&gt;Spoiler alert: They&amp;rsquo;re in China&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Shadowverse Showdown!</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/shadowverse-showdown/</link>
+				<pubDate>Fri, 27 Aug 2021 00:07:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/shadowverse-showdown/</guid>
+				<description>&lt;p&gt;Okay, picture this: A collectible card game &amp;ndash; except digital! And you play as one of a bunch of different classes, with cards themed to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Terraforming Mars: Ares Expedition Review</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/terraforming-mars-ares-expedition-review/</link>
+				<pubDate>Fri, 06 Aug 2021 08:22:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/terraforming-mars-ares-expedition-review/</guid>
+				<description>&lt;p&gt;Terraforming Mars, the big box game by FryxGames, is a long-time favorite board game at our kitchen table. As the name implies, it&amp;rsquo;s a game&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Night: Heart of Crown</title>
+				<link>https://tipa16384.github.io/wkblog/2020/10/game-night-heart-of-crown/</link>
+				<pubDate>Thu, 29 Oct 2020 07:34:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/10/game-night-heart-of-crown/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;d forgotten we&amp;rsquo;d discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Run Silent Run Deep on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/run-silent-run-deep/</link>
-    <description>Recent content in Run Silent Run Deep on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 11:15:16 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/run-silent-run-deep/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>World of Warships: Submarines Sail In</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</link>
-      <pubDate>Thu, 14 May 2020 11:15:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Frankly, my dear, I don&amp;rsquo;t give a damn about depth charges&amp;rdquo;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Run Silent Run Deep on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/run-silent-run-deep/</link>
+		<description>Recent content in Run Silent Run Deep on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 14 May 2020 11:15:16 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/run-silent-run-deep/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>World of Warships: Submarines Sail In</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</link>
+				<pubDate>Thu, 14 May 2020 11:15:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/world-of-warships-submarines-sail-in/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Frankly, my dear, I don&amp;rsquo;t give a damn about depth charges&amp;rdquo;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

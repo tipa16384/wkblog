@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Alderich on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/alderich/</link>
-    <description>Recent content in Alderich on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Oct 2008 08:31:41 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/alderich/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Straight Talk Warhammer: The Ironbreaker</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/straight-talk-warhammer-the-ironbreaker/</link>
-      <pubDate>Thu, 02 Oct 2008 08:31:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/straight-talk-warhammer-the-ironbreaker/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s just so much to say about Warhammer Online: Age of Reckoning that people don&amp;rsquo;t even talk about. I&amp;rsquo;m don&amp;rsquo;t mean innovations like Public Quests&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Alderich on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/alderich/</link>
+		<description>Recent content in Alderich on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 02 Oct 2008 08:31:41 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/alderich/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Straight Talk Warhammer: The Ironbreaker</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/straight-talk-warhammer-the-ironbreaker/</link>
+				<pubDate>Thu, 02 Oct 2008 08:31:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/straight-talk-warhammer-the-ironbreaker/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s just so much to say about Warhammer Online: Age of Reckoning that people don&amp;rsquo;t even talk about. I&amp;rsquo;m don&amp;rsquo;t mean innovations like Public Quests&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

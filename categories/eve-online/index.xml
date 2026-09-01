@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>EVE Online on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/eve-online/</link>
-    <description>Recent content in EVE Online on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 18:39:04 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/eve-online/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
-      <link>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
-      <pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
-      <description>&lt;p&gt;Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New World: FOMO or FOTM?</title>
-      <link>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</link>
-      <pubDate>Thu, 22 Jul 2021 21:16:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</guid>
-      <description>&lt;p&gt;Amazon&amp;rsquo;s new MMO, &amp;ldquo;New World&amp;rdquo;, comes out soon. Everyone is excited &amp;ndash; but I don&amp;rsquo;t know if I&amp;rsquo;m ready for a new MMO commitment.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll Oct 11: Can&#39;t break the NDA edition.</title>
-      <link>https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-11-cant-break-the-nda-edition./</link>
-      <pubDate>Tue, 11 Oct 2011 05:00:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-11-cant-break-the-nda-edition./</guid>
-      <description>&lt;p&gt;So yeah. I&amp;rsquo;d have a better screenshot, but somehow I&amp;rsquo;m the only person who did NOT get into the Star Wars: The Old Republic beta&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Inertia of EVE Online and EverQuest II</title>
-      <link>https://tipa16384.github.io/wkblog/2011/02/the-inertia-of-eve-online-and-everquest-ii/</link>
-      <pubDate>Tue, 22 Feb 2011 07:54:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/02/the-inertia-of-eve-online-and-everquest-ii/</guid>
-      <description>&lt;p&gt;CCP has been sending me &amp;ldquo;come back to EVE&amp;rdquo; e-mails for awhile now, touting variously their refund of learning skills, the new character creator, soon&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 2/15 -- Death of Sleep edition</title>
-      <link>https://tipa16384.github.io/wkblog/2011/02/daily-blogroll-2/15--death-of-sleep-edition/</link>
-      <pubDate>Tue, 15 Feb 2011 06:00:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/02/daily-blogroll-2/15--death-of-sleep-edition/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 1/27 -- Inevitable Backlash edition</title>
-      <link>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1/27--inevitable-backlash-edition/</link>
-      <pubDate>Thu, 27 Jan 2011 06:00:43 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1/27--inevitable-backlash-edition/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 1/19 -- Game of Mass Destruction edition</title>
-      <link>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1/19--game-of-mass-destruction-edition/</link>
-      <pubDate>Wed, 19 Jan 2011 06:00:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1/19--game-of-mass-destruction-edition/</guid>
-      <description>&lt;p&gt;I absolutely would love to know how many people people are REALLY playing World of Warcraft vs Lord of the Rings Online vs Warhammer Online&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 1/1/11 -- Happy New Year edition</title>
-      <link>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1/1/11--happy-new-year-edition/</link>
-      <pubDate>Sat, 01 Jan 2011 06:00:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1/1/11--happy-new-year-edition/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Magic 8 Ball predicts the losers and winners of 2011.</title>
-      <link>https://tipa16384.github.io/wkblog/2010/12/the-magic-8-ball-predicts-the-losers-and-winners-of-2011./</link>
-      <pubDate>Thu, 30 Dec 2010 06:00:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/12/the-magic-8-ball-predicts-the-losers-and-winners-of-2011./</guid>
-      <description>&lt;p&gt;I suck at predictions, but everyone else is doing them. Luckily, I have a Magic 8 Ball. I&amp;rsquo;m just gonna list some games, and ask&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 12/8 -- Holy NDA, Batman! edition</title>
-      <link>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-12/8--holy-nda-batman-edition/</link>
-      <pubDate>Wed, 08 Dec 2010 06:00:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-12/8--holy-nda-batman-edition/</guid>
-      <description>&lt;p&gt;Superhero comics have to be the most consistently grim form of literature imaginable. Here you have people with cosmic supernatural powers, and those powers bring&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>EVE Online on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/eve-online/</link>
+		<description>Recent content in EVE Online on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 20 May 2023 18:39:04 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/eve-online/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Official, Scientific, 2023 List of Popular MMORPGs</title>
+				<link>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</link>
+				<pubDate>Sat, 20 May 2023 18:39:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/05/the-official-scientific-2023-list-of-popular-mmorpgs/</guid>
+				<description>&lt;p&gt;Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>New World: FOMO or FOTM?</title>
+				<link>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</link>
+				<pubDate>Thu, 22 Jul 2021 21:16:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/07/new-world-fomo-or-fotm/</guid>
+				<description>&lt;p&gt;Amazon&amp;rsquo;s new MMO, &amp;ldquo;New World&amp;rdquo;, comes out soon. Everyone is excited &amp;ndash; but I don&amp;rsquo;t know if I&amp;rsquo;m ready for a new MMO commitment.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll Oct 11: Can&#39;t break the NDA edition.</title>
+				<link>https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-11-cant-break-the-nda-edition/</link>
+				<pubDate>Tue, 11 Oct 2011 05:00:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/10/daily-blogroll-oct-11-cant-break-the-nda-edition/</guid>
+				<description>&lt;p&gt;So yeah. I&amp;rsquo;d have a better screenshot, but somehow I&amp;rsquo;m the only person who did NOT get into the Star Wars: The Old Republic beta&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Inertia of EVE Online and EverQuest II</title>
+				<link>https://tipa16384.github.io/wkblog/2011/02/the-inertia-of-eve-online-and-everquest-ii/</link>
+				<pubDate>Tue, 22 Feb 2011 07:54:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/02/the-inertia-of-eve-online-and-everquest-ii/</guid>
+				<description>&lt;p&gt;CCP has been sending me &amp;ldquo;come back to EVE&amp;rdquo; e-mails for awhile now, touting variously their refund of learning skills, the new character creator, soon&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 2/15 -- Death of Sleep edition</title>
+				<link>https://tipa16384.github.io/wkblog/2011/02/daily-blogroll-215-death-of-sleep-edition/</link>
+				<pubDate>Tue, 15 Feb 2011 06:00:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/02/daily-blogroll-215-death-of-sleep-edition/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 1/27 -- Inevitable Backlash edition</title>
+				<link>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-127-inevitable-backlash-edition/</link>
+				<pubDate>Thu, 27 Jan 2011 06:00:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-127-inevitable-backlash-edition/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 1/19 -- Game of Mass Destruction edition</title>
+				<link>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-119-game-of-mass-destruction-edition/</link>
+				<pubDate>Wed, 19 Jan 2011 06:00:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-119-game-of-mass-destruction-edition/</guid>
+				<description>&lt;p&gt;I absolutely would love to know how many people people are REALLY playing World of Warcraft vs Lord of the Rings Online vs Warhammer Online&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 1/1/11 -- Happy New Year edition</title>
+				<link>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1111-happy-new-year-edition/</link>
+				<pubDate>Sat, 01 Jan 2011 06:00:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/01/daily-blogroll-1111-happy-new-year-edition/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Magic 8 Ball predicts the losers and winners of 2011.</title>
+				<link>https://tipa16384.github.io/wkblog/2010/12/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</link>
+				<pubDate>Thu, 30 Dec 2010 06:00:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/12/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/</guid>
+				<description>&lt;p&gt;I suck at predictions, but everyone else is doing them. Luckily, I have a Magic 8 Ball. I&amp;rsquo;m just gonna list some games, and ask&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 12/8 -- Holy NDA, Batman! edition</title>
+				<link>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-123-holy-nda-batman-edition/</link>
+				<pubDate>Wed, 08 Dec 2010 06:00:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/12/daily-blogroll-123-holy-nda-batman-edition/</guid>
+				<description>&lt;p&gt;Superhero comics have to be the most consistently grim form of literature imaginable. Here you have people with cosmic supernatural powers, and those powers bring&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

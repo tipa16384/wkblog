@@ -1,19 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Windrose on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/windrose/</link>
-    <description>Recent content in Windrose on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 15:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/windrose/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Steam Next Fest: Windrose, Tides of Blazefall, Twilight Imperium, Panzer Dragoon Zwei</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</link>
-      <pubDate>Wed, 04 Mar 2026 15:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</guid>
-      <description>&lt;p&gt;Short takes to finish out the last of the games I played as part of the Steam Next Fest.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Windrose on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/windrose/</link>
+		<description>Recent content in Windrose on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 13 Jun 2026 16:47:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/windrose/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dune, Palworld, Valheim, Windrose, Starpath: Update on the Survival Crafters</title>
+				<link>https://tipa16384.github.io/wkblog/2026/06/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/</link>
+				<pubDate>Sat, 13 Jun 2026 16:47:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/06/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/</guid>
+				<description>&lt;p&gt;I used to be all about the MMO, but these days, it seems like Survival Crafting games have the juice. Many of my favorites have been sharing exciting news!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Windrose: A Fine Collection of Ne&#39;er-do-Wells</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</link>
+				<pubDate>Sun, 17 May 2026 15:28:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</guid>
+				<description>&lt;p&gt;With the death of the boss of the Cursed Swamp, Team Spode has finished Windrose&amp;rsquo;s current content. How did it stack up against Valheim in the end?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Speedrunning Windrose</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/speedrunning-windrose/</link>
+				<pubDate>Mon, 27 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/speedrunning-windrose/</guid>
+				<description>&lt;p&gt;Second boss down; will Team Spode have finished with Windrose before our month of server time is up?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Windrose: Yo ho ho, it&#39;s the pirate life for me</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</link>
+				<pubDate>Tue, 21 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</guid>
+				<description>&lt;p&gt;The new Age of Piracy game from Kraken Express and Pocketpair adds ship combat to the familiar post-Valheim survival-crafting genre.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Steam Next Fest: Windrose, Tides of Blazefall, Twilight Imperium, Panzer Dragoon Zwei</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</link>
+				<pubDate>Wed, 04 Mar 2026 15:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</guid>
+				<description>&lt;p&gt;Short takes to finish out the last of the games I played as part of the Steam Next Fest.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

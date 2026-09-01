@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>First Impressions on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/first-impressions/</link>
-    <description>Recent content in First Impressions on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2009 21:25:54 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/first-impressions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A first look at Aion: The Tower of Eternity</title>
-      <link>https://tipa16384.github.io/wkblog/2009/06/a-first-look-at-aion-the-tower-of-eternity/</link>
-      <pubDate>Tue, 16 Jun 2009 21:25:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/06/a-first-look-at-aion-the-tower-of-eternity/</guid>
-      <description>&lt;p&gt;Aion is not an innovative MMO. Anybody will tell you that&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Atlus&#39; NeoSteam: First Impressions</title>
-      <link>https://tipa16384.github.io/wkblog/2009/05/atlus-neosteam-first-impressions/</link>
-      <pubDate>Fri, 22 May 2009 06:44:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/05/atlus-neosteam-first-impressions/</guid>
-      <description>&lt;p&gt;See, this is exactly why you can&amp;rsquo;t do &amp;ldquo;first impressions&amp;rdquo; on an MMO. What does my couple hours of time in Atlus&amp;rsquo; newly relaunched MMO&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>First Impressions on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/first-impressions/</link>
+		<description>Recent content in First Impressions on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 16 Jun 2009 21:25:54 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/first-impressions/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A first look at Aion: The Tower of Eternity</title>
+				<link>https://tipa16384.github.io/wkblog/2009/06/a-first-look-at-aion-the-tower-of-eternity/</link>
+				<pubDate>Tue, 16 Jun 2009 21:25:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/06/a-first-look-at-aion-the-tower-of-eternity/</guid>
+				<description>&lt;p&gt;Aion is not an innovative MMO. Anybody will tell you that&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Atlus&#39; NeoSteam: First Impressions</title>
+				<link>https://tipa16384.github.io/wkblog/2009/05/atlus-neosteam-first-impressions/</link>
+				<pubDate>Fri, 22 May 2009 06:44:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/05/atlus-neosteam-first-impressions/</guid>
+				<description>&lt;p&gt;See, this is exactly why you can&amp;rsquo;t do &amp;ldquo;first impressions&amp;rdquo; on an MMO. What does my couple hours of time in Atlus&amp;rsquo; newly relaunched MMO&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

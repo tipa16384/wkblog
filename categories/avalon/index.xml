@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Avalon on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/avalon/</link>
-    <description>Recent content in Avalon on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/avalon/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Avalon: the new everything MMO that you can make at home!</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/avalon-the-new-everything-mmo-that-you-can-make-at-home/</link>
-      <pubDate>Thu, 16 Nov 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/avalon-the-new-everything-mmo-that-you-can-make-at-home/</guid>
-      <description>&lt;p&gt;Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward &amp;ldquo;Web3&amp;rdquo;. See your doctor at the first sign of symptoms.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Avalon on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/avalon/</link>
+		<description>Recent content in Avalon on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 16 Nov 2023 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/avalon/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Avalon: the new everything MMO that you can make at home!</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/avalon-the-new-everything-mmo-that-you-can-make-at-home/</link>
+				<pubDate>Thu, 16 Nov 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/avalon-the-new-everything-mmo-that-you-can-make-at-home/</guid>
+				<description>&lt;p&gt;Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward &amp;ldquo;Web3&amp;rdquo;. See your doctor at the first sign of symptoms.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

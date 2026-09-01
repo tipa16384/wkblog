@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The Battle Standard on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/the-battle-standard/</link>
-    <description>Recent content in The Battle Standard on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2025 08:27:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/the-battle-standard/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Malifaux 4e: Rasputina vs Maxine</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</link>
-      <pubDate>Tue, 30 Sep 2025 08:27:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</guid>
-      <description>&lt;p&gt;&amp;ldquo;What do you mean, I can destroy your ice pillars?&amp;rdquo; The Arcanists face off against the Explorer Society in a match nobody saw coming.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Malifaux 4th Edition: Mei Feng vs Captain Zipp</title>
-      <link>https://tipa16384.github.io/wkblog/2025/04/malifaux-4th-edition-mei-feng-vs-captain-zipp/</link>
-      <pubDate>Wed, 30 Apr 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/04/malifaux-4th-edition-mei-feng-vs-captain-zipp/</guid>
-      <description>&lt;p&gt;Foundry and Infamous meet once again&amp;hellip; and the result is pretty much same as last time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Malifaux: &#34;New Crew&#34; League, Week 1</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</link>
-      <pubDate>Tue, 11 Mar 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</guid>
-      <description>&lt;p&gt;The local gaming store is running a league this spring for new players or for players who want to play a crew they&amp;rsquo;ve never played before.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Malifaux: The Scrappy Underdog</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/malifaux-the-scrappy-underdog/</link>
-      <pubDate>Wed, 25 Sep 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/malifaux-the-scrappy-underdog/</guid>
-      <description>&lt;p&gt;It was my final league game ahead of the tournament. I&amp;rsquo;ve learned a few lessons that may help me the day of.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fall into Faux: The One Where I Win</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</link>
-      <pubDate>Sat, 07 Sep 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</guid>
-      <description>&lt;p&gt;Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>The Battle Standard on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/the-battle-standard/</link>
+		<description>Recent content in The Battle Standard on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Sep 2025 08:27:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/the-battle-standard/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Malifaux 4e: Rasputina vs Maxine</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</link>
+				<pubDate>Tue, 30 Sep 2025 08:27:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</guid>
+				<description>&lt;p&gt;&amp;ldquo;What do you mean, I can destroy your ice pillars?&amp;rdquo; The Arcanists face off against the Explorer Society in a match nobody saw coming.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Malifaux 4th Edition: Mei Feng vs Captain Zipp</title>
+				<link>https://tipa16384.github.io/wkblog/2025/04/malifaux-4th-edition-mei-feng-vs-captain-zipp/</link>
+				<pubDate>Wed, 30 Apr 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/04/malifaux-4th-edition-mei-feng-vs-captain-zipp/</guid>
+				<description>&lt;p&gt;Foundry and Infamous meet once again&amp;hellip; and the result is pretty much same as last time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Malifaux: &#34;New Crew&#34; League, Week 1</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</link>
+				<pubDate>Tue, 11 Mar 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</guid>
+				<description>&lt;p&gt;The local gaming store is running a league this spring for new players or for players who want to play a crew they&amp;rsquo;ve never played before.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Malifaux: The Scrappy Underdog</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/malifaux-the-scrappy-underdog/</link>
+				<pubDate>Wed, 25 Sep 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/malifaux-the-scrappy-underdog/</guid>
+				<description>&lt;p&gt;It was my final league game ahead of the tournament. I&amp;rsquo;ve learned a few lessons that may help me the day of.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Fall into Faux: The One Where I Win</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</link>
+				<pubDate>Sat, 07 Sep 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</guid>
+				<description>&lt;p&gt;Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

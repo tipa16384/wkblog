@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Scythe on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/scythe/</link>
-    <description>Recent content in Scythe on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 Oct 2021 10:08:04 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/scythe/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Game Night: Scythe (and My Little Scythe)</title>
-      <link>https://tipa16384.github.io/wkblog/2021/10/game-night-scythe-and-my-little-scythe/</link>
-      <pubDate>Sat, 02 Oct 2021 10:08:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/10/game-night-scythe-and-my-little-scythe/</guid>
-      <description>&lt;p&gt;Last week, we saved the forest with apple pies in My Little Scythe. Now we have to save the world &amp;ndash; or at least 1920s&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Night: My Little Scythe and the Watson Game Topper</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/game-night-my-little-scythe-and-the-watson-game-topper/</link>
-      <pubDate>Sat, 25 Sep 2021 09:54:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/game-night-my-little-scythe-and-the-watson-game-topper/</guid>
-      <description>&lt;p&gt;In yesterday&amp;rsquo;s Game Night, we eased my sister deeper into the world of board gaming with &amp;ldquo;My Little Scythe&amp;rdquo;, and tested out Game Toppers&amp;rsquo; &amp;ldquo;Watson&amp;rdquo;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Game Night: Game of Thrones: the Card Game</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</link>
-      <pubDate>Fri, 29 May 2020 11:46:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</guid>
-      <description>&lt;p&gt;Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Scythe on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/scythe/</link>
+		<description>Recent content in Scythe on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 02 Oct 2021 10:08:04 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/scythe/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Game Night: Scythe (and My Little Scythe)</title>
+				<link>https://tipa16384.github.io/wkblog/2021/10/game-night-scythe-and-my-little-scythe/</link>
+				<pubDate>Sat, 02 Oct 2021 10:08:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/10/game-night-scythe-and-my-little-scythe/</guid>
+				<description>&lt;p&gt;Last week, we saved the forest with apple pies in My Little Scythe. Now we have to save the world &amp;ndash; or at least 1920s&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Night: My Little Scythe and the Watson Game Topper</title>
+				<link>https://tipa16384.github.io/wkblog/2021/09/game-night-my-little-scythe-and-the-watson-game-topper/</link>
+				<pubDate>Sat, 25 Sep 2021 09:54:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/09/game-night-my-little-scythe-and-the-watson-game-topper/</guid>
+				<description>&lt;p&gt;In yesterday&amp;rsquo;s Game Night, we eased my sister deeper into the world of board gaming with &amp;ldquo;My Little Scythe&amp;rdquo;, and tested out Game Toppers&amp;rsquo; &amp;ldquo;Watson&amp;rdquo;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Game Night: Game of Thrones: the Card Game</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</link>
+				<pubDate>Fri, 29 May 2020 11:46:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/game-night-game-of-thrones-the-card-game/</guid>
+				<description>&lt;p&gt;Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

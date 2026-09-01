@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Counter on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/counter/</link>
-    <description>Recent content in Counter on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/counter/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code 2024.1:</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024.1/</link>
-      <pubDate>Mon, 02 Dec 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024.1/</guid>
-      <description>&lt;p&gt;Where is that darned elvish historian?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Counter on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/counter/</link>
+		<description>Recent content in Counter on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 02 Dec 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/counter/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code 2024.1:</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-1/</link>
+				<pubDate>Mon, 02 Dec 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-1/</guid>
+				<description>&lt;p&gt;Where is that darned elvish historian?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Colossus Boulevard on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/colossus-boulevard/</link>
-    <description>Recent content in Colossus Boulevard on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2009 08:50:13 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/colossus-boulevard/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard 101: Building a deck</title>
-      <link>https://tipa16384.github.io/wkblog/2009/02/wizard-101-building-a-deck/</link>
-      <pubDate>Thu, 26 Feb 2009 08:50:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/02/wizard-101-building-a-deck/</guid>
-      <description>&lt;p&gt;Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was talking&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Colossus Boulevard on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/colossus-boulevard/</link>
+		<description>Recent content in Colossus Boulevard on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 26 Feb 2009 08:50:13 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/colossus-boulevard/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard 101: Building a deck</title>
+				<link>https://tipa16384.github.io/wkblog/2009/02/wizard-101-building-a-deck/</link>
+				<pubDate>Thu, 26 Feb 2009 08:50:13 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/02/wizard-101-building-a-deck/</guid>
+				<description>&lt;p&gt;Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was talking&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

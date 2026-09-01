@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Island of Kesmai on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/island-of-kesmai/</link>
-    <description>Recent content in Island of Kesmai on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/island-of-kesmai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Legends of Kesmai: The first MMORPG</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/legends-of-kesmai-the-first-mmorpg/</link>
-      <pubDate>Fri, 02 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/legends-of-kesmai-the-first-mmorpg/</guid>
-      <description>&lt;p&gt;I love old school, retro games. Maybe not quite THAT retro, though&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Island of Kesmai on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/island-of-kesmai/</link>
+		<description>Recent content in Island of Kesmai on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 02 Aug 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/island-of-kesmai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Legends of Kesmai: The first MMORPG</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/legends-of-kesmai-the-first-mmorpg/</link>
+				<pubDate>Fri, 02 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/legends-of-kesmai-the-first-mmorpg/</guid>
+				<description>&lt;p&gt;I love old school, retro games. Maybe not quite THAT retro, though&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

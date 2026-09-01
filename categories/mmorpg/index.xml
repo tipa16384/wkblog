@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>MMORPG on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/mmorpg/</link>
-    <description>Recent content in MMORPG on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 22:17:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/mmorpg/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EverQuest 3 is officially dead.</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/everquest-3-is-officially-dead./</link>
-      <pubDate>Wed, 25 Mar 2026 22:17:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/everquest-3-is-officially-dead./</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s no way they&amp;rsquo;d be developing TWO new EverQuest games, right? Game Jawn&amp;rsquo;s &amp;ldquo;EverQuest Legends&amp;rdquo; just might be the EQ for the rest of us.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune Awakening: Finished Chapter 3</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/dune-awakening-finished-chapter-3/</link>
-      <pubDate>Wed, 11 Mar 2026 07:58:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/dune-awakening-finished-chapter-3/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m at the end of the current story content, and I am a little upset.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Erenshor &#34;Rising Shadows&#34; launched!</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/erenshor-rising-shadows-launched/</link>
-      <pubDate>Wed, 04 Feb 2026 08:43:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/erenshor-rising-shadows-launched/</guid>
-      <description>&lt;p&gt;And I can finally join a guild! With a guild hall, even! Take that, World of Warcraft.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dominus Automa: An Idle MMO for Busy Dads</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</link>
-      <pubDate>Sat, 24 Jan 2026 10:26:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</guid>
-      <description>&lt;p&gt;Someday it&amp;rsquo;ll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Erenshor v0.3: &#34;Rising Shadows&#34;</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/erenshor-v0.3-rising-shadows/</link>
-      <pubDate>Wed, 21 Jan 2026 08:34:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/erenshor-v0.3-rising-shadows/</guid>
-      <description>&lt;p&gt;I hit max level in Erenshor, and BurgeeMedia immediately drops a whole new update full of cool stuff. Coincidence? Maybe!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Holiday Grab Bag: Dune, Palworld, Quest 64</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/holiday-grab-bag-dune-palworld-quest-64/</link>
-      <pubDate>Mon, 05 Jan 2026 08:56:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/holiday-grab-bag-dune-palworld-quest-64/</guid>
-      <description>&lt;p&gt;We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Mon, 15 Dec 2025 08:25:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;Time for another round-up of my recent gaming adventures.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Return to Erenshor</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/return-to-erenshor/</link>
-      <pubDate>Sat, 29 Nov 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/return-to-erenshor/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a few months since I last played, and now there&amp;rsquo;s been a change that makes the wait worthwhile.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune Awakening: Apotheosis</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-apotheosis/</link>
-      <pubDate>Mon, 22 Sep 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-apotheosis/</guid>
-      <description>&lt;p&gt;I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion &amp;ldquo;Apotheosis&amp;rdquo;, they owe me money.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune Awakening: Life in the Deep Desert</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-life-in-the-deep-desert/</link>
-      <pubDate>Wed, 17 Sep 2025 08:31:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-life-in-the-deep-desert/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s not just worms and spice and dust and sandstorms and heat and&amp;hellip; well, actually, that&amp;rsquo;s pretty much what it is.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>MMORPG on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/mmorpg/</link>
+		<description>Recent content in MMORPG on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 10 Aug 2026 00:20:25 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/mmorpg/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverQuest Legends: Halfway there</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-halfway-there/</link>
+				<pubDate>Mon, 10 Aug 2026 00:20:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-halfway-there/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a pretty eventful day in EQL; I feel like I&amp;rsquo;m beginning to see the real game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Well, I&#39;m over the hill now</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/well-im-over-the-hill-now/</link>
+				<pubDate>Sat, 08 Aug 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/well-im-over-the-hill-now/</guid>
+				<description>&lt;p&gt;And this list of MMOs I have played proves it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Buy Now! The EverQuest Legends Cash Shop</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/buy-now-the-everquest-legends-cash-shop/</link>
+				<pubDate>Fri, 07 Aug 2026 08:45:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/buy-now-the-everquest-legends-cash-shop/</guid>
+				<description>&lt;p&gt;You didn&amp;rsquo;t know about the cash shop? It&amp;rsquo;s not a story the hardcore would tell you.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: Where&#39;s the lore?</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-wheres-the-lore/</link>
+				<pubDate>Sun, 02 Aug 2026 10:11:43 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-wheres-the-lore/</guid>
+				<description>&lt;p&gt;Now I am become Tipa, the destroyer of EQL low level content. And I have questions.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: The best laid plans of mice and cats...</title>
+				<link>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-the-best-laid-plans-of-mice-and-cats/</link>
+				<pubDate>Thu, 30 Jul 2026 23:36:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-the-best-laid-plans-of-mice-and-cats/</guid>
+				<description>&lt;p&gt;After all the thinking, deciding and prep I did, when I came to making my permanent live character, I tossed the dice.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: The time has come to choose...</title>
+				<link>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-the-time-has-come-to-choose/</link>
+				<pubDate>Thu, 23 Jul 2026 23:39:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-the-time-has-come-to-choose/</guid>
+				<description>&lt;p&gt;The time has come to pin down exactly what race and classes I&amp;rsquo;ll choose in EverQuest Legends&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: Analysis Paralysis</title>
+				<link>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-analysis-paralysis/</link>
+				<pubDate>Mon, 13 Jul 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-analysis-paralysis/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m a couple of weeks into the EQL Beta, and I have less idea what to play in the live game than ever.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest Legends: Playing to Lose</title>
+				<link>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-playing-to-lose/</link>
+				<pubDate>Tue, 07 Jul 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/07/everquest-legends-playing-to-lose/</guid>
+				<description>&lt;p&gt;One can haunt YouTube and the Discord and find the best possible EQL builds. Or&amp;hellip; one can not and just see what happens.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Windrose: Yo ho ho, it&#39;s the pirate life for me</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</link>
+				<pubDate>Tue, 21 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</guid>
+				<description>&lt;p&gt;The new Age of Piracy game from Kraken Express and Pocketpair adds ship combat to the familiar post-Valheim survival-crafting genre.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dune Awakening: Packing up the base for good.</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/dune-awakening-packing-up-the-base-for-good/</link>
+				<pubDate>Sun, 12 Apr 2026 14:21:34 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/dune-awakening-packing-up-the-base-for-good/</guid>
+				<description>&lt;p&gt;The weird thing is, I&amp;rsquo;m not considering leaving because of the game. The game itself, is pretty good.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

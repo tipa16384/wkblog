@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Matter on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/matter/</link>
-    <description>Recent content in Matter on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 05 May 2008 13:03:25 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/matter/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Short Subjects: SF mini reviews</title>
-      <link>https://tipa16384.github.io/wkblog/2008/05/short-subjects-sf-mini-reviews/</link>
-      <pubDate>Mon, 05 May 2008 13:03:25 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/05/short-subjects-sf-mini-reviews/</guid>
-      <description>&lt;p&gt;Tor has been continuing their free release of books in electronic form, and I have been totally enjoying these free glimpses into new works, formatted&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Matter on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/matter/</link>
+		<description>Recent content in Matter on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 05 May 2008 13:03:25 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/matter/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Short Subjects: SF mini reviews</title>
+				<link>https://tipa16384.github.io/wkblog/2008/05/short-subjects-sf-mini-reviews/</link>
+				<pubDate>Mon, 05 May 2008 13:03:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/05/short-subjects-sf-mini-reviews/</guid>
+				<description>&lt;p&gt;Tor has been continuing their free release of books in electronic form, and I have been totally enjoying these free glimpses into new works, formatted&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

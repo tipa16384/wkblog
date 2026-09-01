@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rebelstar on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rebelstar/</link>
-    <description>Recent content in Rebelstar on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rebelstar/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Retro Haul: Tactics and Sea Monkeys</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</link>
-      <pubDate>Sun, 09 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</guid>
-      <description>&lt;p&gt;We found ourselves once again awash in a sea of retro games. We found some winners, maybe&amp;hellip;?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rebelstar on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/rebelstar/</link>
+		<description>Recent content in Rebelstar on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 09 Jun 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/rebelstar/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retro Haul: Tactics and Sea Monkeys</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</link>
+				<pubDate>Sun, 09 Jun 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/retro-haul-tactics-and-sea-monkeys/</guid>
+				<description>&lt;p&gt;We found ourselves once again awash in a sea of retro games. We found some winners, maybe&amp;hellip;?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

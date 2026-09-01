@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Legends of Zork on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/legends-of-zork/</link>
-    <description>Recent content in Legends of Zork on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2010 21:41:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/legends-of-zork/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Assault on the Inbox</title>
-      <link>https://tipa16384.github.io/wkblog/2010/05/assault-on-the-inbox/</link>
-      <pubDate>Fri, 21 May 2010 21:41:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/05/assault-on-the-inbox/</guid>
-      <description>&lt;p&gt;Another week, another truckload of gaming press releases&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Legends of Zork: Post-mortem</title>
-      <link>https://tipa16384.github.io/wkblog/2009/10/legends-of-zork-post-mortem/</link>
-      <pubDate>Sun, 25 Oct 2009 12:01:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/10/legends-of-zork-post-mortem/</guid>
-      <description>&lt;p&gt;I loved the IDEA of a modern, casual update to the classic Infocom adventure game, Zork. The devious puzzles, the humor, the sense that something&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 9/3 - Sushi day edition!</title>
-      <link>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-9/3-sushi-day-edition/</link>
-      <pubDate>Thu, 03 Sep 2009 07:58:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-9/3-sushi-day-edition/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been thinking of swapping my sidekick in Legends of Zork from the Gent (who made me essentially immune to traps) to the Accountant (who&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Legends of Zork group quests fixed</title>
-      <link>https://tipa16384.github.io/wkblog/2009/06/legends-of-zork-group-quests-fixed/</link>
-      <pubDate>Wed, 17 Jun 2009 07:04:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/06/legends-of-zork-group-quests-fixed/</guid>
-      <description>&lt;p&gt;Actually, the folks at Jolt claimed to have fixed group quests for this hands-off browser RPG weeks ago, and maybe they did, but my first&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Legends of Zork: We have a Clan!</title>
-      <link>https://tipa16384.github.io/wkblog/2009/05/legends-of-zork-we-have-a-clan/</link>
-      <pubDate>Wed, 27 May 2009 06:31:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/05/legends-of-zork-we-have-a-clan/</guid>
-      <description>&lt;p&gt;Yeah, I know Legends of Zork is a &amp;ldquo;ProgressQuest&amp;rdquo;-like achiever game where you grind meaningless combat again and again to earn gold for gear that&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Achiever games: Legends of Zork and Progress Quest</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</link>
-      <pubDate>Fri, 17 Apr 2009 07:33:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</guid>
-      <description>&lt;p&gt;On February 17th, 1980, around 10PM, I was so frustrated with some puzzles in Dungeon (which would later become Infocom&amp;rsquo;s flagship game, Zork), that I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Legends of Zork goes live! (UPDATED!)</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/legends-of-zork-goes-live-updated/</link>
-      <pubDate>Wed, 15 Apr 2009 06:54:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/legends-of-zork-goes-live-updated/</guid>
-      <description>&lt;p&gt;Ready to return to the last days of the Great Underground Empire and carve bloody Zorkmids from the flesh of every goblin you find? Are&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Legends of Zork on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/legends-of-zork/</link>
+		<description>Recent content in Legends of Zork on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 21 May 2010 21:41:28 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/legends-of-zork/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Assault on the Inbox</title>
+				<link>https://tipa16384.github.io/wkblog/2010/05/assault-on-the-inbox/</link>
+				<pubDate>Fri, 21 May 2010 21:41:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/05/assault-on-the-inbox/</guid>
+				<description>&lt;p&gt;Another week, another truckload of gaming press releases&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Legends of Zork: Post-mortem</title>
+				<link>https://tipa16384.github.io/wkblog/2009/10/legends-of-zork-post-mortem/</link>
+				<pubDate>Sun, 25 Oct 2009 12:01:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/10/legends-of-zork-post-mortem/</guid>
+				<description>&lt;p&gt;I loved the IDEA of a modern, casual update to the classic Infocom adventure game, Zork. The devious puzzles, the humor, the sense that something&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 9/3 - Sushi day edition!</title>
+				<link>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-93-sushi-day-edition/</link>
+				<pubDate>Thu, 03 Sep 2009 07:58:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/09/daily-blogroll-93-sushi-day-edition/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been thinking of swapping my sidekick in Legends of Zork from the Gent (who made me essentially immune to traps) to the Accountant (who&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Legends of Zork group quests fixed</title>
+				<link>https://tipa16384.github.io/wkblog/2009/06/legends-of-zork-group-quests-fixed/</link>
+				<pubDate>Wed, 17 Jun 2009 07:04:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/06/legends-of-zork-group-quests-fixed/</guid>
+				<description>&lt;p&gt;Actually, the folks at Jolt claimed to have fixed group quests for this hands-off browser RPG weeks ago, and maybe they did, but my first&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Legends of Zork: We have a Clan!</title>
+				<link>https://tipa16384.github.io/wkblog/2009/05/legends-of-zork-we-have-a-clan/</link>
+				<pubDate>Wed, 27 May 2009 06:31:13 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/05/legends-of-zork-we-have-a-clan/</guid>
+				<description>&lt;p&gt;Yeah, I know Legends of Zork is a &amp;ldquo;ProgressQuest&amp;rdquo;-like achiever game where you grind meaningless combat again and again to earn gold for gear that&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Achiever games: Legends of Zork and Progress Quest</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</link>
+				<pubDate>Fri, 17 Apr 2009 07:33:50 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/achiever-games-legends-of-zork-and-progress-quest/</guid>
+				<description>&lt;p&gt;On February 17th, 1980, around 10PM, I was so frustrated with some puzzles in Dungeon (which would later become Infocom&amp;rsquo;s flagship game, Zork), that I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Legends of Zork goes live! (UPDATED!)</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/legends-of-zork-goes-live/</link>
+				<pubDate>Wed, 15 Apr 2009 06:54:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/legends-of-zork-goes-live/</guid>
+				<description>&lt;p&gt;Ready to return to the last days of the Great Underground Empire and carve bloody Zorkmids from the flesh of every goblin you find? Are&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

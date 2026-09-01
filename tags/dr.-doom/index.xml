@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dr. Doom on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/dr.-doom/</link>
-    <description>Recent content in Dr. Doom on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 08:47:37 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/dr.-doom/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tariffs will destroy the board game industry, and I am there for it.</title>
-      <link>https://tipa16384.github.io/wkblog/2025/04/tariffs-will-destroy-the-board-game-industry-and-i-am-there-for-it./</link>
-      <pubDate>Fri, 04 Apr 2025 08:47:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/04/tariffs-will-destroy-the-board-game-industry-and-i-am-there-for-it./</guid>
-      <description>&lt;p&gt;I think we have to look on the bright side of the death of Kickstarted board games.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dr. Doom on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/dr.-doom/</link>
+		<description>Recent content in Dr. Doom on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 04 Apr 2025 08:47:37 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/dr.-doom/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tariffs will destroy the board game industry, and I am there for it.</title>
+				<link>https://tipa16384.github.io/wkblog/2025/04/tariffs-will-destroy-the-board-game-industry-and-i-am-there-for-it/</link>
+				<pubDate>Fri, 04 Apr 2025 08:47:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/04/tariffs-will-destroy-the-board-game-industry-and-i-am-there-for-it/</guid>
+				<description>&lt;p&gt;I think we have to look on the bright side of the death of Kickstarted board games.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

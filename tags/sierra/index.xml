@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sierra on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/sierra/</link>
-    <description>Recent content in Sierra on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2024 09:59:22 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/sierra/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ADVENT: Colossal Cave 3D</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/advent-colossal-cave-3d/</link>
-      <pubDate>Sun, 12 May 2024 09:59:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/advent-colossal-cave-3d/</guid>
-      <description>&lt;p&gt;Having spent the past several days mapping and exploring the text version, it&amp;rsquo;s finally time to replay Colossal Cave Adventure in glorious 3D.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Hobbit (Gameboy Advance)</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/the-hobbit-gameboy-advance/</link>
-      <pubDate>Tue, 05 Dec 2023 08:22:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/the-hobbit-gameboy-advance/</guid>
-      <description>&lt;p&gt;See, it&amp;rsquo;s a story about a little man who lives in a hole dug into a hill&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Sierra on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/sierra/</link>
+		<description>Recent content in Sierra on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 12 May 2024 09:59:22 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/sierra/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ADVENT: Colossal Cave 3D</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/advent-colossal-cave-3d/</link>
+				<pubDate>Sun, 12 May 2024 09:59:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/advent-colossal-cave-3d/</guid>
+				<description>&lt;p&gt;Having spent the past several days mapping and exploring the text version, it&amp;rsquo;s finally time to replay Colossal Cave Adventure in glorious 3D.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Hobbit (Gameboy Advance)</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/the-hobbit-gameboy-advance/</link>
+				<pubDate>Tue, 05 Dec 2023 08:22:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/the-hobbit-gameboy-advance/</guid>
+				<description>&lt;p&gt;See, it&amp;rsquo;s a story about a little man who lives in a hole dug into a hill&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

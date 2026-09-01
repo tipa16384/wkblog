@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>TIS-100 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/tis-100/</link>
-    <description>Recent content in TIS-100 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2020 17:52:23 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/tis-100/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>While True(): Learn to teach your cat to drive.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/04/while-true-learn-to-teach-your-cat-to-drive./</link>
-      <pubDate>Sun, 26 Apr 2020 17:52:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/04/while-true-learn-to-teach-your-cat-to-drive./</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve got a soft spot for &amp;ldquo;programming&amp;rdquo; games. Since that&amp;rsquo;s my day job, I can usually convince myself that this is the one sort of&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TIS-100 Sequence Indexer</title>
-      <link>https://tipa16384.github.io/wkblog/2015/12/tis-100-sequence-indexer/</link>
-      <pubDate>Sat, 26 Dec 2015 09:32:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/12/tis-100-sequence-indexer/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been long enough that I should go over what TIS-100 IS. TIS-100 is a programming puzzle game by the makers of SpaceChem (a previous&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dreams of Code...</title>
-      <link>https://tipa16384.github.io/wkblog/2015/06/dreams-of-code.../</link>
-      <pubDate>Sat, 13 Jun 2015 13:31:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/06/dreams-of-code.../</guid>
-      <description>&lt;p&gt;I went to bed with an issue moving from one shape to another in this TIS-100 program. I woke up with the solution.﻿tis100 2015-06-13 08-57-30-58.avi&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TIS-100: A puzzle from the dawn of computing</title>
-      <link>https://tipa16384.github.io/wkblog/2015/06/tis-100-a-puzzle-from-the-dawn-of-computing/</link>
-      <pubDate>Thu, 11 Jun 2015 11:41:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/06/tis-100-a-puzzle-from-the-dawn-of-computing/</guid>
-      <description>&lt;p&gt;If you ever thought back with longing to beautiful summer days spent filling out code sheets with a worn-down pencil and a well-thumbed processor instruction&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>TIS-100 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/tis-100/</link>
+		<description>Recent content in TIS-100 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 26 Apr 2020 17:52:23 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/tis-100/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>While True(): Learn to teach your cat to drive.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/04/while-true-learn-to-teach-your-cat-to-drive/</link>
+				<pubDate>Sun, 26 Apr 2020 17:52:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/04/while-true-learn-to-teach-your-cat-to-drive/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve got a soft spot for &amp;ldquo;programming&amp;rdquo; games. Since that&amp;rsquo;s my day job, I can usually convince myself that this is the one sort of&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>TIS-100 Sequence Indexer</title>
+				<link>https://tipa16384.github.io/wkblog/2015/12/tis-100-sequence-indexer/</link>
+				<pubDate>Sat, 26 Dec 2015 09:32:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/12/tis-100-sequence-indexer/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been long enough that I should go over what TIS-100 IS. TIS-100 is a programming puzzle game by the makers of SpaceChem (a previous&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dreams of Code...</title>
+				<link>https://tipa16384.github.io/wkblog/2015/06/i-went-to-bed-with-an-iss/</link>
+				<pubDate>Sat, 13 Jun 2015 13:31:07 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/06/i-went-to-bed-with-an-iss/</guid>
+				<description>&lt;p&gt;I went to bed with an issue moving from one shape to another in this TIS-100 program. I woke up with the solution.﻿tis100 2015-06-13 08-57-30-58.avi&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>TIS-100: A puzzle from the dawn of computing</title>
+				<link>https://tipa16384.github.io/wkblog/2015/06/if-you-ever-thought-back/</link>
+				<pubDate>Thu, 11 Jun 2015 11:41:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/06/if-you-ever-thought-back/</guid>
+				<description>&lt;p&gt;If you ever thought back with longing to beautiful summer days spent filling out code sheets with a worn-down pencil and a well-thumbed processor instruction&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

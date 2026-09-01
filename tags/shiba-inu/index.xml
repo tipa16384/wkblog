@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shiba Inu on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/shiba-inu/</link>
-    <description>Recent content in Shiba Inu on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 00:15:44 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/shiba-inu/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I&#39;m just here to bring joy and melt your brain.</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</link>
-      <pubDate>Thu, 18 Nov 2021 00:15:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</guid>
-      <description>&lt;p&gt;Not necessarily in that order. I have a lot to talk about and I just have to put it down in the blog, and I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cryptogaming: A Brief Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</link>
-      <pubDate>Mon, 01 Nov 2021 00:29:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</guid>
-      <description>&lt;p&gt;I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Shiba Inu on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/shiba-inu/</link>
+		<description>Recent content in Shiba Inu on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Nov 2021 00:15:44 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/shiba-inu/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I&#39;m just here to bring joy and melt your brain.</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain/</link>
+				<pubDate>Thu, 18 Nov 2021 00:15:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain/</guid>
+				<description>&lt;p&gt;Not necessarily in that order. I have a lot to talk about and I just have to put it down in the blog, and I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cryptogaming: A Brief Adventure</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</link>
+				<pubDate>Mon, 01 Nov 2021 00:29:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/cryptogaming-a-brief-adventure/</guid>
+				<description>&lt;p&gt;I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

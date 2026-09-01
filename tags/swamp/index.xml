@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Swamp on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/swamp/</link>
-    <description>Recent content in Swamp on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 26 Nov 2021 21:35:54 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/swamp/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Valheim: Murder Swamp Online</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</link>
-      <pubDate>Fri, 26 Nov 2021 21:35:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</guid>
-      <description>&lt;p&gt;The swamp biome was already Valheim&amp;rsquo;s deadliest, in my opinion. A new &amp;ldquo;stirring in the mist&amp;rdquo; just made it a little bit deadlier &amp;ndash; but&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Swamp on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/swamp/</link>
+		<description>Recent content in Swamp on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Nov 2021 21:35:54 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/swamp/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Valheim: Murder Swamp Online</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</link>
+				<pubDate>Fri, 26 Nov 2021 21:35:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</guid>
+				<description>&lt;p&gt;The swamp biome was already Valheim&amp;rsquo;s deadliest, in my opinion. A new &amp;ldquo;stirring in the mist&amp;rdquo; just made it a little bit deadlier &amp;ndash; but&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

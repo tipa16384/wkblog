@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Panic at the Disco on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/panic-at-the-disco/</link>
-    <description>Recent content in Panic at the Disco on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 06 Aug 2008 23:45:07 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/panic-at-the-disco/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rock Band Live! On Tour! With real instruments!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/rock-band-live-on-tour-with-real-instruments/</link>
-      <pubDate>Wed, 06 Aug 2008 23:45:07 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/rock-band-live-on-tour-with-real-instruments/</guid>
-      <description>&lt;p&gt;Yeah, I couldn&amp;rsquo;t see how they could make a tour of four guys pretending to play plastic instruments on stage and charge for it. But&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Panic at the Disco on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/panic-at-the-disco/</link>
+		<description>Recent content in Panic at the Disco on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 06 Aug 2008 23:45:07 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/panic-at-the-disco/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rock Band Live! On Tour! With real instruments!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/rock-band-live-on-tour-with-real-instruments/</link>
+				<pubDate>Wed, 06 Aug 2008 23:45:07 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/rock-band-live-on-tour-with-real-instruments/</guid>
+				<description>&lt;p&gt;Yeah, I couldn&amp;rsquo;t see how they could make a tour of four guys pretending to play plastic instruments on stage and charge for it. But&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

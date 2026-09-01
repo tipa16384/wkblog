@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lord of the Rings Online on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/lord-of-the-rings-online/</link>
-    <description>Recent content in Lord of the Rings Online on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 10:11:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/lord-of-the-rings-online/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MMOs on the Bubble</title>
-      <link>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</link>
-      <pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t play every MMO that comes out &amp;ndash; not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Lord of the Rings Online on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/lord-of-the-rings-online/</link>
+		<description>Recent content in Lord of the Rings Online on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Aug 2021 10:11:39 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/lord-of-the-rings-online/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>MMOs on the Bubble</title>
+				<link>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</link>
+				<pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/08/mmos-on-the-bubble/</guid>
+				<description>&lt;p&gt;I don&amp;rsquo;t play every MMO that comes out &amp;ndash; not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

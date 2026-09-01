@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rubik&#39;s Cube on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rubiks-cube/</link>
-    <description>Recent content in Rubik&#39;s Cube on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jan 2026 20:05:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rubiks-cube/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rubik and the Microplastic Mind</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/rubik-and-the-microplastic-mind/</link>
-      <pubDate>Sat, 10 Jan 2026 20:05:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/rubik-and-the-microplastic-mind/</guid>
-      <description>&lt;p&gt;I just went to my first &amp;ldquo;cubing&amp;rdquo; competition &amp;ndash; the &amp;ldquo;Wide Moves and Waterslides CT&amp;rdquo; tournament held this weekend by Cube New England. It won&amp;rsquo;t be the last,&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rubik&#39;s Cube on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/rubiks-cube/</link>
+		<description>Recent content in Rubik&#39;s Cube on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 10 Jan 2026 20:05:14 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/rubiks-cube/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rubik and the Microplastic Mind</title>
+				<link>https://tipa16384.github.io/wkblog/2026/01/rubik-and-the-microplastic-mind/</link>
+				<pubDate>Sat, 10 Jan 2026 20:05:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/01/rubik-and-the-microplastic-mind/</guid>
+				<description>&lt;p&gt;I just went to my first &amp;ldquo;cubing&amp;rdquo; competition &amp;ndash; the &amp;ldquo;Wide Moves and Waterslides CT&amp;rdquo; tournament held this weekend by Cube New England. It won&amp;rsquo;t be the last,&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

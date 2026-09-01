@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Review on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/review/</link>
-    <description>Recent content in Review on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 08:01:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/review/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gormenghast Book 1: Titus Groan</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/gormenghast-book-1-titus-groan/</link>
-      <pubDate>Fri, 31 Oct 2025 08:01:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/gormenghast-book-1-titus-groan/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a book filled with fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, and miracles!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Final Fantasy XIII: Finished</title>
-      <link>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</link>
-      <pubDate>Sun, 03 Sep 2023 15:19:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</guid>
-      <description>&lt;p&gt;While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it&amp;hellip; mostly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gotham Knights completed</title>
-      <link>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-completed/</link>
-      <pubDate>Mon, 14 Nov 2022 23:55:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-completed/</guid>
-      <description>&lt;p&gt;Finished! My PlayStation says I spent 39 hours in the game. I was taking my time at it, too, doing all the optional content, so&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Black Adam: No Spoiler Review</title>
-      <link>https://tipa16384.github.io/wkblog/2022/11/black-adam-no-spoiler-review/</link>
-      <pubDate>Mon, 07 Nov 2022 07:42:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/11/black-adam-no-spoiler-review/</guid>
-      <description>&lt;p&gt;Black Adam has to do a lot of heavy lifting for one movie, so it brings along some friends, in the form of the Justice&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
-      <pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
-      <description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review: Braking Day by Adam Oyebanji</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</link>
-      <pubDate>Tue, 20 Sep 2022 21:59:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</guid>
-      <description>&lt;p&gt;Oyebanji&amp;rsquo;s Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji&amp;rsquo;s writing is enjoyable and makes for a quick read.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Review on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/review/</link>
+		<description>Recent content in Review on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 31 Oct 2025 08:01:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/review/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gormenghast Book 1: Titus Groan</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/gormenghast-book-1-titus-groan/</link>
+				<pubDate>Fri, 31 Oct 2025 08:01:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/gormenghast-book-1-titus-groan/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s a book filled with fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, and miracles!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Final Fantasy XIII: Finished</title>
+				<link>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</link>
+				<pubDate>Sun, 03 Sep 2023 15:19:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/09/final-fantasy-xiii-finished/</guid>
+				<description>&lt;p&gt;While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it&amp;hellip; mostly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gotham Knights completed</title>
+				<link>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-completed/</link>
+				<pubDate>Mon, 14 Nov 2022 23:55:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-completed/</guid>
+				<description>&lt;p&gt;Finished! My PlayStation says I spent 39 hours in the game. I was taking my time at it, too, doing all the optional content, so&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Black Adam: No Spoiler Review</title>
+				<link>https://tipa16384.github.io/wkblog/2022/11/black-adam-no-spoiler-review/</link>
+				<pubDate>Mon, 07 Nov 2022 07:42:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/11/black-adam-no-spoiler-review/</guid>
+				<description>&lt;p&gt;Black Adam has to do a lot of heavy lifting for one movie, so it brings along some friends, in the form of the Justice&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
+				<pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
+				<description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Review: Braking Day by Adam Oyebanji</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</link>
+				<pubDate>Tue, 20 Sep 2022 21:59:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/review-braking-day-by-adam-oyebanji/</guid>
+				<description>&lt;p&gt;Oyebanji&amp;rsquo;s Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji&amp;rsquo;s writing is enjoyable and makes for a quick read.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

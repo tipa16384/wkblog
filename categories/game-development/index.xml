@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Game Development on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/game-development/</link>
-    <description>Recent content in Game Development on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 13 Feb 2026 08:21:17 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/game-development/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Othello Trigger for the Gameboy Color</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</link>
-      <pubDate>Fri, 13 Feb 2026 08:21:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Othello Trigger&amp;rdquo; smashes a Chrono Trigger de-make into Othello using GB Studio. Can drag-and-drop game engines really make worthwhile games?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Othello World: I Killed the Dragon</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</link>
-      <pubDate>Fri, 30 Jan 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been working on beating this Othello boss for years. Now it&amp;rsquo;s dead and I am one step closer to meeting the Othello master.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Bad Game Development</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</link>
-      <pubDate>Sat, 05 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 17 -- Pyroclastic Flow</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</link>
-      <pubDate>Sat, 17 Dec 2022 23:06:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17--pyroclastic-flow/</guid>
-      <description>&lt;p&gt;They say &amp;ldquo;Pyroclastic Flow&amp;rdquo;, but it&amp;rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 10 -- Cathode-Ray Tube</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10--cathode-ray-tube/</link>
-      <pubDate>Sat, 10 Dec 2022 19:54:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10--cathode-ray-tube/</guid>
-      <description>&lt;p&gt;Turns out the elves just really loved the Atari 2600 so much, they built their little handheld computers around them. And now it&amp;rsquo;s up to us to fix one.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 5 -- Supply Stacks</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5--supply-stacks/</link>
-      <pubDate>Mon, 05 Dec 2022 22:57:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5--supply-stacks/</guid>
-      <description>&lt;p&gt;The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code 2022: Day 1 -- Calorie Counting</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-1--calorie-counting/</link>
-      <pubDate>Thu, 01 Dec 2022 23:39:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-1--calorie-counting/</guid>
-      <description>&lt;p&gt;I am committing myself this year to solving every puzzle in the Advent of Code, an annual coding competition taking place over the Advent season&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Game Development on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/game-development/</link>
+		<description>Recent content in Game Development on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Feb 2026 08:21:17 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/game-development/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Othello Trigger for the Gameboy Color</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</link>
+				<pubDate>Fri, 13 Feb 2026 08:21:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/othello-trigger-for-the-gameboy-color/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Othello Trigger&amp;rdquo; smashes a Chrono Trigger de-make into Othello using GB Studio. Can drag-and-drop game engines really make worthwhile games?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Othello World: I Killed the Dragon</title>
+				<link>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</link>
+				<pubDate>Fri, 30 Jan 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/01/othello-world-i-killed-the-dragon/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been working on beating this Othello boss for years. Now it&amp;rsquo;s dead and I am one step closer to meeting the Othello master.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Bad Game Development</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</link>
+				<pubDate>Sat, 05 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/adventures-in-bad-game-development/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 17 -- Pyroclastic Flow</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/</link>
+				<pubDate>Sat, 17 Dec 2022 23:06:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-17-pyroclastic-flow/</guid>
+				<description>&lt;p&gt;They say &amp;ldquo;Pyroclastic Flow&amp;rdquo;, but it&amp;rsquo;s really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 10 -- Cathode-Ray Tube</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10-cathode-ray-tube/</link>
+				<pubDate>Sat, 10 Dec 2022 19:54:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10-cathode-ray-tube/</guid>
+				<description>&lt;p&gt;Turns out the elves just really loved the Atari 2600 so much, they built their little handheld computers around them. And now it&amp;rsquo;s up to us to fix one.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 5 -- Supply Stacks</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5-supply-stacks/</link>
+				<pubDate>Mon, 05 Dec 2022 22:57:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5-supply-stacks/</guid>
+				<description>&lt;p&gt;The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code 2022: Day 1 -- Calorie Counting</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-1-calorie-counting/</link>
+				<pubDate>Thu, 01 Dec 2022 23:39:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-2022-day-1-calorie-counting/</guid>
+				<description>&lt;p&gt;I am committing myself this year to solving every puzzle in the Advent of Code, an annual coding competition taking place over the Advent season&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,33 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dungeon Crawl Classics on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/dungeon-crawl-classics/</link>
-    <description>Recent content in Dungeon Crawl Classics on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/dungeon-crawl-classics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The End of the Dragon of Icespire Peak</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</link>
-      <pubDate>Sun, 08 Sep 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</guid>
-      <description>&lt;p&gt;Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>More Confessions of a Kickstarter Superbacker</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/more-confessions-of-a-kickstarter-superbacker/</link>
-      <pubDate>Sat, 03 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/more-confessions-of-a-kickstarter-superbacker/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s like the number one sign you have too much money: logging into Kickstarter. Here&amp;rsquo;s an update on what games are coming my way and (hopefully) onto the table.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
-      <link>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
-      <pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
-      <description>&lt;p&gt;Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dungeon Crawl Classics on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/dungeon-crawl-classics/</link>
+		<description>Recent content in Dungeon Crawl Classics on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 14 Jun 2026 14:29:37 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/dungeon-crawl-classics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DCC: Sailors on a Starless Sea, Part 2</title>
+				<link>https://tipa16384.github.io/wkblog/2026/06/dcc-sailors-on-a-starless-sea-part-2/</link>
+				<pubDate>Sun, 14 Jun 2026 14:29:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/06/dcc-sailors-on-a-starless-sea-part-2/</guid>
+				<description>&lt;p&gt;Will a hodgepodge collection of level 0 villagers be able to defeat an avatar of the Chaos Lord?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>DCC: Sailors on a Starless Sea, Part 1</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/dcc-sailors-on-a-starless-sea-part-1/</link>
+				<pubDate>Sun, 24 May 2026 16:42:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/dcc-sailors-on-a-starless-sea-part-1/</guid>
+				<description>&lt;p&gt;I finally had my chance to run a Dungeon Crawl Classics module! I learned a lot about DCC, and so did the players&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Preparing for DCC -- Dungeon Crawl Classics</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/preparing-for-dcc-dungeon-crawl-classic/</link>
+				<pubDate>Fri, 08 May 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/preparing-for-dcc-dungeon-crawl-classic/</guid>
+				<description>&lt;p&gt;In two weeks, most of the villagers of Farlenkeep will be dead&amp;hellip; unless they can find their courage and band together to take on an ancient evil.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The End of the Dragon of Icespire Peak</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</link>
+				<pubDate>Sun, 08 Sep 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/the-end-of-the-dragon-of-icespire-peak/</guid>
+				<description>&lt;p&gt;Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>More Confessions of a Kickstarter Superbacker</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/more-confessions-of-a-kickstarter-superbacker/</link>
+				<pubDate>Sat, 03 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/more-confessions-of-a-kickstarter-superbacker/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s like the number one sign you have too much money: logging into Kickstarter. Here&amp;rsquo;s an update on what games are coming my way and (hopefully) onto the table.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
+				<link>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
+				<pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/07/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
+				<description>&lt;p&gt;Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

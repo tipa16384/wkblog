@@ -1,26 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Twilight Games on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/twilight-games/</link>
-    <description>Recent content in Twilight Games on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 11:58:22 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/twilight-games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/</link>
-      <pubDate>Sun, 08 Mar 2026 11:58:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/</guid>
-      <description>&lt;p&gt;It was our second open game day at Twilight Cards &amp;amp; Games in South Windsor. Last time, my daughter stopped by and played a demo&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Malifaux at Twilight: Colette v Maxine</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/malifaux-at-twilight-colette-v-maxine/</link>
-      <pubDate>Sun, 22 Feb 2026 09:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/malifaux-at-twilight-colette-v-maxine/</guid>
-      <description>&lt;p&gt;It was Malifaux day at the new card store in town, Twilight. My daughter came to learn how to play :-)&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Twilight Games on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/twilight-games/</link>
+		<description>Recent content in Twilight Games on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 02 Jun 2026 11:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/twilight-games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Malifaux: Kirai, Envoy vs Colette, Smuggler</title>
+				<link>https://tipa16384.github.io/wkblog/2026/06/malifaux-kirai-envoy-vs-colette-smuggler/</link>
+				<pubDate>Tue, 02 Jun 2026 11:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/06/malifaux-kirai-envoy-vs-colette-smuggler/</guid>
+				<description>&lt;p&gt;Is this the last gasp of Colette? Has she finally met an enemy she couldn&amp;rsquo;t bedazzle?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/</link>
+				<pubDate>Sun, 08 Mar 2026 11:58:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/</guid>
+				<description>&lt;p&gt;It was our second open game day at Twilight Cards &amp;amp; Games in South Windsor. Last time, my daughter stopped by and played a demo&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Malifaux at Twilight: Colette v Maxine</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/malifaux-at-twilight-colette-v-maxine/</link>
+				<pubDate>Sun, 22 Feb 2026 09:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/malifaux-at-twilight-colette-v-maxine/</guid>
+				<description>&lt;p&gt;It was Malifaux day at the new card store in town, Twilight. My daughter came to learn how to play :-)&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

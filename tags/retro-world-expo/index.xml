@@ -1,68 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Retro World Expo on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/retro-world-expo/</link>
-    <description>Recent content in Retro World Expo on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Sep 2025 08:50:10 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/retro-world-expo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Retro World Expo 2025: A Guilty (Gear) Pleasure</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</link>
-      <pubDate>Mon, 15 Sep 2025 08:50:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</guid>
-      <description>&lt;p&gt;I brought my Atari messenger bag with one game in it, and turned that into a bag full of games.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>International Play Your Vectrex Day is November 1!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</link>
-      <pubDate>Tue, 05 Aug 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</guid>
-      <description>&lt;p&gt;The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic &amp;ndash; the GCE Vectrex. Also, a new Vectrex song.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo 2024: Adventure Awaits</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
-      <pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My short, brief history with Crocs</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</link>
-      <pubDate>Wed, 21 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</guid>
-      <description>&lt;p&gt;My son refuses to be seen with me while wearing them. It&amp;rsquo;s like wearing a scarlet letter. But they are soooo cool.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vectrex: The Console You Really Wanted</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</link>
-      <pubDate>Sat, 27 Jan 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t want to blog about my Vectrex just yet, but I&amp;rsquo;m just way to squeee at the moment, so&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Find: Othello World</title>
-      <link>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</link>
-      <pubDate>Mon, 04 Sep 2023 16:21:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</guid>
-      <description>&lt;p&gt;This Othello game for the Super Famicom is funny and surprisingly challenging.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retro World Expo Scorecard</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</link>
-      <pubDate>Mon, 28 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</guid>
-      <description>&lt;p&gt;Retro World Expo has been defeated by us. Here&amp;rsquo;s the games we ripped from its steaming corpse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Staying Motivated for Retro World Expo 2023</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</link>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</guid>
-      <description>&lt;p&gt;This weekend in glorious Hartford, Connecticut. Could I be more motivated?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Retro World Expo on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/retro-world-expo/</link>
+		<description>Recent content in Retro World Expo on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 15 Sep 2025 08:50:10 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/retro-world-expo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retro World Expo 2025: A Guilty (Gear) Pleasure</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</link>
+				<pubDate>Mon, 15 Sep 2025 08:50:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/retro-world-expo-2025-a-guilty-gear-pleasure/</guid>
+				<description>&lt;p&gt;I brought my Atari messenger bag with one game in it, and turned that into a bag full of games.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>International Play Your Vectrex Day is November 1!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</link>
+				<pubDate>Tue, 05 Aug 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/international-play-your-vectrex-day-is-november-1/</guid>
+				<description>&lt;p&gt;The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic &amp;ndash; the GCE Vectrex. Also, a new Vectrex song.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo 2024: Adventure Awaits</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
+				<pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
+				<description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My short, brief history with Crocs</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</link>
+				<pubDate>Wed, 21 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</guid>
+				<description>&lt;p&gt;My son refuses to be seen with me while wearing them. It&amp;rsquo;s like wearing a scarlet letter. But they are soooo cool.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Vectrex: The Console You Really Wanted</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</link>
+				<pubDate>Sat, 27 Jan 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</guid>
+				<description>&lt;p&gt;I didn&amp;rsquo;t want to blog about my Vectrex just yet, but I&amp;rsquo;m just way to squeee at the moment, so&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Find: Othello World</title>
+				<link>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</link>
+				<pubDate>Mon, 04 Sep 2023 16:21:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/09/retro-world-find-othello-world/</guid>
+				<description>&lt;p&gt;This Othello game for the Super Famicom is funny and surprisingly challenging.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Retro World Expo Scorecard</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</link>
+				<pubDate>Mon, 28 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/retro-world-expo-scorecard/</guid>
+				<description>&lt;p&gt;Retro World Expo has been defeated by us. Here&amp;rsquo;s the games we ripped from its steaming corpse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Staying Motivated for Retro World Expo 2023</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</link>
+				<pubDate>Thu, 24 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</guid>
+				<description>&lt;p&gt;This weekend in glorious Hartford, Connecticut. Could I be more motivated?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

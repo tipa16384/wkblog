@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Valheim on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/valheim/</link>
-    <description>Recent content in Valheim on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2025 08:22:08 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/valheim/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Best of 2024: Survival Crafting Games</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</link>
-      <pubDate>Thu, 02 Jan 2025 08:22:08 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;ve ever punched a tree, you&amp;rsquo;ve played a survival crafting game. There were a lot of these in 2024. Here&amp;rsquo;s the ones I played.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Valheim: The Endless Corpse Run</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</link>
-      <pubDate>Mon, 17 Jun 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</guid>
-      <description>&lt;p&gt;Getting ready for killing the Goblin King was bad enough. Mistlands is worse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Valheim: Ashenlands Bound</title>
-      <link>https://tipa16384.github.io/wkblog/2024/06/valheim-ashenlands-bound/</link>
-      <pubDate>Tue, 04 Jun 2024 06:30:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/06/valheim-ashenlands-bound/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t think I&amp;rsquo;d be playing Valheim again, but here we are. Let&amp;rsquo;s try something different, this time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pokémon: The New(ish) Addiction</title>
-      <link>https://tipa16384.github.io/wkblog/2023/02/pok%C3%A9mon-the-newish-addiction/</link>
-      <pubDate>Tue, 21 Feb 2023 22:16:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/02/pok%C3%A9mon-the-newish-addiction/</guid>
-      <description>&lt;p&gt;With both Pokémon Go and Pokémon Sword &amp;amp; Shield going on, it&amp;rsquo;s pretty much peak Pokémon at the moment.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</link>
-      <pubDate>Mon, 18 Jul 2022 08:25:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</guid>
-      <description>&lt;p&gt;Each of these probably should get their own posts, but I am exceedingly lazy&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>V Rising: Hitting the Hemoglobin</title>
-      <link>https://tipa16384.github.io/wkblog/2022/06/v-rising-hitting-the-hemoglobin/</link>
-      <pubDate>Sun, 26 Jun 2022 11:12:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/06/v-rising-hitting-the-hemoglobin/</guid>
-      <description>&lt;p&gt;Ever want to play a vampire who hides from the sun in the castle they have built to protect their riches from other vampires? Then&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Restarting in Valheim</title>
-      <link>https://tipa16384.github.io/wkblog/2022/05/restarting-in-valheim/</link>
-      <pubDate>Mon, 02 May 2022 08:59:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/05/restarting-in-valheim/</guid>
-      <description>&lt;p&gt;Those &amp;ldquo;in the know&amp;rdquo; remember how much I&amp;rsquo;m struggling in Bloodborne and Elden Ring, even as I finish up the last of the main campaigns&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Valheim: Murder Swamp Online</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</link>
-      <pubDate>Fri, 26 Nov 2021 21:35:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</guid>
-      <description>&lt;p&gt;The swamp biome was already Valheim&amp;rsquo;s deadliest, in my opinion. A new &amp;ldquo;stirring in the mist&amp;rdquo; just made it a little bit deadlier &amp;ndash; but&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Modding Valheim</title>
-      <link>https://tipa16384.github.io/wkblog/2021/10/modding-valheim/</link>
-      <pubDate>Wed, 06 Oct 2021 08:16:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/10/modding-valheim/</guid>
-      <description>&lt;p&gt;I resisted running mods for Valheim for so long&amp;hellip; but I saw some folks talking about building their homes in New World, and I was&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Valheim: Hearth &amp; Home &amp; Lox</title>
-      <link>https://tipa16384.github.io/wkblog/2021/09/valheim-hearth-home-lox/</link>
-      <pubDate>Wed, 22 Sep 2021 08:24:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/09/valheim-hearth-home-lox/</guid>
-      <description>&lt;p&gt;Valheim&amp;rsquo;s first content expansion brings a little adventure together with a lot of new things to make and build. Is it going to be enough&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Valheim on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/valheim/</link>
+		<description>Recent content in Valheim on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 13 Jun 2026 16:47:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/valheim/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dune, Palworld, Valheim, Windrose, Starpath: Update on the Survival Crafters</title>
+				<link>https://tipa16384.github.io/wkblog/2026/06/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/</link>
+				<pubDate>Sat, 13 Jun 2026 16:47:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/06/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/</guid>
+				<description>&lt;p&gt;I used to be all about the MMO, but these days, it seems like Survival Crafting games have the juice. Many of my favorites have been sharing exciting news!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Windrose: A Fine Collection of Ne&#39;er-do-Wells</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</link>
+				<pubDate>Sun, 17 May 2026 15:28:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</guid>
+				<description>&lt;p&gt;With the death of the boss of the Cursed Swamp, Team Spode has finished Windrose&amp;rsquo;s current content. How did it stack up against Valheim in the end?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Best of 2024: Survival Crafting Games</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</link>
+				<pubDate>Thu, 02 Jan 2025 08:22:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/best-of-2024-survival-crafting-games/</guid>
+				<description>&lt;p&gt;If you&amp;rsquo;ve ever punched a tree, you&amp;rsquo;ve played a survival crafting game. There were a lot of these in 2024. Here&amp;rsquo;s the ones I played.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Valheim: The Endless Corpse Run</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</link>
+				<pubDate>Mon, 17 Jun 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/valheim-the-endless-corpse-run/</guid>
+				<description>&lt;p&gt;Getting ready for killing the Goblin King was bad enough. Mistlands is worse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Valheim: Ashenlands Bound</title>
+				<link>https://tipa16384.github.io/wkblog/2024/06/valheim-ashenlands-bound/</link>
+				<pubDate>Tue, 04 Jun 2024 06:30:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/06/valheim-ashenlands-bound/</guid>
+				<description>&lt;p&gt;I didn&amp;rsquo;t think I&amp;rsquo;d be playing Valheim again, but here we are. Let&amp;rsquo;s try something different, this time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pokémon: The New(ish) Addiction</title>
+				<link>https://tipa16384.github.io/wkblog/2023/02/pokemon-the-newish-addiction/</link>
+				<pubDate>Tue, 21 Feb 2023 22:16:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/02/pokemon-the-newish-addiction/</guid>
+				<description>&lt;p&gt;With both Pokémon Go and Pokémon Sword &amp;amp; Shield going on, it&amp;rsquo;s pretty much peak Pokémon at the moment.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</link>
+				<pubDate>Mon, 18 Jul 2022 08:25:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</guid>
+				<description>&lt;p&gt;Each of these probably should get their own posts, but I am exceedingly lazy&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>V Rising: Hitting the Hemoglobin</title>
+				<link>https://tipa16384.github.io/wkblog/2022/06/v-rising-hitting-the-hemoglobin/</link>
+				<pubDate>Sun, 26 Jun 2022 11:12:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/06/v-rising-hitting-the-hemoglobin/</guid>
+				<description>&lt;p&gt;Ever want to play a vampire who hides from the sun in the castle they have built to protect their riches from other vampires? Then&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Restarting in Valheim</title>
+				<link>https://tipa16384.github.io/wkblog/2022/05/restarting-in-valheim/</link>
+				<pubDate>Mon, 02 May 2022 08:59:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/05/restarting-in-valheim/</guid>
+				<description>&lt;p&gt;Those &amp;ldquo;in the know&amp;rdquo; remember how much I&amp;rsquo;m struggling in Bloodborne and Elden Ring, even as I finish up the last of the main campaigns&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Valheim: Murder Swamp Online</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</link>
+				<pubDate>Fri, 26 Nov 2021 21:35:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/valheim-murder-swamp-online/</guid>
+				<description>&lt;p&gt;The swamp biome was already Valheim&amp;rsquo;s deadliest, in my opinion. A new &amp;ldquo;stirring in the mist&amp;rdquo; just made it a little bit deadlier &amp;ndash; but&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

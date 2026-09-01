@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wakening Lands on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/wakening-lands/</link>
-    <description>Recent content in Wakening Lands on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Oct 2008 07:46:06 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/wakening-lands/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ: Asleep in the Wakening Lands</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq-asleep-in-the-wakening-lands/</link>
-      <pubDate>Sat, 11 Oct 2008 07:46:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq-asleep-in-the-wakening-lands/</guid>
-      <description>&lt;p&gt;We didn&amp;rsquo;t have enough people show last night to continue on the Lavaspinner&amp;rsquo;s Lair quests, but Nostalgia&amp;rsquo;s newest member, Stolig, a 44 Magician, was there&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Wakening Lands on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/wakening-lands/</link>
+		<description>Recent content in Wakening Lands on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 11 Oct 2008 07:46:06 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/wakening-lands/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ: Asleep in the Wakening Lands</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq-asleep-in-the-wakening-lands/</link>
+				<pubDate>Sat, 11 Oct 2008 07:46:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq-asleep-in-the-wakening-lands/</guid>
+				<description>&lt;p&gt;We didn&amp;rsquo;t have enough people show last night to continue on the Lavaspinner&amp;rsquo;s Lair quests, but Nostalgia&amp;rsquo;s newest member, Stolig, a 44 Magician, was there&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

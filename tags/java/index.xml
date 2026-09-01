@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Java on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/java/</link>
-    <description>Recent content in Java on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2024 19:56:05 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code 2024: The First Week</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
-      <pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
-      <description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 4 -- Scratchcards</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-4--scratchcards/</link>
-      <pubDate>Mon, 04 Dec 2023 21:07:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-4--scratchcards/</guid>
-      <description>&lt;p&gt;So, I&amp;rsquo;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code 2023 -- Day 0</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/advent-of-code-2023--day-0/</link>
-      <pubDate>Thu, 30 Nov 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/advent-of-code-2023--day-0/</guid>
-      <description>&lt;p&gt;Oh heck&amp;hellip; it&amp;rsquo;s just about Advent of Code time! I am SO FAR from being ready.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 11 -- Monkey in the Middle</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/</link>
-      <pubDate>Sun, 11 Dec 2022 17:52:42 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-11--monkey-in-the-middle/</guid>
-      <description>&lt;p&gt;I thought this was just a puzzle to see if I knew about modulo arithmetic&amp;hellip; but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 10 -- Cathode-Ray Tube</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10--cathode-ray-tube/</link>
-      <pubDate>Sat, 10 Dec 2022 19:54:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10--cathode-ray-tube/</guid>
-      <description>&lt;p&gt;Turns out the elves just really loved the Atari 2600 so much, they built their little handheld computers around them. And now it&amp;rsquo;s up to us to fix one.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 9 -- Rope Bridge</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9--rope-bridge/</link>
-      <pubDate>Fri, 09 Dec 2022 21:35:30 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9--rope-bridge/</guid>
-      <description>&lt;p&gt;The elves are crossing a bridge, but it is a really short bridge &amp;ndash; in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 8 -- Tree Top Treehouse</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-8--tree-top-treehouse/</link>
-      <pubDate>Thu, 08 Dec 2022 20:12:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-8--tree-top-treehouse/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s all about taking a break from those busy reindeer games to build a treehouse with a really stellar view. Also, what is code golf?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 7 -- No Space Left On Device</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-7--no-space-left-on-device/</link>
-      <pubDate>Wed, 07 Dec 2022 20:36:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-7--no-space-left-on-device/</guid>
-      <description>&lt;p&gt;Today&amp;rsquo;s coding challenge was, &amp;ldquo;Make a file system without making a file system!&amp;rdquo; I failed that task.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 6 -- Tuning Trouble</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-6--tuning-trouble/</link>
-      <pubDate>Tue, 06 Dec 2022 21:49:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-6--tuning-trouble/</guid>
-      <description>&lt;p&gt;What is probably the first puzzle in the theme for the rest of Advent of Code started today&amp;hellip; with the easiest puzzle so far.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 5 -- Supply Stacks</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5--supply-stacks/</link>
-      <pubDate>Mon, 05 Dec 2022 22:57:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5--supply-stacks/</guid>
-      <description>&lt;p&gt;The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Java on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/java/</link>
+		<description>Recent content in Java on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Dec 2024 19:56:05 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/java/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code 2024: The First Week</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</link>
+				<pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/advent-of-code-2024-the-first-week/</guid>
+				<description>&lt;p&gt;AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 4 -- Scratchcards</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-4-scratchcards/</link>
+				<pubDate>Mon, 04 Dec 2023 21:07:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-4-scratchcards/</guid>
+				<description>&lt;p&gt;So, I&amp;rsquo;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code 2023 -- Day 0</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/advent-of-code-2023-day-0/</link>
+				<pubDate>Thu, 30 Nov 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/advent-of-code-2023-day-0/</guid>
+				<description>&lt;p&gt;Oh heck&amp;hellip; it&amp;rsquo;s just about Advent of Code time! I am SO FAR from being ready.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 11 -- Monkey in the Middle</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-11-monkey-in-the-middle/</link>
+				<pubDate>Sun, 11 Dec 2022 17:52:42 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-11-monkey-in-the-middle/</guid>
+				<description>&lt;p&gt;I thought this was just a puzzle to see if I knew about modulo arithmetic&amp;hellip; but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 10 -- Cathode-Ray Tube</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10-cathode-ray-tube/</link>
+				<pubDate>Sat, 10 Dec 2022 19:54:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-10-cathode-ray-tube/</guid>
+				<description>&lt;p&gt;Turns out the elves just really loved the Atari 2600 so much, they built their little handheld computers around them. And now it&amp;rsquo;s up to us to fix one.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 9 -- Rope Bridge</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9-rope-bridge/</link>
+				<pubDate>Fri, 09 Dec 2022 21:35:30 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-9-rope-bridge/</guid>
+				<description>&lt;p&gt;The elves are crossing a bridge, but it is a really short bridge &amp;ndash; in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 8 -- Tree Top Treehouse</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-8-tree-top-treehouse/</link>
+				<pubDate>Thu, 08 Dec 2022 20:12:31 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-8-tree-top-treehouse/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s all about taking a break from those busy reindeer games to build a treehouse with a really stellar view. Also, what is code golf?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 7 -- No Space Left On Device</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-7-no-space-left-on-device/</link>
+				<pubDate>Wed, 07 Dec 2022 20:36:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-7-no-space-left-on-device/</guid>
+				<description>&lt;p&gt;Today&amp;rsquo;s coding challenge was, &amp;ldquo;Make a file system without making a file system!&amp;rdquo; I failed that task.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 6 -- Tuning Trouble</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-6-tuning-trouble/</link>
+				<pubDate>Tue, 06 Dec 2022 21:49:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-6-tuning-trouble/</guid>
+				<description>&lt;p&gt;What is probably the first puzzle in the theme for the rest of Advent of Code started today&amp;hellip; with the easiest puzzle so far.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 5 -- Supply Stacks</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5-supply-stacks/</link>
+				<pubDate>Mon, 05 Dec 2022 22:57:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-5-supply-stacks/</guid>
+				<description>&lt;p&gt;The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

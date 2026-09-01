@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dune Awakening on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/dune-awakening/</link>
-    <description>Recent content in Dune Awakening on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 07:58:55 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/dune-awakening/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dune Awakening: Finished Chapter 3</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/dune-awakening-finished-chapter-3/</link>
-      <pubDate>Wed, 11 Mar 2026 07:58:55 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/dune-awakening-finished-chapter-3/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m at the end of the current story content, and I am a little upset.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Fri, 06 Feb 2026 08:41:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;Another in the long series of quick bites of games I&amp;rsquo;ve played recently.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Holiday Grab Bag: Dune, Palworld, Quest 64</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/holiday-grab-bag-dune-palworld-quest-64/</link>
-      <pubDate>Mon, 05 Jan 2026 08:56:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/holiday-grab-bag-dune-palworld-quest-64/</guid>
-      <description>&lt;p&gt;We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I Know What I Did Last Weekend</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</link>
-      <pubDate>Mon, 15 Dec 2025 08:25:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend/</guid>
-      <description>&lt;p&gt;Time for another round-up of my recent gaming adventures.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune Awakening: Apotheosis</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-apotheosis/</link>
-      <pubDate>Mon, 22 Sep 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-apotheosis/</guid>
-      <description>&lt;p&gt;I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion &amp;ldquo;Apotheosis&amp;rdquo;, they owe me money.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune Awakening: Life in the Deep Desert</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-life-in-the-deep-desert/</link>
-      <pubDate>Wed, 17 Sep 2025 08:31:56 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-life-in-the-deep-desert/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s not just worms and spice and dust and sandstorms and heat and&amp;hellip; well, actually, that&amp;rsquo;s pretty much what it is.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune Awakening: Order of the Wombat Steps Out</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-order-of-the-wombat-steps-out/</link>
-      <pubDate>Tue, 09 Sep 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-order-of-the-wombat-steps-out/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m sad that this carrier&amp;rsquo;s future is going to be as burning scrap next to a large spice blow as enemy assault &amp;rsquo;thopters hover nearby.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune Awakening: We finally got ganked</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/dune-awakening-we-finally-got-ganked/</link>
-      <pubDate>Sat, 30 Aug 2025 16:49:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/dune-awakening-we-finally-got-ganked/</guid>
-      <description>&lt;p&gt;Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn&amp;rsquo;t entirely unexpected&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I guess I suck at this whole Blaugust thing</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/i-guess-i-suck-at-this-whole-blaugust-thing/</link>
-      <pubDate>Fri, 29 Aug 2025 18:39:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/i-guess-i-suck-at-this-whole-blaugust-thing/</guid>
-      <description>&lt;p&gt;I had such plans, but in the end, I didn&amp;rsquo;t do so well.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dune: Awakening -- Roc Music</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/dune-awakening--roc-music/</link>
-      <pubDate>Sun, 17 Aug 2025 11:36:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/dune-awakening--roc-music/</guid>
-      <description>&lt;p&gt;After a bunch of crafting and farming, Team Spode builds the largest ornithopter in Dune: Awakening. Now what?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dune Awakening on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/dune-awakening/</link>
+		<description>Recent content in Dune Awakening on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 13 Jun 2026 16:47:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/dune-awakening/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dune, Palworld, Valheim, Windrose, Starpath: Update on the Survival Crafters</title>
+				<link>https://tipa16384.github.io/wkblog/2026/06/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/</link>
+				<pubDate>Sat, 13 Jun 2026 16:47:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/06/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/</guid>
+				<description>&lt;p&gt;I used to be all about the MMO, but these days, it seems like Survival Crafting games have the juice. Many of my favorites have been sharing exciting news!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dune Awakening: Packing up the base for good.</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/dune-awakening-packing-up-the-base-for-good/</link>
+				<pubDate>Sun, 12 Apr 2026 14:21:34 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/dune-awakening-packing-up-the-base-for-good/</guid>
+				<description>&lt;p&gt;The weird thing is, I&amp;rsquo;m not considering leaving because of the game. The game itself, is pretty good.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dune Awakening: Finished Chapter 3</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/dune-awakening-finished-chapter-3/</link>
+				<pubDate>Wed, 11 Mar 2026 07:58:55 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/dune-awakening-finished-chapter-3/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m at the end of the current story content, and I am a little upset.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend-7/</link>
+				<pubDate>Fri, 06 Feb 2026 08:41:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/i-know-what-i-did-last-weekend-7/</guid>
+				<description>&lt;p&gt;Another in the long series of quick bites of games I&amp;rsquo;ve played recently.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Holiday Grab Bag: Dune, Palworld, Quest 64</title>
+				<link>https://tipa16384.github.io/wkblog/2026/01/holiday-grab-bag-dune-palworld-quest-64/</link>
+				<pubDate>Mon, 05 Jan 2026 08:56:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/01/holiday-grab-bag-dune-palworld-quest-64/</guid>
+				<description>&lt;p&gt;We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I Know What I Did Last Weekend</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend-6/</link>
+				<pubDate>Mon, 15 Dec 2025 08:25:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/i-know-what-i-did-last-weekend-6/</guid>
+				<description>&lt;p&gt;Time for another round-up of my recent gaming adventures.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dune Awakening: Apotheosis</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-apotheosis/</link>
+				<pubDate>Mon, 22 Sep 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-apotheosis/</guid>
+				<description>&lt;p&gt;I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion &amp;ldquo;Apotheosis&amp;rdquo;, they owe me money.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dune Awakening: Life in the Deep Desert</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-life-in-the-deep-desert/</link>
+				<pubDate>Wed, 17 Sep 2025 08:31:56 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-life-in-the-deep-desert/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s not just worms and spice and dust and sandstorms and heat and&amp;hellip; well, actually, that&amp;rsquo;s pretty much what it is.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dune Awakening: Order of the Wombat Steps Out</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-order-of-the-wombat-steps-out/</link>
+				<pubDate>Tue, 09 Sep 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/dune-awakening-order-of-the-wombat-steps-out/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m sad that this carrier&amp;rsquo;s future is going to be as burning scrap next to a large spice blow as enemy assault &amp;rsquo;thopters hover nearby.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dune Awakening: We finally got ganked</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/dune-awakening-we-finally-got-ganked/</link>
+				<pubDate>Sat, 30 Aug 2025 16:49:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/dune-awakening-we-finally-got-ganked/</guid>
+				<description>&lt;p&gt;Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn&amp;rsquo;t entirely unexpected&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

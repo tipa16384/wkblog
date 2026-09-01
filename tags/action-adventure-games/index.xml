@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Action Adventure Games on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/action-adventure-games/</link>
-    <description>Recent content in Action Adventure Games on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 Aug 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/action-adventure-games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pryzm: The Review: Part 1.</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1./</link>
-      <pubDate>Sun, 03 Aug 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1./</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s hot troll-on-unicorn action as Karrock and Pryzm take on the plague of corruption infecting their world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fourt Knight: An Awesome Game That&#39;s Worth the Price</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/fourt-knight-an-awesome-game-thats-worth-the-price/</link>
-      <pubDate>Thu, 04 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/fourt-knight-an-awesome-game-thats-worth-the-price/</guid>
-      <description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Action Adventure Games on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/action-adventure-games/</link>
+		<description>Recent content in Action Adventure Games on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 03 Aug 2025 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/action-adventure-games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Pryzm: The Review: Part 1.</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1/</link>
+				<pubDate>Sun, 03 Aug 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/pryzm-the-review-part-1/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s hot troll-on-unicorn action as Karrock and Pryzm take on the plague of corruption infecting their world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Fourt Knight: An Awesome Game That&#39;s Worth the Price</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/fourt-knight-an-awesome-game-thats-worth-the-price/</link>
+				<pubDate>Thu, 04 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/fourt-knight-an-awesome-game-thats-worth-the-price/</guid>
+				<description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

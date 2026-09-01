@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Depth First Search on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/depth-first-search/</link>
-    <description>Recent content in Depth First Search on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 08:21:19 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/depth-first-search/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code Day 19 -- Not Enough Minerals</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-19--not-enough-minerals/</link>
-      <pubDate>Tue, 20 Dec 2022 08:21:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-19--not-enough-minerals/</guid>
-      <description>&lt;p&gt;Okay, this one took a long time. I knew what to do, but what to do was super slow.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 14 -- Regolith Reservoir</title>
-      <link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-14--regolith-reservoir/</link>
-      <pubDate>Wed, 14 Dec 2022 23:39:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-14--regolith-reservoir/</guid>
-      <description>&lt;p&gt;I thought, for my vacation, I&amp;rsquo;d have time to really dive deep into these puzzles. Instead, I&amp;rsquo;ve been buried deep in sand &amp;ndash; much like the hapless victim in today&amp;rsquo;s puzzle.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Depth First Search on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/depth-first-search/</link>
+		<description>Recent content in Depth First Search on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Dec 2022 08:21:19 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/depth-first-search/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code Day 19 -- Not Enough Minerals</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-19-not-enough-minerals/</link>
+				<pubDate>Tue, 20 Dec 2022 08:21:19 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-19-not-enough-minerals/</guid>
+				<description>&lt;p&gt;Okay, this one took a long time. I knew what to do, but what to do was super slow.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 14 -- Regolith Reservoir</title>
+				<link>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-14-regolith-reservoir/</link>
+				<pubDate>Wed, 14 Dec 2022 23:39:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/12/advent-of-code-day-14-regolith-reservoir/</guid>
+				<description>&lt;p&gt;I thought, for my vacation, I&amp;rsquo;d have time to really dive deep into these puzzles. Instead, I&amp;rsquo;ve been buried deep in sand &amp;ndash; much like the hapless victim in today&amp;rsquo;s puzzle.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

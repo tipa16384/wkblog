@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Teen Choice on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/teen-choice/</link>
-    <description>Recent content in Teen Choice on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 03 Sep 2010 06:35:53 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/teen-choice/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard101: Getting the school ready for Celestia</title>
-      <link>https://tipa16384.github.io/wkblog/2010/09/wizard101-getting-the-school-ready-for-celestia/</link>
-      <pubDate>Fri, 03 Sep 2010 06:35:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/09/wizard101-getting-the-school-ready-for-celestia/</guid>
-      <description>&lt;p&gt;As part of Wizard101&amp;rsquo;s second year celebration, every account gets a ninja pig transformation potion. Now everyone can understand for fifteen minutes how Myth wizards&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Teen Choice on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/teen-choice/</link>
+		<description>Recent content in Teen Choice on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 03 Sep 2010 06:35:53 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/teen-choice/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard101: Getting the school ready for Celestia</title>
+				<link>https://tipa16384.github.io/wkblog/2010/09/wizard101-getting-the-school-ready-for-celestia/</link>
+				<pubDate>Fri, 03 Sep 2010 06:35:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/09/wizard101-getting-the-school-ready-for-celestia/</guid>
+				<description>&lt;p&gt;As part of Wizard101&amp;rsquo;s second year celebration, every account gets a ninja pig transformation potion. Now everyone can understand for fifteen minutes how Myth wizards&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

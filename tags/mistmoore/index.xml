@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mistmoore on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mistmoore/</link>
-    <description>Recent content in Mistmoore on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2008 08:34:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mistmoore/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nostalgia: Paludal Caverns, Mistmoore LDoNs and ... Darklight Woods?</title>
-      <link>https://tipa16384.github.io/wkblog/2008/05/nostalgia-paludal-caverns-mistmoore-ldons-and-...-darklight-woods/</link>
-      <pubDate>Sat, 17 May 2008 08:34:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/05/nostalgia-paludal-caverns-mistmoore-ldons-and-...-darklight-woods/</guid>
-      <description>&lt;p&gt;Last Tuesday, the second progression gathered for our second time in Paludal Caverns. Back In The Day&amp;hellip; I start out so many sentences about the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mistmoore on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/mistmoore/</link>
+		<description>Recent content in Mistmoore on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 10 Aug 2026 00:20:25 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/mistmoore/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverQuest Legends: Halfway there</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-halfway-there/</link>
+				<pubDate>Mon, 10 Aug 2026 00:20:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-halfway-there/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s been a pretty eventful day in EQL; I feel like I&amp;rsquo;m beginning to see the real game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nostalgia: Paludal Caverns, Mistmoore LDoNs and ... Darklight Woods?</title>
+				<link>https://tipa16384.github.io/wkblog/2008/05/nostalgia-paludal-caverns-mistmoore-ldons-and-darklight-woods/</link>
+				<pubDate>Sat, 17 May 2008 08:34:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/05/nostalgia-paludal-caverns-mistmoore-ldons-and-darklight-woods/</guid>
+				<description>&lt;p&gt;Last Tuesday, the second progression gathered for our second time in Paludal Caverns. Back In The Day&amp;hellip; I start out so many sentences about the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

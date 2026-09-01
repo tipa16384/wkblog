@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Truebox Server on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/truebox-server/</link>
-    <description>Recent content in Truebox Server on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2020 01:02:22 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/truebox-server/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EverQuest is dead. Long live EverQuest! New games trying to capture EQ nostalgia are doomed.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/05/everquest-is-dead.-long-live-everquest-new-games-trying-to-capture-eq-nostalgia-are-doomed./</link>
-      <pubDate>Mon, 11 May 2020 01:02:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/05/everquest-is-dead.-long-live-everquest-new-games-trying-to-capture-eq-nostalgia-are-doomed./</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been running around in an EverQuest Time-Limited Progression (TLP) server the past couple of days. Is there even such a thing as a new EverQuest player anymore?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Truebox Server on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/truebox-server/</link>
+		<description>Recent content in Truebox Server on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 May 2020 01:02:22 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/truebox-server/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverQuest is dead. Long live EverQuest! New games trying to capture EQ nostalgia are doomed.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/05/mangled-everquest-day-1/</link>
+				<pubDate>Mon, 11 May 2020 01:02:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/05/mangled-everquest-day-1/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve been running around in an EverQuest Time-Limited Progression (TLP) server the past couple of days. Is there even such a thing as a new EverQuest player anymore?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Reindeer on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/reindeer/</link>
-    <description>Recent content in Reindeer on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 16 Dec 2023 10:54:05 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/reindeer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advent of Code Day 16 -- The Floor Will Be Lava</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16--the-floor-will-be-lava/</link>
-      <pubDate>Sat, 16 Dec 2023 10:54:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16--the-floor-will-be-lava/</guid>
-      <description>&lt;p&gt;/u/YellowZorro hasn&amp;rsquo;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 15 -- Lens Library</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15--lens-library/</link>
-      <pubDate>Fri, 15 Dec 2023 21:02:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15--lens-library/</guid>
-      <description>&lt;p&gt;The lack of hands is all that is keeping the world&amp;rsquo;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Reindeer on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/reindeer/</link>
+		<description>Recent content in Reindeer on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 16 Dec 2023 10:54:05 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/reindeer/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advent of Code Day 16 -- The Floor Will Be Lava</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16-the-floor-will-be-lava/</link>
+				<pubDate>Sat, 16 Dec 2023 10:54:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-16-the-floor-will-be-lava/</guid>
+				<description>&lt;p&gt;/u/YellowZorro hasn&amp;rsquo;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 15 -- Lens Library</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15-lens-library/</link>
+				<pubDate>Fri, 15 Dec 2023 21:02:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-15-lens-library/</guid>
+				<description>&lt;p&gt;The lack of hands is all that is keeping the world&amp;rsquo;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

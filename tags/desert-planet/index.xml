@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Desert Planet on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/desert-planet/</link>
-    <description>Recent content in Desert Planet on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2020 08:18:40 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/desert-planet/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blaugust #21: There Are No New Ideas</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2321-there-are-no-new-ideas/</link>
-      <pubDate>Fri, 21 Aug 2020 08:18:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2321-there-are-no-new-ideas/</guid>
-      <description>&lt;p&gt;My son hates old movies, old songs, old anything. If it&amp;rsquo;s over ten years old, he&amp;rsquo;ll refuse to have anything to do with it &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Desert Planet on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/desert-planet/</link>
+		<description>Recent content in Desert Planet on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 21 Aug 2020 08:18:40 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/desert-planet/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blaugust #21: There Are No New Ideas</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/blaugust-21-there-are-no-new-ideas/</link>
+				<pubDate>Fri, 21 Aug 2020 08:18:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/blaugust-21-there-are-no-new-ideas/</guid>
+				<description>&lt;p&gt;My son hates old movies, old songs, old anything. If it&amp;rsquo;s over ten years old, he&amp;rsquo;ll refuse to have anything to do with it &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

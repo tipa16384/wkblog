@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Episode 42 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/episode-42/</link>
-    <description>Recent content in Episode 42 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Oct 2021 21:08:02 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/episode-42/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DCUO: The Legion of Doom invades Washington D.C.</title>
-      <link>https://tipa16384.github.io/wkblog/2021/10/dcuo-the-legion-of-doom-invades-washington-d.c./</link>
-      <pubDate>Mon, 11 Oct 2021 21:08:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/10/dcuo-the-legion-of-doom-invades-washington-d.c./</guid>
-      <description>&lt;p&gt;And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Episode 42 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/episode-42/</link>
+		<description>Recent content in Episode 42 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 Oct 2021 21:08:02 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/episode-42/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DCUO: The Legion of Doom invades Washington D.C.</title>
+				<link>https://tipa16384.github.io/wkblog/2021/10/dcuo-the-legion-of-doom-invades-washington-d-c/</link>
+				<pubDate>Mon, 11 Oct 2021 21:08:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/10/dcuo-the-legion-of-doom-invades-washington-d-c/</guid>
+				<description>&lt;p&gt;And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

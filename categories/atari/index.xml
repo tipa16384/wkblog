@@ -1,26 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Atari on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/atari/</link>
-    <description>Recent content in Atari on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 16:44:31 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/atari/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>George Plimpton Has Risen from His Grave</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</link>
-      <pubDate>Fri, 24 May 2024 16:44:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</guid>
-      <description>&lt;p&gt;The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Atari 400 Mini. Is it worth the nostalgia?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/the-atari-400-mini.-is-it-worth-the-nostalgia/</link>
-      <pubDate>Sat, 30 Mar 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/the-atari-400-mini.-is-it-worth-the-nostalgia/</guid>
-      <description>&lt;p&gt;Betteridge&amp;rsquo;s law of headlines is in play here, but&amp;hellip; The Atari 800, the 400&amp;rsquo;s big brother, was my first personal computer, and I have a lot of fond memories teaching myself to program on it.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Atari on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/atari/</link>
+		<description>Recent content in Atari on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 27 Aug 2026 07:51:08 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/atari/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Atari: Necromancy as a business model</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/atari-necromancy-as-a-business-model/</link>
+				<pubDate>Thu, 27 Aug 2026 07:51:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/atari-necromancy-as-a-business-model/</guid>
+				<description>&lt;p&gt;Atari is releasing all the old Atari 2600 Activision games &amp;ndash; $1000 for all, $35 for one. But it&amp;rsquo;s worse than it sounds.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>George Plimpton Has Risen from His Grave</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</link>
+				<pubDate>Fri, 24 May 2024 16:44:31 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</guid>
+				<description>&lt;p&gt;The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Atari 400 Mini. Is it worth the nostalgia?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/the-atari-400-mini-is-it-worth-the-nostalgia/</link>
+				<pubDate>Sat, 30 Mar 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/the-atari-400-mini-is-it-worth-the-nostalgia/</guid>
+				<description>&lt;p&gt;Betteridge&amp;rsquo;s law of headlines is in play here, but&amp;hellip; The Atari 800, the 400&amp;rsquo;s big brother, was my first personal computer, and I have a lot of fond memories teaching myself to program on it.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nostalgia on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/nostalgia/</link>
-    <description>Recent content in Nostalgia on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EverQuest: Five Epic Tales</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/everquest-five-epic-tales/</link>
-      <pubDate>Fri, 23 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/everquest-five-epic-tales/</guid>
-      <description>&lt;p&gt;There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here&amp;rsquo;s five EverQuest stories about mine.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nostalgia comes to the DS!</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/nostalgia-comes-to-the-ds/</link>
-      <pubDate>Tue, 28 Apr 2009 17:58:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/nostalgia-comes-to-the-ds/</guid>
-      <description>&lt;p&gt;My guild &amp;ndash; on the Nintendo DS?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ: Nostalgia enters Vex Thal!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</link>
-      <pubDate>Sat, 01 Nov 2008 13:29:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</guid>
-      <description>&lt;p&gt;Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;rsquo;t have&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ2: Nostalgia Guild Hall mania!</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq2-nostalgia-guild-hall-mania/</link>
-      <pubDate>Thu, 09 Oct 2008 07:25:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq2-nostalgia-guild-hall-mania/</guid>
-      <description>&lt;p&gt;Since I barely did anything to help with the guild hall, compared with Stargrace, Kasul and Ecor, I feel kinda embarrassed to be the first&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ2: Tomb of Thuuga and the Shard of Hate</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</link>
-      <pubDate>Sun, 14 Sep 2008 12:20:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</guid>
-      <description>&lt;p&gt;Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Nostalgia on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/nostalgia/</link>
+		<description>Recent content in Nostalgia on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 23 Aug 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverQuest: Five Epic Tales</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/epic-experiences-in-everquest/</link>
+				<pubDate>Fri, 23 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/epic-experiences-in-everquest/</guid>
+				<description>&lt;p&gt;There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here&amp;rsquo;s five EverQuest stories about mine.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nostalgia comes to the DS!</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/nostalgia-comes-to-the-ds/</link>
+				<pubDate>Tue, 28 Apr 2009 17:58:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/nostalgia-comes-to-the-ds/</guid>
+				<description>&lt;p&gt;My guild &amp;ndash; on the Nintendo DS?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ: Nostalgia enters Vex Thal!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</link>
+				<pubDate>Sat, 01 Nov 2008 13:29:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/eq-nostalgia-enters-vex-thal/</guid>
+				<description>&lt;p&gt;Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don&amp;rsquo;t have&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ2: Nostalgia Guild Hall mania!</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq2-nostalgia-guild-hall-mania/</link>
+				<pubDate>Thu, 09 Oct 2008 07:25:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq2-nostalgia-guild-hall-mania/</guid>
+				<description>&lt;p&gt;Since I barely did anything to help with the guild hall, compared with Stargrace, Kasul and Ecor, I feel kinda embarrassed to be the first&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ2: Tomb of Thuuga and the Shard of Hate</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</link>
+				<pubDate>Sun, 14 Sep 2008 12:20:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/eq2-tomb-of-thuuga-and-the-shard-of-hate/</guid>
+				<description>&lt;p&gt;Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

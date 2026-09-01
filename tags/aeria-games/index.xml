@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Aeria Games on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/aeria-games/</link>
-    <description>Recent content in Aeria Games on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2009 17:25:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/aeria-games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aeria Games wants Geeks with iPhones to iTest a new iGame</title>
-      <link>https://tipa16384.github.io/wkblog/2009/06/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</link>
-      <pubDate>Tue, 09 Jun 2009 17:25:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/06/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</guid>
-      <description>&lt;p&gt;I knew I wasn&amp;rsquo;t crazy! Okay, back up &amp;ndash; I knew I had really seen this! Jury&amp;rsquo;s still out about the whole &amp;ldquo;crazy&amp;rdquo; thing&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shin Megami Tensei -- the MMO</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/shin-megami-tensei--the-mmo/</link>
-      <pubDate>Wed, 05 Nov 2008 13:19:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/shin-megami-tensei--the-mmo/</guid>
-      <description>&lt;p&gt;Just saw that Aeria Games is adding Shin Megami Tensei to its stable of free-to-play Asian import MMOs. Brought to the West previously as single&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cronous enters closed beta</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/cronous-enters-closed-beta/</link>
-      <pubDate>Sat, 09 Aug 2008 10:38:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/cronous-enters-closed-beta/</guid>
-      <description>&lt;p&gt;Aeria &amp;ldquo;of course we will publish your free-to-play MMO for you&amp;rdquo; Games has just announced that their free-to-play Diablo-like, Cronous, has just entered closed beta&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Where is SPELLBORN already?</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/where-is-spellborn-already/</link>
-      <pubDate>Wed, 06 Aug 2008 13:46:47 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/where-is-spellborn-already/</guid>
-      <description>&lt;p&gt;My constant trolling over on the Chronicles of Spellborn forums have as yet revealed no news about any North American release. They are supposed to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spellborn vs Runes of Magic CAGE MATCH</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</link>
-      <pubDate>Wed, 23 Jul 2008 13:03:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s two MMOs out there you have probably not heard of. There&amp;rsquo;s HUNDREDS of those, right? Once you get out of the calm, safe, bathwater-warm&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Aeria Games on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/aeria-games/</link>
+		<description>Recent content in Aeria Games on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Jun 2009 17:25:58 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/aeria-games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aeria Games wants Geeks with iPhones to iTest a new iGame</title>
+				<link>https://tipa16384.github.io/wkblog/2009/06/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</link>
+				<pubDate>Tue, 09 Jun 2009 17:25:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/06/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/</guid>
+				<description>&lt;p&gt;I knew I wasn&amp;rsquo;t crazy! Okay, back up &amp;ndash; I knew I had really seen this! Jury&amp;rsquo;s still out about the whole &amp;ldquo;crazy&amp;rdquo; thing&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Shin Megami Tensei -- the MMO</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/shin-megami-tensei-the-mmo/</link>
+				<pubDate>Wed, 05 Nov 2008 13:19:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/shin-megami-tensei-the-mmo/</guid>
+				<description>&lt;p&gt;Just saw that Aeria Games is adding Shin Megami Tensei to its stable of free-to-play Asian import MMOs. Brought to the West previously as single&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cronous enters closed beta</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/cronous-enters-closed-beta/</link>
+				<pubDate>Sat, 09 Aug 2008 10:38:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/cronous-enters-closed-beta/</guid>
+				<description>&lt;p&gt;Aeria &amp;ldquo;of course we will publish your free-to-play MMO for you&amp;rdquo; Games has just announced that their free-to-play Diablo-like, Cronous, has just entered closed beta&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Where is SPELLBORN already?</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/where-is-spellborn-already/</link>
+				<pubDate>Wed, 06 Aug 2008 13:46:47 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/where-is-spellborn-already/</guid>
+				<description>&lt;p&gt;My constant trolling over on the Chronicles of Spellborn forums have as yet revealed no news about any North American release. They are supposed to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Spellborn vs Runes of Magic CAGE MATCH</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</link>
+				<pubDate>Wed, 23 Jul 2008 13:03:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/spellborn-vs-runes-of-magic-cage-match/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s two MMOs out there you have probably not heard of. There&amp;rsquo;s HUNDREDS of those, right? Once you get out of the calm, safe, bathwater-warm&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

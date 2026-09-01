@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fortune League on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/fortune-league/</link>
-    <description>Recent content in Fortune League on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2011 19:38:24 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/fortune-league/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EQ2 Fortune League: #WINNER</title>
-      <link>https://tipa16384.github.io/wkblog/2011/03/eq2-fortune-league-%23winner/</link>
-      <pubDate>Thu, 10 Mar 2011 19:38:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/03/eq2-fortune-league-%23winner/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Fortune League on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/fortune-league/</link>
+		<description>Recent content in Fortune League on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Mar 2011 19:38:24 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/fortune-league/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EQ2 Fortune League: #WINNER</title>
+				<link>https://tipa16384.github.io/wkblog/2011/03/eq2-fortune-league-winner/</link>
+				<pubDate>Thu, 10 Mar 2011 19:38:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/03/eq2-fortune-league-winner/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

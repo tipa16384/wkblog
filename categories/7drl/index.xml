@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>7DRL on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/7drl/</link>
-    <description>Recent content in 7DRL on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Mar 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/7drl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How To Fail at Writing A Game in 7 Days</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</link>
-      <pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</guid>
-      <description>&lt;p&gt;Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL 2022: Retrospective</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-retrospective/</link>
-      <pubDate>Sun, 13 Mar 2022 09:55:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-retrospective/</guid>
-      <description>&lt;p&gt;7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted &amp;ldquo;You Are the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL 2022 Day 5: I&#39;m Damaged, and I Like It</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-5-im-damaged-and-i-like-it/</link>
-      <pubDate>Fri, 11 Mar 2022 07:37:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-5-im-damaged-and-i-like-it/</guid>
-      <description>&lt;p&gt;It may seem like I&amp;rsquo;m not making a lot of progress, but I have a checklist for each night, and I really am doing what&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL 2022 Day 4: Tossing and Turning</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-4-tossing-and-turning/</link>
-      <pubDate>Thu, 10 Mar 2022 07:35:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-4-tossing-and-turning/</guid>
-      <description>&lt;p&gt;Halfway through the 7DRL and I have finally finished the major building blocks for the game by introducing the main game mechanic (finally)! But it&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL 2022 Day 3: Targeting and Attacking</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-3-targeting-and-attacking/</link>
-      <pubDate>Wed, 09 Mar 2022 07:33:04 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-3-targeting-and-attacking/</guid>
-      <description>&lt;p&gt;I reached an important milestone, though a day late as I lost a day integrating the new tile set. As I added targeting and combat,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL 2022 Day 2: Dungeon Room</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-2-dungeon-room/</link>
-      <pubDate>Mon, 07 Mar 2022 23:12:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-2-dungeon-room/</guid>
-      <description>&lt;p&gt;The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn&amp;rsquo;t look like much, but it&amp;rsquo;s something. Also, by&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL 2022 Day 1: Intro</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-1-intro/</link>
-      <pubDate>Mon, 07 Mar 2022 06:54:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-1-intro/</guid>
-      <description>&lt;p&gt;Yesterday was the day I officially started the 7DRL 2022 &amp;ldquo;Build a Roguelike in 7 Days&amp;rdquo; challenge. I can now reveal the game concept&amp;hellip;&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL: Building an Engine -- I Screwed Up.</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine--i-screwed-up./</link>
-      <pubDate>Fri, 04 Mar 2022 08:17:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine--i-screwed-up./</guid>
-      <description>&lt;p&gt;I really thought I had more time. I thought I had a week to integrate the new Tiled-based map creation tools, and to make a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL: Building an Engine -- Winner.</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine--winner./</link>
-      <pubDate>Thu, 03 Mar 2022 08:21:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine--winner./</guid>
-      <description>&lt;p&gt;The last element of the 7DRL engine&amp;rsquo;s &amp;ldquo;must haves&amp;rdquo; &amp;ndash; a win condition for the player. With that out of the way, let&amp;rsquo;s talk about&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7DRL: Building an Engine -- and it ends.</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine--and-it-ends./</link>
-      <pubDate>Wed, 02 Mar 2022 07:54:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine--and-it-ends./</guid>
-      <description>&lt;p&gt;Working through my checklist of &amp;ldquo;must have&amp;rdquo; features for the game&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>7DRL on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/7drl/</link>
+		<description>Recent content in 7DRL on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 10 Mar 2025 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/7drl/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>How To Fail at Writing A Game in 7 Days</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</link>
+				<pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/how-to-fail-at-writing-a-game-in-7-days/</guid>
+				<description>&lt;p&gt;Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL 2022: Retrospective</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-retrospective/</link>
+				<pubDate>Sun, 13 Mar 2022 09:55:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-retrospective/</guid>
+				<description>&lt;p&gt;7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted &amp;ldquo;You Are the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL 2022 Day 5: I&#39;m Damaged, and I Like It</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-5-im-damaged-and-i-like-it/</link>
+				<pubDate>Fri, 11 Mar 2022 07:37:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-5-im-damaged-and-i-like-it/</guid>
+				<description>&lt;p&gt;It may seem like I&amp;rsquo;m not making a lot of progress, but I have a checklist for each night, and I really am doing what&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL 2022 Day 4: Tossing and Turning</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-4-tossing-and-turning/</link>
+				<pubDate>Thu, 10 Mar 2022 07:35:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-4-tossing-and-turning/</guid>
+				<description>&lt;p&gt;Halfway through the 7DRL and I have finally finished the major building blocks for the game by introducing the main game mechanic (finally)! But it&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL 2022 Day 3: Targeting and Attacking</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-3-targeting-and-attacking/</link>
+				<pubDate>Wed, 09 Mar 2022 07:33:04 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-3-targeting-and-attacking/</guid>
+				<description>&lt;p&gt;I reached an important milestone, though a day late as I lost a day integrating the new tile set. As I added targeting and combat,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL 2022 Day 2: Dungeon Room</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-2-dungeon-room/</link>
+				<pubDate>Mon, 07 Mar 2022 23:12:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-2-dungeon-room/</guid>
+				<description>&lt;p&gt;The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn&amp;rsquo;t look like much, but it&amp;rsquo;s something. Also, by&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL 2022 Day 1: Intro</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-1-intro/</link>
+				<pubDate>Mon, 07 Mar 2022 06:54:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-2022-day-1-intro/</guid>
+				<description>&lt;p&gt;Yesterday was the day I officially started the 7DRL 2022 &amp;ldquo;Build a Roguelike in 7 Days&amp;rdquo; challenge. I can now reveal the game concept&amp;hellip;&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL: Building an Engine -- I Screwed Up.</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine-i-screwed-up/</link>
+				<pubDate>Fri, 04 Mar 2022 08:17:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine-i-screwed-up/</guid>
+				<description>&lt;p&gt;I really thought I had more time. I thought I had a week to integrate the new Tiled-based map creation tools, and to make a&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL: Building an Engine -- Winner.</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine-winner/</link>
+				<pubDate>Thu, 03 Mar 2022 08:21:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine-winner/</guid>
+				<description>&lt;p&gt;The last element of the 7DRL engine&amp;rsquo;s &amp;ldquo;must haves&amp;rdquo; &amp;ndash; a win condition for the player. With that out of the way, let&amp;rsquo;s talk about&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>7DRL: Building an Engine -- and it ends.</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine-and-it-ends/</link>
+				<pubDate>Wed, 02 Mar 2022 07:54:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/7drl-building-an-engine-and-it-ends/</guid>
+				<description>&lt;p&gt;Working through my checklist of &amp;ldquo;must have&amp;rdquo; features for the game&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

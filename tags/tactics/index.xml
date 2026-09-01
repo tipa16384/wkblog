@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tactics on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/tactics/</link>
-    <description>Recent content in Tactics on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/tactics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fall into Faux: The One Where I Win</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</link>
-      <pubDate>Sat, 07 Sep 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</guid>
-      <description>&lt;p&gt;Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My first Malifaux tournament!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/my-first-malifaux-tournament/</link>
-      <pubDate>Sun, 18 Aug 2024 09:41:06 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/my-first-malifaux-tournament/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ma start by explaining what the game is, as best I can anyway.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unicorn Overlord -- Whose Overlord Is It, Anyway?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</link>
-      <pubDate>Sat, 23 Mar 2024 10:03:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</guid>
-      <description>&lt;p&gt;After playing through this amazing real-time tactics RPG, the only question I hadn&amp;rsquo;t answered was&amp;hellip; were we the baddies all the time?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Palworld, Vandal Hearts, Hons VR Lenses</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</link>
-      <pubDate>Wed, 31 Jan 2024 07:56:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</guid>
-      <description>&lt;p&gt;Okay, there&amp;rsquo;s a lot of gaming stuff going on so I&amp;rsquo;m just going to go over some of it, briefly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest: The Monks and the Rogues step up</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/heroquest-the-monks-and-the-rogues-step-up/</link>
-      <pubDate>Sun, 14 Jan 2024 20:05:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/heroquest-the-monks-and-the-rogues-step-up/</guid>
-      <description>&lt;p&gt;Barbarian, Dwarf, Elf and Wizard are looking around nervously&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Brown Dust? Did you mean Brave Nine?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</link>
-      <pubDate>Thu, 18 Aug 2022 09:30:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</guid>
-      <description>&lt;p&gt;A few days, Friendly Necro was going over all the mobile games on which he&amp;rsquo;s worked. I was wondering why mobile games just didn&amp;rsquo;t stick&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Three Frow: A deep, tactical basketball RPG</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/three-frow-a-deep-tactical-basketball-rpg/</link>
-      <pubDate>Wed, 03 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/three-frow-a-deep-tactical-basketball-rpg/</guid>
-      <description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Those Who Rule: Chapter 1</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/those-who-rule-chapter-1/</link>
-      <pubDate>Mon, 25 Jul 2022 23:06:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/those-who-rule-chapter-1/</guid>
-      <description>&lt;p&gt;Anyone who has read this blog more than a day knows that I am always looking out for new strategy tactics games to play. I&amp;rsquo;ve&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
-      <pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
-      <description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Symphony of War -- Done!</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/symphony-of-war--done/</link>
-      <pubDate>Sat, 02 Jul 2022 19:17:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/symphony-of-war--done/</guid>
-      <description>&lt;p&gt;Steam says I spent a little over 36 hours in Symphony of War: The Nephilim Saga. The game had a lot to recommend it, and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tactics on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/tactics/</link>
+		<description>Recent content in Tactics on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 07 Sep 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/tactics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Fall into Faux: The One Where I Win</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</link>
+				<pubDate>Sat, 07 Sep 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/fall-into-faux-the-one-where-i-win/</guid>
+				<description>&lt;p&gt;Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My first Malifaux tournament!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/my-first-malifaux-tournament/</link>
+				<pubDate>Sun, 18 Aug 2024 09:41:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/my-first-malifaux-tournament/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ma start by explaining what the game is, as best I can anyway.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unicorn Overlord -- Whose Overlord Is It, Anyway?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord-whose-overlord-is-it-anyway/</link>
+				<pubDate>Sat, 23 Mar 2024 10:03:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord-whose-overlord-is-it-anyway/</guid>
+				<description>&lt;p&gt;After playing through this amazing real-time tactics RPG, the only question I hadn&amp;rsquo;t answered was&amp;hellip; were we the baddies all the time?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Palworld, Vandal Hearts, Hons VR Lenses</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</link>
+				<pubDate>Wed, 31 Jan 2024 07:56:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/palworld-vandal-hearts-hons-vr-lenses/</guid>
+				<description>&lt;p&gt;Okay, there&amp;rsquo;s a lot of gaming stuff going on so I&amp;rsquo;m just going to go over some of it, briefly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest: The Monks and the Rogues step up</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/heroquest-the-monks-and-the-rogues-step-up/</link>
+				<pubDate>Sun, 14 Jan 2024 20:05:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/heroquest-the-monks-and-the-rogues-step-up/</guid>
+				<description>&lt;p&gt;Barbarian, Dwarf, Elf and Wizard are looking around nervously&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Brown Dust? Did you mean Brave Nine?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</link>
+				<pubDate>Thu, 18 Aug 2022 09:30:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/brown-dust-did-you-mean-brave-nine/</guid>
+				<description>&lt;p&gt;A few days, Friendly Necro was going over all the mobile games on which he&amp;rsquo;s worked. I was wondering why mobile games just didn&amp;rsquo;t stick&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Three Frow: A deep, tactical basketball RPG</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/three-throw-a-deep-tactical-basketball-rpg/</link>
+				<pubDate>Wed, 03 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/three-throw-a-deep-tactical-basketball-rpg/</guid>
+				<description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Those Who Rule: Chapter 1</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/those-who-rule-chapter-1/</link>
+				<pubDate>Mon, 25 Jul 2022 23:06:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/those-who-rule-chapter-1/</guid>
+				<description>&lt;p&gt;Anyone who has read this blog more than a day knows that I am always looking out for new strategy tactics games to play. I&amp;rsquo;ve&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
+				<pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
+				<description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Symphony of War -- Done!</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/symphony-of-war-done/</link>
+				<pubDate>Sat, 02 Jul 2022 19:17:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/symphony-of-war-done/</guid>
+				<description>&lt;p&gt;Steam says I spent a little over 36 hours in Symphony of War: The Nephilim Saga. The game had a lot to recommend it, and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

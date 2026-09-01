@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Granblue Fantasy on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/granblue-fantasy/</link>
-    <description>Recent content in Granblue Fantasy on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2024 19:49:27 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/granblue-fantasy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Granblue Fantasy: Relink (DEMO)</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</link>
-      <pubDate>Thu, 18 Jan 2024 19:49:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</guid>
-      <description>&lt;p&gt;Granblue Fantasy makes the leap from mobile to console with Relink. So&amp;hellip; what kind of game is it?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Granblue Fantasy on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/granblue-fantasy/</link>
+		<description>Recent content in Granblue Fantasy on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Jan 2024 19:49:27 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/granblue-fantasy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Granblue Fantasy: Relink (DEMO)</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</link>
+				<pubDate>Thu, 18 Jan 2024 19:49:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</guid>
+				<description>&lt;p&gt;Granblue Fantasy makes the leap from mobile to console with Relink. So&amp;hellip; what kind of game is it?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

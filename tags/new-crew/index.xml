@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>New Crew on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/new-crew/</link>
-    <description>Recent content in New Crew on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 19 Mar 2025 07:56:22 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/new-crew/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Malifaux: New Crew Two</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-two/</link>
-      <pubDate>Wed, 19 Mar 2025 07:56:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-two/</guid>
-      <description>&lt;p&gt;Rasputina meets the alien, mind-controlling Cadmus project on the streets of Malifaux City.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Malifaux: &#34;New Crew&#34; League, Week 1</title>
-      <link>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</link>
-      <pubDate>Tue, 11 Mar 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</guid>
-      <description>&lt;p&gt;The local gaming store is running a league this spring for new players or for players who want to play a crew they&amp;rsquo;ve never played before.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>New Crew on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/new-crew/</link>
+		<description>Recent content in New Crew on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 19 Mar 2025 07:56:22 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/new-crew/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Malifaux: New Crew Two</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-two/</link>
+				<pubDate>Wed, 19 Mar 2025 07:56:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-two/</guid>
+				<description>&lt;p&gt;Rasputina meets the alien, mind-controlling Cadmus project on the streets of Malifaux City.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Malifaux: &#34;New Crew&#34; League, Week 1</title>
+				<link>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</link>
+				<pubDate>Tue, 11 Mar 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/03/malifaux-new-crew-league-week-1/</guid>
+				<description>&lt;p&gt;The local gaming store is running a league this spring for new players or for players who want to play a crew they&amp;rsquo;ve never played before.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

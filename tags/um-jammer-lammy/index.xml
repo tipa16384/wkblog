@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Um Jammer Lammy on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/um-jammer-lammy/</link>
-    <description>Recent content in Um Jammer Lammy on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 24 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/um-jammer-lammy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Staying Motivated for Retro World Expo 2023</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</link>
-      <pubDate>Thu, 24 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</guid>
-      <description>&lt;p&gt;This weekend in glorious Hartford, Connecticut. Could I be more motivated?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Um Jammer Lammy on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/um-jammer-lammy/</link>
+		<description>Recent content in Um Jammer Lammy on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Aug 2023 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/um-jammer-lammy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Staying Motivated for Retro World Expo 2023</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</link>
+				<pubDate>Thu, 24 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/staying-motivated-for-retro-world-expo-2023/</guid>
+				<description>&lt;p&gt;This weekend in glorious Hartford, Connecticut. Could I be more motivated?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

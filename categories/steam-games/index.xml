@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Steam Games on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/steam-games/</link>
-    <description>Recent content in Steam Games on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 14:51:36 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/steam-games/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blasts from the Past: Is it the 90s again?</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/blasts-from-the-past-is-it-the-90s-again/</link>
-      <pubDate>Sat, 28 Mar 2026 14:51:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/blasts-from-the-past-is-it-the-90s-again/</guid>
-      <description>&lt;p&gt;Quick reviews of Rakuraku Dinokun, Terminal, 8-Colors Space Guardians and Pool of Madness Playtest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Preview: Topdeck Automat</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</link>
-      <pubDate>Wed, 25 Mar 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</guid>
-      <description>&lt;p&gt;A fun, quick engine building card battler that has you as a humble printer bot single-handedly battling an alien invasion. As one does.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review: The Invincible</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/review-the-invincible/</link>
-      <pubDate>Sun, 22 Mar 2026 10:01:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/review-the-invincible/</guid>
-      <description>&lt;p&gt;A moody mystery set on an dead planet with immense ruins and the power to steal memories.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tactichord: Glam Strategy</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</link>
-      <pubDate>Tue, 10 Mar 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</guid>
-      <description>&lt;p&gt;Mix X-COM with Mötley Crüe and this is what you get &amp;ndash; a hair metal band on its way to its first gig&amp;hellip; if they can get by all the haters.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Steam Next Fest: Windrose, Tides of Blazefall, Twilight Imperium, Panzer Dragoon Zwei</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</link>
-      <pubDate>Wed, 04 Mar 2026 15:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</guid>
-      <description>&lt;p&gt;Short takes to finish out the last of the games I played as part of the Steam Next Fest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Steam Next Fest: Scriptorium, Forbidden Solitaire, Don&#39;t Panic! It is Just Turbulence</title>
-      <link>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-scriptorium-forbidden-solitaire-dont-panic-it-is-just-turbulence/</link>
-      <pubDate>Sun, 01 Mar 2026 18:15:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-scriptorium-forbidden-solitaire-dont-panic-it-is-just-turbulence/</guid>
-      <description>&lt;p&gt;Two more games from Steam Next Fest. Neither is quite what you might expect. I would have liked to have been able to play a third, Don&amp;rsquo;t Panic! It is Just Turbulence, but, well&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Steam Next Fest: MMO98 and Data Center</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/steam-next-fest-mmo98-and-data-center/</link>
-      <pubDate>Sat, 28 Feb 2026 16:48:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/steam-next-fest-mmo98-and-data-center/</guid>
-      <description>&lt;p&gt;These two games are related &amp;ndash; promise. Picture BTW is of the actual EverQuest server room.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Steam Next Fest: Underkeep and Dverghold</title>
-      <link>https://tipa16384.github.io/wkblog/2026/02/steam-next-fest-underkeep-and-dverghold/</link>
-      <pubDate>Fri, 27 Feb 2026 09:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/02/steam-next-fest-underkeep-and-dverghold/</guid>
-      <description>&lt;p&gt;Return to the days of Dungeon Hack, Wizardry and The Eye of the Beholder with these two new dungeon crawlers from Steam Next Fest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dominus Automa: An Idle MMO for Busy Dads</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</link>
-      <pubDate>Sat, 24 Jan 2026 10:26:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/dominus-automa-an-idle-mmo-for-busy-dads/</guid>
-      <description>&lt;p&gt;Someday it&amp;rsquo;ll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Erenshor v0.3: &#34;Rising Shadows&#34;</title>
-      <link>https://tipa16384.github.io/wkblog/2026/01/erenshor-v0.3-rising-shadows/</link>
-      <pubDate>Wed, 21 Jan 2026 08:34:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2026/01/erenshor-v0.3-rising-shadows/</guid>
-      <description>&lt;p&gt;I hit max level in Erenshor, and BurgeeMedia immediately drops a whole new update full of cool stuff. Coincidence? Maybe!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Steam Games on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/steam-games/</link>
+		<description>Recent content in Steam Games on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 08 Jun 2026 10:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/steam-games/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Catchin&#39; up on games post-Windrose</title>
+				<link>https://tipa16384.github.io/wkblog/2026/06/catchin-up-on-games-post-windrose/</link>
+				<pubDate>Mon, 08 Jun 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/06/catchin-up-on-games-post-windrose/</guid>
+				<description>&lt;p&gt;While playing intense multiplayer games like Windrose and Dune: Awakening, my backlog builds up. I live for the between times&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Windrose: A Fine Collection of Ne&#39;er-do-Wells</title>
+				<link>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</link>
+				<pubDate>Sun, 17 May 2026 15:28:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/05/windrose-a-fine-collection-of-neer-do-wells/</guid>
+				<description>&lt;p&gt;With the death of the boss of the Cursed Swamp, Team Spode has finished Windrose&amp;rsquo;s current content. How did it stack up against Valheim in the end?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Windrose: Yo ho ho, it&#39;s the pirate life for me</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</link>
+				<pubDate>Tue, 21 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/windrose-yo-ho-ho-its-the-pirate-life-for-me/</guid>
+				<description>&lt;p&gt;The new Age of Piracy game from Kraken Express and Pocketpair adds ship combat to the familiar post-Valheim survival-crafting genre.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blasts from the Past: Is it the 90s again?</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/blasts-from-the-past-is-it-the-90s-again/</link>
+				<pubDate>Sat, 28 Mar 2026 14:51:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/blasts-from-the-past-is-it-the-90s-again/</guid>
+				<description>&lt;p&gt;Quick reviews of Rakuraku Dinokun, Terminal, 8-Colors Space Guardians and Pool of Madness Playtest.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Preview: Topdeck Automat</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</link>
+				<pubDate>Wed, 25 Mar 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/preview-topdeck-automat/</guid>
+				<description>&lt;p&gt;A fun, quick engine building card battler that has you as a humble printer bot single-handedly battling an alien invasion. As one does.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Review: The Invincible</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/review-the-invincible/</link>
+				<pubDate>Sun, 22 Mar 2026 10:01:05 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/review-the-invincible/</guid>
+				<description>&lt;p&gt;A moody mystery set on an dead planet with immense ruins and the power to steal memories.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tactichord: Glam Strategy</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</link>
+				<pubDate>Tue, 10 Mar 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/tactichord-glam-strategy/</guid>
+				<description>&lt;p&gt;Mix X-COM with Mötley Crüe and this is what you get &amp;ndash; a hair metal band on its way to its first gig&amp;hellip; if they can get by all the haters.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Steam Next Fest: Windrose, Tides of Blazefall, Twilight Imperium, Panzer Dragoon Zwei</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</link>
+				<pubDate>Wed, 04 Mar 2026 15:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/</guid>
+				<description>&lt;p&gt;Short takes to finish out the last of the games I played as part of the Steam Next Fest.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Steam Next Fest: Scriptorium, Forbidden Solitaire, Don&#39;t Panic! It is Just Turbulence</title>
+				<link>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-scriptorium-forbidden-solitaire-dont-panic-it-is-just-turbulence/</link>
+				<pubDate>Sun, 01 Mar 2026 18:15:31 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/03/steam-next-fest-scriptorium-forbidden-solitaire-dont-panic-it-is-just-turbulence/</guid>
+				<description>&lt;p&gt;Two more games from Steam Next Fest. Neither is quite what you might expect. I would have liked to have been able to play a third, Don&amp;rsquo;t Panic! It is Just Turbulence, but, well&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Steam Next Fest: MMO98 and Data Center</title>
+				<link>https://tipa16384.github.io/wkblog/2026/02/steam-next-fest-mmo98-and-data-center/</link>
+				<pubDate>Sat, 28 Feb 2026 16:48:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/02/steam-next-fest-mmo98-and-data-center/</guid>
+				<description>&lt;p&gt;These two games are related &amp;ndash; promise. Picture BTW is of the actual EverQuest server room.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

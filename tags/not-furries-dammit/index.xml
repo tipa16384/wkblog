@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Not Furries Dammit on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/not-furries-dammit/</link>
-    <description>Recent content in Not Furries Dammit on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2009 07:01:16 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/not-furries-dammit/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>*Anthro* MMO Earth Eternal launches new web site</title>
-      <link>https://tipa16384.github.io/wkblog/2009/02/anthro-mmo-earth-eternal-launches-new-web-site/</link>
-      <pubDate>Tue, 17 Feb 2009 07:01:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/02/anthro-mmo-earth-eternal-launches-new-web-site/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s a slim possibility I may have been dismissive of Sparkplay&amp;rsquo;s Anthro (not Furry) MMO, Earth Eternal, in the past, but &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Not Furries Dammit on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/not-furries-dammit/</link>
+		<description>Recent content in Not Furries Dammit on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Feb 2009 07:01:16 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/not-furries-dammit/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>*Anthro* MMO Earth Eternal launches new web site</title>
+				<link>https://tipa16384.github.io/wkblog/2009/02/anthro-mmo-earth-eternal-launches-new-web-site/</link>
+				<pubDate>Tue, 17 Feb 2009 07:01:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/02/anthro-mmo-earth-eternal-launches-new-web-site/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s a slim possibility I may have been dismissive of Sparkplay&amp;rsquo;s Anthro (not Furry) MMO, Earth Eternal, in the past, but &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fpga on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/fpga/</link>
-    <description>Recent content in Fpga on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 10 Nov 2023 20:21:24 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Knight of Lodis: Entering the Crypt</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</link>
-      <pubDate>Fri, 10 Nov 2023 20:21:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</guid>
-      <description>&lt;p&gt;It was supposed to just be a battle. It turned into a gauntlet.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Fpga on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/fpga/</link>
+		<description>Recent content in Fpga on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 10 Nov 2023 20:21:24 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/fpga/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Knight of Lodis: Entering the Crypt</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</link>
+				<pubDate>Fri, 10 Nov 2023 20:21:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/knight-of-lodis-entering-the-crypt/</guid>
+				<description>&lt;p&gt;It was supposed to just be a battle. It turned into a gauntlet.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

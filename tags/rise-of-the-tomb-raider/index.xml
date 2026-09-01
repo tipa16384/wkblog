@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rise of the Tomb Raider on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rise-of-the-tomb-raider/</link>
-    <description>Recent content in Rise of the Tomb Raider on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 11 Dec 2020 09:23:17 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rise-of-the-tomb-raider/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My RPGs of 2020</title>
-      <link>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</link>
-      <pubDate>Fri, 11 Dec 2020 09:23:17 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</guid>
-      <description>&lt;p&gt;I looked at all the RPGs I&amp;rsquo;ve played this year, trying to pick the one of them all that would be the best of the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>¿Quién es más macho? Lara or Jin?</title>
-      <link>https://tipa16384.github.io/wkblog/2020/07/qui%C3%A9n-es-m%C3%A1s-macho-lara-or-jin/</link>
-      <pubDate>Fri, 17 Jul 2020 12:12:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/07/qui%C3%A9n-es-m%C3%A1s-macho-lara-or-jin/</guid>
-      <description>&lt;p&gt;Since finishing Chocobo Mystery Dungeon, I&amp;rsquo;ve been sorta casually playing some Tomb Raider; Rise of the Tomb Raider, one of this month&amp;rsquo;s free Playstation Plus&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rise of the Tomb Raider on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/rise-of-the-tomb-raider/</link>
+		<description>Recent content in Rise of the Tomb Raider on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 11 Dec 2020 09:23:17 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/rise-of-the-tomb-raider/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My RPGs of 2020</title>
+				<link>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</link>
+				<pubDate>Fri, 11 Dec 2020 09:23:17 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/12/my-rpgs-of-2020/</guid>
+				<description>&lt;p&gt;I looked at all the RPGs I&amp;rsquo;ve played this year, trying to pick the one of them all that would be the best of the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>¿Quién es más macho? Lara or Jin?</title>
+				<link>https://tipa16384.github.io/wkblog/2020/07/quien-es-mas-macho-lara-or-jin/</link>
+				<pubDate>Fri, 17 Jul 2020 12:12:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/07/quien-es-mas-macho-lara-or-jin/</guid>
+				<description>&lt;p&gt;Since finishing Chocobo Mystery Dungeon, I&amp;rsquo;ve been sorta casually playing some Tomb Raider; Rise of the Tomb Raider, one of this month&amp;rsquo;s free Playstation Plus&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

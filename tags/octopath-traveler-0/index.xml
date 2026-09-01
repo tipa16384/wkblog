@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Octopath Traveler 0 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/octopath-traveler-0/</link>
-    <description>Recent content in Octopath Traveler 0 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 08:30:27 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/octopath-traveler-0/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Octopath Traveler 0: You&#39;re the Octopath</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/octopath-traveler-0-youre-the-octopath/</link>
-      <pubDate>Fri, 14 Nov 2025 08:30:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/octopath-traveler-0-youre-the-octopath/</guid>
-      <description>&lt;p&gt;In the third console release of the Octopath Traveler series, you become the hero who can rebuild your town.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Octopath Traveler 0 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/octopath-traveler-0/</link>
+		<description>Recent content in Octopath Traveler 0 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 14 Nov 2025 08:30:27 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/octopath-traveler-0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Octopath Traveler 0: You&#39;re the Octopath</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/octopath-traveler-0-youre-the-octopath/</link>
+				<pubDate>Fri, 14 Nov 2025 08:30:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/octopath-traveler-0-youre-the-octopath/</guid>
+				<description>&lt;p&gt;In the third console release of the Octopath Traveler series, you become the hero who can rebuild your town.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

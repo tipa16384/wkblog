@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Metaplace on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/metaplace/</link>
-    <description>Recent content in Metaplace on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 12 Aug 2008 21:00:59 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/metaplace/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Metaplace Transitions</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/metaplace-transitions/</link>
-      <pubDate>Tue, 12 Aug 2008 21:00:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/metaplace-transitions/</guid>
-      <description>&lt;p&gt;Was checking up on Metaplace&amp;rsquo;s progress &amp;ndash; Areia will always be in my heart as the one game developers who actually read my resume &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Metaplace stress test -- Uberspace</title>
-      <link>https://tipa16384.github.io/wkblog/2008/03/metaplace-stress-test--uberspace/</link>
-      <pubDate>Thu, 20 Mar 2008 07:38:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/03/metaplace-stress-test--uberspace/</guid>
-      <description>&lt;p&gt;I was delighted to be able to join another Metaplace stress test last night &amp;ndash; these are open to everyone, so if you ever thought&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Metaplace on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/metaplace/</link>
+		<description>Recent content in Metaplace on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 Aug 2008 21:00:59 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/metaplace/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Metaplace Transitions</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/metaplace-transitions/</link>
+				<pubDate>Tue, 12 Aug 2008 21:00:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/metaplace-transitions/</guid>
+				<description>&lt;p&gt;Was checking up on Metaplace&amp;rsquo;s progress &amp;ndash; Areia will always be in my heart as the one game developers who actually read my resume &amp;ndash;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Metaplace stress test -- Uberspace</title>
+				<link>https://tipa16384.github.io/wkblog/2008/03/metaplace-stress-test-uberspace/</link>
+				<pubDate>Thu, 20 Mar 2008 07:38:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/03/metaplace-stress-test-uberspace/</guid>
+				<description>&lt;p&gt;I was delighted to be able to join another Metaplace stress test last night &amp;ndash; these are open to everyone, so if you ever thought&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

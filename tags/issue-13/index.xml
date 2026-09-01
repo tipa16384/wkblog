@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Issue 13 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/issue-13/</link>
-    <description>Recent content in Issue 13 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Aug 2008 08:26:14 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/issue-13/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CoX Issue 13 takes a page out of EVE&#39;s book</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/cox-issue-13-takes-a-page-out-of-eves-book/</link>
-      <pubDate>Thu, 28 Aug 2008 08:26:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/cox-issue-13-takes-a-page-out-of-eves-book/</guid>
-      <description>&lt;p&gt;Fighting evil by moonlight&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Issue 13 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/issue-13/</link>
+		<description>Recent content in Issue 13 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 28 Aug 2008 08:26:14 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/issue-13/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CoX Issue 13 takes a page out of EVE&#39;s book</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/cox-issue-13-takes-a-page-out-of-eves-book/</link>
+				<pubDate>Thu, 28 Aug 2008 08:26:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/cox-issue-13-takes-a-page-out-of-eves-book/</guid>
+				<description>&lt;p&gt;Fighting evil by moonlight&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

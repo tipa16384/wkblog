@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>White Knight Chronicles on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/white-knight-chronicles/</link>
-    <description>Recent content in White Knight Chronicles on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 03 Aug 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/white-knight-chronicles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>(Not) Taming the Backlog</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</link>
-      <pubDate>Thu, 03 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</guid>
-      <description>&lt;p&gt;If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>White Knight Chronicles -- best RPG I never heard of?</title>
-      <link>https://tipa16384.github.io/wkblog/2023/07/white-knight-chronicles--best-rpg-i-never-heard-of/</link>
-      <pubDate>Sat, 01 Jul 2023 21:53:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/07/white-knight-chronicles--best-rpg-i-never-heard-of/</guid>
-      <description>&lt;p&gt;White Knight Chronicles, a 2009 PS3 RPG exclusive, shut down its servers a decade ago, leaving it with only half a game. But that half a game is deeply customizable and surprisingly fun.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>White Knight Chronicles on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/white-knight-chronicles/</link>
+		<description>Recent content in White Knight Chronicles on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 03 Aug 2023 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/white-knight-chronicles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>(Not) Taming the Backlog</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</link>
+				<pubDate>Thu, 03 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/not-taming-the-backlog/</guid>
+				<description>&lt;p&gt;If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>White Knight Chronicles -- best RPG I never heard of?</title>
+				<link>https://tipa16384.github.io/wkblog/2023/07/white-knight-chronicles-best-rpg-i-never-heard-of/</link>
+				<pubDate>Sat, 01 Jul 2023 21:53:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/07/white-knight-chronicles-best-rpg-i-never-heard-of/</guid>
+				<description>&lt;p&gt;White Knight Chronicles, a 2009 PS3 RPG exclusive, shut down its servers a decade ago, leaving it with only half a game. But that half a game is deeply customizable and surprisingly fun.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

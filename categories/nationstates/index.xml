@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nationstates on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/nationstates/</link>
-    <description>Recent content in Nationstates on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2006 00:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/nationstates/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>NationStates progress</title>
-      <link>https://tipa16384.github.io/wkblog/2006/04/nationstates-progress/</link>
-      <pubDate>Wed, 12 Apr 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/04/nationstates-progress/</guid>
-      <description>&lt;p&gt;There was a week that went by without me sending in my Nationstates moves, but I&amp;rsquo;ve been keeping up with it lately. My nation, Dryroot,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Various Games</title>
-      <link>https://tipa16384.github.io/wkblog/2006/02/various-games/</link>
-      <pubDate>Thu, 09 Feb 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/02/various-games/</guid>
-      <description>&lt;p&gt;Nationstates is a weird little game. Although they don&amp;rsquo;t call me a dictator, everything I decide is passed, so what&amp;rsquo;s the difference? I am dismissing&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dryroot Joins the DDR</title>
-      <link>https://tipa16384.github.io/wkblog/2006/01/dryroot-joins-the-ddr/</link>
-      <pubDate>Thu, 19 Jan 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/01/dryroot-joins-the-ddr/</guid>
-      <description>&lt;p&gt;Yes, Dryroot has become a nation of Dance Dance Revolution fanatics&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dryroot</title>
-      <link>https://tipa16384.github.io/wkblog/2006/01/dryroot/</link>
-      <pubDate>Tue, 17 Jan 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/01/dryroot/</guid>
-      <description>&lt;p&gt;New flag for Dryroot. The Wheel represents Dryroot&amp;rsquo;s nomadic roots. The chocobo represents lunch. The green represents the grasslands through which we roamed, before Dryroot&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nationstates Update</title>
-      <link>https://tipa16384.github.io/wkblog/2006/01/nationstates-update/</link>
-      <pubDate>Mon, 16 Jan 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/01/nationstates-update/</guid>
-      <description>&lt;p&gt;My economy was crumbling, people were unhappy: I had to make deals with big business. My utopian vision of a Dryroot where free peoples sustain&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dryroot Update</title>
-      <link>https://tipa16384.github.io/wkblog/2006/01/dryroot-update/</link>
-      <pubDate>Wed, 11 Jan 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/01/dryroot-update/</guid>
-      <description>&lt;p&gt;This morning, I was kinda alarmed when I pulled up the dossier for Dryroot and found it had gone from being a nation with lush&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NationStates</title>
-      <link>https://tipa16384.github.io/wkblog/2006/01/nationstates/</link>
-      <pubDate>Mon, 09 Jan 2006 00:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2006/01/nationstates/</guid>
-      <description>&lt;p&gt;NationStates is an interesting web game; you make a country and mold it according to your own beliefs, interact with other nations, join the UN&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Nationstates on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/nationstates/</link>
+		<description>Recent content in Nationstates on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 12 Apr 2006 00:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/nationstates/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>NationStates progress</title>
+				<link>https://tipa16384.github.io/wkblog/2006/04/nationstates-progress/</link>
+				<pubDate>Wed, 12 Apr 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/04/nationstates-progress/</guid>
+				<description>&lt;p&gt;There was a week that went by without me sending in my Nationstates moves, but I&amp;rsquo;ve been keeping up with it lately. My nation, Dryroot,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Various Games</title>
+				<link>https://tipa16384.github.io/wkblog/2006/02/various-games/</link>
+				<pubDate>Thu, 09 Feb 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/02/various-games/</guid>
+				<description>&lt;p&gt;Nationstates is a weird little game. Although they don&amp;rsquo;t call me a dictator, everything I decide is passed, so what&amp;rsquo;s the difference? I am dismissing&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dryroot Joins the DDR</title>
+				<link>https://tipa16384.github.io/wkblog/2006/01/dryroot-joins-the-ddr/</link>
+				<pubDate>Thu, 19 Jan 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/01/dryroot-joins-the-ddr/</guid>
+				<description>&lt;p&gt;Yes, Dryroot has become a nation of Dance Dance Revolution fanatics&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dryroot</title>
+				<link>https://tipa16384.github.io/wkblog/2006/01/dryroot/</link>
+				<pubDate>Tue, 17 Jan 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/01/dryroot/</guid>
+				<description>&lt;p&gt;New flag for Dryroot. The Wheel represents Dryroot&amp;rsquo;s nomadic roots. The chocobo represents lunch. The green represents the grasslands through which we roamed, before Dryroot&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Nationstates Update</title>
+				<link>https://tipa16384.github.io/wkblog/2006/01/nationstates-update/</link>
+				<pubDate>Mon, 16 Jan 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/01/nationstates-update/</guid>
+				<description>&lt;p&gt;My economy was crumbling, people were unhappy: I had to make deals with big business. My utopian vision of a Dryroot where free peoples sustain&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dryroot Update</title>
+				<link>https://tipa16384.github.io/wkblog/2006/01/dryroot-update/</link>
+				<pubDate>Wed, 11 Jan 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/01/dryroot-update/</guid>
+				<description>&lt;p&gt;This morning, I was kinda alarmed when I pulled up the dossier for Dryroot and found it had gone from being a nation with lush&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>NationStates</title>
+				<link>https://tipa16384.github.io/wkblog/2006/01/nationstates/</link>
+				<pubDate>Mon, 09 Jan 2006 00:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2006/01/nationstates/</guid>
+				<description>&lt;p&gt;NationStates is an interesting web game; you make a country and mold it according to your own beliefs, interact with other nations, join the UN&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

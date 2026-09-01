@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sword Coast Legends on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/sword-coast-legends/</link>
-    <description>Recent content in Sword Coast Legends on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2015 15:11:39 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/sword-coast-legends/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sword Coast Legends Headstart</title>
-      <link>https://tipa16384.github.io/wkblog/2015/09/sword-coast-legends-headstart/</link>
-      <pubDate>Sun, 20 Sep 2015 15:11:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2015/09/sword-coast-legends-headstart/</guid>
-      <description>&lt;p&gt;Hey! First quest written in the &amp;ldquo;DM Mode&amp;rdquo; of Sword Coast Legends!&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Sword Coast Legends on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/sword-coast-legends/</link>
+		<description>Recent content in Sword Coast Legends on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 20 Sep 2015 15:11:39 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/sword-coast-legends/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sword Coast Legends Headstart</title>
+				<link>https://tipa16384.github.io/wkblog/2015/09/sword-coast-legends-headstart/</link>
+				<pubDate>Sun, 20 Sep 2015 15:11:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2015/09/sword-coast-legends-headstart/</guid>
+				<description>&lt;p&gt;Hey! First quest written in the &amp;ldquo;DM Mode&amp;rdquo; of Sword Coast Legends!&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

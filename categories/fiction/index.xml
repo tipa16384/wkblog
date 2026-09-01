@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fiction on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/fiction/</link>
-    <description>Recent content in Fiction on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 07:07:44 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Kolam for a Delivery Man</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/a-kolam-for-a-delivery-man/</link>
-      <pubDate>Fri, 24 Oct 2025 07:07:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/a-kolam-for-a-delivery-man/</guid>
-      <description>&lt;p&gt;Waiting for a package that never arrives? Maybe all you need is a little practical magic&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Mystery of the Casterville Legion</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</link>
-      <pubDate>Wed, 03 Sep 2025 07:51:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</guid>
-      <description>&lt;p&gt;@Nimgimli used AI Dungeon to make him an adventure. I wondered if I could get the same or better for free.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Billionaire Rapture</title>
-      <link>https://tipa16384.github.io/wkblog/2024/12/billionaire-rapture/</link>
-      <pubDate>Tue, 17 Dec 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/12/billionaire-rapture/</guid>
-      <description>&lt;p&gt;Sometimes I just want to write a story. Art AI, words are all mine, for better or worse. I hope you enjoy it.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Fiction on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/fiction/</link>
+		<description>Recent content in Fiction on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 24 Oct 2025 07:07:44 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A Kolam for a Delivery Man</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/a-kolam-for-a-delivery-man/</link>
+				<pubDate>Fri, 24 Oct 2025 07:07:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/a-kolam-for-a-delivery-man/</guid>
+				<description>&lt;p&gt;Waiting for a package that never arrives? Maybe all you need is a little practical magic&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Mystery of the Casterville Legion</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</link>
+				<pubDate>Wed, 03 Sep 2025 07:51:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</guid>
+				<description>&lt;p&gt;@Nimgimli used AI Dungeon to make him an adventure. I wondered if I could get the same or better for free.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Billionaire Rapture</title>
+				<link>https://tipa16384.github.io/wkblog/2024/12/billionaire-rapture/</link>
+				<pubDate>Tue, 17 Dec 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/12/billionaire-rapture/</guid>
+				<description>&lt;p&gt;Sometimes I just want to write a story. Art AI, words are all mine, for better or worse. I hope you enjoy it.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

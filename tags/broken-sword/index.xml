@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Broken Sword on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/broken-sword/</link>
-    <description>Recent content in Broken Sword on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2024 14:54:28 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/broken-sword/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Retro Game Haul: March 30, 2024</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</link>
-      <pubDate>Sat, 30 Mar 2024 14:54:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</guid>
-      <description>&lt;p&gt;I have way too many games to ever play, but still I can&amp;rsquo;t help it. Today&amp;rsquo;s haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Broken Sword on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/broken-sword/</link>
+		<description>Recent content in Broken Sword on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 30 Mar 2024 14:54:28 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/broken-sword/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retro Game Haul: March 30, 2024</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</link>
+				<pubDate>Sat, 30 Mar 2024 14:54:28 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/retro-game-haul-march-30-2024/</guid>
+				<description>&lt;p&gt;I have way too many games to ever play, but still I can&amp;rsquo;t help it. Today&amp;rsquo;s haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

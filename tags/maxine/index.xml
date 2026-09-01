@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Maxine on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/maxine/</link>
-    <description>Recent content in Maxine on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2025 08:27:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/maxine/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Malifaux 4e: Rasputina vs Maxine</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</link>
-      <pubDate>Tue, 30 Sep 2025 08:27:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</guid>
-      <description>&lt;p&gt;&amp;ldquo;What do you mean, I can destroy your ice pillars?&amp;rdquo; The Arcanists face off against the Explorer Society in a match nobody saw coming.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Maxine on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/maxine/</link>
+		<description>Recent content in Maxine on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Sep 2025 08:27:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/maxine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Malifaux 4e: Rasputina vs Maxine</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</link>
+				<pubDate>Tue, 30 Sep 2025 08:27:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/malifaux-4e-rasputina-vs-maxine/</guid>
+				<description>&lt;p&gt;&amp;ldquo;What do you mean, I can destroy your ice pillars?&amp;rdquo; The Arcanists face off against the Explorer Society in a match nobody saw coming.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

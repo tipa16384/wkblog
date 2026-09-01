@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ulan on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/ulan/</link>
-    <description>Recent content in Ulan on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Oct 2010 06:44:58 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/ulan/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DDO Weekly Recap: Tangleroot Gorge</title>
-      <link>https://tipa16384.github.io/wkblog/2010/10/ddo-weekly-recap-tangleroot-gorge/</link>
-      <pubDate>Mon, 11 Oct 2010 06:44:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/10/ddo-weekly-recap-tangleroot-gorge/</guid>
-      <description>&lt;p&gt;Whatever else you say about the game, one thing you have to admit &amp;ndash; Dungeons &amp;amp; Dragons Online has some really cool armor looks. My&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ulan on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/ulan/</link>
+		<description>Recent content in Ulan on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 Oct 2010 06:44:58 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/ulan/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DDO Weekly Recap: Tangleroot Gorge</title>
+				<link>https://tipa16384.github.io/wkblog/2010/10/ddo-weekly-recap-tangleroot-gorge/</link>
+				<pubDate>Mon, 11 Oct 2010 06:44:58 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/10/ddo-weekly-recap-tangleroot-gorge/</guid>
+				<description>&lt;p&gt;Whatever else you say about the game, one thing you have to admit &amp;ndash; Dungeons &amp;amp; Dragons Online has some really cool armor looks. My&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

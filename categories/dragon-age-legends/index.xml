@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dragon Age Legends on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/dragon-age-legends/</link>
-    <description>Recent content in Dragon Age Legends on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 13 May 2011 06:13:34 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/dragon-age-legends/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Daily Blogroll 5/13: Truth in Advertising Edition</title>
-      <link>https://tipa16384.github.io/wkblog/2011/05/daily-blogroll-5/13-truth-in-advertising-edition/</link>
-      <pubDate>Fri, 13 May 2011 06:13:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/05/daily-blogroll-5/13-truth-in-advertising-edition/</guid>
-      <description>&lt;p&gt;One thing you gotta say about Dragon Age Legends: like the single player games upon which its based, in Dragon Age Legends you Get. To&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Entitlement in Dragon Age Legends (and WoW)</title>
-      <link>https://tipa16384.github.io/wkblog/2011/04/entitlement-in-dragon-age-legends-and-wow/</link>
-      <pubDate>Sat, 09 Apr 2011 07:14:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/04/entitlement-in-dragon-age-legends-and-wow/</guid>
-      <description>&lt;p&gt;I was amused to load up Dragon Age Legends last night and find a message urging me to recruit friends to the game and to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dragon Age Legends on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/dragon-age-legends/</link>
+		<description>Recent content in Dragon Age Legends on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 May 2011 06:13:34 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/dragon-age-legends/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Daily Blogroll 5/13: Truth in Advertising Edition</title>
+				<link>https://tipa16384.github.io/wkblog/2011/05/daily-blogroll-513-truth-in-advertising-edition/</link>
+				<pubDate>Fri, 13 May 2011 06:13:34 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/05/daily-blogroll-513-truth-in-advertising-edition/</guid>
+				<description>&lt;p&gt;One thing you gotta say about Dragon Age Legends: like the single player games upon which its based, in Dragon Age Legends you Get. To&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Entitlement in Dragon Age Legends (and WoW)</title>
+				<link>https://tipa16384.github.io/wkblog/2011/04/entitlement-in-dragon-age-legends-and-wow/</link>
+				<pubDate>Sat, 09 Apr 2011 07:14:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/04/entitlement-in-dragon-age-legends-and-wow/</guid>
+				<description>&lt;p&gt;I was amused to load up Dragon Age Legends last night and find a message urging me to recruit friends to the game and to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

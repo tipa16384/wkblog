@@ -1,54 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Atari 2600 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/atari-2600/</link>
-    <description>Recent content in Atari 2600 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 16:44:31 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/atari-2600/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>George Plimpton Has Risen from His Grave</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</link>
-      <pubDate>Fri, 24 May 2024 16:44:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</guid>
-      <description>&lt;p&gt;The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vectrex: The Console You Really Wanted</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</link>
-      <pubDate>Sat, 27 Jan 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t want to blog about my Vectrex just yet, but I&amp;rsquo;m just way to squeee at the moment, so&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Resurrection of the Atari 2600</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/the-resurrection-of-the-atari-2600/</link>
-      <pubDate>Wed, 23 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/the-resurrection-of-the-atari-2600/</guid>
-      <description>&lt;p&gt;No, this isn&amp;rsquo;t about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I&#39;m just here to bring joy and melt your brain.</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</link>
-      <pubDate>Thu, 18 Nov 2021 00:15:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain./</guid>
-      <description>&lt;p&gt;Not necessarily in that order. I have a lot to talk about and I just have to put it down in the blog, and I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hodgepodge: Games, Crypto and NFTs.</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/hodgepodge-games-crypto-and-nfts./</link>
-      <pubDate>Wed, 10 Nov 2021 23:52:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/hodgepodge-games-crypto-and-nfts./</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t have anything long-form to talk about, but there&amp;rsquo;s been a bunch of smaller things. So let&amp;rsquo;s talk about those&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AtariNFT.io -- the dumbest thing Atari has ever done.</title>
-      <link>https://tipa16384.github.io/wkblog/2020/11/atarinft.io--the-dumbest-thing-atari-has-ever-done./</link>
-      <pubDate>Sat, 07 Nov 2020 19:52:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/11/atarinft.io--the-dumbest-thing-atari-has-ever-done./</guid>
-      <description>&lt;p&gt;I hate to be hyperbolic about this. But&amp;hellip; I just can&amp;rsquo;t&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Atari 2600 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/atari-2600/</link>
+		<description>Recent content in Atari 2600 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 27 Aug 2026 07:51:08 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/atari-2600/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Atari: Necromancy as a business model</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/atari-necromancy-as-a-business-model/</link>
+				<pubDate>Thu, 27 Aug 2026 07:51:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/atari-necromancy-as-a-business-model/</guid>
+				<description>&lt;p&gt;Atari is releasing all the old Atari 2600 Activision games &amp;ndash; $1000 for all, $35 for one. But it&amp;rsquo;s worse than it sounds.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>George Plimpton Has Risen from His Grave</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</link>
+				<pubDate>Fri, 24 May 2024 16:44:31 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/george-plimpton-has-risen-from-his-grave/</guid>
+				<description>&lt;p&gt;The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Vectrex: The Console You Really Wanted</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</link>
+				<pubDate>Sat, 27 Jan 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/vectrex-the-console-you-really-wanted/</guid>
+				<description>&lt;p&gt;I didn&amp;rsquo;t want to blog about my Vectrex just yet, but I&amp;rsquo;m just way to squeee at the moment, so&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Resurrection of the Atari 2600</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/the-resurrection-of-the-atari-2600/</link>
+				<pubDate>Wed, 23 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/the-resurrection-of-the-atari-2600/</guid>
+				<description>&lt;p&gt;No, this isn&amp;rsquo;t about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I&#39;m just here to bring joy and melt your brain.</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain/</link>
+				<pubDate>Thu, 18 Nov 2021 00:15:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/im-just-here-to-bring-joy-and-melt-your-brain/</guid>
+				<description>&lt;p&gt;Not necessarily in that order. I have a lot to talk about and I just have to put it down in the blog, and I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hodgepodge: Games, Crypto and NFTs.</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/hodgepodge-games-crypto-and-nfts/</link>
+				<pubDate>Wed, 10 Nov 2021 23:52:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/hodgepodge-games-crypto-and-nfts/</guid>
+				<description>&lt;p&gt;I don&amp;rsquo;t have anything long-form to talk about, but there&amp;rsquo;s been a bunch of smaller things. So let&amp;rsquo;s talk about those&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AtariNFT.io -- the dumbest thing Atari has ever done.</title>
+				<link>https://tipa16384.github.io/wkblog/2020/11/atarinft-io-the-dumbest-thing-atari-has-ever-done/</link>
+				<pubDate>Sat, 07 Nov 2020 19:52:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/11/atarinft-io-the-dumbest-thing-atari-has-ever-done/</guid>
+				<description>&lt;p&gt;I hate to be hyperbolic about this. But&amp;hellip; I just can&amp;rsquo;t&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

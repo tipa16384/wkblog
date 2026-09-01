@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Minecraft on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/minecraft/</link>
-    <description>Recent content in Minecraft on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/minecraft/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>EverCraft Online: The Unholy Child of EQ and MineCraft</title>
-      <link>https://tipa16384.github.io/wkblog/2024/10/evercraft-online-the-unholy-child-of-eq-and-minecraft/</link>
-      <pubDate>Mon, 21 Oct 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/10/evercraft-online-the-unholy-child-of-eq-and-minecraft/</guid>
-      <description>&lt;p&gt;Not a MineCraft mod, ECO brings back the 1999 experience in style &amp;ndash; block style.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What makes an MMO an MMO?</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</link>
-      <pubDate>Wed, 09 Sep 2020 07:54:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</guid>
-      <description>&lt;p&gt;Yesterday, &amp;ldquo;Kingdoms of Amalur: The Re-Reckoning&amp;rdquo;, an update of 2012&amp;rsquo;s &amp;ldquo;Kingdoms of Amalur: The Reckoning&amp;rdquo; was released. It&amp;rsquo;s a refresh of a game that seemed&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ Nostalgia: Old Freeport in Minecraft</title>
-      <link>https://tipa16384.github.io/wkblog/2011/06/eq-nostalgia-old-freeport-in-minecraft/</link>
-      <pubDate>Fri, 24 Jun 2011 06:08:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2011/06/eq-nostalgia-old-freeport-in-minecraft/</guid>
-      <description>&lt;p&gt;For all those old EverQuesties who remember the glory of Freeport before it was ruined and destroyed in the Prophecy of Ro expansion, Utenan1 has&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Learning to mod: Minecraft!</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/learning-to-mod-minecraft/</link>
-      <pubDate>Sun, 07 Nov 2010 15:51:44 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/learning-to-mod-minecraft/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Minecraft: House of the Day #4 -- Druid Ring</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/minecraft-house-of-the-day-%234--druid-ring/</link>
-      <pubDate>Fri, 05 Nov 2010 21:43:40 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/minecraft-house-of-the-day-%234--druid-ring/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is your teenager a Minecraft addict?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</link>
-      <pubDate>Wed, 03 Nov 2010 23:08:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Star Trek Online, Minecraft, Treasure Abyss</title>
-      <link>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-minecraft-treasure-abyss/</link>
-      <pubDate>Fri, 01 Oct 2010 07:02:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-minecraft-treasure-abyss/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Minecraft on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/minecraft/</link>
+		<description>Recent content in Minecraft on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 21 Oct 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/minecraft/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverCraft Online: The Unholy Child of EQ and MineCraft</title>
+				<link>https://tipa16384.github.io/wkblog/2024/10/evercraft-online-the-unholy-child-of-eq-and-minecraft/</link>
+				<pubDate>Mon, 21 Oct 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/10/evercraft-online-the-unholy-child-of-eq-and-minecraft/</guid>
+				<description>&lt;p&gt;Not a MineCraft mod, ECO brings back the 1999 experience in style &amp;ndash; block style.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What makes an MMO an MMO?</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</link>
+				<pubDate>Wed, 09 Sep 2020 07:54:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/what-makes-an-mmo-an-mmo/</guid>
+				<description>&lt;p&gt;Yesterday, &amp;ldquo;Kingdoms of Amalur: The Re-Reckoning&amp;rdquo;, an update of 2012&amp;rsquo;s &amp;ldquo;Kingdoms of Amalur: The Reckoning&amp;rdquo; was released. It&amp;rsquo;s a refresh of a game that seemed&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ Nostalgia: Old Freeport in Minecraft</title>
+				<link>https://tipa16384.github.io/wkblog/2011/06/eq-nostalgia-old-freeport-in-minecraft/</link>
+				<pubDate>Fri, 24 Jun 2011 06:08:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2011/06/eq-nostalgia-old-freeport-in-minecraft/</guid>
+				<description>&lt;p&gt;For all those old EverQuesties who remember the glory of Freeport before it was ruined and destroyed in the Prophecy of Ro expansion, Utenan1 has&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Learning to mod: Minecraft!</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/learning-to-mod-minecraft/</link>
+				<pubDate>Sun, 07 Nov 2010 15:51:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/learning-to-mod-minecraft/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Minecraft: House of the Day #4 -- Druid Ring</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/minecraft-house-of-the-day-4-druid-ring/</link>
+				<pubDate>Fri, 05 Nov 2010 21:43:40 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/minecraft-house-of-the-day-4-druid-ring/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Is your teenager a Minecraft addict?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</link>
+				<pubDate>Wed, 03 Nov 2010 23:08:34 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Star Trek Online, Minecraft, Treasure Abyss</title>
+				<link>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-minecraft-treasure-abyss/</link>
+				<pubDate>Fri, 01 Oct 2010 07:02:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/10/star-trek-online-minecraft-treasure-abyss/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>FTL on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/ftl/</link>
-    <description>Recent content in FTL on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Oct 2012 06:21:15 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/ftl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Game Log: Pirate101, FTL</title>
-      <link>https://tipa16384.github.io/wkblog/2012/10/game-log-pirate101-ftl/</link>
-      <pubDate>Fri, 12 Oct 2012 06:21:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/10/game-log-pirate101-ftl/</guid>
-      <description>&lt;p&gt;I met up with Friendly Thomas and Eccentric Austin Ornsley last night for a little soiree on the decks of Austin&amp;rsquo;s galleon. On the POOP&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>FTL on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/ftl/</link>
+		<description>Recent content in FTL on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 12 Oct 2012 06:21:15 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/ftl/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Game Log: Pirate101, FTL</title>
+				<link>https://tipa16384.github.io/wkblog/2012/10/game-log-pirate101-ftl/</link>
+				<pubDate>Fri, 12 Oct 2012 06:21:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/10/game-log-pirate101-ftl/</guid>
+				<description>&lt;p&gt;I met up with Friendly Thomas and Eccentric Austin Ornsley last night for a little soiree on the decks of Austin&amp;rsquo;s galleon. On the POOP&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

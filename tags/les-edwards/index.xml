@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Les Edwards on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/les-edwards/</link>
-    <description>Recent content in Les Edwards on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/les-edwards/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HeroQuest: The Trial</title>
-      <link>https://tipa16384.github.io/wkblog/2023/10/heroquest-the-trial/</link>
-      <pubDate>Tue, 17 Oct 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/10/heroquest-the-trial/</guid>
-      <description>&lt;p&gt;We played the modern reprinting of the classic adventure game, HeroQuest. Even the first adventure may have been too much for our brave crew.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Les Edwards on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/les-edwards/</link>
+		<description>Recent content in Les Edwards on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Oct 2023 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/les-edwards/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>HeroQuest: The Trial</title>
+				<link>https://tipa16384.github.io/wkblog/2023/10/heroquest-the-trial/</link>
+				<pubDate>Tue, 17 Oct 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/10/heroquest-the-trial/</guid>
+				<description>&lt;p&gt;We played the modern reprinting of the classic adventure game, HeroQuest. Even the first adventure may have been too much for our brave crew.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

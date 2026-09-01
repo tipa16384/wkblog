@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Golemizer on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/golemizer/</link>
-    <description>Recent content in Golemizer on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 2008 00:49:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/golemizer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Golemizer -- first look</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/golemizer--first-look/</link>
-      <pubDate>Wed, 17 Sep 2008 00:49:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/golemizer--first-look/</guid>
-      <description>&lt;p&gt;Just an update to the previous post. I had a chance to walk through a little bit of Golemizer, the AJAX/JavaScript-based MMO where you craft&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Golemizer -- ruling the world through mad science</title>
-      <link>https://tipa16384.github.io/wkblog/2008/09/golemizer--ruling-the-world-through-mad-science/</link>
-      <pubDate>Tue, 16 Sep 2008 13:30:21 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/09/golemizer--ruling-the-world-through-mad-science/</guid>
-      <description>&lt;p&gt;From the press release (at work, so just cut/paste, haven&amp;rsquo;t played yet). Looks from the screenshots like an old Super Nintendo-like RPG. You create golems&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Golemizer on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/golemizer/</link>
+		<description>Recent content in Golemizer on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 17 Sep 2008 00:49:20 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/golemizer/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Golemizer -- first look</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/golemizer-first-look/</link>
+				<pubDate>Wed, 17 Sep 2008 00:49:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/golemizer-first-look/</guid>
+				<description>&lt;p&gt;Just an update to the previous post. I had a chance to walk through a little bit of Golemizer, the AJAX/JavaScript-based MMO where you craft&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Golemizer -- ruling the world through mad science</title>
+				<link>https://tipa16384.github.io/wkblog/2008/09/golemizer-ruling-the-world-through-mad-science/</link>
+				<pubDate>Tue, 16 Sep 2008 13:30:21 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/09/golemizer-ruling-the-world-through-mad-science/</guid>
+				<description>&lt;p&gt;From the press release (at work, so just cut/paste, haven&amp;rsquo;t played yet). Looks from the screenshots like an old Super Nintendo-like RPG. You create golems&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

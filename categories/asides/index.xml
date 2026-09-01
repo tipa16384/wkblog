@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Asides on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/asides/</link>
-    <description>Recent content in Asides on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 23:16:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/asides/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Destructive Parasocial Relationship with TopWar: BattleGame.</title>
-      <link>https://tipa16384.github.io/wkblog/2022/03/my-destructive-parasocial-relationship-with-topwar-battlegame./</link>
-      <pubDate>Wed, 23 Mar 2022 23:16:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/03/my-destructive-parasocial-relationship-with-topwar-battlegame./</guid>
-      <description>&lt;p&gt;Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wombo.art -- create abstract fantasy art</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/wombo.art--create-abstract-fantasy-art/</link>
-      <pubDate>Sat, 27 Nov 2021 10:47:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/wombo.art--create-abstract-fantasy-art/</guid>
-      <description>&lt;p&gt;Creating portraits with artflow.ai? Old news. Creating abstract fantasy paintings with wombo.art &amp;ndash; now we&amp;rsquo;re talking&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>I&#39;m a little obsessed with this AI portrait generator</title>
-      <link>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</link>
-      <pubDate>Fri, 12 Nov 2021 07:27:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s at artflow.ai &amp;ndash; you type in a description of the portrait you want, and out comes a portrait of someone who never was. The&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Back to my old theme...</title>
-      <link>https://tipa16384.github.io/wkblog/2014/12/back-to-my-old-theme.../</link>
-      <pubDate>Sat, 20 Dec 2014 13:25:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2014/12/back-to-my-old-theme.../</guid>
-      <description>&lt;p&gt;Yay! Back to rotating through my old original EverQuest image collection. We&amp;rsquo;ll try that out for awhile&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Yummy!</title>
-      <link>https://tipa16384.github.io/wkblog/2010/12/yummy/</link>
-      <pubDate>Mon, 20 Dec 2010 10:15:39 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/12/yummy/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adventures in Computer Science: Monopoly board computer</title>
-      <link>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</link>
-      <pubDate>Sun, 31 May 2009 08:33:15 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</guid>
-      <description>&lt;p&gt;Yesterday, Bear was caught in a bind because he didn&amp;rsquo;t have a computer to run the Champions Online beta. He didn&amp;rsquo;t know that he was&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>People I don&#39;t like much anymore.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/01/people-i-dont-like-much-anymore./</link>
-      <pubDate>Mon, 07 Jan 2008 09:03:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/01/people-i-dont-like-much-anymore./</guid>
-      <description>&lt;p&gt;A little list of people I don&amp;rsquo;t like as much as I used to&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What a wonderful post! Ah, it was a great Tuesday !</title>
-      <link>https://tipa16384.github.io/wkblog/2007/12/what-a-wonderful-post-ah-it-was-a-great-tuesday/</link>
-      <pubDate>Tue, 04 Dec 2007 13:58:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/12/what-a-wonderful-post-ah-it-was-a-great-tuesday/</guid>
-      <description>&lt;p&gt;I just get a kick out of my comment spammers. I just loves them to death, always right there for me, telling me what a&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OMG Blizzard merged with Activision!</title>
-      <link>https://tipa16384.github.io/wkblog/2007/12/omg-blizzard-merged-with-activision/</link>
-      <pubDate>Sun, 02 Dec 2007 20:36:26 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/12/omg-blizzard-merged-with-activision/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t care, but I just felt I should say something about it&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Slow Glass</title>
-      <link>https://tipa16384.github.io/wkblog/2007/11/slow-glass/</link>
-      <pubDate>Mon, 19 Nov 2007 17:01:53 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2007/11/slow-glass/</guid>
-      <description>&lt;p&gt;Researches in Surrey, England, have discovered how to slow light down and trap it in glass. I was immediately reminded of a story by one&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Asides on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/asides/</link>
+		<description>Recent content in Asides on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 23 Mar 2022 23:16:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/asides/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Destructive Parasocial Relationship with TopWar: BattleGame.</title>
+				<link>https://tipa16384.github.io/wkblog/2022/03/my-destructive-parasocial-relationship-with-topwar-battlegame/</link>
+				<pubDate>Wed, 23 Mar 2022 23:16:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/03/my-destructive-parasocial-relationship-with-topwar-battlegame/</guid>
+				<description>&lt;p&gt;Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wombo.art -- create abstract fantasy art</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/wombo-art-create-abstract-fantasy-art/</link>
+				<pubDate>Sat, 27 Nov 2021 10:47:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/wombo-art-create-abstract-fantasy-art/</guid>
+				<description>&lt;p&gt;Creating portraits with artflow.ai? Old news. Creating abstract fantasy paintings with wombo.art &amp;ndash; now we&amp;rsquo;re talking&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>I&#39;m a little obsessed with this AI portrait generator</title>
+				<link>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</link>
+				<pubDate>Fri, 12 Nov 2021 07:27:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/11/im-a-little-obsessed-with-this-ai-portrait-generator/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s at artflow.ai &amp;ndash; you type in a description of the portrait you want, and out comes a portrait of someone who never was. The&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Back to my old theme...</title>
+				<link>https://tipa16384.github.io/wkblog/2014/12/back-to-my-old-theme/</link>
+				<pubDate>Sat, 20 Dec 2014 13:25:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2014/12/back-to-my-old-theme/</guid>
+				<description>&lt;p&gt;Yay! Back to rotating through my old original EverQuest image collection. We&amp;rsquo;ll try that out for awhile&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Yummy!</title>
+				<link>https://tipa16384.github.io/wkblog/2010/12/yummy/</link>
+				<pubDate>Mon, 20 Dec 2010 10:15:39 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/12/yummy/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Adventures in Computer Science: Monopoly board computer</title>
+				<link>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</link>
+				<pubDate>Sun, 31 May 2009 08:33:15 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/05/adventures-in-computer-science-monopoly-board-computer/</guid>
+				<description>&lt;p&gt;Yesterday, Bear was caught in a bind because he didn&amp;rsquo;t have a computer to run the Champions Online beta. He didn&amp;rsquo;t know that he was&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>People I don&#39;t like much anymore.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/01/people-i-dont-like-much-anymore/</link>
+				<pubDate>Mon, 07 Jan 2008 09:03:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/01/people-i-dont-like-much-anymore/</guid>
+				<description>&lt;p&gt;A little list of people I don&amp;rsquo;t like as much as I used to&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What a wonderful post! Ah, it was a great Tuesday !</title>
+				<link>https://tipa16384.github.io/wkblog/2007/12/what-a-wonderful-post-ah-it-was-a-great-tuesday/</link>
+				<pubDate>Tue, 04 Dec 2007 13:58:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/12/what-a-wonderful-post-ah-it-was-a-great-tuesday/</guid>
+				<description>&lt;p&gt;I just get a kick out of my comment spammers. I just loves them to death, always right there for me, telling me what a&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>OMG Blizzard merged with Activision!</title>
+				<link>https://tipa16384.github.io/wkblog/2007/12/omg-vivendi-bought-activision/</link>
+				<pubDate>Sun, 02 Dec 2007 20:36:26 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/12/omg-vivendi-bought-activision/</guid>
+				<description>&lt;p&gt;I don&amp;rsquo;t care, but I just felt I should say something about it&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Slow Glass</title>
+				<link>https://tipa16384.github.io/wkblog/2007/11/slow-glass/</link>
+				<pubDate>Mon, 19 Nov 2007 17:01:53 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2007/11/slow-glass/</guid>
+				<description>&lt;p&gt;Researches in Surrey, England, have discovered how to slow light down and trap it in glass. I was immediately reminded of a story by one&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Funspot on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/funspot/</link>
-    <description>Recent content in Funspot on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Aug 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/funspot/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Twelve Angry Zoos</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/twelve-angry-zoos/</link>
-      <pubDate>Fri, 12 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/twelve-angry-zoos/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Twelve Angry Zoos&amp;rdquo; is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there&amp;rsquo;s plenty of gameplay to keep you entertained.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Funspot on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/funspot/</link>
+		<description>Recent content in Funspot on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 12 Aug 2022 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/funspot/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Twelve Angry Zoos</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/twelve-angry-zoos/</link>
+				<pubDate>Fri, 12 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/twelve-angry-zoos/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Twelve Angry Zoos&amp;rdquo; is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there&amp;rsquo;s plenty of gameplay to keep you entertained.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

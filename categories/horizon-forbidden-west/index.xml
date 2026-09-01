@@ -1,68 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Horizon Forbidden West on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/horizon-forbidden-west/</link>
-    <description>Recent content in Horizon Forbidden West on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2024 14:12:02 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/horizon-forbidden-west/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LEGO Horizon Adventures</title>
-      <link>https://tipa16384.github.io/wkblog/2024/11/lego-horizon-adventures/</link>
-      <pubDate>Sat, 23 Nov 2024 14:12:02 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/11/lego-horizon-adventures/</guid>
-      <description>&lt;p&gt;I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LEGO Thunderjaw: Finally mostly complete!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/lego-thunderjaw-finally-mostly-complete/</link>
-      <pubDate>Sun, 29 Sep 2024 15:06:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/lego-thunderjaw-finally-mostly-complete/</guid>
-      <description>&lt;p&gt;Don&amp;rsquo;t look at it too hard, pieces will start falling off. In fact, don&amp;rsquo;t even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</link>
-      <pubDate>Mon, 09 Sep 2024 08:13:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</guid>
-      <description>&lt;p&gt;I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building Thunderjaw — Day 1</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</link>
-      <pubDate>Mon, 26 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</guid>
-      <description>&lt;p&gt;My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>It&#39;s my birthday, but *I* get the presents!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/its-my-birthday-but-i-get-the-presents/</link>
-      <pubDate>Fri, 09 Aug 2024 07:30:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/its-my-birthday-but-i-get-the-presents/</guid>
-      <description>&lt;p&gt;My boyfriend knows exactly the kind of stuff I love, but you&amp;rsquo;d expect that. Read on for why all this stuff is SO FREAKIN&amp;rsquo; COOL.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LEGO Tallneck &#43; Lightailing lighting kit</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/lego-tallneck--lightailing-lighting-kit/</link>
-      <pubDate>Sun, 07 Jan 2024 13:49:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/lego-tallneck--lightailing-lighting-kit/</guid>
-      <description>&lt;p&gt;I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Horizon Forbidden West: Aloy Finds Love</title>
-      <link>https://tipa16384.github.io/wkblog/2023/04/horizon-forbidden-west-aloy-finds-love/</link>
-      <pubDate>Sun, 23 Apr 2023 15:18:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/04/horizon-forbidden-west-aloy-finds-love/</guid>
-      <description>&lt;p&gt;After their meeting in Frozen Wilds, I never expected to see Gildun again &amp;ndash; but when he appeared again in the first DLC for Horizon&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What if Elden, but Ring?</title>
-      <link>https://tipa16384.github.io/wkblog/2022/05/what-if-elden-but-ring/</link>
-      <pubDate>Mon, 30 May 2022 23:44:51 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/05/what-if-elden-but-ring/</guid>
-      <description>&lt;p&gt;I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Horizon Forbidden West on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/horizon-forbidden-west/</link>
+		<description>Recent content in Horizon Forbidden West on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 09 Apr 2026 10:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/horizon-forbidden-west/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Pokopia Zero Dawn</title>
+				<link>https://tipa16384.github.io/wkblog/2026/04/pokopia-zero-dawn/</link>
+				<pubDate>Thu, 09 Apr 2026 10:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/04/pokopia-zero-dawn/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s a chair at the top of a spire of scrap metal in Pokopia. The chair faces the sea. It was here that the last human in the world sat in wait for the towering tidal wave that would finish wiping all life from the face of the planet. Spoilers inside.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>LEGO Horizon Adventures</title>
+				<link>https://tipa16384.github.io/wkblog/2024/11/lego-horizon-adventures/</link>
+				<pubDate>Sat, 23 Nov 2024 14:12:02 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/11/lego-horizon-adventures/</guid>
+				<description>&lt;p&gt;I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>LEGO Thunderjaw: Finally mostly complete!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/lego-thunderjaw-finally-mostly-complete/</link>
+				<pubDate>Sun, 29 Sep 2024 15:06:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/lego-thunderjaw-finally-mostly-complete/</guid>
+				<description>&lt;p&gt;Don&amp;rsquo;t look at it too hard, pieces will start falling off. In fact, don&amp;rsquo;t even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</link>
+				<pubDate>Mon, 09 Sep 2024 08:13:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/</guid>
+				<description>&lt;p&gt;I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Building Thunderjaw — Day 1</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</link>
+				<pubDate>Mon, 26 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/building-thunderjaw-day-1/</guid>
+				<description>&lt;p&gt;My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>It&#39;s my birthday, but *I* get the presents!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/its-my-birthday-but-i-get-the-presents/</link>
+				<pubDate>Fri, 09 Aug 2024 07:30:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/its-my-birthday-but-i-get-the-presents/</guid>
+				<description>&lt;p&gt;My boyfriend knows exactly the kind of stuff I love, but you&amp;rsquo;d expect that. Read on for why all this stuff is SO FREAKIN&amp;rsquo; COOL.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>LEGO Tallneck &#43; Lightailing lighting kit</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/lego-tallneck-lightailing-lighting-kit/</link>
+				<pubDate>Sun, 07 Jan 2024 13:49:13 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/lego-tallneck-lightailing-lighting-kit/</guid>
+				<description>&lt;p&gt;I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Horizon Forbidden West: Aloy Finds Love</title>
+				<link>https://tipa16384.github.io/wkblog/2023/04/horizon-forbidden-west-aloy-finds-love/</link>
+				<pubDate>Sun, 23 Apr 2023 15:18:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/04/horizon-forbidden-west-aloy-finds-love/</guid>
+				<description>&lt;p&gt;After their meeting in Frozen Wilds, I never expected to see Gildun again &amp;ndash; but when he appeared again in the first DLC for Horizon&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>What if Elden, but Ring?</title>
+				<link>https://tipa16384.github.io/wkblog/2022/05/what-if-elden-but-ring/</link>
+				<pubDate>Mon, 30 May 2022 23:44:51 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/05/what-if-elden-but-ring/</guid>
+				<description>&lt;p&gt;I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

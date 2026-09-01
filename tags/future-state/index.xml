@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Future State on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/future-state/</link>
-    <description>Recent content in Future State on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2023 08:25:03 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/future-state/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>No kidding: I bought (and sold) an NFT.</title>
-      <link>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft./</link>
-      <pubDate>Fri, 27 Jan 2023 08:25:03 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft./</guid>
-      <description>&lt;p&gt;Turns out there might be at least one use case for the things.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Future State on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/future-state/</link>
+		<description>Recent content in Future State on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 Jan 2023 08:25:03 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/future-state/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>No kidding: I bought (and sold) an NFT.</title>
+				<link>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft/</link>
+				<pubDate>Fri, 27 Jan 2023 08:25:03 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/01/no-kidding-i-bought-and-sold-an-nft/</guid>
+				<description>&lt;p&gt;Turns out there might be at least one use case for the things.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

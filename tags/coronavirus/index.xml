@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Coronavirus on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/coronavirus/</link>
-    <description>Recent content in Coronavirus on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2020 07:28:27 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blaugust #25: Blogging in a Time of Corona</title>
-      <link>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2325-blogging-in-a-time-of-corona/</link>
-      <pubDate>Tue, 25 Aug 2020 07:28:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/08/blaugust-%2325-blogging-in-a-time-of-corona/</guid>
-      <description>&lt;p&gt;I thought I was so incredibly original when I started using the tag #loveinatimeofcorona on all my Instagram posts back at the beginning of the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Coronavirus on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/coronavirus/</link>
+		<description>Recent content in Coronavirus on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 25 Aug 2020 07:28:27 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blaugust #25: Blogging in a Time of Corona</title>
+				<link>https://tipa16384.github.io/wkblog/2020/08/blaugust-25-blogging-in-a-time-of-corona/</link>
+				<pubDate>Tue, 25 Aug 2020 07:28:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/08/blaugust-25-blogging-in-a-time-of-corona/</guid>
+				<description>&lt;p&gt;I thought I was so incredibly original when I started using the tag #loveinatimeofcorona on all my Instagram posts back at the beginning of the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

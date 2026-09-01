@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Halloween on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/halloween/</link>
-    <description>Recent content in Halloween on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Nov 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/halloween/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Malifaux-ing in Massachusetts</title>
-      <link>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massachusetts/</link>
-      <pubDate>Mon, 04 Nov 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massachusetts/</guid>
-      <description>&lt;p&gt;To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>This Halloween, Erenshor Gets Spooky!</title>
-      <link>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</link>
-      <pubDate>Sat, 14 Sep 2024 18:37:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</guid>
-      <description>&lt;p&gt;I can see this becoming a good &amp;ldquo;I got half an hour, I&amp;rsquo;ll just do this dungeon&amp;rdquo; game.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is your teenager a Minecraft addict?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</link>
-      <pubDate>Wed, 03 Nov 2010 23:08:34 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</guid>
-      <description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard 101: I am finally free.</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/wizard-101-i-am-finally-free./</link>
-      <pubDate>Fri, 14 Nov 2008 10:00:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/wizard-101-i-am-finally-free./</guid>
-      <description>&lt;p&gt;No, really. Since I learned that the Master&amp;rsquo;s Tower, one of the three towers in that floating castle, dropped an extremely rare pet, I&amp;rsquo;ve had&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EQ2: The Loping Plains Haunted House. Scared yet?</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/eq2-the-loping-plains-haunted-house.-scared-yet/</link>
-      <pubDate>Fri, 24 Oct 2008 08:31:11 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/eq2-the-loping-plains-haunted-house.-scared-yet/</guid>
-      <description>&lt;p&gt;Loping Plains hasn&amp;rsquo;t seen THIS much action since the Freethinkers threw that Christmas party and the Pumpkin-Headed Horseman barfed seeds and pulp all over Mayong&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>W101: Hallowe&#39;en in Wizard City (and October patch notes)</title>
-      <link>https://tipa16384.github.io/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
-      <pubDate>Mon, 13 Oct 2008 08:42:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
-      <description>&lt;p&gt;I didn&amp;rsquo;t intend to spend all night playing Wizard 101, but after I finished the Hallowe&amp;rsquo;en quests and finished the Krokotopia quests I&amp;rsquo;d ignored to&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Halloween on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/halloween/</link>
+		<description>Recent content in Halloween on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 04 Nov 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/halloween/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Malifaux-ing in Massachusetts</title>
+				<link>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massacusetts/</link>
+				<pubDate>Mon, 04 Nov 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/11/malifaux-ing-in-massacusetts/</guid>
+				<description>&lt;p&gt;To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>This Halloween, Erenshor Gets Spooky!</title>
+				<link>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</link>
+				<pubDate>Sat, 14 Sep 2024 18:37:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/09/this-halloween-erenshor-gets-spooky/</guid>
+				<description>&lt;p&gt;I can see this becoming a good &amp;ldquo;I got half an hour, I&amp;rsquo;ll just do this dungeon&amp;rdquo; game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Is your teenager a Minecraft addict?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</link>
+				<pubDate>Wed, 03 Nov 2010 23:08:34 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/11/is-your-teenager-a-minecraft-addict/</guid>
+				<description>&lt;p&gt;[&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Wizard 101: I am finally free.</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/wizard-101-i-am-finally-free/</link>
+				<pubDate>Fri, 14 Nov 2008 10:00:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/wizard-101-i-am-finally-free/</guid>
+				<description>&lt;p&gt;No, really. Since I learned that the Master&amp;rsquo;s Tower, one of the three towers in that floating castle, dropped an extremely rare pet, I&amp;rsquo;ve had&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EQ2: The Loping Plains Haunted House. Scared yet?</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/eq2-the-loping-plains-haunted-house-scared-yet/</link>
+				<pubDate>Fri, 24 Oct 2008 08:31:11 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/eq2-the-loping-plains-haunted-house-scared-yet/</guid>
+				<description>&lt;p&gt;Loping Plains hasn&amp;rsquo;t seen THIS much action since the Freethinkers threw that Christmas party and the Pumpkin-Headed Horseman barfed seeds and pulp all over Mayong&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>W101: Hallowe&#39;en in Wizard City (and October patch notes)</title>
+				<link>https://tipa16384.github.io/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
+				<pubDate>Mon, 13 Oct 2008 08:42:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/10/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
+				<description>&lt;p&gt;I didn&amp;rsquo;t intend to spend all night playing Wizard 101, but after I finished the Hallowe&amp;rsquo;en quests and finished the Krokotopia quests I&amp;rsquo;d ignored to&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>TinyGame2010 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/tinygame2010/</link>
-    <description>Recent content in TinyGame2010 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2010 18:50:35 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/tinygame2010/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What? A new game programming challenge?</title>
-      <link>https://tipa16384.github.io/wkblog/2010/05/what-a-new-game-programming-challenge/</link>
-      <pubDate>Wed, 12 May 2010 18:50:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/05/what-a-new-game-programming-challenge/</guid>
-      <description>&lt;p&gt;Via Slashie of Temple of the Roguelike, news of a NEW game programming challenge: Tiny Game 2010&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>TinyGame2010 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/tinygame2010/</link>
+		<description>Recent content in TinyGame2010 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 12 May 2010 18:50:35 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/tinygame2010/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>What? A new game programming challenge?</title>
+				<link>https://tipa16384.github.io/wkblog/2010/05/what-a-new-game-programming-challenge/</link>
+				<pubDate>Wed, 12 May 2010 18:50:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/05/what-a-new-game-programming-challenge/</guid>
+				<description>&lt;p&gt;Via Slashie of Temple of the Roguelike, news of a NEW game programming challenge: Tiny Game 2010&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

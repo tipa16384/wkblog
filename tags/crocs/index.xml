@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crocs on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/crocs/</link>
-    <description>Recent content in Crocs on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/crocs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Retro World Expo 2024: Adventure Awaits</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
-      <pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My short, brief history with Crocs</title>
-      <link>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</link>
-      <pubDate>Wed, 21 Aug 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</guid>
-      <description>&lt;p&gt;My son refuses to be seen with me while wearing them. It&amp;rsquo;s like wearing a scarlet letter. But they are soooo cool.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Crocs on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/crocs/</link>
+		<description>Recent content in Crocs on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 25 Aug 2024 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/crocs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retro World Expo 2024: Adventure Awaits</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</link>
+				<pubDate>Sun, 25 Aug 2024 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/retro-world-expo-2024-adventure-awaits/</guid>
+				<description>&lt;p&gt;That&amp;rsquo;s another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My short, brief history with Crocs</title>
+				<link>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</link>
+				<pubDate>Wed, 21 Aug 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/08/my-short-brief-history-with-crocs/</guid>
+				<description>&lt;p&gt;My son refuses to be seen with me while wearing them. It&amp;rsquo;s like wearing a scarlet letter. But they are soooo cool.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

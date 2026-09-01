@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mad Catz on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/mad-catz/</link>
-    <description>Recent content in Mad Catz on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2008 15:06:01 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/mad-catz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rock Band 2 controllers blur the line between real band and fake band</title>
-      <link>https://tipa16384.github.io/wkblog/2008/07/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/</link>
-      <pubDate>Thu, 17 Jul 2008 15:06:01 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/07/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/</guid>
-      <description>&lt;p&gt;So, just saw on Engadget that Mad Catz is gonna take an actual real electric guitar and turn it into a Rock Band 2 controller&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mad Catz on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/mad-catz/</link>
+		<description>Recent content in Mad Catz on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 17 Jul 2008 15:06:01 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/mad-catz/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rock Band 2 controllers blur the line between real band and fake band</title>
+				<link>https://tipa16384.github.io/wkblog/2008/07/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/</link>
+				<pubDate>Thu, 17 Jul 2008 15:06:01 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/07/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/</guid>
+				<description>&lt;p&gt;So, just saw on Engadget that Mad Catz is gonna take an actual real electric guitar and turn it into a Rock Band 2 controller&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

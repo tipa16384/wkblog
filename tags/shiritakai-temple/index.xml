@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shiritakai Temple on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/shiritakai-temple/</link>
-    <description>Recent content in Shiritakai Temple on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2008 09:51:20 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/shiritakai-temple/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard 101: Shiritaki Temple and the Plague Oni</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/wizard-101-shiritaki-temple-and-the-plague-oni/</link>
-      <pubDate>Mon, 03 Nov 2008 09:51:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/wizard-101-shiritaki-temple-and-the-plague-oni/</guid>
-      <description>&lt;p&gt;Well, apparently, all the demons in Wizard 101 are elephants. Who knew? The Plague Oni went down in the concentrated fire of three wizards after&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Shiritakai Temple on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/shiritakai-temple/</link>
+		<description>Recent content in Shiritakai Temple on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 03 Nov 2008 09:51:20 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/shiritakai-temple/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard 101: Shiritaki Temple and the Plague Oni</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/wizard-101-shiritakai-temple-and-the-plague-oni/</link>
+				<pubDate>Mon, 03 Nov 2008 09:51:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/wizard-101-shiritakai-temple-and-the-plague-oni/</guid>
+				<description>&lt;p&gt;Well, apparently, all the demons in Wizard 101 are elephants. Who knew? The Plague Oni went down in the concentrated fire of three wizards after&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Of Bajor on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/of-bajor/</link>
-    <description>Recent content in Of Bajor on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2012 00:50:13 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/of-bajor/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>STO: &#34;Of Bajor&#34;</title>
-      <link>https://tipa16384.github.io/wkblog/2012/02/sto-of-bajor/</link>
-      <pubDate>Tue, 21 Feb 2012 00:50:13 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2012/02/sto-of-bajor/</guid>
-      <description>&lt;p&gt;Haven&amp;rsquo;t done a comic in forever!&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Of Bajor on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/of-bajor/</link>
+		<description>Recent content in Of Bajor on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Feb 2012 00:50:13 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/of-bajor/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>STO: &#34;Of Bajor&#34;</title>
+				<link>https://tipa16384.github.io/wkblog/2012/02/sto-of-bajor/</link>
+				<pubDate>Tue, 21 Feb 2012 00:50:13 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2012/02/sto-of-bajor/</guid>
+				<description>&lt;p&gt;Haven&amp;rsquo;t done a comic in forever!&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

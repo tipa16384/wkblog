@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jagged Shoals on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/jagged-shoals/</link>
-    <description>Recent content in Jagged Shoals on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jul 2025 08:01:31 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/jagged-shoals/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Frosthaven Scenario 14: Jagged Shoals</title>
-      <link>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</link>
-      <pubDate>Thu, 10 Jul 2025 08:01:31 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</guid>
-      <description>&lt;p&gt;They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Jagged Shoals on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/jagged-shoals/</link>
+		<description>Recent content in Jagged Shoals on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Jul 2025 08:01:31 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/jagged-shoals/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Frosthaven Scenario 14: Jagged Shoals</title>
+				<link>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</link>
+				<pubDate>Thu, 10 Jul 2025 08:01:31 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/07/frosthaven-scenario-14-jagged-shoals/</guid>
+				<description>&lt;p&gt;They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

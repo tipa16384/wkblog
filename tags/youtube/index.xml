@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>YouTube on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/youtube/</link>
-    <description>Recent content in YouTube on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 07:50:22 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kingdoms of Amalur: I have never actually played this game</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</link>
-      <pubDate>Mon, 28 Sep 2020 07:50:22 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kingdoms of Amalur: Twitch combat</title>
-      <link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</link>
-      <pubDate>Wed, 23 Sep 2020 07:57:50 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</guid>
-      <description>&lt;p&gt;This post today isn&amp;rsquo;t actually about Kingdoms of Amalur: Re-Reckoning. Mostly&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>YouTube on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/youtube/</link>
+		<description>Recent content in YouTube on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 28 Sep 2020 07:50:22 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kingdoms of Amalur: I have never actually played this game</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</link>
+				<pubDate>Mon, 28 Sep 2020 07:50:22 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-i-have-never-actually-played-this-game/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;ve uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Kingdoms of Amalur: Twitch combat</title>
+				<link>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</link>
+				<pubDate>Wed, 23 Sep 2020 07:57:50 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2020/09/kingdoms-of-amalur-twitch-combat/</guid>
+				<description>&lt;p&gt;This post today isn&amp;rsquo;t actually about Kingdoms of Amalur: Re-Reckoning. Mostly&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

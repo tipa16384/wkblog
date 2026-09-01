@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Oracle on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/oracle/</link>
-    <description>Recent content in Oracle on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2009 00:28:18 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adventures in Monopoly: Oracle, Part II</title>
-      <link>https://tipa16384.github.io/wkblog/2009/03/adventures-in-monopoly-oracle-part-ii/</link>
-      <pubDate>Mon, 09 Mar 2009 00:28:18 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/03/adventures-in-monopoly-oracle-part-ii/</guid>
-      <description>&lt;p&gt;Last week, a magical Scrabble board intervened in a fight between Bear and Scottie before the wielding of the mystic forces each command could tear&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Oracle on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/oracle/</link>
+		<description>Recent content in Oracle on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Mar 2009 00:28:18 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Adventures in Monopoly: Oracle, Part II</title>
+				<link>https://tipa16384.github.io/wkblog/2009/03/adventures-in-monopoly-oracle-part-ii/</link>
+				<pubDate>Mon, 09 Mar 2009 00:28:18 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/03/adventures-in-monopoly-oracle-part-ii/</guid>
+				<description>&lt;p&gt;Last week, a magical Scrabble board intervened in a fight between Bear and Scottie before the wielding of the mystic forces each command could tear&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

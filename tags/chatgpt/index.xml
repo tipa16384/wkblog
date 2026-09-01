@@ -1,75 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ChatGPT on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/chatgpt/</link>
-    <description>Recent content in ChatGPT on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 08:31:37 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prompting Malifaux</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/prompting-malifaux/</link>
-      <pubDate>Tue, 16 Dec 2025 08:31:37 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/prompting-malifaux/</guid>
-      <description>&lt;p&gt;Why yes, I do enjoy making my Malifaux masters into chibis :-)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Mystery of the Casterville Legion</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</link>
-      <pubDate>Wed, 03 Sep 2025 07:51:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</guid>
-      <description>&lt;p&gt;@Nimgimli used AI Dungeon to make him an adventure. I wondered if I could get the same or better for free.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Base44: Games from a Prompt</title>
-      <link>https://tipa16384.github.io/wkblog/2025/08/base44-games-from-a-prompt/</link>
-      <pubDate>Fri, 15 Aug 2025 16:00:59 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/08/base44-games-from-a-prompt/</guid>
-      <description>&lt;p&gt;Yes, I&amp;rsquo;m going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI is going to steal my job -- and I couldn&#39;t be happier</title>
-      <link>https://tipa16384.github.io/wkblog/2025/01/ai-is-going-to-steal-my-job--and-i-couldnt-be-happier/</link>
-      <pubDate>Sat, 25 Jan 2025 09:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/01/ai-is-going-to-steal-my-job--and-i-couldnt-be-happier/</guid>
-      <description>&lt;p&gt;Taking an idea to reality takes just minutes, even if you don&amp;rsquo;t know one thing about programming. It&amp;rsquo;s a new world.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>That is not a sandworm in your driveway</title>
-      <link>https://tipa16384.github.io/wkblog/2024/04/that-is-not-a-sandworm-in-your-driveway/</link>
-      <pubDate>Tue, 16 Apr 2024 07:31:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/04/that-is-not-a-sandworm-in-your-driveway/</guid>
-      <description>&lt;p&gt;Just random stuff I&amp;rsquo;ve asked ChatGPT&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advent of Code Day 2 -- Cube Conundrum</title>
-      <link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-2--cube-conundrum/</link>
-      <pubDate>Sat, 02 Dec 2023 15:44:35 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-2--cube-conundrum/</guid>
-      <description>&lt;p&gt;The hands of the Christmas elf are far, far larger than they appear.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HeroQuest: Lair of the Orc Warlord</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</link>
-      <pubDate>Wed, 29 Nov 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</guid>
-      <description>&lt;p&gt;Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>One does not simply walk into Ba Sing Se!</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</link>
-      <pubDate>Fri, 25 Aug 2023 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</guid>
-      <description>&lt;p&gt;Not feeling creative tonight, so here is a ChatGPT-generated story of what Avatar: The Last Airbender might have looked like if its main characters were hobbits.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Non-Controversial Take on the AI Revolution</title>
-      <link>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</link>
-      <pubDate>Mon, 14 Aug 2023 08:10:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</guid>
-      <description>&lt;p&gt;At least, I haven&amp;rsquo;t heard anyone contravene my take, yet.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>ChatGPT on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/chatgpt/</link>
+		<description>Recent content in ChatGPT on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 29 Aug 2026 10:50:06 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>EverQuest Legends: A Moment of Clarity</title>
+				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-a-moment-of-clarity/</link>
+				<pubDate>Sat, 29 Aug 2026 10:50:06 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-a-moment-of-clarity/</guid>
+				<description>&lt;p&gt;Well yeah. I&amp;rsquo;m an enchanter. I cast Clarity. Warning: In this post, ChatGPT analyzes my EQ Legends damage log.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Prompting Malifaux</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/prompting-malifaux/</link>
+				<pubDate>Tue, 16 Dec 2025 08:31:37 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/prompting-malifaux/</guid>
+				<description>&lt;p&gt;Why yes, I do enjoy making my Malifaux masters into chibis :-)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Mystery of the Casterville Legion</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</link>
+				<pubDate>Wed, 03 Sep 2025 07:51:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/the-mystery-of-the-casterville-legion/</guid>
+				<description>&lt;p&gt;@Nimgimli used AI Dungeon to make him an adventure. I wondered if I could get the same or better for free.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Base44: Games from a Prompt</title>
+				<link>https://tipa16384.github.io/wkblog/2025/08/base44-games-from-a-prompt/</link>
+				<pubDate>Fri, 15 Aug 2025 16:00:59 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/08/base44-games-from-a-prompt/</guid>
+				<description>&lt;p&gt;Yes, I&amp;rsquo;m going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AI is going to steal my job -- and I couldn&#39;t be happier</title>
+				<link>https://tipa16384.github.io/wkblog/2025/01/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/</link>
+				<pubDate>Sat, 25 Jan 2025 09:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/01/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/</guid>
+				<description>&lt;p&gt;Taking an idea to reality takes just minutes, even if you don&amp;rsquo;t know one thing about programming. It&amp;rsquo;s a new world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>That is not a sandworm in your driveway</title>
+				<link>https://tipa16384.github.io/wkblog/2024/04/that-is-not-a-sandworm-in-your-driveway/</link>
+				<pubDate>Tue, 16 Apr 2024 07:31:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/04/that-is-not-a-sandworm-in-your-driveway/</guid>
+				<description>&lt;p&gt;Just random stuff I&amp;rsquo;ve asked ChatGPT&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advent of Code Day 2 -- Cube Conundrum</title>
+				<link>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-2-cube-conundrum/</link>
+				<pubDate>Sat, 02 Dec 2023 15:44:35 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/12/advent-of-code-day-2-cube-conundrum/</guid>
+				<description>&lt;p&gt;The hands of the Christmas elf are far, far larger than they appear.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HeroQuest: Lair of the Orc Warlord</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</link>
+				<pubDate>Wed, 29 Nov 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/heroquest-lair-of-the-orc-warlord/</guid>
+				<description>&lt;p&gt;Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>One does not simply walk into Ba Sing Se!</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</link>
+				<pubDate>Fri, 25 Aug 2023 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/one-does-not-simply-walk-into-ba-sing-se/</guid>
+				<description>&lt;p&gt;Not feeling creative tonight, so here is a ChatGPT-generated story of what Avatar: The Last Airbender might have looked like if its main characters were hobbits.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My Non-Controversial Take on the AI Revolution</title>
+				<link>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</link>
+				<pubDate>Mon, 14 Aug 2023 08:10:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/08/my-non-controversial-take-on-the-ai-revolution/</guid>
+				<description>&lt;p&gt;At least, I haven&amp;rsquo;t heard anyone contravene my take, yet.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

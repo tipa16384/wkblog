@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lost Worlds on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/lost-worlds/</link>
-    <description>Recent content in Lost Worlds on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Dec 2025 15:12:24 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/lost-worlds/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>It&#39;s a Vectrex Christmas Miracle!</title>
-      <link>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</link>
-      <pubDate>Thu, 25 Dec 2025 15:12:24 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</guid>
-      <description>&lt;p&gt;Also Nintendo 64 and&amp;hellip; EverQuest II? Yes, EQ2.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lost Worlds: not so lost anymore?</title>
-      <link>https://tipa16384.github.io/wkblog/2025/11/lost-worlds-not-so-lost-anymore/</link>
-      <pubDate>Mon, 17 Nov 2025 14:35:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/11/lost-worlds-not-so-lost-anymore/</guid>
-      <description>&lt;p&gt;The &amp;ldquo;Lost Worlds&amp;rdquo; series of fantasy combat book games is being reprinted? Here in Connecticut? And I&amp;rsquo;m just finding out about this?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Lost Worlds on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/lost-worlds/</link>
+		<description>Recent content in Lost Worlds on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 25 Dec 2025 15:12:24 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/lost-worlds/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>It&#39;s a Vectrex Christmas Miracle!</title>
+				<link>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</link>
+				<pubDate>Thu, 25 Dec 2025 15:12:24 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/12/its-a-vectrex-christmas-miracle/</guid>
+				<description>&lt;p&gt;Also Nintendo 64 and&amp;hellip; EverQuest II? Yes, EQ2.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lost Worlds: not so lost anymore?</title>
+				<link>https://tipa16384.github.io/wkblog/2025/11/lost-worlds-not-so-lost-anymore/</link>
+				<pubDate>Mon, 17 Nov 2025 14:35:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/11/lost-worlds-not-so-lost-anymore/</guid>
+				<description>&lt;p&gt;The &amp;ldquo;Lost Worlds&amp;rdquo; series of fantasy combat book games is being reprinted? Here in Connecticut? And I&amp;rsquo;m just finding out about this?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

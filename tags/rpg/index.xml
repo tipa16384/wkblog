@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>RPG on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/rpg/</link>
-    <description>Recent content in RPG on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2024 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ADVENT: The Secrets of Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/2024/05/advent-the-secrets-of-adventure/</link>
-      <pubDate>Wed, 08 May 2024 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/05/advent-the-secrets-of-adventure/</guid>
-      <description>&lt;p&gt;What you need to know before you begin to play Crowther and Woods&amp;rsquo; &amp;ldquo;Colossal Cave Adventure&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dragon&#39;s Dogma II: Now Playing</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/dragons-dogma-ii-now-playing/</link>
-      <pubDate>Mon, 25 Mar 2024 08:02:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/dragons-dogma-ii-now-playing/</guid>
-      <description>&lt;p&gt;I really, genuinely need to blog more promptly about the games I&amp;rsquo;m playing. Unicorn Overlord is done; I&amp;rsquo;m drowning in the world of Dragon&amp;rsquo;s Dogma II now.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unicorn Overlord -- Whose Overlord Is It, Anyway?</title>
-      <link>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</link>
-      <pubDate>Sat, 23 Mar 2024 10:03:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord--whose-overlord-is-it-anyway/</guid>
-      <description>&lt;p&gt;After playing through this amazing real-time tactics RPG, the only question I hadn&amp;rsquo;t answered was&amp;hellip; were we the baddies all the time?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Granblue Fantasy: Relink (DEMO)</title>
-      <link>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</link>
-      <pubDate>Thu, 18 Jan 2024 19:49:27 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</guid>
-      <description>&lt;p&gt;Granblue Fantasy makes the leap from mobile to console with Relink. So&amp;hellip; what kind of game is it?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baldur&#39;s Gate 3: the Second Playthrough</title>
-      <link>https://tipa16384.github.io/wkblog/2023/11/baldurs-gate-3-the-second-playthrough/</link>
-      <pubDate>Mon, 27 Nov 2023 08:02:20 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/11/baldurs-gate-3-the-second-playthrough/</guid>
-      <description>&lt;p&gt;This time, I saved them what needed saving.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Is Final Fantasy XVI worth playing?</title>
-      <link>https://tipa16384.github.io/wkblog/2023/06/is-final-fantasy-xvi-worth-playing/</link>
-      <pubDate>Tue, 27 Jun 2023 20:35:52 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/06/is-final-fantasy-xvi-worth-playing/</guid>
-      <description>&lt;p&gt;A gripping story, a deeply customizable combat system and a beautiful world being killed by its crystals. It&amp;rsquo;s Final Fantasy. But is it for you?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 vs Sword Art Online: Fatal Bullet</title>
-      <link>https://tipa16384.github.io/wkblog/2023/02/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</link>
-      <pubDate>Tue, 14 Feb 2023 19:51:46 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2023/02/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</guid>
-      <description>&lt;p&gt;When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gotham Knights - The Best Superhero Game You&#39;re Not Playing</title>
-      <link>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-the-best-superhero-game-youre-not-playing/</link>
-      <pubDate>Mon, 07 Nov 2022 23:42:14 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-the-best-superhero-game-youre-not-playing/</guid>
-      <description>&lt;p&gt;Gotham Knights is the perfect game for Batman fans who want an open world game with a good story.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
-      <pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
-      <description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dark Stone, Retroarch, and Steam.</title>
-      <link>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam./</link>
-      <pubDate>Mon, 04 Jul 2022 23:27:41 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam./</guid>
-      <description>&lt;p&gt;I was looking for a game to keep me occupied during the long holiday weekend, and my partner handed me an old RPG from the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>RPG on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/rpg/</link>
+		<description>Recent content in RPG on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 08 May 2024 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ADVENT: The Secrets of Adventure</title>
+				<link>https://tipa16384.github.io/wkblog/2024/05/advent-the-secrets-of-adventure/</link>
+				<pubDate>Wed, 08 May 2024 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/05/advent-the-secrets-of-adventure/</guid>
+				<description>&lt;p&gt;What you need to know before you begin to play Crowther and Woods&amp;rsquo; &amp;ldquo;Colossal Cave Adventure&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dragon&#39;s Dogma II: Now Playing</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/dragons-dogma-ii-now-playing/</link>
+				<pubDate>Mon, 25 Mar 2024 08:02:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/dragons-dogma-ii-now-playing/</guid>
+				<description>&lt;p&gt;I really, genuinely need to blog more promptly about the games I&amp;rsquo;m playing. Unicorn Overlord is done; I&amp;rsquo;m drowning in the world of Dragon&amp;rsquo;s Dogma II now.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Unicorn Overlord -- Whose Overlord Is It, Anyway?</title>
+				<link>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord-whose-overlord-is-it-anyway/</link>
+				<pubDate>Sat, 23 Mar 2024 10:03:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/03/unicorn-overlord-whose-overlord-is-it-anyway/</guid>
+				<description>&lt;p&gt;After playing through this amazing real-time tactics RPG, the only question I hadn&amp;rsquo;t answered was&amp;hellip; were we the baddies all the time?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Granblue Fantasy: Relink (DEMO)</title>
+				<link>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</link>
+				<pubDate>Thu, 18 Jan 2024 19:49:27 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2024/01/granblue-fantasy-relink-demo/</guid>
+				<description>&lt;p&gt;Granblue Fantasy makes the leap from mobile to console with Relink. So&amp;hellip; what kind of game is it?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Baldur&#39;s Gate 3: the Second Playthrough</title>
+				<link>https://tipa16384.github.io/wkblog/2023/11/baldurs-gate-3-the-second-playthrough/</link>
+				<pubDate>Mon, 27 Nov 2023 08:02:20 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/11/baldurs-gate-3-the-second-playthrough/</guid>
+				<description>&lt;p&gt;This time, I saved them what needed saving.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Is Final Fantasy XVI worth playing?</title>
+				<link>https://tipa16384.github.io/wkblog/2023/06/is-final-fantasy-xvi-worth-playing/</link>
+				<pubDate>Tue, 27 Jun 2023 20:35:52 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/06/is-final-fantasy-xvi-worth-playing/</guid>
+				<description>&lt;p&gt;A gripping story, a deeply customizable combat system and a beautiful world being killed by its crystals. It&amp;rsquo;s Final Fantasy. But is it for you?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cyberpunk 2077 vs Sword Art Online: Fatal Bullet</title>
+				<link>https://tipa16384.github.io/wkblog/2023/02/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</link>
+				<pubDate>Tue, 14 Feb 2023 19:51:46 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2023/02/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</guid>
+				<description>&lt;p&gt;When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gotham Knights - The Best Superhero Game You&#39;re Not Playing</title>
+				<link>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-the-best-superhero-game-youre-not-playing/</link>
+				<pubDate>Mon, 07 Nov 2022 23:42:14 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/11/gotham-knights-the-best-superhero-game-youre-not-playing/</guid>
+				<description>&lt;p&gt;Gotham Knights is the perfect game for Batman fans who want an open world game with a good story.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ogre Battle 64: I am a Person of Lordly Caliber</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</link>
+				<pubDate>Sun, 24 Jul 2022 14:58:23 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/ogre-battle-64-i-am-a-person-of-lordly-caliber/</guid>
+				<description>&lt;p&gt;Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dark Stone, Retroarch, and Steam.</title>
+				<link>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam/</link>
+				<pubDate>Mon, 04 Jul 2022 23:27:41 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/07/dark-stone-retroarch-and-steam/</guid>
+				<description>&lt;p&gt;I was looking for a game to keep me occupied during the long holiday weekend, and my partner handed me an old RPG from the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

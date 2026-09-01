@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Expansion on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/expansion/</link>
-    <description>Recent content in Expansion on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Nov 2008 15:23:19 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/expansion/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Headmaster Ambrose hints at Wizard 101 expansion</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/headmaster-ambrose-hints-at-wizard-101-expansion/</link>
-      <pubDate>Thu, 06 Nov 2008 15:23:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/headmaster-ambrose-hints-at-wizard-101-expansion/</guid>
-      <description>&lt;p&gt;After months of speculation over the school of magic Ambrose, Headmaster of Wizard 101&amp;rsquo;s Ravenwood Academy, prefers, Ambrose has revealed that he is a master&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EverQuest expansion beta registration is now open</title>
-      <link>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</link>
-      <pubDate>Thu, 07 Aug 2008 23:29:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</guid>
-      <description>&lt;p&gt;Play EverQuest? Want to get in on the ground floor for the next expansion, Seeds of Destruction? Now&amp;rsquo;s your chance to sign up to get&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Expansion on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/expansion/</link>
+		<description>Recent content in Expansion on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 06 Nov 2008 15:23:19 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/expansion/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Headmaster Ambrose hints at Wizard 101 expansion</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/headmaster-ambrose-hints-at-wizard-101-expansion/</link>
+				<pubDate>Thu, 06 Nov 2008 15:23:19 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/headmaster-ambrose-hints-at-wizard-101-expansion/</guid>
+				<description>&lt;p&gt;After months of speculation over the school of magic Ambrose, Headmaster of Wizard 101&amp;rsquo;s Ravenwood Academy, prefers, Ambrose has revealed that he is a master&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>EverQuest expansion beta registration is now open</title>
+				<link>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</link>
+				<pubDate>Thu, 07 Aug 2008 23:29:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/08/everquest-expansion-beta-registration-is-now-open/</guid>
+				<description>&lt;p&gt;Play EverQuest? Want to get in on the ground floor for the next expansion, Seeds of Destruction? Now&amp;rsquo;s your chance to sign up to get&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

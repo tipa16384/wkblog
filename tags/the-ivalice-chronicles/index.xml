@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The Ivalice Chronicles on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/the-ivalice-chronicles/</link>
-    <description>Recent content in The Ivalice Chronicles on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Oct 2025 08:12:32 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/the-ivalice-chronicles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Zen of Final Fantasy Tactics</title>
-      <link>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</link>
-      <pubDate>Mon, 06 Oct 2025 08:12:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s the recommended way to play Final Fantasy Tactics. And then there&amp;rsquo;s the way I play it.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>The Ivalice Chronicles on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/the-ivalice-chronicles/</link>
+		<description>Recent content in The Ivalice Chronicles on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 06 Oct 2025 08:12:32 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/the-ivalice-chronicles/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Zen of Final Fantasy Tactics</title>
+				<link>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</link>
+				<pubDate>Mon, 06 Oct 2025 08:12:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/10/the-zen-of-final-fantasy-tactics/</guid>
+				<description>&lt;p&gt;There&amp;rsquo;s the recommended way to play Final Fantasy Tactics. And then there&amp;rsquo;s the way I play it.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

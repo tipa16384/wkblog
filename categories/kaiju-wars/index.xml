@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kaiju Wars on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/kaiju-wars/</link>
-    <description>Recent content in Kaiju Wars on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 12 Oct 2021 23:28:10 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/kaiju-wars/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kaiju Wars: Godzilla just wants to be loved!</title>
-      <link>https://tipa16384.github.io/wkblog/2021/10/kaiju-wars-godzilla-just-wants-to-be-loved/</link>
-      <pubDate>Tue, 12 Oct 2021 23:28:10 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2021/10/kaiju-wars-godzilla-just-wants-to-be-loved/</guid>
-      <description>&lt;p&gt;Foolish Mortal Games&amp;rsquo; new monster battler pits you and your hapless military against giant, unstoppable beasts. Can Major Danger and kaiju scientist Dr. Wagner help&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kaiju Wars on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/kaiju-wars/</link>
+		<description>Recent content in Kaiju Wars on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 Oct 2021 23:28:10 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/kaiju-wars/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Kaiju Wars: Godzilla just wants to be loved!</title>
+				<link>https://tipa16384.github.io/wkblog/2021/10/kaiju-wars-godzilla-just-wants-to-be-loved/</link>
+				<pubDate>Tue, 12 Oct 2021 23:28:10 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2021/10/kaiju-wars-godzilla-just-wants-to-be-loved/</guid>
+				<description>&lt;p&gt;Foolish Mortal Games&amp;rsquo; new monster battler pits you and your hapless military against giant, unstoppable beasts. Can Major Danger and kaiju scientist Dr. Wagner help&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

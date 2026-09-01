@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Warehouse on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/warehouse/</link>
-    <description>Recent content in Warehouse on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2010 22:49:33 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/warehouse/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Wizard101: It&#39;s all about the Ninja Pig</title>
-      <link>https://tipa16384.github.io/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</link>
-      <pubDate>Mon, 23 Aug 2010 22:49:33 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</guid>
-      <description>&lt;p&gt;My friend Michael Stormpyre and I were farming for grandmaster gear the other night. I was on my myth wizard, Marissa Spiritcaller, and I was&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Warehouse on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/warehouse/</link>
+		<description>Recent content in Warehouse on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 23 Aug 2010 22:49:33 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/warehouse/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Wizard101: It&#39;s all about the Ninja Pig</title>
+				<link>https://tipa16384.github.io/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</link>
+				<pubDate>Mon, 23 Aug 2010 22:49:33 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2010/08/wizard101-its-all-about-the-ninja-pig/</guid>
+				<description>&lt;p&gt;My friend Michael Stormpyre and I were farming for grandmaster gear the other night. I was on my myth wizard, Marissa Spiritcaller, and I was&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

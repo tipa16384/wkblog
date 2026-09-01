@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hartford on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/hartford/</link>
-    <description>Recent content in Hartford on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2022 22:07:16 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/hartford/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Retro World Expo 2022 -- Hartford, CT</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022--hartford-ct/</link>
-      <pubDate>Tue, 13 Sep 2022 22:07:16 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022--hartford-ct/</guid>
-      <description>&lt;p&gt;Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn&amp;rsquo;t a fan and is warning me away from Drakkhen for the SNES.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shop smart, shop S-Mart, in Connecticut</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/shop-smart-shop-s-mart-in-connecticut/</link>
-      <pubDate>Fri, 07 Nov 2008 10:21:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/shop-smart-shop-s-mart-in-connecticut/</guid>
-      <description>&lt;p&gt;Bruce Campbell, star of &amp;lsquo;Evil Dead&amp;rsquo; and &amp;lsquo;Bubba Ho-Tep&amp;rsquo;, et al, is in true old-time &amp;lsquo;B&amp;rsquo; movie fashion, traveling from city to city with his&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Hartford on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/hartford/</link>
+		<description>Recent content in Hartford on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 13 Sep 2022 22:07:16 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/hartford/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Retro World Expo 2022 -- Hartford, CT</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022-hartford-ct/</link>
+				<pubDate>Tue, 13 Sep 2022 22:07:16 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/retro-world-expo-2022-hartford-ct/</guid>
+				<description>&lt;p&gt;Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn&amp;rsquo;t a fan and is warning me away from Drakkhen for the SNES.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Shop smart, shop S-Mart, in Connecticut</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/shop-smart-shop-s-mart-in-connecticut/</link>
+				<pubDate>Fri, 07 Nov 2008 10:21:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/shop-smart-shop-s-mart-in-connecticut/</guid>
+				<description>&lt;p&gt;Bruce Campbell, star of &amp;lsquo;Evil Dead&amp;rsquo; and &amp;lsquo;Bubba Ho-Tep&amp;rsquo;, et al, is in true old-time &amp;lsquo;B&amp;rsquo; movie fashion, traveling from city to city with his&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

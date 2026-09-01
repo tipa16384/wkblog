@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/</link>
-    <description>Recent content in Categories on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:16:58 +0000</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Indie Games</title>
-      <link>https://tipa16384.github.io/wkblog/categories/indie-games/</link>
-      <pubDate>Thu, 23 Jul 2026 11:16:58 +0000</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/indie-games/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blogging</title>
-      <link>https://tipa16384.github.io/wkblog/categories/blogging/</link>
-      <pubDate>Wed, 22 Jul 2026 11:15:21 +0000</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/blogging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>https://tipa16384.github.io/wkblog/categories/ai/</link>
-      <pubDate>Tue, 21 Jul 2026 14:51:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Steam Games</title>
-      <link>https://tipa16384.github.io/wkblog/categories/steam-games/</link>
-      <pubDate>Sat, 28 Mar 2026 14:51:36 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/steam-games/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Everquest</title>
-      <link>https://tipa16384.github.io/wkblog/categories/everquest/</link>
-      <pubDate>Wed, 25 Mar 2026 22:17:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/everquest/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MMORPG</title>
-      <link>https://tipa16384.github.io/wkblog/categories/mmorpg/</link>
-      <pubDate>Wed, 25 Mar 2026 22:17:28 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/mmorpg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rogue-Likes</title>
-      <link>https://tipa16384.github.io/wkblog/categories/rogue-likes/</link>
-      <pubDate>Wed, 25 Mar 2026 10:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/rogue-likes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Adventure</title>
-      <link>https://tipa16384.github.io/wkblog/categories/adventure/</link>
-      <pubDate>Sun, 22 Mar 2026 10:01:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/adventure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PS5</title>
-      <link>https://tipa16384.github.io/wkblog/categories/ps5/</link>
-      <pubDate>Sun, 22 Mar 2026 10:01:05 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/ps5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>3D Printing</title>
-      <link>https://tipa16384.github.io/wkblog/categories/3d-printing/</link>
-      <pubDate>Tue, 17 Mar 2026 08:05:58 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/categories/3d-printing/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Categories on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/</link>
+		<description>Recent content in Categories on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 31 Aug 2026 08:30:36 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blaugust</title>
+				<link>https://tipa16384.github.io/wkblog/categories/blaugust/</link>
+				<pubDate>Mon, 31 Aug 2026 08:30:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/blaugust/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Blaugust 2026</title>
+				<link>https://tipa16384.github.io/wkblog/categories/blaugust-2026/</link>
+				<pubDate>Mon, 31 Aug 2026 08:30:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/blaugust-2026/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>EverQuest</title>
+				<link>https://tipa16384.github.io/wkblog/categories/everquest/</link>
+				<pubDate>Mon, 31 Aug 2026 08:30:36 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/everquest/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kickstarter</title>
+				<link>https://tipa16384.github.io/wkblog/categories/kickstarter/</link>
+				<pubDate>Sun, 30 Aug 2026 13:47:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/kickstarter/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Atari</title>
+				<link>https://tipa16384.github.io/wkblog/categories/atari/</link>
+				<pubDate>Thu, 27 Aug 2026 07:51:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/atari/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Atari 2600</title>
+				<link>https://tipa16384.github.io/wkblog/categories/atari-2600/</link>
+				<pubDate>Thu, 27 Aug 2026 07:51:08 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/atari-2600/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Frosthaven</title>
+				<link>https://tipa16384.github.io/wkblog/categories/frosthaven/</link>
+				<pubDate>Mon, 24 Aug 2026 23:14:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/frosthaven/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Game Night</title>
+				<link>https://tipa16384.github.io/wkblog/categories/game-night/</link>
+				<pubDate>Mon, 24 Aug 2026 23:14:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/game-night/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tabletop Games</title>
+				<link>https://tipa16384.github.io/wkblog/categories/tabletop-games/</link>
+				<pubDate>Mon, 24 Aug 2026 23:14:44 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/tabletop-games/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MMORPG</title>
+				<link>https://tipa16384.github.io/wkblog/categories/mmorpg/</link>
+				<pubDate>Mon, 10 Aug 2026 00:20:25 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/categories/mmorpg/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

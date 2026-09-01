@@ -1,68 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shards of Dalaya on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/shards-of-dalaya/</link>
-    <description>Recent content in Shards of Dalaya on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2009 07:02:12 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/shards-of-dalaya/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Daily Blogroll 10/8: Inappropriate Birth Metaphor edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/10/daily-blogroll-10/8-inappropriate-birth-metaphor-edition/</link>
-      <pubDate>Thu, 08 Oct 2009 07:02:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/10/daily-blogroll-10/8-inappropriate-birth-metaphor-edition/</guid>
-      <description>&lt;p&gt;Awwww, over-protective mommy ship takes cute baby alt-ship out for the first time! Yes, I&amp;rsquo;ve joined the ranks of EVE pilots with two accounts; the&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 8/4 -- Lifetime edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/4--lifetime-edition/</link>
-      <pubDate>Tue, 04 Aug 2009 08:00:32 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-8/4--lifetime-edition/</guid>
-      <description>&lt;p&gt;Well, would YOU bet $200 on a game that nobody but press is allowed to talk about, a month before it&amp;rsquo;s released? When Lord of&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 7/15 -- Same quests, different day edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/15--same-quests-different-day-edition/</link>
-      <pubDate>Wed, 15 Jul 2009 07:34:12 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-7/15--same-quests-different-day-edition/</guid>
-      <description>&lt;p&gt;Welcome to another daily blogroll!&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Daily Blogroll 6/1 -- Almost Summer edition</title>
-      <link>https://tipa16384.github.io/wkblog/2009/06/daily-blogroll-6/1--almost-summer-edition/</link>
-      <pubDate>Mon, 01 Jun 2009 07:44:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/06/daily-blogroll-6/1--almost-summer-edition/</guid>
-      <description>&lt;p&gt;Wow, June already. The year seems to be flying by so quickly. I saw &amp;ldquo;Up&amp;rdquo; over the weekend, kind of dark for a Disney/Pixar film,&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Web Log 4/25</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/web-log-4/25/</link>
-      <pubDate>Sat, 25 Apr 2009 08:01:29 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/web-log-4/25/</guid>
-      <description>&lt;p&gt;Welcome to the weekend! It&amp;rsquo;s fantastic weather, so gonna keep this short&amp;hellip;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Web log 4/19</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/web-log-4/19/</link>
-      <pubDate>Sun, 19 Apr 2009 10:01:48 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/web-log-4/19/</guid>
-      <description>&lt;p&gt;Welcome to the Sunday Web Log!&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Web Logging!</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/web-logging/</link>
-      <pubDate>Thu, 16 Apr 2009 07:21:45 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/web-logging/</guid>
-      <description>&lt;p&gt;The original definition of &amp;ldquo;blog&amp;rdquo; was as an abbreviation of &amp;ldquo;web log&amp;rdquo;, where you&amp;rsquo;d point out interesting places you found while surfing. I don&amp;rsquo;t really&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shards of Dalaya blog: Dalayan Diary</title>
-      <link>https://tipa16384.github.io/wkblog/2009/04/shards-of-dalaya-blog-dalayan-diary/</link>
-      <pubDate>Mon, 13 Apr 2009 18:10:49 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2009/04/shards-of-dalaya-blog-dalayan-diary/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;d heard wonderful things about Shards of Dalaya, a game built on EverQuest&amp;rsquo;s assets (and using the EverQuest client) but with a different plot, zone&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Shards of Dalaya on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/shards-of-dalaya/</link>
+		<description>Recent content in Shards of Dalaya on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 08 Oct 2009 07:02:12 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/shards-of-dalaya/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Daily Blogroll 10/8: Inappropriate Birth Metaphor edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/10/daily-blogroll-108-inappropriate-birth-metaphor-edition/</link>
+				<pubDate>Thu, 08 Oct 2009 07:02:12 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/10/daily-blogroll-108-inappropriate-birth-metaphor-edition/</guid>
+				<description>&lt;p&gt;Awwww, over-protective mommy ship takes cute baby alt-ship out for the first time! Yes, I&amp;rsquo;ve joined the ranks of EVE pilots with two accounts; the&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 8/4 -- Lifetime edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-84-lifetime-edition/</link>
+				<pubDate>Tue, 04 Aug 2009 08:00:32 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/08/daily-blogroll-84-lifetime-edition/</guid>
+				<description>&lt;p&gt;Well, would YOU bet $200 on a game that nobody but press is allowed to talk about, a month before it&amp;rsquo;s released? When Lord of&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 7/15 -- Same quests, different day edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-715-same-quests-different-day-edition/</link>
+				<pubDate>Wed, 15 Jul 2009 07:34:12 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/07/daily-blogroll-715-same-quests-different-day-edition/</guid>
+				<description>&lt;p&gt;Welcome to another daily blogroll!&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Daily Blogroll 6/1 -- Almost Summer edition</title>
+				<link>https://tipa16384.github.io/wkblog/2009/06/daily-blogroll-61-almost-summer-edition/</link>
+				<pubDate>Mon, 01 Jun 2009 07:44:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/06/daily-blogroll-61-almost-summer-edition/</guid>
+				<description>&lt;p&gt;Wow, June already. The year seems to be flying by so quickly. I saw &amp;ldquo;Up&amp;rdquo; over the weekend, kind of dark for a Disney/Pixar film,&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Web Log 4/25</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/web-log-425/</link>
+				<pubDate>Sat, 25 Apr 2009 08:01:29 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/web-log-425/</guid>
+				<description>&lt;p&gt;Welcome to the weekend! It&amp;rsquo;s fantastic weather, so gonna keep this short&amp;hellip;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Web log 4/19</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/web-log-419/</link>
+				<pubDate>Sun, 19 Apr 2009 10:01:48 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/web-log-419/</guid>
+				<description>&lt;p&gt;Welcome to the Sunday Web Log!&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Web Logging!</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/web-logging/</link>
+				<pubDate>Thu, 16 Apr 2009 07:21:45 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/web-logging/</guid>
+				<description>&lt;p&gt;The original definition of &amp;ldquo;blog&amp;rdquo; was as an abbreviation of &amp;ldquo;web log&amp;rdquo;, where you&amp;rsquo;d point out interesting places you found while surfing. I don&amp;rsquo;t really&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Shards of Dalaya blog: Dalayan Diary</title>
+				<link>https://tipa16384.github.io/wkblog/2009/04/shards-of-dalaya-blog-dalayan-diary/</link>
+				<pubDate>Mon, 13 Apr 2009 18:10:49 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2009/04/shards-of-dalaya-blog-dalayan-diary/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;d heard wonderful things about Shards of Dalaya, a game built on EverQuest&amp;rsquo;s assets (and using the EverQuest client) but with a different plot, zone&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

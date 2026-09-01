@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Shuttercal on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/shuttercal/</link>
-    <description>Recent content in Shuttercal on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 25 Nov 2008 21:18:19 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/shuttercal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ShutterCal?</title>
-      <link>https://tipa16384.github.io/wkblog/2008/11/shuttercal/</link>
-      <pubDate>Tue, 25 Nov 2008 21:18:19 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2008/11/shuttercal/</guid>
-      <description>&lt;p&gt;Anski at Always Go Right blog wrote today about ShutterCal, a new social site. In this one, you take a picture every day, and post&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Shuttercal on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/shuttercal/</link>
+		<description>Recent content in Shuttercal on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 25 Nov 2008 21:18:19 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/shuttercal/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ShutterCal?</title>
+				<link>https://tipa16384.github.io/wkblog/2008/11/shuttercal/</link>
+				<pubDate>Tue, 25 Nov 2008 21:18:19 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2008/11/shuttercal/</guid>
+				<description>&lt;p&gt;Anski at Always Go Right blog wrote today about ShutterCal, a new social site. In this one, you take a picture every day, and post&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

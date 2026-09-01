@@ -1,82 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blaugust 2022 on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/categories/blaugust-2022/</link>
-    <description>Recent content in Blaugust 2022 on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Sep 2022 07:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/categories/blaugust-2022/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creating &#34;32 Bullets&#34; -- an AI adventure.</title>
-      <link>https://tipa16384.github.io/wkblog/2022/09/creating-32-bullets--an-ai-adventure./</link>
-      <pubDate>Thu, 01 Sep 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/09/creating-32-bullets--an-ai-adventure./</guid>
-      <description>&lt;p&gt;In &amp;ldquo;32 Bullets&amp;rdquo;, you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blaugust Hath 31 Days</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/blaugust-hath-31-days/</link>
-      <pubDate>Wed, 31 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-hath-31-days/</guid>
-      <description>&lt;p&gt;Genre: 2D Platformer. Title: &amp;ldquo;Blaugust Hath 31 Days&amp;rdquo;. Outline: In this 2D platformer, you play as a young woman who is terrorized by 31 different&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blaugust theme week: Lessons learned</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/blaugust-theme-week-lessons-learned/</link>
-      <pubDate>Tue, 30 Aug 2022 23:51:54 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-theme-week-lessons-learned/</guid>
-      <description>&lt;p&gt;I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Golden Years: 30 Something</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/the-golden-years-30-something/</link>
-      <pubDate>Tue, 30 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/the-golden-years-30-something/</guid>
-      <description>&lt;p&gt;The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blaugust 2022: Staying (un)Motivated</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</link>
-      <pubDate>Mon, 29 Aug 2022 21:33:57 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</guid>
-      <description>&lt;p&gt;Keeping a blog alive is a lot of pressure. Wouldn&amp;rsquo;t it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Leap Year: the 29th Day</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/leap-year-the-29th-day/</link>
-      <pubDate>Mon, 29 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/leap-year-the-29th-day/</guid>
-      <description>&lt;p&gt;After the world disappears on Leap Day, you must team up with the only other person left awake to find out what happened.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The 28th Amendment -- a game about the USA Constitution</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/the-28th-amendment--a-game-about-the-usa-constitution/</link>
-      <pubDate>Sun, 28 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/the-28th-amendment--a-game-about-the-usa-constitution/</guid>
-      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The 27th Chamber: A Game about Time</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</link>
-      <pubDate>Sat, 27 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</guid>
-      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1926: The Golden Age of Aviation</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/1926-the-golden-age-of-aviation/</link>
-      <pubDate>Fri, 26 Aug 2022 07:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/1926-the-golden-age-of-aviation/</guid>
-      <description>&lt;p&gt;Experience the golden age of aviation in this flight simulator set in the 1920s.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blaugust 2022: Dev Appreciation Week</title>
-      <link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</link>
-      <pubDate>Thu, 25 Aug 2022 21:04:09 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</guid>
-      <description>&lt;p&gt;We highlight some of the great turn-based RPGs that are currently in development by independent developers. These are games that are being made with passion and care, and it shows in the quality of the games. If you&amp;rsquo;re a fan of turn-based RPGs, be sure to check out these games!&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Blaugust 2022 on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/categories/blaugust-2022/</link>
+		<description>Recent content in Blaugust 2022 on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Sep 2022 07:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/categories/blaugust-2022/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Creating &#34;32 Bullets&#34; -- an AI adventure.</title>
+				<link>https://tipa16384.github.io/wkblog/2022/09/32-bullets-new-first-person-shooter-game/</link>
+				<pubDate>Thu, 01 Sep 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/09/32-bullets-new-first-person-shooter-game/</guid>
+				<description>&lt;p&gt;In &amp;ldquo;32 Bullets&amp;rdquo;, you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blaugust Hath 31 Days</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/blaugust-hath-31-days/</link>
+				<pubDate>Wed, 31 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-hath-31-days/</guid>
+				<description>&lt;p&gt;Genre: 2D Platformer. Title: &amp;ldquo;Blaugust Hath 31 Days&amp;rdquo;. Outline: In this 2D platformer, you play as a young woman who is terrorized by 31 different&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blaugust theme week: Lessons learned</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/blaugust-theme-week-lessons-learned/</link>
+				<pubDate>Tue, 30 Aug 2022 23:51:54 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-theme-week-lessons-learned/</guid>
+				<description>&lt;p&gt;I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Golden Years: 30 Something</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/the-golden-years-30-something/</link>
+				<pubDate>Tue, 30 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/the-golden-years-30-something/</guid>
+				<description>&lt;p&gt;The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blaugust 2022: Staying (un)Motivated</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</link>
+				<pubDate>Mon, 29 Aug 2022 21:33:57 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-staying-unmotivated/</guid>
+				<description>&lt;p&gt;Keeping a blog alive is a lot of pressure. Wouldn&amp;rsquo;t it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Leap Year: the 29th Day</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/leap-year-the-29th-day/</link>
+				<pubDate>Mon, 29 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/leap-year-the-29th-day/</guid>
+				<description>&lt;p&gt;After the world disappears on Leap Day, you must team up with the only other person left awake to find out what happened.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The 28th Amendment -- a game about the USA Constitution</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/the-28th-amendment-a-game-about-the-usa-constitution/</link>
+				<pubDate>Sun, 28 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/the-28th-amendment-a-game-about-the-usa-constitution/</guid>
+				<description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The 27th Chamber: A Game about Time</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</link>
+				<pubDate>Sat, 27 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/the-27th-chamber-a-game-about-time/</guid>
+				<description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>1926: The Golden Age of Aviation</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/1926-the-golden-age-of-aviation/</link>
+				<pubDate>Fri, 26 Aug 2022 07:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/1926-the-golden-age-of-aviation/</guid>
+				<description>&lt;p&gt;Experience the golden age of aviation in this flight simulator set in the 1920s.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Blaugust 2022: Dev Appreciation Week</title>
+				<link>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</link>
+				<pubDate>Thu, 25 Aug 2022 21:04:09 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2022/08/blaugust-2022-dev-appreciation-week/</guid>
+				<description>&lt;p&gt;We highlight some of the great turn-based RPGs that are currently in development by independent developers. These are games that are being made with passion and care, and it shows in the quality of the games. If you&amp;rsquo;re a fan of turn-based RPGs, be sure to check out these games!&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

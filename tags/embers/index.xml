@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Embers on Chasing Dings!</title>
-    <link>https://tipa16384.github.io/wkblog/tags/embers/</link>
-    <description>Recent content in Embers on Chasing Dings!</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 04 Sep 2025 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://tipa16384.github.io/wkblog/tags/embers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Still More Confessions of a Kickstarter Superbacker</title>
-      <link>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</link>
-      <pubDate>Thu, 04 Sep 2025 08:00:00 -0500</pubDate>
-      <guid>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</guid>
-      <description>&lt;p&gt;Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here&amp;rsquo;s what I&amp;rsquo;m waiting for today.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Embers on Chasing Dings!</title>
+		<link>https://tipa16384.github.io/wkblog/tags/embers/</link>
+		<description>Recent content in Embers on Chasing Dings!</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 04 Sep 2025 08:00:00 -0500</lastBuildDate>
+		
+			<atom:link href="https://tipa16384.github.io/wkblog/tags/embers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Still More Confessions of a Kickstarter Superbacker</title>
+				<link>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</link>
+				<pubDate>Thu, 04 Sep 2025 08:00:00 -0500</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2025/09/still-more-confessions-of-a-kickstarter-superbacker/</guid>
+				<description>&lt;p&gt;Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here&amp;rsquo;s what I&amp;rsquo;m waiting for today.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
