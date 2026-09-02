@@ -1,0 +1,62 @@
+---
+date: '2008-08-30T11:10:11-05:00'
+draft: false
+title: "EQ2: Welcome to the Tanglewood Community Theater"
+slug: "eq2-welcome-to-the-tanglewood-community-theater"
+author: "Tipa"
+disqusIdentifier: "2008/08/30/eq2-welcome-to-the-tanglewood-community-theater"
+summary: "My sister Hillary and her husband just bought a condo in Boston. They were supposed to move in weeks ago, but the workmen just haven't..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+tags:
+  - "Gorowyn"
+  - "Norrathian Home Show"
+  - "Stargrace"
+  - "Tanglewood Community Theater"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
+---
+My sister Hillary and her husband just bought a condo in Boston. They were supposed to move in weeks ago, but the workmen just haven't...
+<!--more-->
+
+
+
+My sister Hillary and her husband just bought a condo in Boston. They were supposed to move in weeks ago, but the workmen just haven't been able to get it finished on time. She still hasn't been able to move in.
+
+It's all about choosing the right contractors. [Stargrace finished building a theater](http://mmoquests.com/2008/08/29/goudias-ratonga-hovel/) in my spare room in just (!) six hours.
+
+I can't tell you how thrilled I was when I saw it. When I logged off to go to work in the morning, it was just some curtains and the start of a stage. When i got back... it had been transformed into the kind of place a bard would entertain dinner guests with songs of her many adventurers or the latest news of the battles the gods wage high above Norrath's racing clouds.
+
+Allow me to show you Timorous Deep's newest attraction, the Tanglewood Community Theater (visit Dinah in the five room house instance of Gorowyn, Najena server).
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-45-15-68.jpg" title="everquest2-2008-08-29-21-45-15-68" classes="center" >}}
+
+The stage. Notice the attention to detail -- footlights, decorative hanging plants, shelves in the back to store reminder scripts, and even a bouquet of roses tossed on the stage by a fan!
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-45-48-60.jpg" title="everquest2-2008-08-29-21-45-48-60" classes="center" >}}
+
+Accompanists can complement the action on stage via the piano and the bone xylophone, from Mistmoore's Castle and the Troubadour Epic quest respectively.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-46-11-89.jpg" title="everquest2-2008-08-29-21-46-11-89" classes="center" >}}
+
+Looking through the dining area toward the lobby. Well, the entrance room where my sales containers are stashed. I think I will try to make it into a ticket seller's window and a coat room, a stand that sells souvenirs and a sales display :) Kasul is waiting to be seated.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-47-03-77.jpg" title="everquest2-2008-08-29-21-47-03-77" classes="center" >}}
+
+The designer herself, Stargrace, relaxes after finishing the room. Behind her is a full bar. And this bar includes PIE, and pie-flavored beverages. Whiskey *a la mode*? We server that! Apple brandy? Naturally -- with just a hint of crust!
+
+I am SO gonna write a play to perform here. A two person play, and everyone is invited!

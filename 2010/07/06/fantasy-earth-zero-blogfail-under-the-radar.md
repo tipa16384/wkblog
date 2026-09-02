@@ -1,0 +1,59 @@
+---
+date: '2010-07-06T06:34:48-05:00'
+draft: false
+title: "Fantasy Earth Zero Blogfail: Under the Radar"
+slug: "fantasy-earth-zero-blogfail-under-the-radar"
+author: "Tipa"
+disqusIdentifier: "2010/07/06/fantasy-earth-zero-blogfail-under-the-radar"
+summary: "After writing my own review of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck..."
+categories:
+  - "Fantasy Earth Zero"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/"
+    title: "Daily Blogroll 12/23 -- Christmas Eve Eve edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rifty.png"
+  - url: "/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/"
+    title: "Fantasy Earth Zero review: MMORTS goes mainstream"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
+---
+After writing my own review of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck...
+<!--more-->
+
+
+
+After writing [my own review](https://tipa16384.github.io/wkblog/index.php/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/) of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck I'd never heard about this game. Or if I had heard about it, dismissed it as just another Asian F2P MMO.
+
+By the looks of it -- graphics incredibly dated (it is, after all, a four year old game) -- huge anime influence -- it looks entirely humdrum. None of the reviews I could find hinted at the all levels invited, grind-free RTS gameplay hidden inside.
+
+I hit 20 last night, and after searching around, found a place where I could buy higher level sorcerer armor for gold alone. Gold is plentiful. The outfit is SLIGHTLY less revealing. I also found out how to hide the UI so I could take screen shots. (You hold down the PAGE UP key. Not very intuitive. I'd just been trying all the keys on the keyboard to see what they did). The lack of information on how to do certain things is, I concede, rather frustrating. I still haven't figured out how to use a Dragon Soul to become a dragon on the battlefield. I know you have to die first, in a special way.
+
+You get resurrected as a dragon, you see.
+
+[MMOHut](http://mmohut.com/review/fantasy-earth-zero) devoted a paragraph to their review of the game; looks like it was excerpted from [the Wikipedia article about it](http://en.wikipedia.org/wiki/Fantasy_earth_zero).
+
+The [Gamers Daily News reviewer](http://www.gamersdailynews.com/article-2382-Fantasy-Earth-Zero-Handon-Preview.html) had played an early build of the game, but the state of the game at that time seems much different from that of the live game. Most of his objections don't seem to be problems now. They may want to take a look at it.
+
+IGN has [a couple paragraphs](http://pc.ign.com/objects/703/703632.html) about it, clearly not based on actual play.
+
+Massively has been good about keeping the [Fantasy Earth Zero news](http://www.massively.com/tag/fantasy-earth-zero/) updated on the site, but I read every article on Massively and nothing Eliot Lefebvre wrote made the game stand out. (Please send note with pronunciation of your last name. Yahoo! Answers suggests luh-FEVR or luh-FEVRA. How cool is it to have the pronunciation of your surname be a topic of discussion on the internet?)
+
+No, I don't blame the game sites. There are hundreds of game sites out there that actively rewrite press releases and get the word out. I blame the bloggers.
+
+It is the sacred duty of the blogger to actually play these games and write about it from the player perspective, the perspective of someone who has played enough MMOs to get past the issues of familiarity and 'polish' and discover if the game is 'fun'.
+
+But to blog usefully about a game, you have to be a player of that game. Most of these F2P games have fairly respectable user bases; FEZ can support a half dozen 50v50 battles at a time. Plenty of players clog Dragonica Online, Fists of Fu (well, while the closed beta test was running), and on and on. Why aren't these players becoming bloggers? It's the best way to get the REAL world out for a game. Without blogs, all you have are recycled press releases ad infinitum.
+
+I guess what I'm really asking for players to step up and start blogs about the games they play. We absolutely need more bloggers to explain WHY games are worth the time to download. I've downloaded a few real dogs that sounded exciting in their press releases, and a few words from a player would have saved me some time.
+
+[Wordpress](http://wordpress.com/) and [Blogger](http://www.blogger.com/) will get you started on your own blog for the cost of FREE and the time expenditure of ZERO. If you are an expert or even a fan of your game, and you want to get the word out -- BLOG!
+
+*Note: In all fairness, after some digging, I did find some bloggers who at least played the game: [Metro City Gamer](http://metrocitygamer.com/?p=1138) played what appears to be the first leg of the tutorial, and the reviewer for [MMO Online Beta Information](http://mmos-beta-information.blogspot.com/) looks like he or she played long enough to get out of the tutorial and into the battlefields. These were the only blog posts I found written by people who had actually played the game. We need more!*

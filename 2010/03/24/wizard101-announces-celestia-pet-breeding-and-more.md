@@ -1,0 +1,51 @@
+---
+date: '2010-03-24T17:57:12-05:00'
+draft: false
+title: "Wizard101 announces Celestia, Pet Breeding and more!"
+slug: "wizard101-announces-celestia-pet-breeding-and-more"
+author: "Tipa"
+disqusIdentifier: "2010/03/24/wizard101-announces-celestia-pet-breeding-and-more"
+summary: "Very exciting news today from KingsIsle. We've known for awhile that a new world was coming, and that it was likely to be the last..."
+categories:
+  - "MMORPG"
+  - "Wizard101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2012/11/22/wizard101-pirate101-free-stuff/"
+    title: "Wizard101 & Pirate101 Free Stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
+  - url: "/2012/04/09/w101-the-puzzle-revealed-the-rise-of-avalon/"
+    title: "W101: The Puzzle revealed -- the Rise of Avalon!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/Avalon-480x384.jpg"
+  - url: "/2012/04/03/w101-interview-with-a-raven/"
+    title: "W101: Interview with a Raven"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/w101p4-480x365.jpg"
+---
+Very exciting news today from KingsIsle. We've known for awhile that a new world was coming, and that it was likely to be the last...
+<!--more-->
+
+Very exciting news today from KingsIsle. We've known for awhile that a new world was coming, and that it was likely to be the last of the worlds mentioned in the original game, Celestia. Headmaster Ambrose mentioned last year that we might see Astral magic introduced in the game, and it is part of this expansion. What we DIDN'T know (until their teaser announcement last month) was that they were adding a broad range of pet games. Breeding? Racing? Can't wait :)
+
+Here's some pictures, followed by the full announcement. The Friendly Necromancer has [a wonderful analysis](http://thefriendlynecromancer.blogspot.com/2010/03/celestia-and-pet-capabilities-press.html)!
+
+[gallery link="file" columns="2"]
+
+**UPCOMING* WIZARD101* EXPANSIONS INCLUDE SEVENTH WORLD AND NEW PET CAPABILITIES**
+
+*New world, advanced pet system and level cap increase included in two Wizard101 content updates* **
+
+PLANO, TEXAS **
+
+(March 24, 2010) – KingsIsle Entertainment, creators of the award-winning
+
+massively multiplayer online game (MMO) *Wizard101 * is proud to announce details on two of the major content updates for 2010.  An extensive Advanced Pet system is launching this spring and the world of Celestia is launching late summer. In addition to all new quests the Celestia expansion will also include an increased level cap and new secondary schools of magic.
+
+Coming this spring, players will have the opportunity to hatch customized pets from millions of potential combinations.  The Advanced Pet system will bring a new dimension of interaction within *Wizard101* as players can race their pets in the expansive Pet Derby, participate in new pet-themed minigames, feed and train them, and use them as allies in magic duels.  Players will be able to level their pets from an egg to ancient beings with incredible powers.
+
+The new world of Celestia is inspired by Atlantis, and young Wizards will encounter new adventures and quests deep under the sea. Celestia also increases the level cap in *Wizard101* from level 50 up to level 60, as well as introducing three new secondary schools of magic. Celestia will officially open in late summer.  Starting in June players can undertake new quests to discover the secrets of this new world and begin to unlock the story behind Celestia.
+
+“2010 is shaping up to be an incredible year for the students of Ravenwood School of Magic,” said J. Todd Coleman, Vice President and Creative Director for KingsIsle Entertainment.  “Whether exploring the underwater kingdom of Celestia, or hatching and training pets to participate in the Pet Derby, every player–from the newest apprentice to the returning grandmaster–will find something compelling, engaging and fun.”
+
+In *Wizard101,* kids and families enter the magical world of Wizard City as student Wizards setting out to hone their Wizard skills, cast spells and summon powerful creatures to fight evil forces. The characters and worlds of *Wizard101* are influenced by literature, history and pop culture, giving the game a depth and quality appreciated by families and players of all ages.

@@ -1,0 +1,44 @@
+---
+date: '2011-06-20T20:51:09-05:00'
+draft: false
+title: "Go: Absolute Beginner"
+slug: "go-absolute-beginner"
+author: "Tipa"
+disqusIdentifier: "2011/06/20/go-absolute-beginner"
+summary: "My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her..."
+categories:
+  - "Go"
+  - "Other Games"
+tags:
+  - "Hikaru No Go"
+  - "Othello"
+relatedPosts:
+  - url: "/2026/04/29/giiker-super-reversi/"
+    title: "GiiKER Super Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/04/1-IMG_5762.jpg"
+  - url: "/2026/02/13/othello-trigger-for-the-gameboy-color/"
+    title: "Othello Trigger for the Gameboy Color"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/othellotrigger.png"
+  - url: "/2026/02/03/the-end-of-the-othello-world-saga/"
+    title: "The End of the Othello World Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/Screenshot-2026-02-02-20-11-59.png"
+  - url: "/2026/01/30/othello-world-i-killed-the-dragon/"
+    title: "Othello World: I Killed the Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-29-21-40-06.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/STP63350.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/STP63350.jpg"
+---
+My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her...
+<!--more-->
+
+
+
+My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her new husband tossed all the childhood things of mine I was keeping at her place, all my childhood books I'd hoped to pass on to my kids. All I have of her are three gifts she got me; my Orange Teddy, a boxed collection of The Lord of the Rings (which will be my son's), and this old Othello board.
+
+I played in the chess club at school, but I was not a star player. I had no real desire to memorize all the chess openings and just tried to hide my lack of study with aggressive play, which sometimes worked but usually didn't.
+
+Othello [had just been reinvented](http://en.wikipedia.org/wiki/Reversi) earlier in the decade, in Japan in 1971, and was pretty heavily marketed as a quick, fun game. Mom bought it for me for my birthday, I was probably 15 or 16. She probably saw it on the rack in Toy City. I brought it with me to school and it was a hit among my nerdly crowd.
+
+My math teacher explained that Othello was a cousin to a much older game, [Go](http://en.wikipedia.org/wiki/Go_(game)). He himself was something of a pro, he said. He showed me the board and the moves. I didn't understand it at all. I had no idea what was happening. My Othello experience was useless. I gave it up, but I knew I'd missed an opportunity. Chess and Othello fell by the wayside. In college, backgammon was the game of choice for the gamer crowd.
+
+So, fast forward 35 years, and inspired by an [anime](http://en.wikipedia.org/wiki/Hikaru_no_Go), I'm going to try and learn it again. I'm starting from zero and working my way to internet play, where I will be ranked and find out just how much of a noob I am.

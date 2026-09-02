@@ -1,0 +1,66 @@
+---
+date: '2010-05-11T07:01:41-05:00'
+draft: false
+title: "Weekend Gaming: DDO, W101, EQ, STO"
+slug: "weekend-gaming-ddo-w101-eq-sto"
+author: "Tipa"
+disqusIdentifier: "2010/05/11/weekend-gaming-ddo-w101-eq-sto"
+summary: "In Dungeons & Dragons Online, Kasul and I finished our trip through all the Korthos Island instances on Elite mode, giving each of us the..."
+categories:
+  - "Dungeons & Dragons Online"
+  - "EverQuest"
+  - "MMORPG"
+  - "Star Trek"
+  - "Wizard101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
+  - url: "/2010/03/01/weekend-gaming-eve-eq2-sto-ddo-dragonica-online/"
+    title: "Weekend Gaming: EVE, EQ2, STO, DDO, Dragonica Online"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
+---
+In Dungeons & Dragons Online, Kasul and I finished our trip through all the Korthos Island instances on Elite mode, giving each of us the...
+<!--more-->
+
+
+
+In Dungeons & Dragons Online, Kasul and I finished our trip through all the Korthos Island instances on Elite mode, giving each of us the maximum amount of favor you can get from those quests. Misery Peak, the one where you don't kill the dragon, was its usual platforming mini game of jumping around a multilevel maze looking for levers and fighting ice spiders. Since it was his first time, Kasul didn't know you were supposed to pretend you were actually killing the dragon for uber screenshots. Next time.
+
+The only achievement I have left on Korthos Island is the kill 750 slayer achievement. It's not at the top of my priority list. Looking over the adventures on tap, seems like our next move will likely be into the Waterworks.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/GameClient-2010-05-09-22-09-17-82.jpg" title="Star Trek Online: State of Q" classes="center" >}}
+
+In celebration of Bryn Kae's promotion to Rear Admiral rank 5 in Star Trek Online, Longasc and I grouped up with him for some admiralty fun. In State of Q, godlike entity Q warns us of an upcoming Borg invasion in his own playful way -- by putting us all in mortal danger. After, we did some of the dailies. Now, if we can get a couple more of the Federation News Service admirals online at the same time, we can knock out a few of those Task Force missions....
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/GameClient-2010-05-10-07-00-49-01.jpg" title="Old school Klingon" classes="center" >}}
+
+I had this idea for a music video set in Star Trek Online set to Supreme Beings of Leisure's "{{< youtube p-neqv-WHB8 >}}", so I went looking to make a Klingon for a love interest. I was happy to see that there were now old school Klingon costume pieces, so I set to making an old school Klingon to wear them.
+
+It was tricky, but with a blown-up picture of [John Colicos' Kor](http://memory-alpha.org/wiki/File:Kor,_2266.jpg) (1.0) on the other screen, I made a younger Kor. I think he came out pretty well. I've been playing him a little. John Colicos also played Count Baltar on the original Battlestar Galactica, and mad freeze ray scientist Mikkos Cassadine on General Hospital. He was a good villain.
+
+For Star Trek Online players looking to make their own old school Klingons, you'll have to use Alien as a template. This means you won't get the Klingon-only sash costume piece... which is a shame.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/WizardGraphicalClient-2010-05-09-17-34-55-09.jpg" title="Orrin Grimcaster tower" classes="center" >}}
+
+My balance wizard was nearly level 48 in Wizard101. Level 48 is huge, it's the level you get your last and most powerful spell. Seemed worth the effort to push a little further into Dragonspyre and see if I could make it.
+
+My characters are adventuring in the Crucible, the turning point in the Dragonspyre world where the dragon armies really step up their game. In W101 parlance, this means -- more towers. After battling a few solo bosses, we were sent to Grimcaster's tower, seven or eight fights in a row. In these situations, it's worth taking the time to trim your decks to the bone. We eventually made it through; Allison Goldtalon hit 48 and was summoned back to Krokotopia to receive a new quest from her instructor.
+
+It was to another tower in Dragonspyre. This one, though, she had to do solo, and after a failure mid way through and half an hour in, I gave up for the night. I was trying to hurry things too much, with no proper care to managing health or hiring wizards from the Crowns store to help when needed. I firmly believe that one tower per play session is quite enough, anyway.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/eqgame-2010-05-10-22-58-54-19.jpg" title="Fighting in the Cooling Chambers" classes="center" >}}
+
+Nothing makes groups happen like working on my epic in EverQuest. I was gathering materials for the Test of Smithing when Krijhok invited me to the Cooling Chambers in Underfoot for a couple of missions -- Goos Gone Wild and Goo Will Hunting. Yup. EverQuest has fallen deep into punsville. I set my experience 100% to AA and got to the stabbing. Although I'm not yet max level (only 84 of 85), I'd prefer to get my experience by the chunk through monster missions. The camp and stab missions are best for working through the thousands of AA an EQ player requires. I think I made about fifteen AA when the night was done.
+
+I'm asked all the time if I'll be raiding when I hit max level and get to the minimum number of AAs (likely somewhat north of a thousand). It depends. I know I wouldn't want to raid every night. I'd like to raid ONE night a week; but I don't see that happening. I have a LOT of friends in the Erollisi Marr raid guilds, and they seem like they're having fun....
+
+I didn't get much Pocket Legends progress done this weekend, nor any Dragon Oath... I'll be trying to fit both of those into my schedule this week.

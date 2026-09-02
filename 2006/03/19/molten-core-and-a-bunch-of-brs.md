@@ -1,0 +1,51 @@
+---
+date: '2006-03-19T00:00:00-05:00'
+draft: false
+title: "Molten Core and a bunch of BRS"
+slug: "molten-core-and-a-bunch-of-brs"
+author: "Tipa"
+disqusIdentifier: "2006/03/19/molten-core-and-a-bunch-of-brs"
+summary: "While I have been off \"moving\" and \"cleaning\" and \"spending time with my children\", Prophetic Fate has been forging ever deeper into Molten Core -..."
+categories:
+  - "MMORPG"
+  - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/09/09/what-makes-an-mmo-an-mmo/"
+    title: "What makes an MMO an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
+coverImage: "https://tipa16384.github.io/wkblog/images/mc031806b.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/mc031806b.jpg"
+---
+While I have been off "moving" and "cleaning" and "spending time with my children", Prophetic Fate has been forging ever deeper into Molten Core -...
+<!--more-->
+
+While I have been off "moving" and "cleaning" and "spending time with my children", Prophetic Fate has been forging ever deeper into Molten Core - they are up to Majordomo, the penultimate boss in MC. I just logged in to say hello yesterday, but was drawn into joining the Molten Core raid.
+
+Garr was the first target of the day. He knocked us all about awhile, but seemed pretty easy.
+
+The Baron was next. I didn't remember to get a picture of him, but he looked like any other fire elemental in MC, just bigger. He turned me into a bomb. Three times. I HATE being turned into a bomb. Unlike that guy in that [John Varley short story](http://www.scifi.com/scifiction/classiscs/classics_archive/varley/index.html), who really got into it.
+
+{{< image src="https://tipa16384.github.io/wkblog/images/mc031806a.jpg" classes="center" >}}
+
+We all stood in a circle, holding hands and singing campground songs as we fought Shazzrah. He'd stay smiling in the middle as we sent waves of love his way. Then he would teleport to one of us and eat us. We'd pull the broken bodies of our fallen friends out of the way, close ranks, and smile at him again. He couldn't take all this 100% concentrated caring, so he died.
+
+It took us longer to kill these three bosses than it took to write about them, so we left after Shazz. I got my first bit of MC loot - the [Girdle of Prophecy](http://wow.allakhazam.com/db/item.html?witem=16817), which was a little better (meaning just that; it was only a little better) than the belt from my Tier 0 set, which, significantly, didn't cost me any DKP. The Prophecy belt did.
+
+Grummus afterward put together a LBRS mission that got me started on my Onyxia key. Then we joined a UBRS group and got the next bit done. I fell asleep right after the last fight (looong day) and didn't get a chance to thank him before he logged; so, thanks Grummus/Kraskisst :)
+
+I have various feelings on the whole Ventrilo thing. It certainly breaks immersion in the game; it is impossible to really "get into" a MC run when you have a roomfull of chatter going on in the background. WoW changes from a MMORPG into just another video game. And also, some of the people are REALLY ANNOYING. There's gonna be a whole lot of squelching going on pretty soon.
+
+But, I like hearing the voices of friends. Ventrilo won't let me think of them as Taurens or Orcs or anything like that anymore, but it can let me think of them as people.
+
+Still, this is SUPPOSEDLY a roleplaying game and I SUPPOSEDLY play on a roleplaying server.... I wonder if we really need Vent. CE seems to do quite well with just typing. And there, I AM a HALFLING! And I let nobody forget it!
+
+If you don't read [Amber Night's blog](http://ambernight.org/blog) (and why not?), you probably missed her bit on [historical Live Action Role-Playing](http://ambernight.org/blog/_archives/2006/3/17/1825138.html). Nerf the gunfighters!

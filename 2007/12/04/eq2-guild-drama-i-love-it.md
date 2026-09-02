@@ -1,0 +1,51 @@
+---
+date: '2007-12-04T08:46:09-05:00'
+draft: false
+title: "EQ2: Guild drama -- I love it!"
+slug: "eq2-guild-drama-i-love-it"
+author: "Tipa"
+disqusIdentifier: "2007/12/04/eq2-guild-drama-i-love-it"
+summary: "I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+tags:
+  - "Dera"
+  - "Drama"
+  - "Kunark"
+relatedPosts:
+  - url: "/2007/12/01/eq2-healing-the-crypt-of-agony/"
+    title: "EQ2: Healing the Crypt of Agony"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-01-01-47-14-26.jpg"
+  - url: "/2007/10/18/eq2-i-just-gotta-have-more-cowbell/"
+    title: "EQ2: I just gotta have more cowbell"
+    thumbnailImage: ""
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
+---
+I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or...
+<!--more-->
+
+
+
+I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or so, betraying Qeynos to join Freeport -- after a very harrowing trip (it took me hours to find the Thundering Steppes zone in Antonica, more hours to find the docks in Thundering Steppes, and though the path through Nektulos was pretty well-defined, it was surrounded on all sides by monsters hungry for halfling). After a trip with no maps and only vague directions from people she met on the way, she made it to the Commonlands and caught this first glimpse of the city that would -- after 500 orcs and five uncommon nameds == become her new home.
+
+She turned 74 last night, and has nearly caught up to Dina, who is 60% through 75.
+
+Dera started out on the Antonia Bayle server, and betraying on a roleplay server can really make people angry with you. I was supposed to be one of my guild's templars, but after becoming an inquisitor, members of my guild wouldn't even group with me. Dera remained guildless until I transferred her to Befallen.
+
+Even now, people are far more interested in getting my troub to join their guild than my cleric. Not that they want to group with a troub, mind, but they're somewhat handy in raids, difficult to play well, and widely considered (falsely) to be underpowered, so what guilds are really saying is -- we want you to show up for raids. Other scouts will get priority on the nice weapons. Casters will get priority for the spell enhancement stuff. We just want you to log in and spam jesters/maestro/bladedance on raids. Between raids, please go off and leave us alone -- oh, and could we get your cleric to heal for our group?
+
+Anyway, my guild is embroiled in drama. Four people leave, two return. Then SIX people leave, and it sounds like it was because real life spilled into the game. I don't know what's going to happen. Drama has kept people from logging in, as well as general boredom and difficulty for some people with soloing.
+
+I'm too lazy to look up who insisted RoK would go down as the expansion that killed EQ2, with its mechanics that tear people apart by insisting they must solo. Someone told someone else that EQ2 should be more like WoW; difference is, WoW gives WAY more experience from doing quests, and is also a far easier game -- so fewer quests that you do more quickly. (Note: I left before Burning Crusade; those quests might be harder).
+
+Sure, there are people who are 80 and have been for weeks; but there are lots of people who are still struggling slowly through the levels, unable to find people at the same spot in their quests as they, and every day finding it harder to log in. I did Sebilis with my troub and Crypt of Agony with my cleric; per-kill experience still sucks (in a group though, you're killing faster, so you make it up somewhat in volume, but dungeons STILL aren't giving enough experience to level solely through xp groups).
+
+Rise of Kunark is carving a new place for itself through the endgame players. Kylong and Fens are no longer in multiple instances on Befallen; groups for CoA and Charasis are still always looking for tanks and healers and are fine-thank-you on every other class; but there has been a healthy resurgence of people playing low level characters... level 40s and 50s chat channels are busy as anything now.

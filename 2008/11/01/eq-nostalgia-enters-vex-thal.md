@@ -1,0 +1,83 @@
+---
+date: '2008-11-01T13:29:35-05:00'
+draft: false
+title: "EQ: Nostalgia enters Vex Thal!"
+slug: "eq-nostalgia-enters-vex-thal"
+author: "Tipa"
+disqusIdentifier: "2008/11/01/eq-nostalgia-enters-vex-thal"
+summary: "Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don't have..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+  - "Nostalgia the Guild"
+tags:
+  - "EverQuest"
+  - "Mercenaries"
+  - "Nostalgia"
+  - "Rumblecrush"
+  - "Umbral Plains"
+  - "Vex Thal"
+relatedPosts:
+  - url: "/2008/10/21/eq-seeds-of-destruction-goes-live/"
+    title: "EQ: Seeds of Destruction goes live!"
+    thumbnailImage: ""
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
+  - url: "/2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate/"
+    title: "EQ2: Tomb of Thuuga and the Shard of Hate"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+---
+Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don't have...
+<!--more-->
+
+
+
+Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don't have to mention that we were trying to zone off a train, right? Good!)
+
+I've always had a deep and abiding affection for Vex Thal. What's not to love? A city devoted to the worship of a four-armed goddess who dresses like a Rocky Horror refugee and uses her moon as a footrest for her spike-heeled, black leather boots?
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-11-51-57-61.jpg" title="eqgame-2008-11-01-11-51-57-61" classes="center" >}}
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-11-53-42-86.jpg" title="eqgame-2008-11-01-11-53-42-86" classes="center" >}}
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-00-08-37.jpg" title="eqgame-2008-11-01-12-00-08-37" classes="center" >}}
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-11-25-56.jpg" title="eqgame-2008-11-01-12-11-25-56" classes="center" >}}
+
+Since we'd been doing a lot of xp nights recently, we thought it was time to just have a fun night. Not about loot or xp so much, but just about going to some of the fun, old places we remembered. So last night, we traveled to Luclin's high level xp zone, Umbral Plains.
+
+As well as being the gateway to the raid zone of Vex Thal, Umbral Plains is just littered with named mobs. Back in the day, their loot was pretty sweet. Unfortunately, it hasn't been upgraded for a very long time -- never, really -- and it wasn't a surprise to find ourselves the only people in the zone.
+
+But even given all the nameds we killed, the night really belonged to the mercenaries.
+
+As in, "What's up with the stupid MERCENARY?"
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-10-31-19-36-38-29.jpg" title="eqgame-2008-10-31-19-36-38-29" classes="center" >}}
+
+We were very impressed when, on the first named of the night, Gantru Moltar, the mercenary warrior (one of the many who share our Main Tank position) turned off her attacks when the mob enraged and even turned her back to it. When enrage ended, she turned around and began tanking again.
+
+It takes PC warriors MONTHS to learn that! You could always tell the new raid warriors because they would all die simultaneously when the mob enraged. Some of them would even yell the traditional warrior battle cry as their life dropped instantly from 100% to 0% -- "WHERE'S MY HEALS? ARE YOU FUGGIN CLERICS AFK?"
+
+Not the merc, though. She handled it great. I was curious how two mercs would handle rampage...
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-10-31-21-11-22-58.jpg" title="eqgame-2008-10-31-21-11-22-58" classes="center" >}}
+
+After that great start, though, things went less well with them. We had maybe six adds at one point; with two enchanters, that wasn't a problem; but it totally confused the mercenary, who eventually just gave up and refused to fight any more. (I imagine plat was still being charged, though). We eventually coaxed her back to the front, and she reluctantly, I thought, started to do her job again.
+
+On our way to the fire caves, someone got aggro from the elementals outside Vex Thal, and that sparked our run into VT -- past Rumblecrush. That ended in death for some. I could get Sejal's corpse, but Qutey had gone link dead and after a bit, decided not to try coming back in.
+
+That left us without our main healer, and a corpse. Once Qutey left the group, though, we had an opening for the mercenary I had hired before heading to Umbral Plains -- a dark elf cleric. She joined the group, buffed me, rezzed Sejal and buffed him, and for the rest of the evening, did her job superbly.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-10-31-21-22-57-31.jpg" title="eqgame-2008-10-31-21-22-57-31" classes="center" >}}
+
+The warrior, though... really wasn't in the mood to fight. Looked to me like he'd gone AFK, and I (and Sejal) ended up tanking more often than I liked. He did eventually cheer up for the boss and do his job/ I guess that's the "Confidence" score -- if they feel they can't do well, they do nothing? The first time a merc cleric decides she isn't interested in healing any more is the last time I hire a merc cleric.
+
+At least I can still tank somewhat.
+
+Anyway, a fun night all around. Next week -- either XP or the Temple of Cazic Thule.

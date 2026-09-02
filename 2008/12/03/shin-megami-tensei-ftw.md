@@ -1,0 +1,45 @@
+---
+date: '2008-12-03T01:48:17-05:00'
+draft: false
+title: "Shin Megami Tensei -- FTW!"
+slug: "shin-megami-tensei-ftw"
+author: "Tipa"
+disqusIdentifier: "2008/12/03/shin-megami-tensei-ftw"
+summary: "Ever since I first heard that Shin Megami Tensei was being made into an MMO -- and that it was coming HERE -- I changed..."
+categories:
+  - "MMORPG"
+  - "Shin Megami Tensei"
+relatedPosts:
+  - url: "/2010/04/30/assault-on-the-inbox-weekly-marketing-e-mails/"
+    title: "Assault on the Inbox: Weekly marketing e-mails"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
+  - url: "/2010/04/23/assault-on-the-in-box-friday-edition/"
+    title: "Assault on the In Box, Friday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
+  - url: "/2009/04/11/shin-megami-tensei-new-mounts-and-cool-stuff/"
+    title: "Shin Megami Tensei: New mounts and cool stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/smt.jpg"
+  - url: "/2008/12/08/shin-megami-tensei-uberer-than-thou/"
+    title: "Shin Megami Tensei: Uberer than thou"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/tensei.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/tensei.png"
+---
+Ever since I first heard that Shin Megami Tensei was being made into an MMO -- and that it was coming HERE -- I changed...
+<!--more-->
+
+
+
+Ever since I first heard that Shin Megami Tensei was being made into an MMO -- and that it was coming HERE -- I changed my desktop to the SMT: Imagine wallpaper and looked at it every day. Today, I got the golden ticket -- I was in!
+
+Probably every Aeria Games player got in if they wanted to, but I don't care. Installing it right now. I don't know what this will do to my DOMO career -- just joined a guild tonight, too. Oh well.
+
+Since this game is in closed beta, I'm not sure what I can write about it. I didn't sign any NDA (yet), so if none pops up, I'll be talking a lot about it right here.
+
+In SMT:Imagine (AKA Megaten), you gain powers by controlling demons, that you can fuse together to make new, more powerful (or new, amazingly weak) demons. With those, your fighting skills, and a dead eye for fashion, Tokyo can once again become safe from demonic (and angelic) interference.
+
+Read about all of that [on their features page](http://megaten.aeriagames.com/info/features).
+
+Like many non-western MMOs, your character is as individual as you want to make it. It's weird, when you think about it, that western MMOs, might as well just come right out and say WoW-like MMOs, are so very inflexible. We can do better, but we don't.
+
+Megaten is still [signing up closed beta testers](http://megaten.aeriagames.com/signup) from registered Aeria Games players.

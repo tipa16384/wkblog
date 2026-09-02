@@ -1,0 +1,29 @@
+---
+date: '2008-04-20T13:44:05-05:00'
+draft: false
+title: "Battlestar Galactica - the Ties that Bind"
+slug: "battlestar-galactica-the-ties-that-bind"
+author: "Tipa"
+disqusIdentifier: "2008/04/20/battlestar-galactica-the-ties-that-bind"
+summary: "The problem is not that Battlestar Galactica has tranformed science fiction television. The problem is that it has set such an impossibly high bar that..."
+categories:
+  - "Battlestar Galactica"
+  - "Sci Fi"
+relatedPosts:
+  - url: "/2007/03/07/battlestar-galactica-frame-by-frame/"
+    title: "Battlestar Galactica, frame by frame"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/bg1.jpg"
+  - url: "/2007/01/05/when-we-return-televisions-finest-part-1/"
+    title: "When We Return: Television's Finest (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
+  - url: "/2006/09/06/battlestar-galactica-webisodes/"
+    title: "Battlestar Galactica Webisodes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
+  - url: "/2024/08/22/ps2-rpgs-quick-reviews/"
+    title: "PS2 RPGs: Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
+---
+The problem is not that Battlestar Galactica has tranformed science fiction television. The problem is that it has set such an impossibly high bar that...
+<!--more-->
+
+The problem is not that Battlestar Galactica has tranformed science fiction television. The problem is that it has set such an impossibly high bar that its future imitators won't be able to surpass it. I just got to watching Friday's episode. This fourth and final season, every single episode goes places I have never seen in any sort of fiction, science or otherwise. I'm not even going to try and urge you to watch it. You do or you don't. All I want to say here is, sometimes something comes along that changes all the rules. There has been a lot of good SF on TV -- Babylon 5 was pretty awesome, but it went a different way. B5 was a mirror held up to the Star Trek shows that said, here are the parts of your shiny happy world you never talk about. Battlestar Galactica says, fuck the future. This is a cruel story, and all cruel stories end the same way.

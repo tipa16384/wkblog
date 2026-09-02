@@ -1,0 +1,58 @@
+---
+date: '2011-01-13T21:13:04-05:00'
+draft: false
+title: "Facebook's Least Popular Games"
+slug: "facebooks-least-popular-games"
+author: "Tipa"
+disqusIdentifier: "2011/01/13/facebooks-least-popular-games"
+summary: "[..."
+categories:
+  - "Facebook Games"
+relatedPosts:
+  - url: "/2013/09/10/omg-r-u-still-around/"
+    title: "OMG, R U STILL AROUND?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
+  - url: "/2011/11/22/how-castleville-lost-me/"
+    title: "How Castleville Lost Me."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg"
+  - url: "/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
+    title: "Daily Blogroll Oct 12: No time for heroes edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
+  - url: "/2011/09/26/treasure-abyss-closes-its-dungeons/"
+    title: "Treasure Abyss closes its dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/cityville.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/cityville.jpg"
+---
+[...
+<!--more-->
+
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/cityville.jpg)
+
+I read today that [Zynga's CityVille now has over 100 million monthly active users](http://news.cnet.com/8301-13506_3-20028436-17.html), making it the most popular game on Facebook, outstripping all the other Zynga games and, of course, every other game in the world.
+
+Eat THAT, World of Warcraft.
+
+Among my own CityVille neighbors are players from Thailand, Japan, China, India and all across Europe. A lot of South America. Its clicky nature is also its biggest strength. Deciding to break the Zynga stranglehold on SimCity variants, I logged on to Steam and bought SimCity 4 and its expansion that lets you go on driving missions in your cities.
+
+I lost an entire day to that game. I have no idea what happened, but I ended the day with three self-sufficient cities -- the last built around a really high mountain, just to make things interesting. It had also withstood meteor attacks and a TV robot. Anyway, I really can't afford to lose entire days. Zynga limits how long you can play CityVille. I love Sim-games too much to actually play them uncut.
+
+Anyway, so if CityVille was Facebook's most POPULAR game... what is Facebook's LEAST popular game? A game that is played by at least one person, that is -- there are hundreds of FB games nobody plays.
+
+These are actual, real Facebook games. Clearly there's a pretty low barrier to entry. So if you've ever wanted to be a game developer, well, could you be the next Izal Aya from the [Indonesian Hacker Team](http://www.indonesianhacker.com/)!
+
+- 67920: [Doughnut Fight](http://www.facebook.com/apps/application.php?id=385016341773) *Declare a yummy war on all of your friends! Shoot with sprinkles, and cream their faces with chocolate. All is fair in donuts and war.*
+
+- 67923: [WarCrusade](http://apps.facebook.com/idolkosaytan/) *WELCOME TO WAR CRUSADE THIS GAME IS VERY IF YOUR ACTION POINTS IS 0 DON`T WORRY GO TO THE BATTLE ARENA AND BATTLE OTHER PLAYER NO STAMINA ITS FREE*
+
+- 67954: [Gates vs Jobs - The Game](http://apps.facebook.com/gates-vs-jobs/) *With this app, it is up to you which side you are fighting the Empire, whether Jobs or Gates, you have the choice!*
+
+-
+
+69975: [Know Your Contemporary Canadian Poets](http://apps.facebook.com/trv-know-your-ftuzj/) Um, Rod McKuen? Neil Young?
+
+- 70006: [Wot will ur kid look like when they start skooll?](http://apps.facebook.com/what-will-ur-bddajhc/) Her follow-up app was "I will tutor ur kid when they start skool!"
+
+What's YOUR favorite unpopular Facebook game??? [Check them out here](http://www.appdata.com/leaderboard/apps?page=1698)!

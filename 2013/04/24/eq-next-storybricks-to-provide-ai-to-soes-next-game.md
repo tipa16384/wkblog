@@ -1,0 +1,54 @@
+---
+date: '2013-04-24T06:54:28-05:00'
+draft: false
+title: "EQ Next: Storybricks to provide AI to SOE's next game"
+slug: "eq-next-storybricks-to-provide-ai-to-soes-next-game"
+author: "Tipa"
+disqusIdentifier: "2013/04/24/eq-next-storybricks-to-provide-ai-to-soes-next-game"
+summary: "Soooooo.... after a lot of hinting that something great was on the Storybricks horizon by Namaste's Brian \"Psychochild\" Green, the news broke last night that..."
+categories:
+  - "EverQuest"
+  - "Everquest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/shrubbery-480x343.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/shrubbery-480x343.png"
+---
+Soooooo.... after a lot of hinting that something great was on the Storybricks horizon by Namaste's Brian "Psychochild" Green, the news broke last night that...
+<!--more-->
+
+
+
+Soooooo.... after [a lot of hinting that something great](https://plus.google.com/104424702290149874363/posts/feBCsWcWF7K) was on the [Storybricks](http://www.storybricks.com/) horizon by Namaste's Brian "Psychochild" Green, the news broke last night that Namaste is partnering with Sony Online Entertainment to bring their AI technology to EverQuest Next.
+
+We saw last year how this tech worked in Namaste's "Kingdom of Default" demo, where players could interactively create NPCs with complex, rules-based logic that could dynamically change NPC behavior based on any number of factors -- and changeable in game. After [an unsuccessful Kickstarter](http://www.kickstarter.com/projects/storybricks/storybricks-the-mmorpg-storytelling-toolset), Storybricks' fate was uncertain. But, now it's going to be part of my next gaming obsession.
+
+Very, very few details have been leaked about EQ Next, but given the Storybricks involvement, we can be pretty sure that player-generated missions, NPCs and other content will feature prominently. In this, EQN will be following in the footsteps of Cryptic's Foundry tech, and SOE's own Dungeon Maker concept.
+
+Here's [the official announcement](http://us2.campaign-archive2.com/?u=7e1844ab69e151021701614fa&id=9a9284b20d&e=6c94745033), and [Psychochild's blurb about it](https://plus.google.com/104424702290149874363/posts/GXtziz1bej8) on G+:
+
+*Hello world,
+
+We just wanted to share another update this month. (Nothing for a while and then two updates in a month, this feels like Lithe and Whacking Day rolled into one!) But we really did not want to wait another week for this exciting news.
+
+After several months of working together with Sony Online, we can finally reveal that we are collaborating on EverQuest Next. EQN is “the biggest sandbox ever designed” and we are extremely happy to be working on the most innovative MMORPG under development.
+
+This is just a tiny announcement as we can’t give any specifics about what we are doing on EQN yet.  But we want to thank all our supporters for your patience and let you know that we are doing remarkable things.
+
+On a related note, we are still hiring software engineers in San Diego, CA. Come and help us build something truly amazing. Apply here or respond to this newsletter for more information.
+
+We look forward to entertaining you.
+
+- The Storybricks Team*

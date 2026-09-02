@@ -1,0 +1,57 @@
+---
+date: '2013-01-15T08:09:48-05:00'
+draft: false
+title: "Diablo 3: 230 Hours In"
+slug: "diablo-3-230-hours-in"
+author: "Tipa"
+disqusIdentifier: "2013/01/15/diablo-3-230-hours-in"
+summary: "We started playing Diablo 3 at the beginning of July, Spode, Stingite, Calrain and I. We finally finished killing Diablo in Inferno mode last Sunday...."
+categories:
+  - "Diablo 3"
+  - "Other Games"
+relatedPosts:
+  - url: "/2013/01/14/d3-youve-defeated-diablo-iii/"
+    title: "D3: You've Defeated Diablo III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
+  - url: "/2012/12/31/diablo-3-its-an-inferno-out-there/"
+    title: "Diablo 3: It's an Inferno out there!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-12-480x300.jpg"
+  - url: "/2012/12/05/diablo-3-spodes-inferno/"
+    title: "Diablo 3: Spode's Inferno"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/Diablo-III-2012-12-02-23-58-26-14-480x335.jpg"
+  - url: "/2012/10/26/game-log-diablo-3-2/"
+    title: "Game Log: Diablo 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg"
+---
+We started playing Diablo 3 at the beginning of July, Spode, Stingite, Calrain and I. We finally finished killing Diablo in Inferno mode last Sunday....
+<!--more-->
+
+
+
+We started playing Diablo 3 at the beginning of July, Spode, Stingite, Calrain and I. We finally finished killing Diablo in Inferno mode last Sunday. In between we all played a bunch of classes, played a lot of solo stuff, did hardcore, did the auction house, did Whimsyshire, and killed Diablo so, so many times.
+
+Blizzard kept changing the game as well, adding things like Nephalem Valor, Paragon Levels and Monster Level to keep the game challenging. I never did finish the Hellfire Ring from the Infernal Device in Act II; every time I'd run through the Device, I'd gain another level, and I was really trying to not get that far ahead of everyone else (though once we all hit 60, Spode and Sting moved way ahead on Paragon levels). The [forthcoming patch 1.0.7](http://us.battle.net/d3/en/blog/8414560/Patch_107_Preview-1_11_2013) introduces PvP, buffs my class (wizard, and may I say, finally?) and fixes reflect damage so that it isn't a sure-fire way to kill a wizard character.
+
+Okay, maybe I'm taking this stuff a little personally.
+
+Diablo 3 is not a game about killing the demon lords you didn't get to in the first two Diablo games, as well as Diablo himself once more. That's what you DO. That's not what the game is ABOUT.
+
+The game is about playing a number of mini-games. Introduced into Diablo for the first time is a WoW-like auction house, which was meant to be a driver for the longevity of the game. Players would farm gear hoping for a good stat roll, then sell that thing for real money to another player. Everyone gets rich as long as they want to put in the time. This replaced the Diablo 2 mechanic of joining a public game where some guy would drop piles and piles of gold on the ground, as well as all the most valuable items in the game. That ruined the game for me, because I could not NOT pick up that gold and those items, though I really had joined the game just to go kill stuff.
+
+Diablo 3 doesn't let you drop gold on the ground.....
+
+Anyway. Opening up the Achievements list listed any number of things to work on, such as speed runs of acts, or killing things with certain handicaps, or exploring absolutely everything, or sitting around listening to some old god spit nonsense from inside a barrel, or taking different companions out for a spin.
+
+The story itself never changes, but the story itself is not the point. By completing the game in Inferno mode, we've finished the main game and are now ready to get started on the other 90% of the content. Team Spode could spend another year just doing the achievement challenges and have a lot of fun doing it because playing with friends is the most important thing about any of these games.
+
+How does Diablo 3 stack up against Diablo and Diablo 2? I found the original game a really atmospheric hack and slash game. It was small enough to be fun for a weekend, and I enjoyed it but didn't play it all that long. Diablo 2 I played through twice; once as a Sorceress (and this is the character that was ruined by greed and a public game), and once as a Druid when that expansion came out. I only did normal mode; played through the story once and moved on. My son was really into it, though -- he made it to the highest level, led cow level runs, "boosted" levels for friends, got his account hacked and stolen, restarted, hacked and stolen, restarted and so on. He played it for a long time.
+
+Diablo 3 is a "grown up" version of Diablo 2. The grouping is better, though it has an issue with not being able to find groups for specific achievements, only specific quests, which I feel is missing the wider point of the game. The auction house is a necessary evil, but one that Blizzard is trying to deal with by making crafting more important (it is currently a waste of money to craft new items, which, unless you have a legendary pattern (and even then) are well below what can be found cheaply in the auction house).
+
+The story pacing is wildly uneven, with Act I taking as long to complete as the remaining three acts together. Act IV goes by so fast that we got the "speed run" achievement the second time we did it. Diablo himself being the easiest boss in the game was also a little backward. Champion mobs often took more time to kill than it took to kill Diablo.
+
+I don't think any of us did not have fun in the game. Even though we played this game for half a year, it didn't overstay its welcome. It's time to move on while we're still having fun with the game. I don't think it will be leaving any of our hard drives any time soon.
+
+In particular, I'm going to be back, solo, on my wizard as soon as the patch goes live. Looking forward to a return to my former uberness....

@@ -1,0 +1,71 @@
+---
+date: '2008-07-25T08:15:56-05:00'
+draft: false
+title: "A first look at Florensia"
+slug: "a-first-look-at-florensia"
+author: "Tipa"
+disqusIdentifier: "2008/07/25/a-first-look-at-florensia"
+summary: "Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?..."
+categories:
+  - "Florensia"
+  - "MMORPG"
+tags:
+  - "Dream of Mirror Online"
+relatedPosts:
+  - url: "/2008/07/24/free-to-play-game-of-the-month/"
+    title: "Free-to-play game of the month?"
+    thumbnailImage: ""
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2010/05/21/assault-on-the-inbox/"
+    title: "Assault on the Inbox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
+---
+Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?...
+<!--more-->
+
+
+
+Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?
+
+Florensia's kinship with Dream of Mirror Online couldn't be more unmistakable. That same sort of soft focus, cell-shaded look of the characters against backdrops so lush they seem to be almost painted. And these guys don't just sit around and swing at each other... they put their bodies into it, jumping and swinging and spiking stuff at the enemy. The birth of the aerobic adventurer.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-22-34-49.jpg" title="florensiaen-2008-07-25-07-22-34-49" classes="center" >}}
+
+You start off in the port town of Roxbury on Cardiff Island -- any relationship to actual cities is purely coincidental. This small fishing village is being assaulted from both land and sea by a variety of pests. On land, someone delved into a cave where no mortal was meant to tread, and a vile mist began corrupting the local wildlife. On the sea, the port is being harassed by gigantic lobster men who seem to be in league with some pirates.
+
+The residents of Roxbury are going to need all your abilities on land AND on sea in order to survive. Also, you will need to fish.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-24-06-43-50-29.jpg" title="florensiaen-2008-07-24-06-43-50-29" classes="center" >}}
+
+Nothing says "hi, this game is from Japan" like hundreds of people all lined up against the water, fishing. And why not? Fish up some rare stuff and you can turn it in for upgrades.
+
+The quests are thoroughly standard. Bring this thing to someone else. Go talk to that guy about something. Go kill ten of that and three of this and all the thoses you can find until you get ten wazzits from it.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-24-07-50-12-23.jpg" title="florensiaen-2008-07-24-07-50-12-23" classes="center" >}}
+
+The extensive tutorial leads you easily through battles on land, building and equipping a ship, and setting sail. It does fail a bit on how to actually kill stuff on the water; it took awhile before I figured out how to successfully join the fight against the Lobstermen from the Deep but yeah, I eventually got all Cloverfield on their butts.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-12-10-90.jpg" title="florensiaen-2008-07-25-07-12-10-90" classes="center" >}}
+
+I designed and built that ship, by the way. That ain't no tutorial ship.
+
+There's only the one race -- humans -- and just four classes -- explorer, noble, mercenary and saint. Explorers are the rangers and hunters of Florensia. Nobles, those people in silks who never got their hands dirty with real work, are the nukers. The mercenaries are the basic tanks, and the saints are the healers. My character is a Saint. Isn't she JUST, though? Carrying a candle to show you how devout she is. A candle of FIERY DEATH she can HURL 50 FEET.
+
+Those are just the templates. Similar to the late and lamented Mythos, you can build out your character anyway you like based on the talent trees. Each level, you buy a new skill. And each level, you get a point to put in a skill. The more points you allocate, the more powerful that skill becomes. All Saints get a basic heal, but that won't do anything unless you point points into it -- the more the better. But points in healing is points you can't spend on nukes and dots. And that's how that talent tree branches -- a healing saint, a nuking saint, or a DoT saint? It's up to you, and you can do a combination of, but you won't ever be good at all of them.
+
+I haven't seen a respec NPC, but I can't see how there would not be one.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-24-07-45-41-49.jpg" title="florensiaen-2008-07-24-07-45-41-49" classes="center" >}}
+
+But is the game any good? I can't tell you that. I can tell you it isn't BAD. It does need some work -- for instance, the UI is not modifiable. These old eyes need text to be a little larger, and I'd like some of the other UI elements moved around. The movement keys are a little wacky; you can't turn in place, you can only turn while moving forward, which is weird. And you can't redefine them. The bouncy music plays continuously whether you are in battle or not, and it's always the same tune. So yeah, there's work to be done.
+
+I feel it's impossible to actually judge how good an MMO is unless you play it for a month. Getting to land level 6 and sea level 2 hasn't taught me much about the higher level parts of the game. The animations are great, very over the top and entirely appropriate for the anime look. The talent trees are deep and it's easy to see how you can make a character that plays out just as you like it. You can just buy one skill and every level pump it higher and higher and become fantastic at that one thing, or spread out your abilities and be more a generalist. That's very nice. There's even (ahem) a menu that lets you select among the several languages Florensia supports (be sure to set this to English if you're an English speaker!)
+
+If you can't stand cute anime characters, you're not going to like Florensia much. But if you liked Dream of Mirror Online but wanted something with a less Asian, more Western setting -- Florensia might be worth a look. And hey, it's free.

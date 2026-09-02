@@ -1,0 +1,43 @@
+---
+date: '2012-04-05T22:07:52-05:00'
+draft: false
+title: "Kickstarter focus: College-Ruled Universe"
+slug: "kickstarter-focus-college-ruled-universe"
+author: "Tipa"
+disqusIdentifier: "2012/04/05/kickstarter-focus-college-ruled-universe"
+summary: "I used to doodle a lot as a kid. I'd draw up adventures where, typically, bad things would happen to my kid sister. If those..."
+categories:
+  - "College-Ruled Universe"
+  - "Kickstarter"
+relatedPosts:
+  - url: "/2013/02/20/ballpoint-universe/"
+    title: "Ballpoint Universe"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
+  - url: "/2026/08/30/i-am-not-sure-about-wildmagic-frontier/"
+    title: "I am not sure about Wildmagic Frontier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/wildmagic.jpg"
+  - url: "/2026/08/19/confessions-of-a-superbacker-blaugust-2026-edition/"
+    title: "Confessions of a Superbacker: Blaugust 2026 Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2026/05/20/confessions-of-a-superbacker-2026-edition/"
+    title: "Confessions of a Superbacker: 2026 edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/collegeruled-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/collegeruled-480x360.jpg"
+---
+I used to doodle a lot as a kid. I'd draw up adventures where, typically, bad things would happen to my kid sister. If those...
+<!--more-->
+
+
+
+I used to doodle a lot as a kid. I'd draw up adventures where, typically, bad things would happen to my kid sister. If those drawings had come to life... well, I would have a very angry sister today (sorry, Val. At least I am comforted knowing you will never read my blog).
+
+Artist Leo Dasso had a different vision. While doodling in class one day, he was inspired to turn his doodles into space ships, cities and extremely weird bosses and wire them up in Flash to make an abstract and visually striking side-scrolling shooter in the vein of R-Type and the old Treasure bulletstorms. He tapped a friend of his to do the music and called the game [College-Ruled Universe](http://www.kickstarter.com/projects/1075607244/college-ruled-universe).
+
+He's got the prototype coded up in Action Script 2.0 and is looking for funding to hire a programmer to port the game to AS 3.0 tuned to run best on Android (though the artist is now considering releasing it first for iOS). There's [a playable demo](http://www.newgrounds.com/portal/view/592452) available. The rewards feature copies of the game once released and artwork based on the game (or even used IN the game), and a chance to get your own artwork into the game if you want to pledge that much.
+
+As of this writing, the game has 49 hours left to go and has already raised $7,333 of the $6,000 goal, so it's going to happen.
+
+College-Ruled Universe is the perfect storm of indie game development that can reliably succeed on Kickstarter. It's a game with a good "elevator pitch" -- retro side-scrolling shooter with a distinctive art style and music. There's a playable demo. The goals are reasonable and the funding target is low. We've seen these sorts of games succeed on other platforms again and again -- [flOw](http://www.jenovachen.com/flowingames/flowing.htm), [Everyday Shooter](http://www.everydayshooter.com/), [Castle Crashers](http://www.castlecrashers.com/) and so on.
+
+College-Ruled Universe might do well on Kongregate even without Kickstarter funding... but with the funding, it will be better and on more platforms.

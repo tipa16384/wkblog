@@ -1,0 +1,59 @@
+---
+date: '2010-12-10T23:14:31-05:00'
+draft: false
+title: "An hour in Next Island"
+slug: "an-hour-in-next-island"
+author: "Tipa"
+disqusIdentifier: "2010/12/10/an-hour-in-next-island"
+summary: "[..."
+categories:
+  - "MMORPG"
+tags:
+  - "Entropia Universe"
+  - "Next Island"
+relatedPosts:
+  - url: "/2021/11/01/cryptogaming-a-brief-adventure/"
+    title: "Cryptogaming: A Brief Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-41-46-19-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-41-46-19-480x384.jpg"
+---
+[...
+<!--more-->
+
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-41-46-19.jpg)
+
+"Next Island" just opened today in the Entropia Universe. The time travel-themed island asks players to "join the utopian scientists, great artists and successful entrepreneurs who populate [our tropical paradise of Next Island](http://www.nextisland.com/about-next-island/)."
+
+Sounded intriguing!
+
+I made an account, downloaded the approximately 3 Gb client and headed in. Avatar creation was easy enough. Though the game let me see my character in several different outfits, it warned me that I would arrive on the island clad only in a used, tattered, worn and SEVERELY unfashionable coverall, and shoes that have seen better days. Years. DECADES, OMG!
+
+Clearly, I'd be thrown out of the fashionable clubs of Next Island! Perhaps I could get a job washing dishes, or perhaps I could serve drinks to a utopian scientist.
+
+I popped into existence on a hillside, armed with a tool with which I could harvest some animal sweat. I'd long ago decided that should I ever find myself within the Entropia Universe, that sweat harvesting would NOT be among the things I would do. Still, here I was, in a new world, and I guess I could get some sweat, maybe make a sweater. Or something.
+
+So I looked around for some sweaty animals -- no life, anywhere. I followed a blue dot on my minimap and came to a teleporter in a place called The Enchanted Village. Said village being some gypsy caravans, abandoned. The mystery deepened.
+
+Chat was alive with people inventing things or killing stuff in Club NEVERDIE, which was clearly a more happening place than I had been led to believe.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-28-54-63-480x384.jpg" title="Monkey business" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-28-54-63.jpg)
+
+I followed a winding road up the side of a steep hill that led eventually to a hut and another teleporter. Inside the hut were two monkeys who wanted to sell me things; I had no money. There were crafting machines there, but I had nothing to craft. I moved on.
+
+Following the gentle tug of gravity, I came eventually to Mushroom Valley (if I remember right). This had a teleporter and a hut with some monkeys. I got on the teleporter and chose a destination at the south eastern end of the island which seemed promising. I popped in to a fairly close village. I waved to the vendor monkeys and started exploring the area, at which point I was attacked by a monkey. I didn't know how to fight him or to harvest his sweat, and it eventually lost interest and went away.
+
+Clearly, I was hampered by not having any idea whatsoever of what I was doing. The monkey that attacked me was the first animate critter I'd seen in my entire time there. I believe the potential Next Island explorer is expected to have spent some time harvesting sweat on some other island and perhaps hunted creatures in Club NEVERDIE! for some experience in how the game works.
+
+I'll definitely give it another try in a few days. This is its first day, and there's a good chance the areas I explored just weren't open for business quite yet.

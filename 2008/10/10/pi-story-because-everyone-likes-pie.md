@@ -1,0 +1,49 @@
+---
+date: '2008-10-10T08:16:49-05:00'
+draft: false
+title: "Pi Story, because everyone likes Pi(e)"
+slug: "pi-story-because-everyone-likes-pie"
+author: "Tipa"
+disqusIdentifier: "2008/10/10/pi-story-because-everyone-likes-pie"
+summary: "I've been wanting to get into Pi Story for months. Yeah, it's a 2D game in the vein of old Playstation action RPGs like 'Legend..."
+categories:
+  - "MMORPG"
+  - "Pi Story"
+relatedPosts:
+  - url: "/2008/10/12/pi-story-one-in-a-thousand/"
+    title: "Pi Story: one in a thousand"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-12-07-14-36-88.jpg"
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-10-07-50-48-45.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-10-07-50-48-45.jpg"
+---
+I've been wanting to get into Pi Story for months. Yeah, it's a 2D game in the vein of old Playstation action RPGs like 'Legend...
+<!--more-->
+
+
+
+I've been wanting to get into Pi Story for months. Yeah, it's a 2D game in the vein of old Playstation action RPGs like 'Legend of Mana'. Yeah, it is entirely and unashamedly old school. Yeah, the game uses so little of your computer it could be run on a pocket calculator.
+
+I'm not sure why any of those things would be a deal breaker. I, personally, had LOADS of fun with the old PlayStation and SNES RPGs.
+
+Pi Story is a look back to the early days of Japanese-import RPGs. The graphics are colorful. The monsters, decidedly not scary. The music, bouncy.
+
+But this being an MMO, you need never go on any adventure alone. With its innovative Open Group system, anyone can join your group at any time -- and surprisingly, a lot of people do. Once you have as many in your group as you think you'll need, your adventure is a click away. There is no traveling in Pi Story. There is only Pi.
+
+Pi is that mysterious substance that allows travel between the broken shards of the world. Your job, and the job of all adventurers, is to defeat the evils of all the shards and allow them to, someday, be brought back together.
+
+Along the way, you'll find new gear and outfits, get a room of your own that you can decorate however you wish, and in general, become a master adventurer who looks as awesome as they fight.
+
+Like Kudos 2, this is a game very well suited to a Netbook, one of those ultra-tiny laptops, like the Asus Eee (and I love mine). An adventure only takes a few minutes, or you can just han around a quest hub and help someone out with theirs. It's only a click and then you're off.
+
+I didn't get all that far into Pi Story in the closed beta; I hope to get a lot further in now.
+
+Pi Story is free to play, but includes a cash shop. Typical for Asian MMOs, you will eventually want to use the cash shop for the cooler outfits or perhaps a little help in the leveling -- but it's never mandatory to pay anything to play.

@@ -1,0 +1,53 @@
+---
+date: '2012-11-21T15:04:28-05:00'
+draft: false
+title: "EQ2: Not gonna fight."
+slug: "eq2-not-gonna-fight"
+author: "Tipa"
+disqusIdentifier: "2012/11/21/eq2-not-gonna-fight"
+summary: "I just got this great idea for how to fix my \"Haunted Diorama\", a display section of my Qeynos inn home that has a scarecrow..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
+---
+I just got this great idea for how to fix my "Haunted Diorama", a display section of my Qeynos inn home that has a scarecrow...
+<!--more-->
+
+
+
+I just got this great idea for how to fix my "Haunted Diorama", a display section of my Qeynos inn home that has a scarecrow and some spooky trees all waving back and forth, looking for a way out. I spent a good half hour last night trying to figure out how to make a wall with a window in it without using one of those custom home editors. I was making jigs to set things in the right place, then taking the jigs away, but positioning was still a bother.
+
+I've been on vacation this week and have been spending time in a way I haven't for years -- in an MMO. Straight combat bores me. There's so much more to do in MMOs. Interior decoration is not one of my strong areas; Stargrace made me an incredible dinner theater in my troub's Gorowyn home and there was not one part of it I could have come up with.
+
+Doing my best with this character, but the in-game editor is great for plopping stuff on the floor or a wall, less good and making new things from other things. Here's the house so far (the video is very short):
+
+Working on stuff. I could have been any kind of crafter for the Wurmslayer; I chose carpenter because I wanted to learn to decorate. There's so much you can decorate -- you can even decorate your own dungeons.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/Fullscreen-capture-11212012-22914-PM-480x232.jpg" title="Broker helper" classes="center" >}}
+
+I'm also making money through the broker. This is something that takes a good amount of time. Everyone gets a lot of loot through normal gameplay, most of it not really worth the time to put on the broker, given you have to figure out how much it's worth and how much of a bite the broker and your display arrangements are going to take from the profit. In some cases, it makes more sense just to sell the loot to a merchant.
+
+Nobody is going to buy your thing on the broker unless it's the cheapest, but you also don't want to undercut potential profit, so there's a very specific calculation that needs to be done. I wrote a little Python script (above) to give me what I need to set my price at in order to beat the cheapest existing price on something by a discount I set (currently 1%).
+
+If the current prices are way out of line (like four plat for a level 72 adept), I'll just sell it at my normal max rate for such things (25 gold for a 70-79 adept) because nobody is going to buy that for 4p, and listing one for 3p 96g won't get it sold. The whole purpose is to move inventory, not to try and catch the occasional sucker.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/Fullscreen-capture-11212012-23728-PM.jpg" title="A run of the script" classes="center" >}}
+
+Between crafting, decorating, working on harvesting quests, and pricing stuff on the broker,  I can go a full game session having gotten a lot done but not one monster killed.
+
+Monster slaying has gotten significantly less interesting now that I have a merc, anyway. I'm trying to get my old Inquisitor moved from my dead account to my live one because keeping the merc alive with a healer would be a great training to get back into group play. Healing takes some skill, but tanking -- tanking well -- takes more. More than I have, anyway.

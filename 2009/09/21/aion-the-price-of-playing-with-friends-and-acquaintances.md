@@ -1,0 +1,47 @@
+---
+date: '2009-09-21T17:39:57-05:00'
+draft: false
+title: "Aion: The Price of Playing with Friends and Acquaintances"
+slug: "aion-the-price-of-playing-with-friends-and-acquaintances"
+author: "Tipa"
+disqusIdentifier: "2009/09/21/aion-the-price-of-playing-with-friends-and-acquaintances"
+summary: "*Another guest post by the always awesome Saylah! -- Tipa..."
+categories:
+  - "Aion"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/"
+    title: "Daily Blogroll 1/6: Fair and Balanced edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/07/02/assault-on-the-inbox-independence-day-edition/"
+    title: "Assault on the Inbox: Independence Day Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
+---
+*Another guest post by the always awesome Saylah! -- Tipa...
+<!--more-->
+
+*Another guest post by the always awesome Saylah! -- Tipa
+
+*
+
+---
+
+Three hours in a log-in queue, was the price my family paid to create characters on servers with friends or acquaintances.  I knew the wait would be long but nothing prepared me for that length of time. It exceeded any of the long queues I’d experienced in the early days of World of Warcraft, following our AC2 guild to Illidan.  The pre-selection opportunity hadn’t yielded the ability to get on the servers where we knew people.  Initially, it wouldn’t allow us to create new characters on our intended server as Asmodian, stating we had Elyos characters there.  The only Elyos characters we had were from Beta, which aren’t persisted and shouldn’t have mattered.
+
+My workday is extremely busy.  I didn’t have the time to muck with it again on Friday, until late in the evening.  By then, the servers where I wanted to go where all locked.  By the end of the pre-selection phase, my family and friends were scattered all over the place.  Toward the end of the pre-selection I took a chance and deleted one of the two characters you were allowed, in an attempt to join my nephew but couldn’t get on that server.  When I tried to go back to where I’d come from, I couldn’t do that either.  Not in the mood to mess with it further, I decided to defer my attempts until the head-start.
+
+Head-start day arrived at 3PM ET on Sunday.  Thousands of players attempt to log-in all at once.  I felt this was a poor choice on NCSoft’s part.  If they’d opened the game at midnight, there would have been a trickling affect.  The most avid new players could have stayed up to get on their servers while everyone else would have done so as they woke up and had the time to log into the game.  With a Sunday afternoon start, there was pent-up demand, all attempting to get into the game simultaneously.  I suppose some might have considered that an unfair advantage (midnight start) and servers could have been full before they even woke up?  Dunno.
+
+With players having a difficult time getting on to servers with friends, people made multiple fall-back plans.  My family decided to just wait in the queue to get on our primary destination then double back to the second and third choices in case legions (guilds) had to utilize them.  Under these circumstances, attempting to get dozens of people on the same server is daunting.  Many of us aren’t real life friends with each other’s phone numbers, so it was very hit-n-miss with watching email, forums and IMs.
+
+In the end, I decided that if I couldn’t get in with the [Casualties of War](http://www.casualtiesguild.com/)’s Asmodian legion on their server, I could fall back to being Elyos on that same server with [WingedNazgul](http://wingednazgul.blogspot.com/)’s legion, as it appeared the creation of Asmodian characters was locking up as fast as whole servers.  If both of those were bust, I could use the character that I’d put on a server with my son but in the wrong time zone, play Elyos somewhere in my right time zone or just wait and see what happened in a week or so.  While none of this is the end of the world, and I understand NCSoft’s need to control server population and faction balance, as a pre-order customer, it was an annoying experience.
+
+During the days of hour-long queues on Illidan, being disconnected in the middle of group activity was a freakin’ nightmare, especially when raiding.  It took Blizzard several months to implement functionality that allowed you to by-pass the queue and get right back into the game.  I remember well, the long waits when the main tank or healer was disconnected.  Avatars stood around in an instance, while we listened to periodic updates on their place in the queue and the estimated wait-time.  I hope Aion has taken being disconnected during group-play into account and has implemented something similar.
+
+If you braved the long waits to get on your server of choice, the performance was superb and worth the wait.  I logged into the game 3 minutes after the servers went live and I was the 3018th person in the queue for our server.   I’m really curious about the simultaneous player-cap being used.  I never saw more than a couple dozen players at any one time.

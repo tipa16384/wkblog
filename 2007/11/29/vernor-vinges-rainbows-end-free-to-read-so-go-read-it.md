@@ -1,0 +1,40 @@
+---
+date: '2007-11-29T11:08:18-05:00'
+draft: false
+title: "Vernor Vinge's \"Rainbow's End\" free to read... so go read it"
+slug: "vernor-vinges-rainbows-end-free-to-read-so-go-read-it"
+author: "Tipa"
+disqusIdentifier: "2007/11/29/vernor-vinges-rainbows-end-free-to-read-so-go-read-it"
+summary: "Way back in the 70s, Vernor Vinge wrote a short story called \"True Names\" which is about a bunch of people who hang out in..."
+categories:
+  - "Sci Fi"
+tags:
+  - "Rainbow's End"
+  - "Sci Fi"
+  - "Vernor Vinge"
+relatedPosts:
+  - url: "/2007/11/29/sf-playing-for-keeps/"
+    title: "SF: Playing for Keeps"
+    thumbnailImage: ""
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+---
+Way back in the 70s, Vernor Vinge wrote a short story called "True Names" which is about a bunch of people who hang out in...
+<!--more-->
+
+Way back in the 70s, [Vernor Vinge](http://en.wikipedia.org/wiki/Vernor_Vinge) wrote a short story called "[True Names](http://en.wikipedia.org/wiki/True_Names)" which is about a bunch of people who hang out in a virtual world, talk, hack, have fun... until some of them start dying, one or more of them may not be human at all, and the only way to find out what's really happening is to leave the virtual world and meet up in real life to defeat an enemy that wants to kill them all.
+
+Vinge, with this story, created the "cyberpunk" genre, and also, presciently came the closest to how we, thirty years later, play in our own virtual worlds.
+
+He book-ended the now-passed "cyberpunk" craze with his Hugo-winning book last year, "[Rainbow's End](http://en.wikipedia.org/wiki/Rainbows_End)", about people not too far from now, after the Internet and computer technology has become so much a part of life that people don't even think about it anymore. It's not "the Internet". it's just how people live.
+
+Cory Doctorow calls it the first "post-cyberpunk" novel... and for some reason, Vinge has decided to put it up on the web to read for free. I *bought* this book when it first came out -- Vinge is on my "must buy immediately" list, but I lost no time grabbing this because my eyesight is getting worse, and books are hard to read now, and I'm planning on getting one of those eBook readers like the Amazon Kindle or the Sony Reader (probably the latter) so I can enjoy reading again (yay larger type), and this book will go right onto it.
+
+[This link](http://www.boingboing.net/2007/11/28/vinges-brilliant-rai.html) points to Cory's blurb on the book over at boingboing. Follow it, read the book, and if you like it -- buy it! I put my money where my mouth is here... Cory puts all his books online for free, and yet I have bought one and will likely buy more -- because it's worth supporting artists; gets them to make more cool stuff.

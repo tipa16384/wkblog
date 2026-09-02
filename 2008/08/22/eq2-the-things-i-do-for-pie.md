@@ -1,0 +1,49 @@
+---
+date: '2008-08-22T01:55:55-05:00'
+draft: false
+title: "EQ2: The things I do for pie..."
+slug: "eq2-the-things-i-do-for-pie"
+author: "Tipa"
+disqusIdentifier: "2008/08/22/eq2-the-things-i-do-for-pie"
+summary: "It's just my duty to Norrath to fight back against the Void Tempests, but when I heard a reporter with the Befallen Banner shouting about..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
+---
+It's just my duty to Norrath to fight back against the Void Tempests, but when I heard a reporter with the Befallen Banner shouting about...
+<!--more-->
+
+
+
+It's just my duty to Norrath to fight back against the Void Tempests, but when I heard a reporter with the Befallen Banner shouting about some marvelous device in Neriak, well, I just had to turn in my shards and check it out. There was a gnome with shoulderpads that would have fit someone twice as wide. when i asked him about them, he said he didn't have a choice, that was the uniform, and the human who had worn it last had forgotten to re-adjust the shoulderpads and there just wasn't time and ... but you know, gnomes have those high, squeaky voices, so I excused myself and went inside.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-21-23-56-33-59.jpg" title="everquest2-2008-08-21-23-56-33-59" classes="center" >}}
+
+Well, turns out some bug -- um, some Arasai -- had just invented a new lamp, but needed some bits of glowing fairy dust to activate it. I tried to separate the Arasai from his fairy dust, but he waved of my attack.
+
+I sullenly looked for some fairy dust in Neriak, but apparently they clean up after themselves almost like real people. Darklight Woods -- no fairies! Nektulos Forest -- not far from the tunnel to Darklight Woods in the forest.... fairy heaven. I took care of the fairy problem AND filled the lantern with bits of fairy dust.
+
+Twenty dead fairies later, the lamp shone with a deep yellow glow. I returned to Neriak, and the bug graciously allowed me to keep the lamp, and even gave me some Steaming Jumjum Pie! I was so happy! The gnome from the Banner interviewed me, and when the paper comes out, I'm going to buy a dozen and give them to everyone in the Fool's Gold Inn so they can see how I finally made good after all these years.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-22-01-13-27-34.jpg" title="everquest2-2008-08-22-01-13-27-34" classes="center" >}}
+
+The lantern and the pie are the pefect start to a Pie Shrine! People will come by to look in shock and awe at its mystical crust... its steamy filling... it's unmistakable aroma...
+
+Plus, I finished the Void Storm quests, got my armor, some shinies, an emerald that bathes me in green light and some furniture, and still have some points left :)
+
+And all I was PLANNING on doing tonight was getting ready for the move to Najena. Oh well, maybe another day.

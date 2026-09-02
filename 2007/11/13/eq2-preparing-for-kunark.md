@@ -1,0 +1,57 @@
+---
+date: '2007-11-13T10:40:23-05:00'
+draft: false
+title: "EQ2: Preparing for Kunark"
+slug: "eq2-preparing-for-kunark"
+author: "Tipa"
+disqusIdentifier: "2007/11/13/eq2-preparing-for-kunark"
+summary: "How did you get ready for the expansion? Do anything special?..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
+---
+How did you get ready for the expansion? Do anything special?...
+<!--more-->
+
+How did you get ready for the expansion? Do anything special?
+
+First thing I did was to recreate one of my beta characters onto a live server. My son was all excited when I told him I was saving her from deletion by copying her to live. He was hoping you could copy level 80 characters from beta to live, but alas, I just copied her design. She's just an ordinary level 1 Arasai in Darklight Woods, but she'll escape the wipe.
+
+Back on beta, she did the Sokokar quest just to save a run to Teren's Grasp. It's a really easy quest.
+
+I also a week or so ago moved my inquisitor to my necromancer's account -- before, both my level 70s were on the same account. That came about because I started my inquisitor on Antonia Bayle, then restarted on Faydark as a troubador to play with friends. I'd level them both. When SOE let us have free transfers when the servers were consolidating, I brought all my characters to Befallen (with which Faydark merged) because I believe I could not transfer my non-AB characters *to* AB. I also had a couple of characters on Lavastorm.
+
+I got around.
+
+Anyway, I broke her off so I could level my characters together, or at least do some quests together.
+
+So this morning, when I rebooted my Linux machine into Windows, I found out that Windows had crashed. So now I have to figure that whole drama out. It wants an administrator password to repair, and apparently that password is not one of my usual ones, so I guess all I can do is wipe it, reinstall Windows, and copy EQ back from my laptop. The saddest part is, that was the only computer I had that could play EQ1. So now I have to buy EQ1 again TOO. YAY. Maybe I'll level my EQ1 cleric from 75 to 80 at some point.
+
+I have six high level collections waiting to turn in. That mainly involved broker diving -- some of the rare collection bits were stupid expensive, but some were cheap and high level, and those I did.
+
+I also dumped a lot of masters and adepts I had gathering dust onto the broker. Those should be good for another 5p or so, over time.
+
+I foraged a bunch of T1 rares with my island character -- my level 10 coercer who is still on the Isle of Refuge, for the sole reason that the island is the best place to harvest T1 rares. Its uncanny. They are everywhere. And after I do the T1 stuff for Winterspring, I'll be placing the rest on the broker for the use of young Sarnak.
+
+I removed the ProfitUI. Kunark brings massive UI changes. Once those filter to Profit UI, I'll put it back.
+
+My first priority when the servers come back up will be to level my jeweler to level 80. That's the absolute, number one priority. I'll have to do a lot of harvesting, which is fine as I will need the rares for my adept 3 troubador arts as I level -- this was the reason I made a jeweler in the first place, to support my main's leveling.
+
+More importantly even than that, having an active, T8 jeweler will help finance my main's leveling. Maybe get some masters, though they will certainly be overpriced at the start.
+
+I'll certainly try to get some RoK groups, but I am not that worried about my main's levels -- not yet. I know the levels will come, but see no reason to hurry through the expansion at breakneck pace. We have a year before the next expansion, no need to rush things.

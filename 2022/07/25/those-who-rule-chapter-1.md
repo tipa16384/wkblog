@@ -1,0 +1,57 @@
+---
+date: '2022-07-25T23:06:23-05:00'
+draft: false
+title: "Those Who Rule: Chapter 1"
+slug: "those-who-rule-chapter-1"
+author: "Tipa"
+disqusIdentifier: "2022/07/25/those-who-rule-chapter-1"
+summary: "Anyone who has read this blog more than a day knows that I am always looking out for new strategy tactics games to play. I've..."
+categories:
+  - "Steam Games"
+  - "Tactical RPG"
+tags:
+  - "Banner of the Maid"
+  - "Fire Emblem"
+  - "Hex Grid"
+  - "Tactics"
+  - "Those Who Rule"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2024/10/01/those-who-rule-new-demo/"
+    title: "Those Who Rule: new demo!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2022/04/07/you-probably-should-be-playing-wildermyth-right-now/"
+    title: "You probably should be playing Wildermyth right now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
+---
+Anyone who has read this blog more than a day knows that I am always looking out for new strategy tactics games to play. I've...
+<!--more-->
+
+Anyone who has read this blog more than a day knows that I am always looking out for new strategy tactics games to play. I've been following the development of [Those Who Rule](https://twitter.com/ThoseWhoRule) on Twitter for awhile, and finally had a chance to play through its first chapter.
+
+"Those Who Rule" follows four (so far) recruits to their kingdom's army as they form bonds and train with each other to take on the political forces facing them -- those who think immediately of Fire Emblem: Three Houses or Dark Deity wouldn't be far off, as the visual novel-like interludes tell the story that plays out after on the battlefield.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220725223318_1-1024x576.jpg" title="Combat map" classes="center" >}}
+
+Unlike most other tactics games I've played, TWR plays out on a hex grid. I've always liked hexes, and I don't know why more games don't use them. Unsung Story was initially going to be played out on hexes, but they drastically changed the design after the original team left and are now back to the ordinary square grid.
+
+The grid allows for more tactical options with facing and flanking, and also allows every unit to be attacked from as many as six enemies instead of four. This encourages fighting in formation, and you'll see in the video below how I use that to my advantage.
+
+Chapter one introduces four melee classes, and I'll be danged if I can remember their names. In the picture above, you can see a tank (who can taunt), a fast attacker (attacks twice), and a spear wielder (can stun enemies with the shield). Partially hidden by the dialog box is Marcus, who fights with a hammer and hits hard.
+
+The terrain gives certain bonus; being in one of the bushes gives the unit a 20% chance to dodge, and being on the loose rocks gives a similar penalty to dodge. The game seems to hint that three of the characters should stand back to back in those bushes, but in practice the game would gang up -- the enemies are very clever.
+
+The two battles released so far have been on flat maps. Unless that changes, it doesn't look like we'll get the tactical options for ranged units that we normally expect. I would have thought the spear would have had a longer range as well, which would have allowed more front vs back attacks. But, the game is still early in development and anything could change.
+
+If the game keeps up this level of challenge, though, expect few players to see it all the way through. The last strategy game I played that was genuinely difficult (for me) was Banner of the Maid, which only eased up a bit once I started overleveling the fights.
+
+Stay tuned for more on Those Who Rule :-) [It is currently available to play test on Steam](https://store.steampowered.com/app/1822060/Those_Who_Rule/).
+
+Here's a video of the training mission:

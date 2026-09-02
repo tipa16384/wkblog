@@ -1,0 +1,44 @@
+---
+date: '2014-12-17T16:35:44-05:00'
+draft: false
+title: "Crushbone's Revenge almost finished."
+slug: "crushbones-revenge-almost-finished"
+author: "Tipa"
+disqusIdentifier: "2014/12/17/crushbones-revenge-almost-finished"
+summary: "Still figuring out what Ello is for... slow at work today, new projects are being specced but this close to the end of the year..."
+categories:
+  - "MMORPG"
+  - "Neverwinter"
+tags:
+  - "Crushbone"
+  - "Foundry"
+relatedPosts:
+  - url: "/2014/12/29/it-was-suggested-that-these-days-it-might-not-be-a-bad-idea-to-make-a-little-video-about-your-new/"
+    title: "Crushbone's Revenge video trailer!"
+    thumbnailImage: ""
+  - url: "/2014/12/26/crushbone-revenges-v1-2-patch-notes/"
+    title: "Crushbone Revenge's v1.2 patch notes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/EverQuest2-2014-12-26-22-50-08-68-480x320.jpg"
+  - url: "/2014/12/23/hey-hey-magical-sleigh-i-didnt-get-this-last-year-because-i-was-saving-up-for-the-frost-mimic/"
+    title: "Crushbone's Revenge's first day live..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg"
+  - url: "/2014/12/21/could-crushbones-revenge-be-finished/"
+    title: "Could Crushbone's Revenge be finished?"
+    thumbnailImage: ""
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-17-08-13-42-49-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-17-08-13-42-49-480x300.jpg"
+---
+Still figuring out what Ello is for... slow at work today, new projects are being specced but this close to the end of the year...
+<!--more-->
+
+
+
+Still figuring out what Ello is for... slow at work today, new projects are being specced but this close to the end of the year and a department-wide vacation, not much is getting done. We had a release early this morning which went fairly well. I was barely conscious.
+
+But since I was up so early, I decided to work a little more on Crushbone's Revenge. I've spent so long on this now that it seems like there was never a time when I wasn't working on it this year. In reality, I started development on it in October, I think, or early November, so it really hasn't been that long.
+
+Then, this morning, I realized that I could have made my original idea, Crushbone Arena, instead. As I placed encounters in the Shard of Hate, the final location, and noticed how arena-like it appeared, I could have actually joined story and straight combat instead of the rather drawn-out story I have now.
+
+Don't get me wrong -- I'm happy with how the now renamed Crushbone's Revenge has come along. Even though I plotted it out (for once) before I started building, the story got more complex as I built it. I didn't really intend for Retlon Brenclog to become as central to the plot as he has become. I made the Kelethin wood elves more sympathetic than I intended. I expanded the role of "Priestess of Tunare", whom anyone would recognize as Firiona Vie, EverQuest's mascot, from an Easter egg to at least a slightly expanded role.
+
+Average playtime for the quest in its currently published state is 37 minutes, though. All this expansion has come at a heavy price in time debt. And the currently published version didn't have the final encounters, which include a stage to go out and gather allies (though you can get Firiona Vie for free if you don't want to go searching).

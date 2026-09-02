@@ -1,0 +1,54 @@
+---
+date: '2023-08-18T07:00:00-05:00'
+draft: false
+title: "World Yo-Yo Contest 2023: Life is the Medium, Content is the Point"
+slug: "world-yo-yo-contest-2023-life-is-the-medium-content-is-the-point"
+author: "Tipa"
+disqusIdentifier: "2023/08/18/world-yo-yo-contest-2023-life-is-the-medium-content-is-the-point"
+summary: "YouTube decided I needed to learn about the World Yo-Yo Contest today. Okay."
+categories:
+  - "Blaugust"
+  - "Blaugust 2023"
+tags:
+  - "World Yo-Yo Contest"
+  - "Yoyo"
+relatedPosts:
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/08/30/what-makes-an-mmo-an-mmo-2/"
+    title: "What makes an MMO, an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/notanmmo.png"
+  - url: "/2023/08/29/loot-pinatas-how-much-are-you-worth/"
+    title: "Loot Piñatas: How much are you worth?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/moneybags.jpg"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/worldyoyo2023.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/worldyoyo2023.png"
+---
+YouTube decided I needed to learn about the World Yo-Yo Contest today. Okay.
+<!--more-->
+
+Yesterday, I knew very little about competitive yo-yo. Today, I know a little more. I'm watching the World Yo-Yo Contest 2023 live right now, where it is about 11 PM here but presumably Friday morning in Osaka. The competitors are all young men from Japan, Korea and China since I've been watching.
+
+The current competition are the 4A Prelims. There's different classifications of yo-yo trick routines. 1A is your standard yo-yo trick. One yo-yo, the string is tied to both finger and yo-yo.
+
+In 2A, you get two yo-yos, one for each hand, independently doing tricks at the same time. 3A is two yo-yos, but the two yo-yos interact. In 4A, the string is attached to the finger, but not to the yo-yo. The player attaches and detaches the yo-yo several times during the routine, and just does amazing things with the string.
+
+Hajime Miura caused some controversy back in 2019 when he defended his 4A World Champion status with a routine consisting entirely of *solohams* -- tricks with one string but multiple yo-yos. It was a daring move that had him finish seventh, since solohams are slower tricks (number of tricks is scored) and he had some duplicate tricks (only unique tricks are scored). Total punk move.
+
+The chat on the YouTube stream is full of competitive yoyoers and fans pointing out the good moves. I studied up on [the yoyo terminology](https://yoyo.fandom.com/wiki/Styles_Of_Play) so I could follow what people were saying. 
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-42-1024x459.png" title="Amulette Pro, choice of many competitors" classes="center" >}}
+
+If you want to get into competitive yo-yo, you're not going to get far with the yo-yo you got at Target. (Same with speed Rubik cube solving...)
+
+4A prelims just ended, and before they broke for lunch, they had 2019 American World Champion in the 1A division, Gentry Stein, on to do a freestyle demo. Here's his winning 2019 1A routine:
+
+I had a yo-yo when I was a kid. Most of the time it would come back up when I threw it. Most of the time. I could never get that knot just right, where it was loose enough that the yo-yo could spin, but tight enough so that it would come when called.
+
+Maybe I'll get a yo-yo. Maybe I'll try to get AARP to sponsor me to Japan ;-)
+
+(I am not a member of AARP)

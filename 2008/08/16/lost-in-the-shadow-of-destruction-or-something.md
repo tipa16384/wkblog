@@ -1,0 +1,43 @@
+---
+date: '2008-08-16T04:05:45-05:00'
+draft: false
+title: "Lost in the Shadow of Destruction... or something."
+slug: "lost-in-the-shadow-of-destruction-or-something"
+author: "Tipa"
+disqusIdentifier: "2008/08/16/lost-in-the-shadow-of-destruction-or-something"
+summary: "Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor's.Wait forever. Doc says, hey,..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+tags:
+  - "Fan Faire"
+relatedPosts:
+  - url: "/2008/08/16/eq2-new-clothes-for-old-tailors/"
+    title: "EQ2: New clothes for old tailors"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stp61365-1.jpg"
+  - url: "/2008/08/16/more-on-the-fan-faire/"
+    title: "More on the Fan Faire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image66-1.jpg"
+  - url: "/2008/08/16/first-expansion-reactions/"
+    title: "First expansion reactions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/befallen.jpg"
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image27-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image27-1.jpg"
+---
+Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor's.Wait forever. Doc says, hey,...
+<!--more-->
+
+
+
+Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor's.Wait forever. Doc says, hey, ear infection. I /sigh. Go to pharmacy. Wait there forever. Go home, give son meds. He goes to sleep. It's 1PM. I opt to do some laundry before we leave. Give the cat a huge bowl of water that scares her,it's so huge she may drown. Go to airport. Remember in the security line that I brought a full sized tube of toothpaste. Expect to be arrested immediately, but they let it through. TSA, my teeth thank you. Thunderstorms in Hartford delay the flight an hour and a half. We barely make the connection in Cincinnati. Try to sleep on plane, but it is SRO. Get to Vegas Slots everywhere. Shuttle to Hotel. Registration guy wants to talk about EQ and WAR for fifteen minutes, which is weird. He's in the WAR closed beta Lucky.
+
+Get to room. Hook up my Eee to the internet and get to reading all the EQ and EQ2 announcements. Start downloading all the videos and pictures and stuff. Go to Massively and see that all possible things I might have written about have been written. No idea what I will do tomorrow.
+
+Went downstairs to take picture of Quarks to prove I have been there. Forgot there are places people still smoke indoors. Looked at all the casino games and realized I had no idea how to play any of them. I'd just be handing the casino money.
+
+This is why I hate Las Vegas. Smoking, gambling and drinking.
+
+Anyway, not sure what there is to do here that doesn't involve smoking, drinking or gambling. 4AM by my body clock so.... bedtime.

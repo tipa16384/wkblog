@@ -1,0 +1,63 @@
+---
+date: '2008-09-11T08:32:16-05:00'
+draft: false
+title: "EQ: Plane of Storms"
+slug: "eq-plane-of-storms"
+author: "Tipa"
+disqusIdentifier: "2008/09/11/eq-plane-of-storms"
+summary: "Oy vey, this post is late! From our weekly group almost a week ago. It's just been a bad week, what with another trip to..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+  - "Nostalgia the Guild"
+tags:
+  - "Berserker Epic"
+  - "Dagnor's Cauldron"
+  - "Plane of Storms"
+  - "Warsliks Woods"
+relatedPosts:
+  - url: "/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+    title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
+  - url: "/2008/08/23/eq-hot-zone-hoedown/"
+    title: "EQ: Hot zone hoedown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
+---
+Oy vey, this post is late! From our weekly group almost a week ago. It's just been a bad week, what with another trip to...
+<!--more-->
+
+
+
+Oy vey, this post is late! From our weekly group almost a week ago. It's just been a bad week, what with another trip to Rhode Island last week which took way more time than I'd expected, a full weekend and then... Spore...
+
+Well, enough excuses.
+
+The worst thing about being late for this was that it was actually a REALLY GOOD NIGHT! I think this is likely the first xp group since Gloomingdeep Mines where everyone actually got a lot of experience. And for that, I am deeply indebted to everyone that came!
+
+When the new Hot Zones shifted the areas of midlevel interest from Riwwi to Blackfeather Roost and the Plane of Storms, I was relieved. The Gates of Discord expansion is legendary for mobs that hit hard and fast, and the constant danger of adds to keep everyone on their toes. It's more challenging, but I remember trying to keep Kod'Taz groups alive and being constantly stressed as a cleric there. Even though I don't play cleric as main anymore, I know how hard GoD is on healers and would prefer not to subject them to that. Even though our main tank, Tsukiko, is likely better equipped than the people I did KT with back in the day.
+
+Still, the thought of doing Ikkinz 1-3 ever again makes me ill.
+
+Anyway. We actually opened the night by doing Rogbog's epic fight in Dagnor's Cauldron. All we had to kill was one slimy fish. But this was some fish. He had an AE stun, an AE drunkeness effect that hit anyone with less than maximum alcohol tolerance, high regen and often times would stun everyone and go somewhere else. And also despawn if you didn't kill fast enough. It took a couple of tries to bring him down, even though there was a lot more sleeping with, than killing, fishes.
+
+After, we headed to the Plane of Storms. Davic continued playing Rogbog, as I can easily tank normal mobs in Storms, and we needed all the dps we could get. We were ranger (me), berserker (Rogbog), shaman (Kanad), cleric (Coldheat), Seja and Mantis, both enchanters. Not a standard group, but EQ has always supported unusual groups, "holy trinity" aside. In my first guild, United Norrath Coalition, the "A-Team" was ranger, rogue, cleric, shaman, wizard and enchanter, and there wasn't much they couldn't kill.
+
+Davic had found a nice, safe pull spot, and that's what we did for the next three hours. Rog pulled, I'd tank (and he would offtank on multiples), and everyone got experience. I ended well into level 60 and got another AA; Seja and Mantis were 58/59 IIRC. So we're pretty much right where we need to be to move on.
+
+The burning question is really where we go from here. One group, no matter how uber, isn't going to be able to do much more than hit xp zones. So, here's hoping tomorrow brings more people, so we can either get them up to 60 as well, or if they already are, find something fun to do. I'll have to get on early and do some mob tracking.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-06-00-19-36-30.jpg" title="eqgame-2008-09-06-00-19-36-30" classes="center" >}}
+
+After the group broke up, we all went to Warslick Woods to help Rogbog finish his epic, but our dps just wasn't high enough and the fight reset for four hours before we finished the very first fight. I was playing my cleric, which turned out to be a mistake, because her uber 660 point damage shield is resisted by the mobs and in fact all magics are more or less useless against them. Only melee really counts, something we'll remember for next time.
+
+Where we'll go tomorrow depends on who shows up. If we get two groups, I am positive we can find something interesting to kill!
+
+{{< image src="http://chasingdings.com/sig/out.png" classes="center" >}}

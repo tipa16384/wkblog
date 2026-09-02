@@ -1,0 +1,49 @@
+---
+date: '2009-11-04T07:01:39-05:00'
+draft: false
+title: "EVE Online: It's Wabbit Season"
+slug: "eve-online-its-wabbit-season"
+author: "Tipa"
+disqusIdentifier: "2009/11/04/eve-online-its-wabbit-season"
+summary: "Reader Kinolyen pointed out, correctly, that running Minmatar missions wouldn't do much to improve my standings with Amarr and Caldari, who hate me. Since my..."
+categories:
+  - "EVE Online"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+    title: "Daily Blogroll Oct 11: Can't break the NDA edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+  - url: "/2011/02/22/the-inertia-of-eve-online-and-everquest-ii/"
+    title: "The Inertia of EVE Online and EverQuest II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-11-03-23-55-23-64.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-11-03-23-55-23-64.jpg"
+---
+Reader Kinolyen pointed out, correctly, that running Minmatar missions wouldn't do much to improve my standings with Amarr and Caldari, who hate me. Since my...
+<!--more-->
+
+
+
+Reader Kinolyen pointed out, correctly, that running Minmatar missions wouldn't do much to improve my standings with Amarr and Caldari, who hate me. Since my standings for both are below -2.0, I can't get ANY missions for either faction, and both are just on the verge of sending bullets (of love, no doubt, in the Amarr case) at me whenever I accidentally fly through their space.
+
+It felt really good, though, when in one of the Minmatar missions, I avenged the destruction of a Gallente station. By pirates!
+
+Though my faction with Amarr and Caldari are beyond repairing directly, I did find on the EVE forums where someone said doing missions for factions allied to Amarr and Caldari could indirectly help those standings. So I flew off to Khanid space and started flying Level 1 missions, and just before bed last night, I'd raised standings enough for Level 2 missions. That meant either returning home for another ship -- a distance of 23 jumps there and 23 jumps back with portions of the trip in lowsec -- or just building a new ship out there.
+
+I'd always wanted an excuse to build a Brutix. A pure dps battlecruiser with no room for a decent armor tank and not much chance to put up a fight with shields, either. But the loads and loads of high slots shows that this mean baby wants to get close and give you a hug full of neutrons. It's a PvP ship, and when I'm done raising standings, I'll be using this instead of my PvP Vexor for those kinds of ops.
+
+I'm taking a little bit of a risk saying what section of space I'm flying, since we were all shocked last night to find that OtakuDyne has been wardec'd by the [Universal Peace Operation](http://killboard.eve-ivy.com/?a=corp_detail&crp_id=37095), a mercenary corp that gets hired to make war on other corps. Their corp info says they are friendly to CVA but [CVA says otherwise](http://www.cva-eve.org/kos/index.php).
+
+C'mon, did someone take offense at my digs against the Caldari yesterday and wardec my corp because of me? If so, that's really petty, but you can leave the rest of my corp alone and come get me in Khanid space, if that's the case.
+
+Otherwise, nobody has a clue why we're wardec'd. The UPO diplo officer wasn't on last night, and the one UPO pilot who would talk to us wasn't initially aware that we were at war, but did explain about their mercenary status.
+
+Red got a list of the names of most of UPO's 22 members so we can keep an eye out for them. I kinda feel, though, that I should head back down to Sinq Laison space and just be ready in case UPO starts harassing folks and we want to take a stand. Cassric has offered the aid of Holowan if the battle strays into their Providence home, and tonight IS nullsec ops night, so who knows. Maybe we'll get a decent battle or two out of this.
+
+But dang, at least be decent and tell us why, k?

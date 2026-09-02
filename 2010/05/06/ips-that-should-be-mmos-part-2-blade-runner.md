@@ -1,0 +1,50 @@
+---
+date: '2010-05-06T06:32:57-05:00'
+draft: false
+title: "IPs that should be MMOs, part 2: Blade Runner"
+slug: "ips-that-should-be-mmos-part-2-blade-runner"
+author: "Tipa"
+disqusIdentifier: "2010/05/06/ips-that-should-be-mmos-part-2-blade-runner"
+summary: "[..."
+categories:
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/bladerunner-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/bladerunner-480x360.jpg"
+---
+[...
+<!--more-->
+
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/bladerunner.jpg)
+
+Exhausted by centuries of abuse and war, Earth is a dying planet. The best and brightest have fled to neighboring solar systems for a second chance at life. Most of the world's wildlife is extinct, and people treasure those animals that survive, like an accidental toad, or a sheep placidly grazing on a rooftop garden. Despair is avoided through the omnipresent mood organs. Humanity pays for its many sins by sharing the suffering of a post-apocalyptic messiah, William Mercer, as he struggles to stay alive in his own little Hell. Artificial snakes, camels, ostriches etc -- replicants -- were developed to fill the human need to share their world with other life. Now, human replicants, engineered as a slave race for offworld colonists, have returned to Earth to build a new life for themselves on a world their masters have ruined.
+
+[Blade Runner](http://en.wikipedia.org/wiki/Blade_Runner), based on Philip K. Dick's "[Do Androids Dream of Electric Sheep?](http://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)", continues and modernizes the visual vocabulary of a post-apocalyptic dystopia first seen in Fritz Lang's [Metropolis](http://en.wikipedia.org/wiki/Metropolis_(film)). It combines and transcends its inspirations into an alloy that defines its world exactly, and places the viewer in it. At the end of the world, the book and the movie argue in their own ways, we will still be learning what it means to be human.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/155394-bladerunner-480x264.jpg" title="Blade Runner rendered in CryEngine 2" classes="center" >}}
+
+I thought yesterday's "Gunsmoke" would be a perfect sandbox game because, well, there's a lot of sand in the setting. Blade Runner would be strongly story-driven through quests and missions. Set years after the movie, replicants have discovered how to build themselves, and are hunting down what remains of humanity to leave the world pure for replicant life.
+
+As in the book and movie, the players would be bounty hunters, protecting the last human cities against replicant attacks as they search out the breeding crèches and root out replicant infiltrators in their own ranks. As the missions progress, players might well discover that they themselves are replicants implanted with false memories of a human life.
+
+Players would gain experience from completing missions and retiring replicants, have stats that would give them better chances at killing or investigating or infiltrating, but their most important characteristic would be that of empathy.
+
+Kill too much or too indiscriminately and your empathy goes down. Are you a replicant? Care too much and your empathy prevents you from killing anything at all. Can you survive?
+
+It's not that nobody wants to make a Blade Runner MMO -- watch the movie and you can't help be drawn into that world -- it's that the normal MMO tropes make little sense in a setting that places such a high value on learning to care about your fellow man, even if your fellow man turns out to be artificial. Bioware's Star Wars: The Old Republic, with its story-based (and, yes, combat heavy) approach to MMO development, may well open the way for other MMOs to bring fuller, more subtle worlds to players.
+
+Tomorrow in part 3 of IPs that should be MMOs: We take on Frank Herbert's epic ode to ecology, fundamentalism and T. E. Lawrence, Dune.

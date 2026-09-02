@@ -1,0 +1,50 @@
+---
+date: '2008-10-29T14:13:33-05:00'
+draft: false
+title: "Davey and Goliath Online?"
+slug: "davey-and-goliath-online"
+author: "Tipa"
+disqusIdentifier: "2008/10/29/davey-and-goliath-online"
+summary: "Level 15 Hunter LF3M 4 Spooky Wood..."
+categories:
+  - "MMORPG"
+tags:
+  - "Davey and Goliath Online"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+coverImage: "http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg"
+thumbnailImage: "http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg"
+---
+Level 15 Hunter LF3M 4 Spooky Wood...
+<!--more-->
+
+
+
+*Level 15 Hunter LF3M 4 Spooky Wood*
+
+When Akela tweeted "***GOLIATH ONLINE!***", and nothing else, all I could think of was, Davey and Goliath is online? There's a Davey and Goliath MMO?
+
+You remember Davey and Goliath? It always came on really early Sunday mornings, presumably so us kids could have something to watch while getting ready for church or something. I loved them. Even when I was a kid, they were kinda goofy. Not goofy in a talking dog way, but the dog did talk.
+
+So maybe they were.
+
+Anyway. The thought of an MMO with adventure and talking pets, but no killing and lots of moral choices is pretty wild. Kinda like a Claymation Ultima game, I guess, except for the killing part.
+
+When you get right down to it, the original D&D was a moral game. You had your alignment, but if you wanted the very best alignment, Lawful Good, you had to continually examine your moral choices and ethical challenges. That's something entirely missing from today's games, where there are no moral choices aside from enlightened self-interest.
+
+What if morality -- which was such a large part of D&D -- was brought to MMOs? Paladins and lawful good-aligned clerics were paupers -- everything they owned, they carried with them. Amassing too much wealth would switch you to Lawful Neutral faster than you could spit. Imagine a modern MMO character who HAD to be poor. The closest example I can think of is EverQuest's monk, who are severely penalized for carrying too much weight (although, this has been eased several times since launch).
+
+So at character creation, you could choose your character's morals -- never attack weak monsters, say, or never refuse a quest to kill the undead, or to never wear better than green armor. If you stuck to these, you could get some benefit in game. If you were under a lot of moral restrictions, you could summon help from a god at crucial times, level faster, use less food and drink, and so on... by choosing your own morals (and they could be evil ones -- always roll "NEED!", never heal anyone who hasn't paid in advance, never let the NPC in an escort quest live, etc) you could make the game different every time you played through.
+
+But heck, I'd play a Davey and Goliath just to hear Goliath go, "Okay, Daaavey"...

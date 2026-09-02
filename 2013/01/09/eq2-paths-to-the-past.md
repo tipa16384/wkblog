@@ -1,0 +1,45 @@
+---
+date: '2013-01-09T08:16:10-05:00'
+draft: false
+title: "EQ2: Paths to the Past"
+slug: "eq2-paths-to-the-past"
+author: "Tipa"
+disqusIdentifier: "2013/01/09/eq2-paths-to-the-past"
+summary: "I leveled very quickly, once I got my mercenary, and I only did the dungeons that I could do \"molo\" (merc + solo) and for..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-09-00-18-32-11-480x240.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-09-00-18-32-11-480x240.jpg"
+---
+I leveled very quickly, once I got my mercenary, and I only did the dungeons that I could do "molo" (merc + solo) and for...
+<!--more-->
+
+
+
+I leveled very quickly, once I got my mercenary, and I only did the dungeons that I could do "molo" (merc + solo) and for which I had quests, so all the KoS group instances, plus Karnor's, Chelsith and Chardok back in Kunark.
+
+EverQuest 2 gives you a reason to go back to all the dungeons you may have missed with their "Paths to the Past" timeline. Every day is a different legacy dungeon. You have a quest to kill a boss in that dungeon, usually the end boss but not always, for which you can buy a little plushie of the boss to put in your home. Also, each run will have plenty of loot to sell for money, and if you need levels or AA, well, there's a chronomage right next to the quest giver who will temporarily level you down, for a fee, so the dungeon's denizens are worth XP and drop loot.
+
+So I've been more or less addicted to these for some time. First thing I do every night is find out what the dungeon of the day is, chrono down to an appropriate level, and head out to kill and slay.
+
+Last night's dungeon was Poets Palace in the Shimmering Citadel, a mystic castle that floats high above the Sinking Sands.
+
+One does not simply walk into Poets Palace. One must do the lengthy access quest, first. So that took a couple of hours. And then Poets Palace itself has a separate access quest for each of the four floors within. One involves moving a couple dozen clay statues from one room to another room.
+
+Anyway, mentored down, Poets Palace was no trouble at all. I even saw other people doing the access quest and heading in, as the chronotask is the same for everyone. Plenty of loot to sell (I now have more than 800 plat saved, largely from selling collection items and loot gathered during these trips).
+
+I didn't get the chance to level any alts because the PP run took so long, but it was fun. And, as they suggest, nostalgic. I can remember a time when people made groups for this dungeon. Someone who had done the access quest and could zone people right in to PP had a highly marketable skill :)

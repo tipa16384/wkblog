@@ -1,0 +1,79 @@
+---
+date: '2010-10-16T17:27:54-05:00'
+draft: false
+title: "Star Trek Online: Skirmish (spoilers)"
+slug: "star-trek-online-skirmish-spoilers"
+author: "Tipa"
+disqusIdentifier: "2010/10/16/star-trek-online-skirmish-spoilers"
+summary: "[..."
+categories:
+  - "MMORPG"
+  - "Star Trek"
+tags:
+  - "Cardassian"
+  - "Devidian"
+  - "Donatu"
+  - "Drozana"
+  - "Episode"
+  - "Eta Eridani"
+  - "Feature Episode"
+  - "Federation"
+  - "Federation News Service"
+  - "Klingon"
+  - "Weekly Episode"
+relatedPosts:
+  - url: "/2010/10/25/star-trek-online-s02e07-spin-the-wheel-spoilers/"
+    title: 'Star Trek Online: S02E07 "Spin the Wheel" (spoilers)'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-23-13-45-12-59-480x305.jpg"
+  - url: "/2010/08/29/star-trek-online-cold-call-spoilers/"
+    title: "Star Trek Online: Cold Call (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+  - url: "/2010/11/14/star-trek-online-s2e5-night-of-the-comet-spoilers/"
+    title: 'Star Trek Online: S2E5 "Night of the Comet" (spoilers)'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-13-14-19-17-77-480x324.jpg"
+  - url: "/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/"
+    title: 'Star Trek Online: S2E4 "Everything Old is New Again"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
+---
+[...
+<!--more-->
+
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71.jpg)
+
+**skirmish**: *a minor or preliminary conflict or dispute.*
+
+It is said that four thousand throats may be cut in one night by a running man. The same can be said of a Bird of Prey under warp when the disruptor beams run hot. Hot as the blood of a warrior; hot of the blood of your enemies filling your cupped hands. Hot enough to tear a rip through the fabric of space itself and show what peers from it the heart of a true warrior.
+
+K'men is no friend to the House of Krontor, but he has the ear of the High Council. My crew were relaxing on the Ferengi station in the Eta Eridani sector, Drozana. The campaign against the Breen had been fought and won valiantly. Many barrels of blood wine needed drinking; many duels needed fighting; many wrongs needed forgetting with good stories and brave companions.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-59-29-13-480x384.jpg" title="The Axon" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-59-29-13.jpg)
+
+When battle calls, though, every warrior answers. K'men told us that a True Way fleet had just entered the Neutral Zone between the Federation and the Empire; the Federation were fighting them in the Donatu system. The Empire had sent a small squadron of ships to watch the Federation and the Cardassians wipe each other out and remove the survivors. We were to join them. General Longash and Captain Kavana formed the rest of our strike team.
+
+It was a good battle, and a good day for many Federation, Cardassians and Jem'hadar to die. We boarded the Cardassian ship "Axon" when we detected unusual radiation in the ship.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-03-07-41-480x384.jpg" title="Killing with the Cardassians" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-03-07-41.jpg)
+
+There were still Cardassians left to battle. We killed all we saw. Their medical bay was filled with dead spoon-heads; some in stasis. The medical records told a story of an unusual sickness that raced through the crew, leaving them weak and dying without any hope of a cure.
+
+Even a Cardassian should die on his feet.
+
+We used the ship's sensors to scan for unusual radiation; we detected trilon radiation in dangerous quantities. The science officer's log indicated the Axon had been in the vicinity of Driffen's Comet, which showed unusual levels of trilon and chroniton radiation. That explains much.
+
+We headed for the bridge; the trilon radiation was concentrated there. The Cardassians were too weak to survive exposure. Klingons laugh.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-13-40-67-480x384.jpg" title="Devidians" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-13-40-67.jpg)
+
+This was no stray radiation; this was an invasion! The Federation has unleashed these creatures from an out of phase universe on us all! They come to us begging for peace, only to make alliances with secret enemies. They undoubtedly were on their way to Qo'noS to infect the home world with these soul suckers.
+
+We screamed. We leaped. I took my bat'leth and showed them the way back to their own dimension. Their defeat at our hands was inevitable. K'men was pleased. Our names will be spoken with respect in the council chambers.  But the fight has not ended. The Cardassians were prey. This can only be a Federation plot.
+
+---
+
+The opener to the Devidian arc featured a decent space battle and a good, quick run through a Cardassian ship. The surprise presence of a "boss" Devidian, a Phantasm with an extremely damaging attack, was alarming. The episode, though, was mostly notable for being very short, more an introduction to the arc than a standalone episode.
+
+The mission reward was a space device that temporarily boosts the physical and energy resistances of the ship on which it is fitted.

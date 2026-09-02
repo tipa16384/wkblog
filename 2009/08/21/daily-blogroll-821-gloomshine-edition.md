@@ -1,0 +1,58 @@
+---
+date: '2009-08-21T07:47:11-05:00'
+draft: false
+title: "Daily Blogroll 8/21 - Gloomshine Edition"
+slug: "daily-blogroll-821-gloomshine-edition"
+author: "Tipa"
+disqusIdentifier: "2009/08/21/daily-blogroll-821-gloomshine-edition"
+summary: "Is Gatheryn in open beta or not? Massively says not yet, but following Merry and Pippin's example, I showed up where I wasn't invited because..."
+categories:
+  - "Aion"
+  - "Champions Online"
+  - "Daily Blogroll"
+  - "EVE Online"
+  - "Gatheryn"
+  - "MMORPG"
+  - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/24/daily-blogroll-624-i-love-allergies-edition/"
+    title: "Daily Blogroll 6/24 -- I Love Allergies edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
+  - url: "/2009/08/13/daily-blogroll-813-gyrating-goo-edition/"
+    title: "Daily Blogroll 8/13: Gyrating Goo edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
+---
+Is Gatheryn in open beta or not? Massively says not yet, but following Merry and Pippin's example, I showed up where I wasn't invited because...
+<!--more-->
+
+
+
+Is Gatheryn in open beta or not? Massively says [not yet](http://www.massively.com/2009/08/20/gatheryn-approaches-open-beta-offers-registration-page-and-clie/), but following Merry and Pippin's example, I showed up where I wasn't invited because they couldn't keep me away. Picture above is from the docks, where it's clear they haven't invented automated rust scrapers and hull painters in Elymia as of yet.
+
+In news of the OTHER upcoming superhero game, Massively also has [screens of SOE's DC Universe Online](http://www.massively.com/2009/08/20/new-dcuo-screens-appear-out-of-gamescom/). This fast-paced, arcade-ish actioner looks to be the evil twin to Champions Online's more traditional quest-based offering.
+
+After a shaky launch for its open beta, Cryptic's hero game has been slowly winning over the blogosphere. A Ding World's Sente [quite likes the game](http://adingworld.wordpress.com/2009/08/21/first-impressions-of-champions-online/), now that he's had some time with it. And [quite](http://www.xenopulse.com/blog/?p=731) [a few bloggers](http://biobreak.wordpress.com/2009/08/20/champions-online-beta-impressions-collected/) agree. Do the folks from the City of Cats have another hit on their hands?
+
+Melmoth of KiaSA couldn't even barely see the game for the bloom. After hours of dedicated investigation, he has some [tips to making your Champions Online hero a little less glowy](http://kiasa.org/2009/08/20/bloomin-bloom/).
+
+Naamah of Aionic Thoughts [takes a look at Aion's first action figure](http://aionicthoughts.wordpress.com/2009/08/21/straight-from-the-wtf-department/) -- and doesn't like what he sees. Zombie Bo Derrik? With wings?
+
+The big news yesterday was [all about Guild Wars 2](http://www.guildwars2.com/en/). This sequel to the incredibly popular F2P fantasy RPG picks up years after the original game ends, and opens up the world in incredible ways. Syp of Bio Break has [a rundown of the new features](http://biobreak.wordpress.com/2009/08/20/guild-wars-2-the-secret-of-the-ooze/).
+
+GW2 won't have traditional quests -- [it will have Events](http://www.killtenrats.com/2009/08/20/a-revolutionary-step/). See something happening? Head on over and have a look -- the world is alive and things are happening all around you.
+
+Given a couple of days to digest CCP's revelation of a planetside-based ground game to complement EVE Online's space game in Dust 514, the bloggers have weighed in, and [CrazyKinux has gathered together their reactions](http://www.crazykinux.com/2009/08/industry-community-react-to-ccps-dust.html).
+
+In all the excitement about Champions, Dust 514, Guild Wars 2 and other high profile news, is there room for yet another beta? Post-apocalyptic MMO Fallen Earth hopes to entice Fallout fans into their world with their open beta. Darren of Common Sense Gamer thinks it [plays quite a lot like EVE Online](http://commonsensegamer.com/?p=1449), especially with the lengthy crafting sessions. Syp goes so far as to say it might be [this autumn's surprise hit](http://biobreak.wordpress.com/2009/08/20/fallen-earth-the-sleeper-mmo-youve-been-waiting-for/).
+
+Slavering to get back to World of Warcraft's older zones with a new revamp as part of the Cataclysm expansion? Not so fast -- Gordon of We Fly Spitfires gives [a list of reasons why it's likely a huge hoax](http://blog.weflyspitfires.com/2009/08/19/word-of-warcraft-cataclysm-is-a-hoax/). But we'll find out this weekend, as Blizzard will undoubtedly have something to say about it at this year's Blizzcon.
+
+And lastly, some of us play MMOs to get away, for awhile, from reality. But Julian of Kill Ten Rats argues that in a LOT of ways -- [the real world is better](http://www.killtenrats.com/2009/08/20/our-backwards-virtual-worlds/)!

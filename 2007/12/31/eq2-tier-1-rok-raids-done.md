@@ -1,0 +1,61 @@
+---
+date: '2007-12-31T22:43:28-05:00'
+draft: false
+title: "EQ2: Tier 1 RoK raids DONE!"
+slug: "eq2-tier-1-rok-raids-done"
+author: "Tipa"
+disqusIdentifier: "2007/12/31/eq2-tier-1-rok-raids-done"
+summary: "Talk about speedy backflagging -- two raid nights and all of Tier 1 done...."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+---
+Talk about speedy backflagging -- two raid nights and all of Tier 1 done....
+<!--more-->
+
+Talk about speedy backflagging -- two raid nights and all of Tier 1 done.
+
+The raids in Rise of Kunark are based around an overplot; the Greenmist which once cleared Kunark of the Shissar and a second time killed the Rallosian attackers as they were about to overrun the human lands in the Age of Turmoil -- is about to be used again.
+
+To find the Greenmist Oubliette will require keys worn as amulets by the Overking of the Di'Zok, and by Venril Sathir, leader of the Sathirian Iksar. To defeat THEM, requires special weapons held by three lesser creatures; Pawbuster in Karnor's Castle; a spider queen in her lair in the Fens; and from a Protector deep inside the city of Sebilis.
+
+The other night I got the Wand of Interception from Pawbuster. The Wand allows the raid to incapacitate the Overking. Last night we started out deep inside Sebilis, going after the Protector, who carries the Mistmyrian Soul Cube, which can stun Venril Sathir himself.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-29-14-26.jpg" classes="center" >}}
+
+It looks like we weren't the only ones going after the Cube. A higher level party, far more powerful than any of us, were racing us through the place. In the end, we had to take THEM down. Because this terrible weapon, the Greenmist Oubliette, must never be used.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-23-07-40-85.jpg" classes="center" >}}
+
+The Protector was set to guard this Soul Cube. But to end the threat from the Greenmist Oubliette, we'd need it. And so he had to die.
+
+2/3 of the way done!
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-23-37-24-54.jpg" classes="center" >}}
+
+We'd also need the Greenmist Orb... but we can't know why, not yet. The spider queen carries this, and so we entered her den to get it.
+
+I don't have any really good pictures of this fight, so here's a picture of what I normally see  in raids =- the butts of tall people. Welcome to my world.
+
+Two nights, three raids, and I'm flagged through the Tier 1 raids! Thanks, Clan of Shadows!
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-31-02-15-00-52.jpg" classes="center" >}}
+
+Afterward, we went to Chelsith and did half the quest that results in a charm with water-breathing on it. That will be useful :) I don't even remember where I put my Fishbone Earring, but I miss it whenever I need to swim deep.
+
+Chelsith is *such* a mysteriously creepy place. What the heck is that huge emerald crystal?

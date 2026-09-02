@@ -1,0 +1,55 @@
+---
+date: '2006-01-26T00:00:00-05:00'
+draft: false
+title: "Crafting in EQ2"
+slug: "crafting-in-eq"
+author: "Tipa"
+disqusIdentifier: "2006/01/26/crafting-in-eq"
+summary: "Took me hours to make that Iron Chainmail armor for Nashuya after she became capable of wearing chain. With previous characters, I have just bought..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/images/nashlogin.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/nashlogin.jpg"
+---
+Took me hours to make that Iron Chainmail armor for Nashuya after she became capable of wearing chain. With previous characters, I have just bought...
+<!--more-->
+
+
+
+Took me hours to make that Iron Chainmail armor for Nashuya after she became capable of wearing chain. With previous characters, I have just bought vendor armor until I could fill in spots with quest or dropped armor - but since Dina could make it, and I had Etha to make the stacks and stacks of various alchemical supplies necessary, why not? Dina and Etha both gained tradeskill levels along the way, largely because of the first-time pristine bonuses.
+
+If I hadn't had all the foraged stuff on hand, it would have taken even longer.
+
+Since I last crafted, EQ2's crafting has become a *lot* easier. I had become used to restarting crafting sessions two or three times to get one where the durability of the item wasn't plummeting into the black hole of wasted components from the get-go. After awhile, I stopped even bothering to counter crafting emergencies on subcombines - pristine every time.
+
+The final phase has always been harder, but even given that, it was no trouble for Dina, a tailor, to create pristine iron chainmail bp and greaves. And I had Etha make Apprentice IV abilities for Nash to use as she climbs through her teens. It wasn't any trouble.
+
+It was a real accomplishment, and I felt happy when I gave Nash the armor, and instantly became the best-equipped person in the group I joined. On the other hand... well, it took hours to make. In WoW, once you have the components, it is click and walk away.
+
+While crafting, there is very little else to do* but chat with other people over the Heritage channel, which, on Faydark, is the closest thing there is to a server-wide general chat channel.
+
+One fellow mentioned he had *bought a guild* - a level 20 one. And so, with the guild bank, he never ran out of space.
+
+Whoa. Guild bank? THAT was new. And as the only current player in my moribund guild Immortals, I was ALSO the *de facto* owner of a guild (a level 19 one). Although not the leader. Some person, departing the guild, made me a Senior Officer even though I wasn't playing. We were a 22 or 23 guild when it imploded; it fell to 18 by the time SOE stopped decaying guild rank, and someone I never met brought it back to 19 before leaving.
+
+Anyway, woohoo! I cleaned out my bank and put it into the guild bank, invited Nashuya and Etha into the guild, and in general had a fine time pretending to be guild leader and hoping no other officer decided to log in and take my stuff from the guild bank...
+
+Nashuya's new favorite strat to kill a group of mobs: damage absorption barrier on, run up to a group with whirl ramping up, hit them all, immediately start with the AE heroic opportunities... ftw.... It's beauty.
+
+* Actually, I was doing something besides chatting in game and on Ventrilo while crafting. I reinstalled Windows on my second computer, Baphomet (my Linux computer that blew up a couple months ago), reinstalled EQ2, made a rat named Slinka, ran her through the Isle of Refuge on priest track, and joined Nashuya in Commonlands just as she joined a group (making her probably the worst-equipped priest in the Commonlands, as well as the lowest level - 5 (she turned 6 while in that group)). Then a level 20 joined the group and neither Nash nor Slinka were getting xp, so that was that. Thinking about making another halfling priest of some sort to betray... Rats never really did it for me. Too bad Dera is on Antonia Bayle, and Etha is on the same account as Nashuya...
+
+How did the Windows installation go? It went fine. Linux still controls the boot process, so I didn't lose anything - I can just dual boot into Windows XP Home now. I used the same registration code I have used for my "second system" for the past several years, and it worked fine. I just found out recently that you can re-register Windows on new hardware every few months, as long as it isn't also being used by another computer. That is good info, and makes me feel less anxious about having to reinstall Windows or add new hardware.

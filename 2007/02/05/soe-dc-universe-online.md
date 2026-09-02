@@ -1,0 +1,34 @@
+---
+date: '2007-02-05T11:31:02-05:00'
+draft: false
+title: "SOE: DC Universe Online"
+slug: "soe-dc-universe-online"
+author: "Tipa"
+disqusIdentifier: "2007/02/05/soe-dc-universe-online"
+summary: "SOE posted a cattle call for experienced game developers on their career site for \"DC Universe Online\". According to the ad, they plan to have..."
+categories:
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+---
+SOE posted a cattle call for experienced game developers on their career site for "DC Universe Online". According to the ad, they plan to have...
+<!--more-->
+
+SOE posted a cattle call for [experienced game developers](http://sonyonline.recruitmax.com/candidate/default.cfm?szTemplate=3&szOrderID=1780&szCandidateID=0&szSearchWords=) on their career site for "[DC Universe Online](http://ps3.ign.com/objects/755/755358.html)". According to the ad, they plan to have it run both on the PC and the PS3. Doing it on such different architectures is pretty tricky -- Square-Enix tried porting their FFXI Online to the PC and what they got was a PC game that felt like a PS2 game (and was best played with a PS2 game controller at that).
+
+Will SOE be able to pull off a fun game where PC players have a PC experience, and console players a console experience? Will they be able to develop it portably enough to also offer the game on the Macintosh and Linux? Will they go for a browser-based game and be everywhere?
+
+I guess we'll find out in a couple of years.
+
+> Do you play games? Have you shipped great games? Then we want you! Sony Online Entertainment is an accomplished and acclaimed developer of some of the best online games on the market. As a remote SOE studio, SOE-Austin is committed to making the highest quality next-generation online games for the PS3 and PC. We have the resources of Sony coupled with the small studio feel of an independent, and we are located in one of Americaâ€™s coolest cities. We are currently seeking senior team members for our DC Universe Online team. We are specifically looking for Character Artists, Animators, Tools Engineers and Client Engineers (PS3).

@@ -1,0 +1,55 @@
+---
+date: '2009-10-02T06:23:53-05:00'
+draft: false
+title: "Wizard 101: My greatest failure"
+slug: "wizard-101-my-greatest-failure"
+author: "Tipa"
+disqusIdentifier: "2009/10/02/wizard-101-my-greatest-failure"
+summary: "It's the Ides of Octember in Wizard City, Spooky Bob is on the prowl, and a mysterious dark tower has appeared where the previous dark..."
+categories:
+  - "MMORPG"
+  - "Wizard101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2012/11/22/wizard101-pirate101-free-stuff/"
+    title: "Wizard101 & Pirate101 Free Stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
+  - url: "/2012/04/09/w101-the-puzzle-revealed-the-rise-of-avalon/"
+    title: "W101: The Puzzle revealed -- the Rise of Avalon!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/Avalon-480x384.jpg"
+  - url: "/2012/04/03/w101-interview-with-a-raven/"
+    title: "W101: Interview with a Raven"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/w101p4-480x365.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-17-42-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-17-42-18.jpg"
+---
+It's the Ides of Octember in Wizard City, Spooky Bob is on the prowl, and a mysterious dark tower has appeared where the previous dark...
+<!--more-->
+
+
+
+It's the [Ides of Octember](http://books.google.com/books?id=zersWaUGvkUC&pg=PA53&lpg=PA53&dq=ides+of+octember&source=bl&ots=RF8cGUzppa&sig=cz6c-L9Wa8gvhhgHgln5c_kYJeQ&hl=en&ei=BtvFSpODOseV8AbWzJ1I&sa=X&oi=book_result&ct=result&resnum=2#v=onepage&q=ides%20of%20octember&f=false) in Wizard City, Spooky Bob is on the prowl, and a mysterious dark tower has appeared where the *previous* dark tower was, before it fell through Wizard City's basement to Nightside.
+
+[It was all harmless fun last year](https://tipa16384.github.io/wkblog/index.php/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/)... until I found out the Pumpkin Head would (rarely) drop the mechanical spider that otherwise is only found (also rarely) at the end of the most tedious, lengthiest instance in the entire game, Kensington Park. So, half an hour vs four hours, right?
+
+What could go wrong?
+
+Well, last year I completed this instance about forty times -- no mechanical spider. I even started an alt, Allison Goldtalon, to help because those fights weren't that easy and at the time, I was only in my thirties. Allison leveled up to her twenties helping me with this dark tower to get that rare spider pet. That was her PURPOSE.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-44-42-95.jpg" title="Pumpkin Head" classes="center" >}}
+
+When Octember rolled through this year, I hoped that the tower would have gotten lost somewhere else as it wandered through the Spiral. But no, it found its way back. The site of my greatest failure.
+
+You can't take a break in the Hard Tower. You can't port out for health and then port back to a friend inside -- you can't re-enter. There are some wisps on the floor before the boss, but they give you only two mana back, and mana is not really an issue after a certain point, anyway.
+
+If you go by yourself, each level is only two mobs, both rank 4 or 5 elites with 500-550 health -- not too bad. Bring a friend, though, and there are FOUR, and that makes a difference. (BUT -- if one person goes up a level and starts the fight, then the other group members FOLLOW -- just two mobs. That's a pro tip there.)
+
+That pro tip, I'd forgotten, and by the time both my wizards climbed to the top, our health ran out and -- FAIL. We were sitting outside Ambrose's house in the Boulevard of Shame, watching our health slowly count up from zero.
+
+We returned to Ravenwood and that dark tower and did the entire thing over again, and this time Pumpkin Head fell.
+
+No mechanical spider.
+
+That's try #1.

@@ -1,0 +1,63 @@
+---
+date: '2020-10-02T07:54:13-05:00'
+draft: false
+title: "Game Night: Terraforming Mars (Turmoil #2)"
+slug: "game-night-terraforming-mars-turmoil-2"
+author: "Tipa"
+disqusIdentifier: "2020/10/02/game-night-terraforming-mars-turmoil-2"
+summary: "Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game..."
+categories:
+  - "3D Printing"
+  - "Game Night"
+  - "Tabletop Games"
+  - "Terraforming Mars"
+relatedPosts:
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
+  - url: "/2024/04/12/is-terraforming-mars-too-good/"
+    title: "Is Terraforming Mars... too good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/terraformingmarsbanner.jpg"
+  - url: "/2021/08/06/terraforming-mars-ares-expedition-review/"
+    title: "Terraforming Mars: Ares Expedition Review"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/3-IMG_1937.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/3-IMG_1937.jpg"
+---
+Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game...
+<!--more-->
+
+Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game not just about about terraforming Mars, but eventually exploring and colonizing our Moon, Venus, Mercury, and the outer planets' larger moons through several expansions.
+
+The game play remains mostly the same, though, through expansions -- you research activities to help with the terraforming (or to hinder your opponents) by buying cards; you play those cards in the action phase; you then receive a payment from the faceless Terraforming Council based on your contribution to the terraforming, plus whatever income your research projects provide.
+
+The game ends when Mars is habitable by humans without need for any protective gear.
+
+In what has become typical for my son, he ended last night's game by crashing Mars' smaller moon, Deimos, into the planet, raising its heat just enough to finish the terraforming. One moon is enough for any planet, right?
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1934.jpg" classes="center" >}}
+
+Last night, we separated out all the stuff from the other expansions -- Venus Next, Hellas & Elysium and Prelude to Mars (we don't have Colonies yet) so we could focus on learning the Turmoil expansion. Turmoil is ranked the most difficult expansion to learn ([it's considered an "expert" expansion](https://theboardgameguide.com/terraforming-mars-expansions-guide/)) and the first time we played it, its new mechanics were mostly detrimental as we worked on all the other normal activities.
+
+Turmoil adds the Terraforming Council, off camera in the base game, as a phase in the turn. There are six parties or factions on the council, all with their own goals and that provide benefits or penalties to the game when they are in power. You as a player can send delegates to the council in order to strengthen a party, perhaps even take control of it or win the chair for a generation.
+
+The picture just above shows my team, the green team, having won a faction battle for the Green Party from the other three players. I'm also the chair of the Terraforming Council. This gives me outsized influence over the direction of Terraforming for the generation.
+
+Influence counts when playing on the other new board that came with this expansion, the Global Events board. In this particular move, those players with a combined council influence and number of distinct tags on their played cards of nine or over would get a special bonus. Without the influence I gained from this move, I'd have not had enough to get the significant bonus. (I was lucky in that I'd played a card which made it much cheaper for me to send delegates to the council compared to other players).
+
+On a previous turn, I'd had to do the same battle as we'd had news that Earth was going through a period of war and had cut its terraforming budget for a generation. Everyone would lose four terraforming points -- minus their council influence. By having the chair and control of the dominant party (in that case, the Mars First party), I had three influence and was mostly able to weather the lean times better than anyone else. This led directly to me being able to claim the Terraforming Milestone for five extra victory points.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/2-IMG_1935.jpg" title="Boyfriend, daughter, son. None of these people is me." classes="center" >}}
+
+The Turmoil expansion slams on the brakes by removing one terraforming rating point from everyone each turn. Every player must keep pushing forward just to stay in place, and there tends to be very little money available each generation to research the best projects.
+
+It's this global penalty that sets Turmoil apart. Without it, the bonuses and penalties of the global events wouldn't have much impact. With it, it is vitally important to keep one eye on what the Terraforming Council is up to. Because most of us helped keep the Greens in power, our version of Mars by the end of the game was very green. If we'd decided to boost the Reds, who actively work against terraforming, it would have been a very different game, but sometimes it makes sense to slow down a player trying to make big moves.
+
+Last night I was making the case that we should never play with Turmoil again. But thinking about it this morning, I feel no other expansion has done as much to completely remake the game. (Again, we don't have the Colonies expansion).
+
+We've been playing Terraforming Mars for over three years, and every time the game surprises us.
+
+Next time we meet, it's back to Jaws of the Lion.

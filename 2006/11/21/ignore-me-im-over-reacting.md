@@ -1,0 +1,45 @@
+---
+date: '2006-11-21T11:48:13-05:00'
+draft: false
+title: "Ignore me, I'm over-reacting."
+slug: "ignore-me-im-over-reacting"
+author: "Tipa"
+disqusIdentifier: "2006/11/21/ignore-me-im-over-reacting"
+summary: "Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December...."
+categories:
+  - "General"
+  - "My Work"
+relatedPosts:
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2009/03/26/xfire-wordpress-widget/"
+    title: "XFire Wordpress Widget"
+    thumbnailImage: ""
+  - url: "/2008/10/07/how-to-tell-if-youre-a-coder-part-1/"
+    title: "How to tell if you're a coder, part 1."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/dec25.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/dec25.png"
+---
+Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December....
+<!--more-->
+
+Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December. Now since I'm salaried, I shouldn't care, as I supposedly get a fixed annual pay regardless of how much or how little I work.
+
+That was the meaning of 'salaried' every other place I ever worked. Here, however, it's used as a starting point from which money is deducted. So no matter how much I work I can never make *more*. If I miss any time, however, I will make *less*. So these days I am being told to take off in December will be taken from my salary.
+
+My boss informed me of this this morning. I'd heard the hourly people were going to a four day work week in December, but figured I'd be asked to work all five days since I was salaried. And I am perfectly willing to do just that. Anyway she came down, told me that yes indeed I was to be taking a day off too, and Monday would be bad but perhaps... Friday would be best?
+
+Well, let's have a stare at December's calendar.
+
+We get Christmas, the 25th, off. Friday would be *five full days* of no pay, while Monday would only be *three*. My boss explicitly asked me to come in on Mondays because that's when things are busiest.
+
+She thinks I am an idiot. She thinks I will just agree to anything she says because I am a quiet person who keeps to herself. She thinks I don't know what the *rest* of the world means by "salaried" -- which she thinks means "hourly with unpaid overtime".
+
+Well, maybe I am over-reacting. I know my friends must roll their eyes and sigh "not again..." but heck, I lose money each month I work here. If I didn't have the dregs of the money I made selling my house, I would have no money at all. Five full days of no pay in December would hurt me *a lot*. I don't have a husband helping with the bills.
+
+The work at Surya is good and the people are great, but I can't afford to work here any more. Playing tricks with my income just makes me angry in a passive-aggressive way.

@@ -1,0 +1,41 @@
+---
+date: '2008-08-05T17:08:55-05:00'
+draft: false
+title: "HeroEngine licensed again, but where is Hero's Journey?"
+slug: "heroengine-licensed-again-but-where-is-heros-journey"
+author: "Tipa"
+disqusIdentifier: "2008/08/05/heroengine-licensed-again-but-where-is-heros-journey"
+summary: "The number one, market leader middleware for MMO development? Unreal Engine? No, sorry, though I would have thought that. MMOs like DC Universe Online, Stargate..."
+categories:
+  - "MMORPG"
+tags:
+  - "Hero's Journey"
+  - "Heroengine"
+  - "Hsc Labs"
+  - "Simultronics"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+---
+The number one, market leader middleware for MMO development? Unreal Engine? No, sorry, though I would have thought that. MMOs like DC Universe Online, Stargate...
+<!--more-->
+
+The number one, market leader middleware for MMO development? Unreal Engine? No, sorry, though I would have thought that. MMOs like DC Universe Online, Stargate Worlds and Vanguard (which reportedly used it poorly) plus dozens of console games of all descriptions had me guessing that. Or BigWorld, which a few upcoming MMOs will use (like Twin Skies and 38 Studios' code-name "Copernicus" MMO, which also [claims to be using Unreal Engine](http://www.nerfbat.com/2008/03/05/38-studios-licenses-unreal-engine-3/)... so I'm confused. UE3 for client and BW for middleware? Okay...).
+
+No, apparently the number one MMO development engine is HeroEngine by Simultronics, who's own MMO, Hero's Journey, has been stuck in development for many years. HeroEngine was l[icensed last year by Bioware Austin](http://ftp.gamasutra.com/php-bin/news_index.php?story=13088) for the MMO we now know is Knights of the Old Republic Online, but I guess Bioware changed their minds, since they [announced a month later](http://kotaku.com/gaming/what.s-in-the-box%3F!/bioware-taps-perpetual-mmo-engine-280217.php) that they were using Perpetual Entertainment's engine. Now that PE is gone, I wonder what MMO engine Bioware actually IS using...
+
+Simultronics just announced that new MMO developers HSC Labs (currently advertising in Craigslist for [story writers willing to work in Las Vegas](http://lasvegas.craigslist.org/wri/775128545.html)) will be using the HeroEngine in their game. I totally wish their project the best and hope these kinds of deals give Simultronics enough cash to finish Hero's Journey, but when I see statements like this, I just have to wonder if someone is in for a rude surprise...
+
+> HSC Labs Director, Daniel de la Cruz says, "I believe that middleware software is the future of gaming, and that Simutronics is currently the leader in this industry. I also believe that the efficiency and dependability offered by Simutronics is going to push production dates backwards for the first time."  [[Source](http://www.marketwatch.com/news/story/simutronics-licenses-heroengine-hsc-labs/story.aspx?guid={0C362285-B6BB-4011-B006-81530E76D05E}&dist=hppr)]
+
+I guess people can believe a lot of things. I absolutely agree with Mr. Cruz on the importance of middleware, but without any released MMOs based on the technology, I think it has a ways to go before it can truly claim to be number one.

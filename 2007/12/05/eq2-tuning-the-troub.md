@@ -1,0 +1,43 @@
+---
+date: '2007-12-05T01:56:24-05:00'
+draft: false
+title: "EQ2: Tuning the Troub"
+slug: "eq2-tuning-the-troub"
+author: "Tipa"
+disqusIdentifier: "2007/12/05/eq2-tuning-the-troub"
+summary: "Still haven't managed to get a Crypt of Agony group for my troubador (mad gnashing of teeth), but Dera, my cleric, got her second group..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-05-00-25-26-43.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-05-00-25-26-43.jpg"
+---
+Still haven't managed to get a Crypt of Agony group for my troubador (mad gnashing of teeth), but Dera, my cleric, got her second group...
+<!--more-->
+
+
+
+Still haven't managed to get a Crypt of Agony group for my troubador (mad gnashing of teeth), but Dera, my cleric, got her second group there. It's easier for healers, since you need two to do the instance well. Once again, I was headed there for a guild group and once again, it broke up before I got there.
+
+The experience was more disappointing this time, since Dera had gotten all the AA experience from killing the nameds and running around the zone the first time she came. I believe she made between 5 and 10%. Two Crystalline Short Swords dropped; I won neither of them, and tried to buy one of them, and then the main healer plopped the one he won in my trade window... I was flabbergasted and thankful. He didn't want any money, so I sent him 5p after the group ended.
+
+This sword has a huge ~~6~~ 4 second delay, which can make for massive crits -- PLUS 55 spell damage -- PLUS a healthy chunk of INT -- and the ratio isn't bad either. With an adornment, Dina was in business, and she went to Solusek's Eye to test her dps on her reference mobs, Defenders of Thyr. When she first started testing herself on those, her solo dps was around 300 dps.
+
+Tonight it hovered between 800 and 900; using jesters and maestro, she got that to 1100 dps consistently. And this is without the flanking attack.
+
+New weapons demand a new outfit, and Dina had ben seeing her Tenacious (D) set around and of course the Regimental set was everywhere, so she went for the Emperor's set, which comes from drops in Kunark instead of quest rewards.
+
+It looks so warm; maybe that's only because it's so cold here.

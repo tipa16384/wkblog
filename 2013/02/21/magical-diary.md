@@ -1,0 +1,53 @@
+---
+date: '2013-02-21T07:47:32-05:00'
+draft: false
+title: "Magical Diary"
+slug: "magical-diary"
+author: "Tipa"
+disqusIdentifier: "2013/02/21/magical-diary"
+summary: "Stop me if you've heard this one. A child living in our modern world discovers she has magical powers and is invited to attend a..."
+categories:
+  - "Magical Diary"
+  - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
+---
+Stop me if you've heard this one. A child living in our modern world discovers she has magical powers and is invited to attend a...
+<!--more-->
+
+
+
+Stop me if you've heard this one. A child living in our modern world discovers she has magical powers and is invited to attend a wizard school and become part of a magical community hidden from the mundanes.
+
+Magical Diary is basically about a year in the life of a student of Hogwart's, where there are no Dark Ones and no Harry Potter. But it does have, you know, *boys*. And proms. And school clubs. And also the exams are held in dungeons.
+
+A lot of times, I don't know where I first heard about a game, but this time it's pretty clear... Jane Smith (if that's her REAL NAME...) [started posting](https://plus.google.com/108839098650920765119/posts) about this intriguing little [_otome_](http://en.wikipedia.org/wiki/Otome_game) (o-toe-meh) game on G+, and everything she said about it was strange. As it was on sale for $3.75 on Steam, it was a great impulse buy. And it's everything I thought it would be.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-21-44-40-77-480x300.jpg" title="An existential crisis" classes="center" >}}
+
+At 13, you were playing with your friends when you suddenly levitated! You couldn't repeat it, and both you and your friends just explained it away and forgot about it -- until some wizards came to your home and offered you the Choice -- to attend the Iris Academy in Vermont and become a full-fledged witch, or to lose your undeveloped powers and forget about magic forever -- literally magically forget.
+
+Naturally, you choose magic, and find yourself in the cloistered halls of Iris Academy, a co-ed boarding school in the Green Mountains where the magical and non-magical communities have come to some sort of understanding (demons wandering the local shopping mall, for instance, do not panic the locals).
+
+Your goal, for your first year, is to learn about magic, survive the exams, deal with your two roommates (Virginia, from a magical family, and Ellen, a ~~mudblood~~ wild seed like yourself) and sort out the various relationship dramas you'll be pulled into. It IS an otome game, after all, and this is high school, and you'll almost certainly be in one or more relationships during the year. Who you hook up with depends entirely on the sorts of classes you take, after school activities in which you take part, and so on.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-21-49-19-78-480x300.jpg" title="Not as creepy as it looks." classes="center" >}}
+
+Based on the Steam achievements, the path my first year took (which was heavily influenced by events over which I had little control) is just one of many stories that can be told in Magical Diary. Around you, your fellow students are working through their own separate stories of which you might not be a part (like, why DID that the door to that boys' room suddenly catch on fire? Why did Damien get expelled? What was the reason for Virginia's sudden 'illness'? What is the school's secret society?)
+
+There's a hundred, well, at least a dozen stories in Iris Academy. They're pretty cool stories, too. There was the time me and a boy were racing through a dungeon and the one who got to the exit first would get 5 merits. He kept using Breeze to push me out of the way, but I got him with a Slow -- didn't slow him down -- but then I noticed we were passing some plants so I used Entangle to make them root him in place.
+
+And then... well, you should play the game yourself, and find out!

@@ -1,0 +1,61 @@
+---
+date: '2008-10-25T08:48:27-05:00'
+draft: false
+title: "EQ: The Bastion of Thunder"
+slug: "eq-the-bastion-of-thunder"
+author: "Tipa"
+disqusIdentifier: "2008/10/25/eq-the-bastion-of-thunder"
+summary: "Because FRAPS conked out on me, and I didn't notice until after. there's no screen shots of our night in the Bastion of Thunder...."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+  - "Nostalgia the Guild"
+tags:
+  - "Bastion of Thunder"
+  - "EverQuest"
+  - "Mercenary"
+  - "Seeds of Destruction"
+relatedPosts:
+  - url: "/2008/10/08/eq-oceangreen-hills-and-oceangreen-village/"
+    title: "EQ: Oceangreen Hills and Oceangreen Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
+  - url: "/2008/11/08/eq-the-attack-of-the-killer-bees/"
+    title: "EQ: The Attack of the Killer Bees"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+  - url: "/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/"
+    title: "EQ: Seeds of Destruction: Meet Caiffin, the Merc."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+---
+Because FRAPS conked out on me, and I didn't notice until after. there's no screen shots of our night in the Bastion of Thunder....
+<!--more-->
+
+
+
+Because FRAPS conked out on me, and I didn't notice until after. there's no screen shots of our night in the Bastion of Thunder.
+
+No screen shots of our first, tentative pulls of the giants of the lightning wing.
+
+None of Niiko zipping around at bard speed, threading the monsters with song into beads of pwn.
+
+None of Mantis, trying to keep his warrior mercenary from breaking his own mezzes :) That was fun!
+
+Coldheat's just-in-time complete heals when we had three of them on us at once. Or Qutey's heals taking up the slack in between her massive DoTs and nukes...
+
+Kasul down in the foyer, getting more xp than all of us as he single pulled giants to his own merc pet.
+
+No screen shots of the time when we realized that despite being just 60-61, we could kill the wing bosses, and we did.
+
+No screen shots of those stupid lame pauldrons nobody wanted, but kept dropping.
+
+Grats "Rigged Dice" Coldheat on a spectral parchment and a glyphed rune word AND some PoP quest shoulders.
+
+We got a few more specs that were randomed off. Grats Qutey on her BoT tower key. And grats everyone on their new levels.
+
+And sorry about the lack of screen shots. I was SO ANGRY when I saw I had nothing but memories left from the night. But the memories were good memories, so I guess it's okay.
+
+It's hard to explain just how much the mercenaries of the Seeds of Destruction have changed EverQuest. It's like a whole new game, now.

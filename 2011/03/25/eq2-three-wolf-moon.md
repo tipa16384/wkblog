@@ -1,0 +1,48 @@
+---
+date: '2011-03-25T06:37:35-05:00'
+draft: false
+title: "EQ2: Three Wolf Moon"
+slug: "eq2-three-wolf-moon"
+author: "Tipa"
+disqusIdentifier: "2011/03/25/eq2-three-wolf-moon"
+summary: "Lore text: This cloak will make you more desirable! Also has the property of featherfall...."
+categories:
+  - "EverQuest"
+  - "Humor"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2012/12/25/happy-holidays/"
+    title: "Happy Holidays!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/eqchristmas-386x480.png"
+  - url: "/2010/08/18/five-better-concepts-for-everquest-next/"
+    title: "Five Better Concepts for EverQuest Next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/village.jpg"
+  - url: "/2009/08/22/eq2-werewolf-gets-a-new-job/"
+    title: "EQ2: Werewolf gets a new job"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/eq2bugbearwerewolf-2.jpg"
+  - url: "/2009/06/10/eq2-blossom-the-bold/"
+    title: "EQ2: Blossom the Bold"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/blossomthebold.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
+---
+Lore text: This cloak will make you more desirable! Also has the property of featherfall....
+<!--more-->
+
+
+
+Lore text: This cloak will make you more desirable! Also has the property of featherfall.
+
+And why it's particularly funny...
+
+[{{< image src="http://imgs.xkcd.com/comics/2009_called.png" title="2017 called, but I couldn" classes="center" >}}](http://xkcd.com/875/)
+
+The whole "Three Wolf Moon" phenomenon started with [this comment on Amazon.com](http://www.amazon.com/review/R2XKMDXZHQ26YX/ref=cm_cr_dp_perm?ie=UTF8&ASIN=B002HJ377A&nodeID=1036592&tag=&linkCode=), and from there took on a life of its own (and spawned [hundreds of imitators](http://www.threadless.com/submission/222011/Three_Keyboard_Cat_Moon)):
+
+> This item has wolves on it which makes it intrinsically sweet and worth 5 stars by itself, but once I tried it on, that's when the magic happened. After checking to ensure that the shirt would properly cover my girth, I walked from my trailer to Wal-mart with the shirt on and was immediately approached by women. The women knew from the wolves on my shirt that I, like a wolf, am a mysterious loner who knows how to 'howl at the moon' from time to time (if you catch my drift!). The women that approached me wanted to know if I would be their boyfriend and/or give them money for something they called mehth. I told them no, because they didn't have enough teeth, and frankly a man with a wolf-shirt shouldn't settle for the first thing that comes to him.
+
+> I arrived at Wal-mart, mounted my courtesy-scooter (walking is such a drag!) sitting side saddle so that my wolves would show. While I was browsing tube socks, I could hear aroused asthmatic breathing behind me. I turned around to see a slightly sweaty dream in sweatpants and flip-flops standing there. She told me she liked the wolves on my shirt, I told her I wanted to howl at her moon. She offered me a swig from her mountain dew, and I drove my scooter, with her shuffling along side out the door and into the rest of our lives. Thank you wolf shirt.
+
+> Pros: Fits my girthy frame, has wolves on it, attracts women
+
+> Cons: Only 3 wolves (could probably use a few more on the 'guns'), cannot see wolves when sitting with arms crossed, wolves would have been better if they glowed in the dark.

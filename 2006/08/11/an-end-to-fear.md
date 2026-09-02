@@ -1,0 +1,54 @@
+---
+date: '2006-08-11T14:12:05-05:00'
+draft: false
+title: "An End to Fear"
+slug: "an-end-to-fear"
+author: "Tipa"
+disqusIdentifier: "2006/08/11/an-end-to-fear"
+summary: "It takes a lot of soul shredding to satiate a Fear god. I shredded in the Commonlands. I shredded in Nektulos Forest. I even shredded..."
+categories:
+  - "EverQuest"
+  - "General"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
+  - url: "/2009/02/23/sick-sixth-six/"
+    title: "Sick Sixth Six!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/2b0b27c337a6b9f7f5fb6a707be25cb8.jpg"
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2008/02/13/jericho-lost-american-idol-and-my-first-dog-raid-on-eq2/"
+    title: "Jericho, Lost, American Idol and my first DoG raid on EQ2"
+    thumbnailImage: ""
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/nek3.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/nek3.jpg"
+---
+It takes a lot of soul shredding to satiate a Fear god. I shredded in the Commonlands. I shredded in Nektulos Forest. I even shredded...
+<!--more-->
+
+
+
+It takes a lot of soul shredding to satiate a Fear god. I shredded in the Commonlands. I shredded in Nektulos Forest. I even shredded in the new Nektropos Castle instance (tip: bring repair kits. Lots of them.)
+
+I eventually shredded those hundred souls and brought them to the Fear portal in the Feerrott. I fed them to the portal, and it spit out a samhain to stagger about the area. It was not attackable and non-aggro; all those similar mobs near the portal must have been summoned by others that completed the quest.
+
+There'll be a huge crowd of them walking around before the expansion hits.
+
+The reward for the quest is a house item that grants you a one hour fear buff for things that hit you, and the satisfaction of knowing there's just a little more terror in the world now.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/clquest.jpg" classes="center" >}}
+
+Dorah and I did that new Commonlands quest on the way to Nektropos to finish my soul shredding. We managed to capture the Lightbringer Wisp along the way as well. That quest required us to dress up as modest, non-dangerous peasants. It was lucky, I guess, that Dorah's skeleton pet didn't scare them off anyway. The reward was a gold and some silver, and the satisfaction that comes from helping a gnome... OFF A CLIFF!
+
+*cough* sorry...
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/dorahportal.jpg" classes="center" >}}
+
+Dorah made it safely to the Fear portal by her lonesome, with just invisibility and a paranoid eye toward the monsters of the area to keep her safe. Made it with no deaths at all.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/cityshredder.jpg" classes="fig-20" >}}Dorah showed that there's a brain in that bathrobe by discovering that having your soul shredded isn't really that awful! She happily shred the souls of most of the critters around the Fear portal, patrolling guards in Freeport, small animals... Anything that didn't think a halfling would be a nice snack got that little frosty soul-shredded glow...
+
+You don't have to kill something to shred its soul, and if they didn't want to kill you before you shredded, they won't decide to after.

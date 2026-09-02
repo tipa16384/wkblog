@@ -1,0 +1,82 @@
+---
+date: '2021-08-03T23:17:26-05:00'
+draft: false
+title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+slug: "ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar"
+author: "Tipa"
+disqusIdentifier: "2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar"
+summary: "I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop..."
+categories:
+  - "Blaugust"
+  - "CRPG"
+  - "Final Fantasy"
+  - "Final Fantasy XIV"
+  - "Steam Games"
+tags:
+  - "Jrpg"
+  - "RPG"
+  - "Steam"
+relatedPosts:
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/04/ff1-playthrough-pheasant-dreams/"
+    title: "FF1 Playthrough: Pheasant Dreams!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-lich.jpg"
+  - url: "/2021/08/01/ff1-garland-hero-of-the-empire/"
+    title: "FF1: Garland, Hero of the Empire!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
+  - url: "/2021/08/09/ff1-it-is-the-end-of-eternity/"
+    title: "FF1: It is the End of Eternity"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143848_1.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+---
+I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop...
+<!--more-->
+
+I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop up again and again... and I *did* that... but then I started working on the main story quest again... and... well, maybe later.
+
+Right now, we have to deal with a certain evil critter named Astos.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/image-300x294.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/image.png)
+
+*A witch walks into a bar. One of her eyes is shut tight, and a trickle of blood leaks from it. The other is red with rage. A broomstick follows her closely, trying to help, but she snarls at it until it puts itself into a corner. "What happened???" asks the barmaid. "Astos happened," spits the witch. "He took my crystal eye, and now I cannot see!" The barmaid quickly mixes up a strong drink; fumes pour from the mug. The witch drinks it in one gulp and falls silent.*
+
+*Next, a dwarf walks into the bar. The dwarf drags his feet slowly, completely dejected and looking like he hasn't a friend in the world. "What's the matter, friend?" asks the barmaid as the dwarf climbs up the barstool. "Oh, Astos," says the dwarf. "He sealed our best treasure into a vault that can only be opened with a mystic key. And then he ran off! Now we are poor and cannot buy food to eat. We are doomed!" The barmaid shakes her head in sympathy and puts a strong, muddy brew in front of the dwarf. He sips it gingerly, drowning himself in misery.*
+
+*Lastly, a king walks into the bar. It's clear from the way his hair is dented that he once wore a crown. He sits at a corner table and just stares at the wall, sobbing occasionally. The barmaid draws an ale and brings it to the king. "Let me guess. Astos, right?" she asks.*
+
+*"You know me?" replies the king.*
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802212914_1-1-1024x576.jpg" title="Outside the Western Castle" classes="center" >}}
+
+The elf doctor needed a potion to wake the prince. Matroya, the witch, couldn't make a potion unless she had her crystal eye. The dwarfs couldn't get their treasure or clear out the channel without a mystic key to open the magically sealed doors. And the king needed a crown. All of them blamed Astos, the Dark Elf.
+
+Luckily, by the time we'd found the king, we'd already found the crown (see previous post).
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802213148_1-1024x576.jpg" classes="center" >}}
+
+Once we gave it to him -- plot twist -- it turned out that HE was Astos! Under an illusion!
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802213218_1-1024x576.jpg" classes="center" >}}
+
+We'd picked up all the latest spells in Elfheim. Tipa, Ally and Tom buffed Drew up, and then Drew punched him 12 times and Astos was dead in the first or maybe second turn.
+
+There's a slim chance that we might be too leveled up for where we are in the story. I blame the Pixel Remaster's auto-battling system. It's way too easy to just speed through another fight... and another...
+
+According to the in-game bestiary, Astos can drop a Mythril Sword, but he didn't this time. He did drop Matroya's crystal eye, though. Yay!
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802214236_1-1024x576.jpg" classes="center" >}}
+
+Matoya was only too happy to brew up a special potion for the elf prince, once we'd returned her her eye.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802215146_1-1024x576.jpg" classes="center" >}}
+
+Once awakened, the prince was all too eager to give us a mystic key. We returned to Carolina in our mind and found the nitro. We also returned to the Marsh Swamp and got the treasures we couldn't get the first time, back to the West Castle for the one room we couldn't get into, and back to the dwarfs. For them, we opened up their treasure room (and then, stole all their treasure). In return, the dwarfs exploded the rock preventing them from building a channel that connects the inner sea to the outer ocean. We were free from the prison of the inner sea at last!
+
+We sailed for the horizon, and came to Melmoth, a ruined land where the life is being literally sucked from the soil by the first of the four elemental fiends, the Earth Fiend.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802231034_1-1024x576.jpg" classes="center" >}}
+
+We have our next destination... until then, Pheasant Dreams!

@@ -1,0 +1,50 @@
+---
+date: '2006-05-25T00:00:00-05:00'
+draft: false
+title: "Wordpress"
+slug: "wordpress"
+author: "Tipa"
+disqusIdentifier: "2006/05/25/wordpress"
+summary: "Lack of updates; must be something exciting happening in my life? Not really! Just very busy; my boss is in Bali for two months and..."
+categories:
+  - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
+---
+Lack of updates; must be something exciting happening in my life? Not really! Just very busy; my boss is in Bali for two months and...
+<!--more-->
+
+Lack of updates; must be something exciting happening in my life? Not really! Just very busy; my boss is in Bali for two months and I am very busy at work... where I used to find time to blog a little each day.
+
+I have this blog completely imported into a new, shinier, Wordpress body on Baph, my Linux machine at home. The people who host THIS blog use Linux as well, so it should be (I hope) fairly simple to bring it over. The default theme is yucky.
+
+I'm also changing the name of the blog to something a little more wieldy than "MMORPGs and Real Life".
+
+The problem is that all the GOOD names are taken! "A Virtual Life" - taken. "Virtually There" - taken. "Tipa's Blog" - is not taken, but then, my real name isn't Tipa, so putting non-game stuff in it would seem a little awkward.
+
+I dunno. Will figure something out.
+
+A roll call of recent games:
+
+Guitar Hero - Finished HARD, currently working on nailing some of the bad soloes so that I can do better in EXPERT. Three songs into EXPERT. Guitar Hero doesn't let you practice just one phrase at a time. I have been thinking about transcribing the solos to sheet music to practice.
+
+Oblivion - Haven't really played it that much since I got back to EQ2.
+
+EQ1 - Yay, guild drama. Some people didn't like our loot system, so they left. And now we're mired in weeks of discussion about changes to the system. Lots of threats, accusations of conspiracy, and all the other things that make EQ1 so much fun.
+
+EQ2 - Focusing on Dina, now a 52 troubador, and Dera, now a 44 inquisitor. Really trying hard to level these characters so I can get out of the lower level ruts. Dina got a Tenebrous Tangle group the other night, but at 56+, the mobs were a little too tough. And the experience was awful. KoS is pretty, though.
+
+WoW - A friend called me up, excited about a hidden airport he had found above Ironforge. So I logged on my Alliance rogue, Tipa, and he led me up into and around the mountain wastes through hidden paths until we found it.
+
+Lots more to be said about all these things, and the new EQ1 Combine server, but... will have to wait until later! Busy.......

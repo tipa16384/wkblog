@@ -1,0 +1,54 @@
+---
+date: '2008-02-26T13:34:42-05:00'
+draft: false
+title: "Why I Blog"
+slug: "why-i-blog"
+author: "Tipa"
+disqusIdentifier: "2008/02/26/why-i-blog"
+summary: "From a comment on Tobold's excellent post about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):..."
+categories:
+  - "EverQuest"
+  - "Lord of the Rings"
+  - "MMORPG"
+  - "Pirates of the Burning Sea"
+  - "Vanguard"
+  - "Warhammer: Age of Reckoning"
+  - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2008/01/02/great-expectations-2008/"
+    title: "Great Expectations: 2008"
+    thumbnailImage: ""
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+---
+From a comment on Tobold's excellent post about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):...
+<!--more-->
+
+From a comment on [Tobold's excellent post](http://tobolds.blogspot.com/2008/02/tank-shortage.html) about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):
+
+> I've been playing WOW for 2+ years now and everytime I see pvp hurt pve, **it makes me wish there was a viable pve alternative to WOW**.
+
+I happen to think there are plenty of viable PvE alternatives to WoW. Not least among them EQ2, but also LotRO (the breakout MMO of 2007, by anyone's definition viable), Pirates of the Burning Sea, FFXI Online and literally hundreds of smaller MMOs, most of them free to play, most of them with very dedicated and helpful player bases. I've been hearing a lot of good things about Vanguard these days.
+
+It's not that there aren't viable alternatives to WoW. It's that WoW has become a game so unusual and disconnected from normal gameplay that the MMOs that have proceeded among more normal paths seem bizarre to those who have played no other games.
+
+Reading Tobold's blog is like glimpsing an alien world (and I have played WoW). Grinding badges? Vending-machine epics? Honor as a currency? Doing highly repetitive activities for vague reasons? In essence and as far as I can see, removing the entire adventure component of the game?
+
+WoW started as a very normal game -- like EQ and DAoC with all the boring bits removed, and lots of help, no choices to make, very easy and casual and cartoony and really, nothing but fun. I really, really enjoyed my time in WoW, and I met a lot of really good people and a few jerks. So don't call me a WoW-hater because I am not.
+
+But somehow, somewhere, it got twisted. The fun bits were replaced with a race to the grind. Maybe because I haven't played since before BC came out (I left when AQ was opening), that I just am not hearing about the fun, but I have several WoW blogs in my feed and am just distressed at what I read. People do this -- voluntarily? The only ones who seem to be having fun are the ones that are going counter to the current direction of the game -- the ones who are leveling slowly and hitting all the old content, as outdated as it may be.
+
+What will they do when they finally hit the level cap?
+
+It was these cries from WoW players for a viable alternative in the face of MANY real, viable alternatives that they blithely dismiss that was the basis for the post I made wondering if WAR would finally be the game that could wean people from their unhealthy obsession with WoW -- a game that was supposed to be a haven for casual players who just wanted to have some quick fun, but has become exactly the sort of behemoth for which it was once the best alternative.
+
+If there's any overriding purpose to my blog, it's to show that the other alternatives are damn fun in their own rights.
+
+You CAN leave WoW. But you can't go blindly into a game, kill ten rats and declare it boring. That won't work. You can't do any MMO truly alone. Seek out the community, join a guild and ask questions and get an idea of what the game means to those who love it. Then you'll get a real sense for it. And then, maybe, you'll find there are viable alternatives to WoW.

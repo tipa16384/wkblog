@@ -1,0 +1,48 @@
+---
+date: '2008-02-07T09:06:46-05:00'
+draft: false
+title: "EQ2: LU42 Mannequins"
+slug: "eq2-lu42-mannequins"
+author: "Tipa"
+disqusIdentifier: "2008/02/07/eq2-lu42-mannequins"
+summary: "Really quick update. I have posts waiting to finish writing about the economy in Pirates of the Burning Sea and other adventures in that world,..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+  - "Pirates of the Burning Sea"
+relatedPosts:
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-06-20-36-47-78.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-06-20-36-47-78.jpg"
+---
+Really quick update. I have posts waiting to finish writing about the economy in Pirates of the Burning Sea and other adventures in that world,...
+<!--more-->
+
+
+
+*Really* quick update. I have posts waiting to finish writing about the economy in Pirates of the Burning Sea and other adventures in that world, plus starting the troubador and tradeskilling epics in EverQuest 2. The Troubador epic is apparently called the Ayonian Axe (like your guitar is an axe, get it?) -- I'm busily doing the Poet's Palace access quest so I can continue on it -- and the tradeskill epic is an earring whose name I can't remember off the top of my head, but it's the same as that EQ1 Luclin-era FT3 earring every alt had, and is made from the exact same combination of crafted items, one for each trade. Yes, as a crafter, you will need the help of every other kind of crafter to finish your epic. The cloaks are just a little extra reward. Someone linked the armorer cloak, and so here it is via the dressing room for your viewing pleasure. Above, are the first things I made when I got online after doing my PotBS crafting for the day -- mannequins, just wearing some Nightchord on the left and Melodic Xegonite on the right. I don't know where the boots for the Melodic got off to, so I tossed Vhalen's on the dummy. I never did get Nightchord boots even after doing Labs hundreds of times.
+
+That armorer cloak:
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-06-23-58-56-96.jpg" classes="center" >}}
+
+Again, sorry for the tiny news items; I've been playing and not writing :)
+
+*Later: Earring of the Solstice is the tradeskill epic. The armorer cloak above grants +1.4% success chance to armorcrafting. And as a sanity check to those people who were loudly complaining that their epic quests had not been found within a few hours of server up -- GROW UP. ALL had been found by the time I went to bed, and compared to the difficulty of even the EASIEST quests in EQ1 when Kunark went live the first time, these are NOTHING.
+
+Should also be noted that the epics don't seem to require high levels of RoK faction, as was widely expected they would.*
+
+{{< image src="https://tipa16384.github.io/wkblog/images/arms.jpg" classes="center" >}}
+
+*I got this pristine xegonite melodic armor when I turned 62 in July, 2006, as a gift from my former and current guild leader, Xagain*

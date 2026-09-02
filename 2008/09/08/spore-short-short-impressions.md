@@ -1,0 +1,61 @@
+---
+date: '2008-09-08T10:20:32-05:00'
+draft: false
+title: "Spore: Short, short impressions"
+slug: "spore-short-short-impressions"
+author: "Tipa"
+disqusIdentifier: "2008/09/08/spore-short-short-impressions"
+summary: "I'll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here's..."
+categories:
+  - "Other Games"
+  - "Spore"
+relatedPosts:
+  - url: "/2009/05/05/daly-blogroll-55-five-by-five-edition/"
+    title: "Daily Blogroll 5/5 -- Five by Five edition"
+    thumbnailImage: ""
+  - url: "/2008/09/18/spore-a-tiny-planet-circling-an-unassuming-star/"
+    title: "Spore: a tiny planet circling an unassuming star"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
+  - url: "/2008/09/11/spore-the-widget/"
+    title: "Spore, the Widget"
+    thumbnailImage: ""
+  - url: "/2008/09/10/spore-final-thoughts/"
+    title: "Spore: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
+---
+I'll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here's...
+<!--more-->
+
+I'll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here's what I thought of it.
+
+The game is split into a bunch of stages, most of which are very short. You aren't in the cell stage for more than half an hour -- in fact, it's really hard to slow things down much. I found it difficult as a herbivorous single-celled animal to find new parts, since I couldn't kill other creatures for theirs.
+
+You advance to the land creature stage after several evolutions with whatever parts you managed to find swimming in the primordial muck. Unless you always intended for your creatures to look like paramecium with legs, you'll have to go looking for parts by killing things or waiting for other creatures to kill things and then go rooting around in the bones, depending on where you fall in the meat/plant eater spectrum.
+
+If you're a herbivore -- which definitely ends up being the harder path in the creature stage -- you can only advance by making friends with other animals, which means... challenging them to a dance-off.
+
+No, really.
+
+You are judged on your ability to sing, dance, look cute (charm), and pose. The parts you choose in the creature creator influence your ability to tear it up on the savannah dance floor. If you're really good, you can get some creatures to join your pack, which gives hungry carnivores someone other than you to chew on when Step Up 4: Darwin U reaches its inevitable, disastrous conclusion.
+
+You'll probably just want to skip having to randomly build your creature from found parts and just use the full creator with all the parts. This leaves you without the Siren Song ability, which calms creatures and increases their receptiveness to your breakdancing.
+
+Next up is tribal. Make your critters stand upright, and give them hands. This and the next few stages are real-time strategy stages. You can either kill all the other tribes, make peace with them, or kill some, ally with some. It's a VERY simple RTS and goes by quickly. You can slow it down by doing side quests like taming wild animals (which gives an achievement), but there's little point. How you play this stage sets up the next stage, a 4X (explore, expand, exploit and exterminate) Civilization-like game of worldwide conquest. If you killed every other tribe, you become a militaristic nation. I believe peaceful tribes become religious nations, but I'm not sure.
+
+The vehicles you design in the Civilization will reflect your strategy in the Tribal stage. And the means with which you conquer other cities determine what you can do with them. I defeated half the enemy cities through military means (including one city I nuked because I was getting bored), and then made an alliance with the remaining superpower, and that was that.
+
+It took about four hours to go from a cell swimming in goo to my first spaceship.
+
+After that, the game started its real phase.
+
+Spore is a galactic civilization game. Everything else is just a prologue to it. The first alien civilization I encountered was using my mechs (my land vehicles are giant cat mechs called Ratters -- look it up on Sporepedia under tipadaknife) and my Flappers (a steampunk aircraft that looks like a duck swimming through the air). So I thought that was rude of them. I am in the process of conquering them now through economic means.
+
+Is it fun? Well, it's like any decent 4X game -- it's always just one more turn. Plus, you can design new vehicles and buildings for every new colony, so you're in the vehicle and building creator all the time.
+
+Spore is really just two games. One is the best introductory 3D modeling program I have ever seen, with support for sharing that is seamless and automatic -- there were almost 8 million player created creatures, vehicles and buildings in the Sporepedia this morning. I was enjoying building my new colonies with vehicles and buildings way more twisted than anything I could come up with.
+
+The second game is the Galactic Civilization game. If you like GalCiv or Master of Orion 2 or others of the genre, you will likely want to rush through all the other stuff to get to it. Or just play GalCiv. Well, Spore is somewhat different. You go from place to place and get quests, like kill five floozles on this planet, or investigate strange signals from that system, or mine this much spice and sell it to them over there. There's also collection quests and a terraforming mini game.
+
+The other stages go by so fast, you'll miss them if you blink. Granted, I was playing on Easy.
+
+It's a decent game. For the time they spent, I would have liked to have spent more time in the tribal, RTS phase. Even the strongest opponents fell for the simplest trick -- kill an enemy villager with spears, then run back to the home village and pick off enemy villagers as they follow you to retaliate. Leaving the home village so that enemies would send in their villagers to steal your food, and then rush in and burninate their less protected village also worked well.

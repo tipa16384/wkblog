@@ -1,0 +1,46 @@
+---
+date: '2007-02-26T17:31:25-05:00'
+draft: false
+title: "LotRO vs Vanguard"
+slug: "lotro-vs-vanguard"
+author: "Tipa"
+disqusIdentifier: "2007/02/26/lotro-vs-vanguard"
+summary: "After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game..."
+categories:
+  - "Lord of the Rings"
+  - "MMORPG"
+  - "Vanguard"
+relatedPosts:
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-box.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-box.jpg"
+---
+After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game...
+<!--more-->
+
+
+
+After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game I was very much looking forward to, I never wanted to play again.
+
+The difference? In Vanguard, I had an incredible sense that I had played this game before... many times... I found myself falling into the same patterns I had run in EQ, DAoC, WoW, FFXI and EQ2... kill stuff level kill stuff level kill stuff level.
+
+I read all the blogs, and when I read about Diplomacy and how people are having fun with it, I can't help but shudder.... play the same card game against the same opponent for maybe a hundred times and hope to get a few points from it? So you can find a new NPC to play the card game with? How is this in any sense fun to someone WITHOUT a bad case of obsessive-compulsive disorder?
+
+I tried LotRO this weekend expecting I would do my duty as a MMO player to at least look at games as they come out but not expecting more than another kill kill level kill kill level grind that I could safely skip.
+
+Instead, I found a game where killing is de-emphasized, quests are plentiful, varied and creative, and the story is engrossing, if familiar. The classes are different. Combat is different. Group play is different enough that learning how to best work as a group will be a fun learning experience.
+
+I did like one thing in Vanguard -- creating bard songs from fragments to make something unique. Think of what they could have had if they had given the ability to make your own spells and combat moves to every class.... now *that* would be something.
+
+But I won't play even one more MMO where I have to grind. I have decided that I will only play games which are fun.

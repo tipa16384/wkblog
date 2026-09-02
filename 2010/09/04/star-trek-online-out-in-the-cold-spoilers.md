@@ -1,0 +1,99 @@
+---
+date: '2010-09-04T19:42:07-05:00'
+draft: false
+title: "Star Trek Online: Out in the Cold (spoilers)"
+slug: "star-trek-online-out-in-the-cold-spoilers"
+author: "Tipa"
+disqusIdentifier: "2010/09/04/star-trek-online-out-in-the-cold-spoilers"
+summary: "[..."
+categories:
+  - "MMORPG"
+  - "Star Trek"
+tags:
+  - "Breen"
+  - "Defera"
+  - "Federation News Service"
+  - "Fns"
+  - "Out in the Cold"
+  - "Star Trek"
+  - "Weekly Episode"
+relatedPosts:
+  - url: "/2010/08/29/star-trek-online-cold-call-spoilers/"
+    title: "Star Trek Online: Cold Call (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+  - url: "/2010/09/25/star-trek-online-s2e5-cold-storage-spoilers/"
+    title: "Star Trek Online s2e5: Cold Storage (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg"
+  - url: "/2010/09/11/star-trek-online-s2e3-cold-comfort-spoilers/"
+    title: "Star Trek Online: S2E3 Cold Comfort (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg"
+  - url: "/2010/10/16/star-trek-online-skirmish-spoilers/"
+    title: "Star Trek Online: Skirmish (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
+---
+[...
+<!--more-->
+
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72.jpg)
+
+In last week's episode, "[Cold Call](https://tipa16384.github.io/wkblog/index.php/2010/08/29/star-trek-online-cold-call-spoilers/)", we were introduced to the Deferans, a race that believes in balance in all things. They, for instance, see no reason to side with either the Klingon Empire or the Federation, and consider both allies against the Breen.
+
+Searching for ancient Preserver technology, the Breen found evidence on the Deferan homeworld; and found as well, a non-violent, pliable civilization that they could exploit for their own, cold-hearted purposes.
+
+While the Federation News Service (our STO fleet/guild) was setting up a foreign desk in the recently-liberated Deferan capital, beat reporters sent word that the Breen were in hot pursuit of some Deferan ships that had taken refuge in the tail of a comet.
+
+We were first on the scene with the story. Ambassador Longasc's flagship Amgarrak headed the fleet response; Bryn and I followed in our Intrepid-class science ships, the USS Monterey and the USS Auryn. Captain Xerxes warped in with her escort, the USS Redoubtable, and Lieutenant Thomas with his first command, the Miranda-class Scorpius, followed closely behind.
+
+We dropped out of warp at the last known source of the distress call.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-20-14-51-480x269.jpg" title="I" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-20-14-51.jpg)
+
+> To all ships in range, this is the Deferi freighter Sabok! We are under attack and require immediate assistance! We have no weaponry aboard and our shields are failing! Anyone who can hear this, please help!
+
+It's said in space, nobody can hear you scream. But everyone can hear a distress call. Two Deferi freighters were pinned down by the Breen, only the comet's tail protecting them from utter destruction. We headed in to save our newest allies.
+
+It was a glorious fight, and the Breen seemed to have an endless supply of ships, each seeming larger than the other. The Amgarrak kept the attention of the capital ships as the Scorpius and the Redoubtable picked off the support craft. The Auryn and the Monterey were kept busy keeping the Amgarrak's shields up and the Breen weakened.
+
+The skies were finally clear of Breen, if not of huge, speeding comet.
+
+A second Deferi ship needed our aid.
+
+> The is the Deferi ship Paktau!
+
+> We escaped from a Breen slaver attack and our antimatter containment unit and warp coils are non-functional. We need some replacement parts immediately! We are on the verge of a warp core breach! Is there any ship within range? Please help!
+
+They need Warp Coils? How about some Seismic Stabilizers? Provisions? Entertainment Units? The industrial "Aid the Planet"-strength replicators that now are standard equipment on all Federation ships could make whatever was needed. We were in the area, and not even a handful of Breen capital ships could stop the FNS. If we could not defeat the Breen, perhaps we could at least tie up their industrial capacity for ship replacement.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-23-13-98-480x270.jpg" title="A broken promise, a broken world" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-23-13-98.jpg)
+
+One last ship, the Sobok, fled at the first sign of the Breen, and had perhaps taken refuge in the neighboring Zaria system. If we defeated the Breen there, we might well stop their slave trade forever. It was a chance we could not lose.
+
+Turns out the Breen love their slave trade as much as they love their children -- perhaps more. The fights we saw dwarfed the other ones; a dozen capital ships all protected by frigates and fighter swarms attacked from all sides. I'd like to think my Photonic Fleet made the difference, but it was a team effort all the way.
+
+Was it all for nothing? When the Breen were destroyed, we found the Sobok empty -- the crew taken to the Breen slave pens on the planet below. A transporter interdiction field prevented us from beaming the Deferans to safety but not, oddly, from beaming down ourselves.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-35-55-88-480x269.jpg" title="Bryn, Longasc, Tipa, Thomas, Xerxes" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-35-55-88.jpg)
+
+The five captains, after a quick trip to the weapons lockers, met at the underground coordinates closest to the Deferi life signs.
+
+The Deferi were imprisoned in force fields, packaged for easy sale and transport. We could not get near them, but tricorder readings suggested three control points deeper in the cave system.
+
+We resignedly charged our weapons and went a'hunting, Breen-style.
+
+The Breen cannot survive hot plasma. When we returned to the main cavern, though, the Deferi prisoners were gone -- the skeleton crew on the Sobok had beamed them up as soon as we'd dropped the shields.
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-44-27-00-480x311.jpg" title="A final threat" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-44-27-00.jpg)
+
+The Breen, however, were still in the area; after a mocking call from a Breen commander in orbit, the now-disgraced Breen slaver and a squad of his best ice warriors came after us. If he killed us, his reputation could perhaps be restored. If he fell, as he did, well, his reputation would suddenly become somewhat less important.
+
+---
+
+Cryptic is doing an amazing job on these weekly missions. It is shocking how well they are received; there is simply nobody with any real complaints.
+
+As one of the only MMOs that allow full level adjustment so that any group of players can match levels and do missions, STO is doing a stellar (heh) job of getting people logging in and into the latest content, no matter what their level. Naturally, being higher rank gives you more options, but we had fleetmates in everything from the basic starter ship to the most advanced ship in the game working together on the same mission, same task, and everyone could contribute.
+
+That's the way it should be done, that it needs to be done. STO is finally reaching its potential.

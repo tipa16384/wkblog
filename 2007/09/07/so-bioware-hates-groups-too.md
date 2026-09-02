@@ -1,0 +1,45 @@
+---
+date: '2007-09-07T09:47:36-05:00'
+draft: false
+title: "So, Bioware hates groups, too?"
+slug: "so-bioware-hates-groups-too"
+author: "Tipa"
+disqusIdentifier: "2007/09/07/so-bioware-hates-groups-too"
+summary: "JoBildo reposted a summary of a talk given by Gordon Watson, co-director of Bioware, at GDC Austin. Work blocks Gamasutra, so I couldn't get this..."
+categories:
+  - "MMORPG"
+  - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/09/09/what-makes-an-mmo-an-mmo/"
+    title: "What makes an MMO an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
+---
+JoBildo reposted a summary of a talk given by Gordon Watson, co-director of Bioware, at GDC Austin. Work blocks Gamasutra, so I couldn't get this...
+<!--more-->
+
+JoBildo [reposted a summary](http://bildos.blogspot.com/2007/09/biowares-walton-on-making-mmos-in-post.html) of a talk given by Gordon Watson, co-director of Bioware, at GDC Austin. Work blocks Gamasutra, so I couldn't get this from the source. Watson's talk was about the lessons learned from the World of Warcraft.
+
+There's no denying WoW is popular, the most popular Western MMORPG ever made. They did do a lot of things right, a lot of things very appealing to the new or casual player. Where I believe they went wrong is their emphasis on solo play. Playing by yourself in an MMO? It's hard for me to see the point.
+
+Here's where he talks about that particular innovation:
+
+> "[the] truth is that people soloed every game to the best they could and when they couldn't anymore, they quit. Embracing solo play that was a true innovation for WOW."
+
+... until WoW players start raiding after having been trained for 70 levels to think that everything they do, they do to benefit themselves alone. Which is definitely what raiding in WoW was like. People with highly detailed and convincing arguments why they should get their epic set first, because the set bonuses would be better for them... and the inevitable departures of those same people once they did get their sets... The official forums were filled with smack talk and obscenities...
+
+I spent a year in WoW (and three months in beta), and in that time I found maybe a dozen people I could call friends, but without any sort of community, there was no stability. Almost everyone had come from other servers, and almost everyone eventually left for other servers after Kirin Tor degenerated from a roleplay server with a struggling community (and a good server forum) to the same sort of whining cocksmanship present everywhere else. I, too, tried other servers, but it was always more of the same.
+
+What wouldÂ an emphasis on grouping -- combined with WoW's undisputed strengths in polish, system requirements, story and art -- have produced?
+
+Here's hopingÂ Bioware rethinks its blind sidelines cheerleading for WoW's solo game, and comes out with ways to support strong, thriving communities.
+
+Â

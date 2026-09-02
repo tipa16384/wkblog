@@ -1,0 +1,65 @@
+---
+date: '2020-09-14T07:21:32-05:00'
+draft: false
+title: "Banner of the Maid: The Fall of the Monarchy"
+slug: "banner-of-the-maid-the-fall-of-the-monarchy"
+author: "Tipa"
+disqusIdentifier: "2020/09/14/banner-of-the-maid-the-fall-of-the-monarchy"
+summary: "Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline..."
+categories:
+  - "Nintendo Switch"
+  - "Switch"
+tags:
+  - "Banner of the Maid"
+  - "Girls Screaming in Chinese"
+  - "Tactics"
+relatedPosts:
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/10/banner-of-the-maid-la-victoire-est-a-nous/"
+    title: "Banner of the Maid: La Victoire est à Nous!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+---
+Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline...
+<!--more-->
+
+Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline Bonaparte, with the help of her brother Napoleon, struggled to free Italy from the horrors of an Austrian invasion, things were falling apart back home.
+
+Welcome to the post-Revolutionary world. The Monarchist faction, led by the remaining nobles in exile and General Rose, have taken to the hills and have formed an "enemy of my enemy is my friend" relationship with the Austrian invaders. Pauline's war has expanded now to two fronts.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091216305300-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
+
+The populists, led by Maximilien Robespierre, continually seek new heads for their shiny new guillotine, recently redesigned by King Louis XVI himself, in a dramatic stroke of irony.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217120600-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
+
+Like populists everywhere, they are all about the purity tests to root out the monarchists in their midst. Pauline is forced to return to Paris and defend the Malmaison Society by stirring the crowds with a rousing speech. Instructed by the news of the present day, I had Pauline lean hard into conspiracy theory and xenophobia, and the crowd howled for blood -- but not *Pauline's *blood.
+
+Cleared of suspicion once more, Pauline returned to the field, where she was sent against forces lead by the monarchist General Rose. One of Pauline's commanders, Ernestine, was able to convince her brother Phillip to leave the monarchist army and join Pauline's. He was only in it for the lulz anyway. Pauline pleaded with Rose to do the same, but though she was willing to talk, she decided the time was not right and slipped away with the tattered remnants of her army.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091313221700-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
+
+We found out that England has been financing the Austrian invasion of Italy to keep France's eyes out of the English Channel. From the first mission, England has always been France's true enemy. And now with a war on two fronts and revolution at home, England is poised to strike.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091314010800-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
+
+In more unwelcome news, we learned from his sister confirmation that General Desaix did pass away from his wounds. He sent his sister along, a Maid with the power to see into people's memories, to help continue the fight.
+
+I'm on chapter 21, I think, of Banner of the Maid, and am approaching the end. At this point, it's becoming clear how many achievements I've missed. I only learned late in the game that you can *talk* to some enemies on the battlefield for more information. Sometimes, they can even be recruited.
+
+There is a NG+ afterward where I could play to pick up the achievements, but I doubt I will.
+
+Very much more enjoying this game than I thought I would. The game is only tangentially related to the French Revolution, but I've been doing some reading about the real life people on whom the characters were based.
+
+After the game entered its final act, the battles became *much* harder. I usually have to do them at least twice; at other times I even had to save/load after each turn. I'm probably going to have to do a couple days of intense grinding just to keep ahead of the enemy levels.
+
+Right now, my short term goal is to convince Rose to join forces and drive away the English invaders for the good of France. Pauline had the good graces of Louis and Antoinette, after all, they should be able to find common cause.

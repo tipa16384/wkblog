@@ -1,0 +1,77 @@
+---
+date: '2007-12-07T08:49:57-05:00'
+draft: false
+title: "EQ2: More Kunzark Adventures"
+slug: "eq2-more-kunzark-adventures"
+author: "Tipa"
+disqusIdentifier: "2007/12/07/eq2-more-kunzark-adventures"
+summary: "DINA: Oh, it was a busy night. We're sitting here in Snake-Eye's camp, and I have old Lizard Breath sitting next to me...."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-17-31-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-17-31-47.jpg"
+---
+DINA: Oh, it was a busy night. We're sitting here in Snake-Eye's camp, and I have old Lizard Breath sitting next to me....
+<!--more-->
+
+
+
+DINA: Oh, it was a busy night. We're sitting here in Snake-Eye's camp, and I have old Lizard Breath sitting next to me.
+
+DERA: ... I don't think that swim you took in the Venom Flow river left you smelling like sunshine either, Sewer Skin.
+
+DINA: Snake Eye is a huge hunter, totally vicious, a real blood killer, and he'd kill all those Quatches and Trakanasauds down spiffy, except...
+
+DERA: He had a splinter in his tail, wasn't it?
+
+DINA: I think he said he dreamed of a black sabrekitty, and he never hunts raptors on Thursdays to honor the memory of his poor Ma, who never cleaned house on Thursdays.
+
+DERA: Looking at this camp, he must honor his Ma, pretty much every day...
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-14-31-93.jpg" classes="center" >}}
+
+DINA: Our adventures have brought us all through this somewhat small zone, the smallest outdoor zone we've seen so far in Kunark. The City of Mist in the north, the mistgoblins who protect them, the Sathirists roaming absolutely everywhere, dinosaurs, bugs... we made a lot of new friends...
+
+DERA: ... who want us to kill all our other friends ...
+
+DINA: Been everywhere from Sebilis to Jillin, become Rubble Rousers, and pretty much everywhere you'd go, you'd see Dera's body laying on the ground...
+
+DERA: And Dina sprinting away safely, laughing.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-05-53-44.jpg" classes="center" >}}
+
+DINA: Heh.. but seriously...
+
+DERA: I *am* serious. That really pisses me off.
+
+DINA: Well, if you didn't insist on running around in a friggin' metal shop, maybe you'd be able to KEEP UP. Like you do in levels. I'm about 60% through level 76...
+
+DERA: And I'm about 85% into level 74. By the time we both level, we should be (hopefully) mostly done with the Kunzar Jungle quests (there's more than thirty of them) and heading into the Jarsath Wastes.
+
+DINA: Ah, Skyfire!
+
+DERA: The Overthere!
+
+DINA: Scorpion people!
+
+DERA: More Sarnak!
+
+DINA: Charasis!
+
+DERA: MORE SARNAK!
+
+DINA & DERA: Until next time...!

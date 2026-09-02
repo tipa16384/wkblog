@@ -1,0 +1,48 @@
+---
+date: '2012-10-06T19:48:57-05:00'
+draft: false
+title: "Game Log: Been awhile"
+slug: "game-log-been-awhile"
+author: "Tipa"
+disqusIdentifier: "2012/10/06/game-log-been-awhile"
+summary: "I have to reluctantly admit that Diablo 3 became somewhat less fun when we stopped with Hardcore Mode. It was totally necessary that we go..."
+categories:
+  - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
+---
+I have to reluctantly admit that Diablo 3 became somewhat less fun when we stopped with Hardcore Mode. It was totally necessary that we go...
+<!--more-->
+
+
+
+I have to reluctantly admit that Diablo 3 became somewhat less fun when we stopped with Hardcore Mode. It was totally necessary that we go normal mode, because we just weren't progressing, having to restart over and over again. There are other games, of course. Getting a million gold in the auction house, dropping 300K on a marginal tunic upgrade because why not? People rerolling after farming Inferno for a few weeks have more than enough gold to waste on my junk, so I let 'em.
+
+Doing the quest for Diablo 3's "cow level", Whimsyshire, an extra level of sunshine and rainbows, was a nice way to spend a Sunday. I return, now and then, when I'm bored or I've gotten some new upgrades and want to check DPS. I haven't gotten any of the legendary items, but I have seen them on the auction house and I am not impressed by the stats.
+
+The secret to the auction house? Know when you have something worth having, figure out the maximum you'd ever pay for that yourself, multiply that by 10, and list it. Free money.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Fullscreen-capture-1062012-64927-PM-480x331.jpg" title="Duolingo" classes="center" >}}
+
+The folks at Duolingo have a unique way of teaching a foreign language: turn it into a game. Game-ification isn't a particularly new idea, and applying that to languages is a concept as old as flash cards. Duolingo combines drills, rote translations, transcription and pronunciation (with a microphone) with a fairly new technique to improve retention, and an interesting ideal: to get learners to translate the Internet, one sentence at a time.
+
+See, each lesson introduces a small amount of new vocabulary and phrases. Once you've mastered that, you're given a usually skill-appropriate sentence from a foreign blog or news post to translate from your foreign language to your native language. You're graded on how well your translation matches the best rated translations from other learners, and after twenty people have translated a sentence, the best is used. This usually works out well, except for sentences that only make sense in the context of another sentence that you may not have translated or fully understood, if you did have a crack at it. Then there are the people who just go to the original web page and have Google translate it and use that for their translation.
+
+This is the downside of game-ification. People cheat at games. Anyway, you can see that even though I took three years of German in high school, (er, drei Jahre Deutsch studiert ich im Gymnasium), my level of retention after the past thirty years was pretty low. But I'm keeping at it, halfway to level 9.
+
+English speakers can learn German, French or Spanish. Spanish or Portuguese speakers can learn English.
+
+Anyway, I find I don't really have anything to say about MMOs these days, but I've decided to just blog what I'm playing, we'll see what comes of that. I'm playing more than D3 and Duolingo, but ... let's not let writing these things become the three hour affairs that just turn tedious after awhile.

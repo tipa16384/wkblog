@@ -1,0 +1,54 @@
+---
+date: '2008-01-10T14:37:17-05:00'
+draft: false
+title: "Stargate Worlds. Huh?"
+slug: "stargate-worlds-huh"
+author: "Tipa"
+disqusIdentifier: "2008/01/10/stargate-worlds-huh"
+summary: "I've been hearing a LOT about Stargate Worlds lately. And speaking as a dedicated geeky SF fan who used to go to every area SF..."
+categories:
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/08/well-im-over-the-hill-now/"
+    title: "Well, I'm over the hill now"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/ada-dream.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+---
+I've been hearing a LOT about Stargate Worlds lately. And speaking as a dedicated geeky SF fan who used to go to every area SF...
+<!--more-->
+
+I've been hearing [a LOT](http://www.keenandgraev.com/?p=684) about Stargate Worlds lately. And speaking as a dedicated geeky SF fan who used to go to every area SF convention when she lived in Northern California, all I can say is... Huh?
+
+I mean, I kinda liked the movie, have it on DVD and watch it occasionally for some hot Kurt Russell action, and yes, I know they made it into a TV series. I watched an episode, once. There was this guy who used to be an alien, but didn't know it, and the Stargate people turned him human, but when a doctor left a laptop with his complete medical records with him and he turned it on and saw that he was really an alien, he turned into an alien again. And I guess he was a vampire.
+
+I don't mean to be flip or insult Stargate fans, of which I know there are many. I just didn't get the show. I guess they eventually also rediscovered Atlantis, which spawned its own show. What I'm getting at here, is, why don't they make an MMO for a more popular SF TV series, like, say, Battlestar Galactica? Or a world-in-a-spaceship thing like Robert Heinlein's "[Orphans of the Sky](http://en.wikipedia.org/wiki/Orphans_of_the_Sky)" or Gene Wolfe's "[Book of the Long Sun](http://en.wikipedia.org/wiki/Book_of_the_Long_Sun)" (excellent series, by the way). That concept was used in an old Canadian TV series starring Kier "David Bowman" Dullea called "[The Starlost](http://en.wikipedia.org/wiki/The_Starlost)" that I watched when I was a kid, and any MMO based on it would definitely be better than the series.
+
+But the real issue I have is, this is a show that has such a limited appeal I doubt I know anyone in real life who has even heard of it -- how can this possibly succeed? I am actually also a little *hopeful*. If a niche MMO becomes profitable, that may help open the way for even more niche MMOs in the future. Let's get away from the place we are now which insists that any game with only 200K subscribers is a failure.
+
+The stats are kinda interesting...
+
+* Unreal 3 Engine and Big World back end - as used by Vanguard. If you liked it there, you'll like it here.
+
+* Two factions - why just two? It's be tough to find just two factions ANYWHERE on Earth, unless you limited your sample size to two.
+
+* Classes: Jaffa, Goa’uld, Asgard, human soldier, scientist, archeologist, and commando - I kinda figured out the last four, but wtf are the first three? Asgard -- does this class have anything to do with Norse mythology? Which actually would be kinda cool.
+
+* No vehicle combat or player controlled starships - even though the movie didn't have much to do with space, I guess the series does (I thought the Stargates were used instead of starships -- there's probably a reason a show called "Stargate" uses space ships instead that I don't know. My guess: space ships look cooler than metal arches.). Anyway, if you have a space ship in your game, why not let people steer? This is one of my big probs with Star Trek Online.
+
+* The MMOG will follow the events from SG1 but feature different stories: Replicator War, the Apophis War, the Tok’ra war with the Goa’uld, etc. -- no non-fan knows what this means. Way to draw in new people.
+
+* 15 USD monthly subscription rate -- interesting to see if a niche MMO can sustain this.
+
+* Possibility that SG cast members to do voice-overs -- I know McGuyver is on the show.
+
+* Evolutionary Combat and Advanced AI -- one thing clear about all MMOs is that the enemies are built to DIE. You can EASILY program an AI to be very good at killing the player -- the point is not to make them fight better, but to die more entertainingly. I have never played an MMO in which the bosses or normal mobs showed the slightest bit of real intelligence, though the Bane in Tabula Rasa flanked me once, which was cool. Anyway, I would take that with a grain of salt. A mob that is any good at killing players will find itself shunned.
+
+I hope for the best for Stargate MMO. I just can't help thinking that this fills a space where a Babylon 5 MMO was supposed to be.

@@ -1,0 +1,65 @@
+---
+date: '2020-05-17T12:09:33-05:00'
+draft: false
+title: "EverQuest Mangler trial run: Levels 7-14"
+slug: "everquest-mangler-trial-run-levels-7-14"
+author: "Tipa"
+disqusIdentifier: "2020/05/17/everquest-mangler-trial-run-levels-7-14"
+summary: "Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+tags:
+  - "Aradune"
+  - "Butcherblock"
+  - "Field of Bone"
+  - "Mangler"
+  - "The Estate of Unrest"
+relatedPosts:
+  - url: "/2020/06/10/the-end-of-the-aradune-experiment/"
+    title: "The End of the Aradune Experiment"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
+  - url: "/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+    title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
+  - url: "/2007/11/30/eq2-failure-cascade/"
+    title: "EQ2: Failure Cascade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
+---
+Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a...
+<!--more-->
+
+Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a couple of weeks.
+
+It was classic EverQuest. In FFXIV, you could be kicked out of a group for not pressing enough buttons, fast enough. It's a frenetic experience. If you're not pressing a button, you are not contributing in FFXIV. I haven't played WoW in a very long time, but one of the common complaints from WoW folks restarting on FFXIV is that the FFXIV button pushing isn't as fast as they're used to.
+
+EverQuest is not like that. At least, not classic EverQuest. I haven't played EQ seriously for twelve years, and bleeding edge EQ might be all about clicks per second now for all I know.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-16-10-10-41-28-1024x603.jpg" classes="center" >}}
+
+Kasul and I were playing around, checking out places we could go to level up which would be perhaps not choked with people. Starting from the Feerrott, we ran through the Rathe Mountains, Lake Rathe, South Karana, North Karana, through East Karana to Highpass Hold. All the zones were largely empty, with maybe a couple of people we never encountered. The old plat farms were open, but of course those will be camped on Aradune until Kunark comes out. South Karana was powerfully nostalgic -- I hit level 20 there, and a GM came by and gave me the last name I'd been wanting for a long time -- Tanglewood. I thought it would be perfect for a druid, and a reminder of my New England roots.
+
+I tried to work on my newbie quest armor in Nektulos Forest a bit after that, but made no progress. I leveled to 8 and then died trying to solo some halflings, losing that level. I went back down to the undead ruins and got it back, then wandered over to the Field of Bone, where I joined up with a cleric/necro duo.
+
+Kasul joined a little while later, and the duo picked up a monk. The three of them and another friend of theirs had met leveling up on the Cazic Thule server as returning players from long ago, and decided to get the classic experience by restarting on the Aradune server. Like us, they'd started first on Mangler to get in the old school mindset. They'd hit level 50 on Cazic Thule in just a few days. That is not the classic EQ experience.
+
+The classic experience is relatively slow action with very little button pushing and a lot of time for chatting and getting to know people.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-19-17-34-06.jpg" classes="center" >}}
+
+We moved through the Field of Bone for awhile and ended up in Kurn's Tower. There were a few soloers and a duo there, mostly working on the lower floors. We fought our way to the dining hall on the top floor and pulled from there for an hour before we broke for dinner.
+
+We made plans to meet up again on Aradune before we left. We're building the social connections we're going to need on the new server. Maybe not with these particular people, as they spent the majority of their time talking about drugs. Both Kasul and I spent a lot of time in old EQ with people who weren't there physically or mentally a lot of the time, and neither of us are super eager to deal with that again.
+
+After dinner, we came back and explored independently for awhile before joining up again at the haunted chessboard in Butcherblock. XP was slow, so we wandered into Unrest and formed a group with two mage soloers. We kept the lawn clear and handled every train, so that was a huge success. One of the mages was coming to Aradune; the other was staying on Mangler.
+
+Throughout the day, a pirate guild had been recruiting members. They claim to have 1200 people already (what?!). I couldn't figure out why they wanted *more*. I did laugh when they claimed that they were already a third of the server, and after the other two thirds left for Aradune, wouldn't you want to be part of the ones who remained?
+
+I cannot even imagine being in a guild that large. I bet it's like not being in a guild at all. It's the opposite of what EQ treasures -- social interaction between people you come to know well.
+
+I'm really not intending to keep playing this character, and yet every day I find myself logging in.

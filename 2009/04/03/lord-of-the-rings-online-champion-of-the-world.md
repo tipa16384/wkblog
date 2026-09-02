@@ -1,0 +1,64 @@
+---
+date: '2009-04-03T08:08:39-05:00'
+draft: false
+title: "Lord of the Rings Online: Champion of the World"
+slug: "lord-of-the-rings-online-champion-of-the-world"
+author: "Tipa"
+disqusIdentifier: "2009/04/03/lord-of-the-rings-online-champion-of-the-world"
+summary: "Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of..."
+categories:
+  - "Lord of the Rings"
+  - "MMORPG"
+  - "Nostalgia the Guild"
+relatedPosts:
+  - url: "/2009/04/13/lord-of-the-rings-online-a-cow-is-born/"
+    title: "Lord of the Rings Online: A CoW is born."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
+  - url: "/2020/12/07/everquest-ii-soloing-to-fifty/"
+    title: "EverQuest II: Soloing to Fifty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/EverQuest2-2020-12-06-13-34-47-77.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
+---
+Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of...
+<!--more-->
+
+Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of this post is "We are the Champions".
+
+And, we will, we will rock you.
+
+Last night, I joined Stargrace and Kasul in LotRO for a little Nostalgia action. Gozad peeked in for awhile, and if we can get some other Nostalgians -- looking at you, Sirhyl and Malfi -- to return, we will have a pretty amazing group.
+
+I started off on my 22 Guardian, whom I love because she is just so SERIOUS looking, but in a cute way. It took quite a long time to get from where she was, in the Bree area, to the goblin area in the elf lands; by the time I finally arrived, Star and Kasul had finished up, and I played in the group long enough to realize that two tanks (Kasul is a warden) just wasn't going to work.
+
+I logged in first ever character from beta, Eraindiel. In beta, we were capped to level 15, so after I got Eraindiel, my champion, to 15 and completed Book 1, I made and played a minstrel, a guardian and finally a captain, who became my main when the game went live.
+
+Eraindiel, being of the elf persuasion, had all the horsie stations in elf land (see, I am carefully and deliberately avoiding place names I'd probably get totally wrong).
+
+Since I haven't played her for anything other than her abilities as a weaponsmith and woodworker since before the XP change, her very first kill leveled her from 18 to 21.
+
+Right through 20, the Hell Level.
+
+Cost of new skills from level 18 through 21: about 400 silver.
+
+Money on hand: About 50 silver.
+
+Plus she switched from medium to heavy armor at 20, and went to the next weapon tier at 21. As soon as Stargrace headed out and our group broke up, I headed to the crafting table.
+
+Or rather, Dera, Lysistra, and Eraindiel headed to their respective crafting tables. It took two hours to gather enough resources to make a full set of Heavy armor (and I had to borrow some resources from Kasul as well). Making two bright steel swords and a bright steel two hander took yet more resources, plus some sturdy hides from the captain. Then to spend yet more money slotting traits and -- it took forever, but I got it done, and celebrated by logging in my 23 Warden and doing a quick Book 1.11 run to finish her Book 1.
+
+I'll have to go back and make some more weapons for Kasul and Stargrace. I dread the resource gathering required. I have no idea why Turbine limits the tradeskills you can do. Just requires making so many alts because the prices for the goods of other crafters on the auction house is just out of control, unaffordable. When everyone is just trying to gouge everyone else, you have to go it alone.
+
+Champions get so many cool attacks, but many are so similar it's hard to judge between them.  I'll have to do the math and see which give the most benefit at some point, because I don't want four hotbars of largely similar abilities. I just want the best ones.
+
+Still, I think I'll enjoy being the DPS for our crew -- unless Sirhyl and Malfi come back with their champ and hunter, in which case I will likely swap to Burglar. She's holding on to the Tipa name at the moment :)
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-02-21-28-00-42.jpg" title="lotroclient-2009-04-02-21-28-00-42" classes="center" >}}
+
+Dera just looks so INTENT on something. "What is my purpose? Why am I here? Do those elves think my butt's too big?"

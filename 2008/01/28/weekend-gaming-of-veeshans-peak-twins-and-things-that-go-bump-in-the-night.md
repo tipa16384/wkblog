@@ -1,0 +1,48 @@
+---
+date: '2008-01-28T09:49:59-05:00'
+draft: false
+title: "Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night"
+slug: "weekend-gaming-of-veeshans-peak-twins-and-things-that-go-bump-in-the-night"
+author: "Tipa"
+disqusIdentifier: "2008/01/28/weekend-gaming-of-veeshans-peak-twins-and-things-that-go-bump-in-the-night"
+summary: "Well, if you insist upon knowing the truth, I spent the weekend learning to twirl drumsticks. Yes, really. Poring over Youtube videos, dropping sticks onto..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+  - "Rock Band"
+relatedPosts:
+  - url: "/2008/03/23/bad-week-for-gaming-good-week-for-blogging/"
+    title: "Bad week for gaming, good week for blogging"
+    thumbnailImage: ""
+  - url: "/2008/02/05/eq2-et-al-top-10-questions-answered/"
+    title: "EQ2 (et al): Top 10 questions answered"
+    thumbnailImage: ""
+  - url: "/2008/01/09/eq2-rock-band-goong-xbox-ps3-potbs-and-stuff/"
+    title: "EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff."
+    thumbnailImage: ""
+  - url: "/2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea/"
+    title: "Short updates: Rock Band, Vanguard and Pirates of the Burning Sea"
+    thumbnailImage: ""
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
+---
+Well, if you insist upon knowing the truth, I spent the weekend learning to twirl drumsticks. Yes, really. Poring over Youtube videos, dropping sticks onto...
+<!--more-->
+
+Well, if you insist upon knowing the truth, I spent the weekend learning to twirl drumsticks. Yes, really. Poring over Youtube videos, dropping sticks onto cats, sending them helicoptering across the room. I can do it, though. I can twirl drumsticks the standard (what some call, boring) way. There's variations so you can do little quick twirls while playing that I have to work on now. And of course, the double twirl is still beyond me. Someday, maybe years from now, it will be as important to know, RIGHT THEN, how to twirl drumsticks, as it was when I taught myself the one-handed card shuffle. Well, actually, that STILL hasn't really been all that useful (which reminds me: must practice one-handed card shuffle.)
+
+A friend from EQ1, who now plays on WoW, started a new character on my EQ2 server (dizzying, isn't it.) I met up with her and OMG TWINSSSSSS! Well, I had to quickly do the quest for that spotless white gi so we could be even MORE alike. We tore through Darklight Woods, pulling hundreds of undead in all their throngs until the stupid, lazy named finally showed.
+
+My insatiable hunger for dps had me spending most of the weekend in Solusek's Eye, trying out different AA and weapon selections. The answers were surprising to me -- turns out if you spec correctly, sword and shield is very viable for troubadors, and with my current choice of weapons, and respeccing for maximum benefit to shield arts, was able to get my tanking dps (so attacking mostly from the front) from about 990 to about 1150. Unfortunately, that's not a spec I can use on raids.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-19-02-51-05.jpg" classes="center" >}}
+
+Dera's wondering if she heard a noise...
+
+I was testing out Dera's dps, and heard over channel someone asking for a healer for the Halls of Fate. It had been forever since I'd been there, so I volunteered. There was a time I would never have been able to solo heal the place... but it wasn't a problem now. I guess all those levels help. All that RoK +healing jewelry doesn't hurt, either.
+
+Someone was working on a quest that in the end, turned everything left alive in HoF non-aggro. So I hatched all the drake eggs and took some screenshots with my new friends :)
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-27-23-47-29-53.jpg" classes="fig-20" >}}
+
+And later on, I soloed the second floor of Veeshan's Peak :P

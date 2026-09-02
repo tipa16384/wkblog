@@ -1,0 +1,41 @@
+---
+date: '2007-03-01T12:55:06-05:00'
+draft: false
+title: "Goodbye, Station Access"
+slug: "goodbye-station-access"
+author: "Tipa"
+disqusIdentifier: "2007/03/01/goodbye-station-access"
+summary: "On the news that SOE will be raising the price of their Station Access one-price-for-all-games pass from $25 to $30 per month, and since I..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+---
+On the news that SOE will be raising the price of their Station Access one-price-for-all-games pass from $25 to $30 per month, and since I...
+<!--more-->
+
+On the news that SOE will be [raising the price](http://forums.station.sony.com/eq2/posts/list.m?topic_id=350069) of their Station Access one-price-for-all-games pass from $25 to $30 per month, and since I currently only play one of their games (EverQuest 2) on a regular basis, *and* since I am paying for three accounts (my two and my son's), there's no compelling reason to pay all this extra for no reason.
+
+Like [Cuppycake](http://www.cuppycake.org/), [The Ancient Gaming Noob](http://tagn.wordpress.com/2007/02/28/station-access-price-hike/) and others, those of us who were thinking of getting heavily into Vanguard or were hoping to try out [Gods and Heroes](http://www.godsandheroes.com/) for free on Station Access are really out of luck.
+
+SOE's three big Station Access titles are EverQuest, EverQuest 2 and Vanguard. (They have Matrix Online, SWG and Planetside as well, but I'm just talking about the fantasy MMOs, really) These are, essentially, *the same game*. If you like Fantasy MMOs and aren't playing WoW, you're probably playing one of these (or maybe WoW *and* one of these).
+
+The economics of Station Access now make sense only if you're playing *three *of the games from the list, where before just having more than *one* saved you money. Who the heck has that kind of time?
+
+I already know I will be playing Lord of the Rings Online, and quite possibly will try Conan (hated the macho bravado of the Conan stories themselves, but the game sounds cool) and Warhammer Online (might be cool to give PvP a shot again), and later Star Trek Online. *None* of these games will be on Station Access (well, given Gods and Heroes is being published by SOE (although it may not be a part of Station Access), and given that Perpetual is developing both G&H and ST:O, so events may work out to having ST:O on Station Access).
+
+So until they get another non-Fantasy MMO that I actually want to play (G&H *possibly*, ST:O if it comes to Station Access, DC Online *maybe*), I will be cancelling.
+
+When it was "If you play more than one of our games, you should get Station Access", it made sense. Now that it's "If you play *three or more* of our games"... well, last night I started deleting characters from my EQ2 accounts.

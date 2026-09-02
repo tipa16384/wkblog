@@ -1,0 +1,58 @@
+---
+date: '2009-03-24T07:59:49-05:00'
+draft: false
+title: "Chronicles of Spellborn: Grouped!"
+slug: "chronicles-of-spellborn-grouped"
+author: "Tipa"
+disqusIdentifier: "2009/03/24/chronicles-of-spellborn-grouped"
+summary: "The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it's possible, it's not a really..."
+categories:
+  - "Chronicles of Spellborn"
+  - "MMORPG"
+tags:
+  - "Aldenvault"
+  - "Hawksmouth"
+relatedPosts:
+  - url: "/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/"
+    title: "The many worlds of Chronicles of Spellborn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/sbcomic.jpg"
+  - url: "/2008/11/01/spellborn-soundscape/"
+    title: "Spellborn soundscape"
+    thumbnailImage: ""
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
+---
+The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it's possible, it's not a really...
+<!--more-->
+
+
+
+The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it's possible, it's not a really good idea. Some things you can only do in groups -- like the Wanted posters. Those give quests to kill a named mob and give a HUGE amount of experience when you kill them. But if you go it alone at the level you get the quest, you won't last long.
+
+Now that both of us are back from our vacations, Kanad and I joined up last night to bring more terror to the boars and bears of Hawksmouth. He's playing a warrior, me a mage -- when Jalent logged on with his rogue, it miraculously became the perfectly balanced group.
+
+We slaughtered lots of wildlife, Kanad leveled and picked up his Discipline, I finished up some quest lines in the area. When Jalent suggested leaving the overcamped newbie fields to head to the 'next up' zone of Aldenvault, it seemed a good chance to see something relatively new.
+
+Several crashes later, Kanad went to bed and we picked up another mage, name of Demetrius (or something like that). We were just minding our own business, saving a local farmer from [raptor attack](http://www.xkcd.com/135/), when this tiny, tiny hyena started attacking us. He was level 20, but we weren't going to give up.
+
+Even if we were attacked by a dozen raptors during the course of the fight.
+
+Even if we stumbled into an Ousted camp.
+
+I don't know how long the fight lasted. Ten minutes? Easily. Fifteen? Perhaps! For three level 8s to take down a level 20 took a lot of teamwork, a lot of trading off aggro, a lot of close calls.
+
+We finally brought him down. And then we went to the little hamlet in the center of the zone and GOT THE QUEST TO KILL IT. Which, naturally, meant we wouldn't see him the rest of the night.
+
+We tried for another wanted poster. The target was a level 15 crime boss in the middle of a PvP-enabled area. Being only level 8, we were safe from gankage (I think), but a lot of the people hanging around deliberately tried to get in between us and the waves of Ousted.
+
+I closed the night fairly close to level 9. I'll probably head back to Hawksmouth and finish up there before I level.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-24-08-35-46-75.jpg" title="sb_client-2009-03-24-08-35-46-75" classes="center" >}}
+
+Fighting all those Ousted left me with LOTS of crafting components; I made a new dagger, new pants and a new tunic and have recipes for several more items. This morning I went to the dye shop and changed my colors to look more like my pet, though they don't have that kind of deep blue. Well, purple is close enough. I guess.

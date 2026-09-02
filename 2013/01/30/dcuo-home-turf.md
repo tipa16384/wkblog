@@ -1,0 +1,55 @@
+---
+date: '2013-01-30T07:49:13-05:00'
+draft: false
+title: "DCUO: Home Turf"
+slug: "dcuo-home-turf"
+author: "Tipa"
+disqusIdentifier: "2013/01/30/dcuo-home-turf"
+summary: "The \"Home Turf\" downloadable content dropped in DC Universe Online yesterday, bringing housing to the hordes of heroes and villains of Metropolis and Gotham City...."
+categories:
+  - "DC Universe Online"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+    title: "DCUO: The Legion of Doom invades Washington D.C."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
+---
+The "Home Turf" downloadable content dropped in DC Universe Online yesterday, bringing housing to the hordes of heroes and villains of Metropolis and Gotham City....
+<!--more-->
+
+
+
+The "Home Turf" downloadable content dropped in DC Universe Online yesterday, bringing housing to the hordes of heroes and villains of Metropolis and Gotham City. It opens up at level 12, so the first order of the day was getting to level 12 (luckily, this week's level cap in Team Spode).
+
+There's not much you can initially do in the base. "Oracle" gave me three pieces of furniture to place, a wall clock, a table for the floor, and a ceiling lamp, which fit into LotRO-style "hooks". Oracle said that after all the hooks are filled, I'd be able to place additional bits of furniture anywhere I liked, similar to EQ2's housing.
+
+Everyone gets the "Dive" style of base. Subscribers or those who pay get two additional styles, "Gothic", and the Art Deco one I chose. Inside is a "Mainframe" that you can pay to enable missions and stuff, a dispenser that sells consumables, and a generator that can accept upgraded batteries.
+
+Eric Redman wrote a bit about [his first base PvP battle](https://plus.google.com/113866940190428695218/posts/9tSEt5zGpxK), but I haven't bought any of the Mainframe options yet. [Doctor Apocrypha](https://plus.google.com/105458202710353981776/posts/GnzeWGqJKWY) and I tried to visit each other's bases, couldn't find the entrance. The good Doctor eventually discovered that you have to turn on the base entrances individually. I'd gone to Gotham City to visit his base, but, unable to find it, had warped back to mine in Metropolis before he made his discovery.
+
+I'd have gone back, but that would have meant a trip through the Watchtower, and that place is so incredibly confusing; I avoid it as much as possible.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/792832-queen_bee_10-480x361.jpg" title="Queen Bee" classes="center" >}}
+
+I'd been flying around Metropolis doing the Booster Gold exploration stuff, and happened upon an invasion by Queen Bee's drones. Needing the experience, I flew down and lent a hand. Plenty of heroes were helping out, and I went through the quest series pretty quickly.
+
+I think this ends at another instance event. The fight with the Teen Titans against Raven and Trigon was pretty fun; hoping this turns out the same. Saving it all for Sunday night.
+
+When I dinged 12, I unlocked some new content (aside from the Home Turf stuff), but I didn't check back to see if that was a new four person instance. Otherwise, we may end up doing Area 51 again -- and we probably should, anyway, since that instance dropped a metric crapload of loot, and more loot is always good. We're just rolling "greed" on everything for now.
+
+I bought all the new skills and traits for the leveling we did Sunday, and set up my damage and controller layouts. Next time we go to Area 51, I'll be ready with the power regen and the debuffing; those are locked and loaded. It took me too long to figure out that the "trolls" people were looking for for instance groups were con-*troll*-ers like myself. I've apparently happened on a useful group role. Stingite has the healing role, as he did in Diablo 3, but I hope healing in DCUO is a little more effective.
+
+Most of the people LFG would include what looked like their level, but when someone calls themselves an "88" whatever, that's quite a bit past the level cap of 30. Turns out that after you hit the level cap, you start accruing combat rating levels. Like in the original Guild Wars, apparently, the leveling game in DCUO is only an extended tutorial for the real game that starts at the level cap.
+
+Spode says he's not level 13 yet, which is Spode-code for "the next kill will make me level 13". I'm right at the beginning of the level, so I can still finish up some of the missions that are threatening to go gray and stop giving experience sometime this week.

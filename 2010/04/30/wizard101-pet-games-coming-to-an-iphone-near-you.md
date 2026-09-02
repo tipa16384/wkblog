@@ -1,0 +1,49 @@
+---
+date: '2010-04-30T06:27:46-05:00'
+draft: false
+title: "Wizard101: Pet games coming to an iPhone near you?"
+slug: "wizard101-pet-games-coming-to-an-iphone-near-you"
+author: "Tipa"
+disqusIdentifier: "2010/04/30/wizard101-pet-games-coming-to-an-iphone-near-you"
+summary: "First there was Wizard101, a MMO unlike any other that played in a unique fashion but lived happily on your PC. There were minigames, variants..."
+categories:
+  - "MMORPG"
+  - "Wizard101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2012/11/22/wizard101-pirate101-free-stuff/"
+    title: "Wizard101 & Pirate101 Free Stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
+  - url: "/2012/04/09/w101-the-puzzle-revealed-the-rise-of-avalon/"
+    title: "W101: The Puzzle revealed -- the Rise of Avalon!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/Avalon-480x384.jpg"
+  - url: "/2012/04/03/w101-interview-with-a-raven/"
+    title: "W101: Interview with a Raven"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/w101p4-480x365.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
+---
+First there was Wizard101, a MMO unlike any other that played in a unique fashion but lived happily on your PC. There were minigames, variants...
+<!--more-->
+
+
+
+First there was Wizard101, a MMO unlike any other that played in a unique fashion but lived happily on your PC. There were minigames, variants on popular Flash games widely available, that conferred some in-game benefits -- they would refill your mana potions, let you win gold and some magic items.
+
+Their iPhone game WizardBlox took the minigames off the PC and on to the smart phone. Playing WizardBlox on your phone could give your character benefits in game as well -- benefits you could pass on to other players if you liked.
+
+Now on the Test realm are the pet games. You can breed two adult pets to make a new pet with (after you raise it, Pokemon style) a mix of the abilities of the parent pets. (Quote of the night: "WHO WILL BREED WITH ME?")
+
+Past that are the new, pet-focused mini games. There's a Simon memory game, we're you're given a short tune and asked to repeat it; a game where you catch food falling from the sky for points; a Pac Man clone set in a 3D, 1st person perspective hedge maze; a cannon game where you shoot your pet at randomly placed targets, and the Pet Derby, a kart racing game for pets.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-58-05-64-480x360.jpg" title="Click to enlarge" classes="center" >}}
+
+Winning any of these games gives your pet a small increase to their stats, which can be improved further by feeding them snacks bought at the pet food vendor. It will take playing the minigames hundreds of times to evolve a pet to its epic status. It will take 1500 Arena tickets (won via arena dueling or the pet derby) to buy a baby version of the best PvP pet in the game, the Magma Colossus (shown above).
+
+Simple games that need to played again and again in order to improve your pet? By a company which has already taken one of their minigames onto the phone? If the pet expansion doesn't sound tailor-made for phone versions, then I don't know what does.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-29-43-37-480x360.jpg" title="Click to enlarge" classes="center" >}}
+
+My favorite game? The pet derby, by far. But then, I have always loved Super Mario Kart.

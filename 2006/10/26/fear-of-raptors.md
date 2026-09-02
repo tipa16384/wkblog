@@ -1,0 +1,40 @@
+---
+date: '2006-10-26T22:09:10-05:00'
+draft: false
+title: "Fear of Raptors"
+slug: "fear-of-raptors"
+author: "Tipa"
+disqusIdentifier: "2006/10/26/fear-of-raptors"
+summary: "Okay, you're trapped between three hungry raptors, 20m apart from each other. All of them accelerate at 4m/s/s. The wounded one has a top speed..."
+categories:
+  - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/raptors.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/raptors.gif"
+---
+Okay, you're trapped between three hungry raptors, 20m apart from each other. All of them accelerate at 4m/s/s. The wounded one has a top speed...
+<!--more-->
+
+
+
+Okay, you're trapped between three hungry raptors, 20m apart from each other. All of them accelerate at 4m/s/s. The wounded one has a top speed of 10m/s, while the other two top out at 25m/s. You run at 6m/s. The raptors will always run directly at you. At which angle do you run to survive the longest?
+
+[Wondrous Inventions](http://crazedgnome.wordpress.com/2006/10/18/on-the-fear-of-raptors/) linked to a webcomic artist who drew a comic asking this very thing... and everytime I'd browse his blog, I'd see it and try to guess how I'd figure it out.
+
+Well, now that I have Python, I had no excuse. So I figured it out. Had a bug in it that I wish I had found before I posted all over that I had solved it. Fixed the bug, came up with an [answer very near to a previous team's](http://www.tc.umn.edu/~beck0778/velociraptors/velociraptors.html), and piped it into Asymptote, a free program for drawing figures from mathematical formulas.
+
+Okay, it's 10PM now. Just happy to have one less programming monkey on my back. And nice to compare my rather short program with the very much longer one offered by the team that did theirs in Java. We both solved it through iteration instead of solving the equations themselves. They wrote their own drawing program, while I piped mine into an open-source solution.
+
+Oh yeah. It's 57.2 degrees to either side of the wounded raptor.

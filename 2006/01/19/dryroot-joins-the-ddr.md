@@ -1,0 +1,43 @@
+---
+date: '2006-01-19T00:00:00-05:00'
+draft: false
+title: "Dryroot Joins the DDR"
+slug: "dryroot-joins-the-ddr"
+author: "Tipa"
+disqusIdentifier: "2006/01/19/dryroot-joins-the-ddr"
+summary: "Yes, Dryroot has become a nation of Dance Dance Revolution fanatics......"
+categories:
+  - "MMORPG"
+  - "Nationstates"
+relatedPosts:
+  - url: "/2006/04/12/nationstates-progress/"
+    title: "NationStates progress"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.png"
+  - url: "/2006/02/09/various-games/"
+    title: "Various Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/17/dryroot/"
+    title: "Dryroot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/16/nationstates-update/"
+    title: "Nationstates Update"
+    thumbnailImage: ""
+coverImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+---
+Yes, Dryroot has become a nation of Dance Dance Revolution fanatics......
+<!--more-->
+
+
+
+Yes, Dryroot has become a nation of [Dance Dance Revolution](http://www.ddrfreak.com/) fanatics...
+
+Dryroot has left the South Pacific and joined a Germanic region with left-leaning politics. I THINK DDR stands for "Deutsche Demokratische Republik", but that is probably a) not what it stands for, and b) poorly spelled.
+
+Nonetheless, it's a small region where I can make a dent on some charts. South Pacific is just too huge.
+
+This is their advertisement:
+
+*For anyone interested into moving into this region: just send me a message, preferredly in either English or German, though Dutch, French and Russian are also allowed, and after brief evaluation, I'll reply as fast as I can... Note that any non-left UN-members will have to wait until a left UN-majority is installed before admission. This is meant to ensure that the socialist (left) character of the region is maintain in its UN voting behaviour.*
+
+*F *

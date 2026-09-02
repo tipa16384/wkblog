@@ -1,0 +1,47 @@
+---
+date: '2009-08-16T20:08:15-05:00'
+draft: false
+title: "EVE Online: My fleet"
+slug: "eve-online-my-fleet"
+author: "Tipa"
+disqusIdentifier: "2009/08/16/eve-online-my-fleet"
+summary: "In honor of finally being able to fly the Dominix, a collage of most of my ships (to scale). Some I don't have anymore, like..."
+categories:
+  - "EVE Online"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+    title: "Daily Blogroll Oct 11: Can't break the NDA edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+  - url: "/2011/02/22/the-inertia-of-eve-online-and-everquest-ii/"
+    title: "The Inertia of EVE Online and EverQuest II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/myfleet.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/myfleet.jpg"
+---
+In honor of finally being able to fly the Dominix, a collage of most of my ships (to scale). Some I don't have anymore, like...
+<!--more-->
+
+
+
+In honor of finally being able to fly the Dominix, a collage of most of my ships (to scale). Some I don't have anymore, like the Myrmidon, which was pinned down by (no exaggeration) about twenty ships, two of which had warp scramblers, and taken apart. I was just a couple of hours from being able to fly the Dominix battleship, so I helped with a mining op for a little while, then got the ship, crafted a stable fitting from spare parts -- including two warp stabilizers -- and headed into the deadspace encounter.
+
+I was kinda shocked to find I had to be within 24km of something to target it, and that locking on took a full minute. I'd always thought of battleships as something you park a very, very long way from the action because they move very, very slowly and pretty much are hoping things want to come to them, rather than the other way around.
+
+No afterburners or anything because my junkyard fit required a full array of capacitor rechargers and batteries.
+
+I'd brought thirty drones with me and there were still four drones hanging in space where my wreck would have been if it hadn't decayed. Once I got a target on ANYTHING, I just set my drones on it and they did the rest. I had a bit of luck with three slow-moving enemy transports that I managed to lure into range and then kill with smartbombs.
+
+Eventually finished the mission (no, no early completion bonus) and put the Dominix back in drydock and discovered the two warp stabilizers I'd fitted were the targeting culprits. Why? I don't know, nothing I can find says they have this effect.
+
+Dominix can tank and toss drones out as advertised, but I miss the nimbleness of the Myrmidon. I don't know how many millions of ISK in fittings decayed out there. I'll probably find out soon, because I am at least a month away from being able to fit the Dominix properly.
+
+I think I need an EVE break. Today was just a little too intense. Maybe a couple days away....
+
+*For an idea of the human scale of these ships, the scale is 1px = 1m. The Myrmidon is listed as 532m tall. An average person is about 1.5-1.75m tall, or less than 2 pixels in the picture. The Empire State Building is 443m tall, from the base to the top of the lightning rod -- substantially shorter than the Myrmidon. I'd wondered if those little dots of light decorating the ships were meant to be windows or just running lights, but the ships are so large that they might well be lit windows.*

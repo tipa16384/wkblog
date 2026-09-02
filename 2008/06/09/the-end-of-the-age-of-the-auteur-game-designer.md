@@ -1,0 +1,44 @@
+---
+date: '2008-06-09T23:08:51-05:00'
+draft: false
+title: "The end of the age of the auteur game designer?"
+slug: "the-end-of-the-age-of-the-auteur-game-designer"
+author: "Tipa"
+disqusIdentifier: "2008/06/09/the-end-of-the-age-of-the-auteur-game-designer"
+summary: "NCSoft's first quarter report came out, and they don't want to talk about their space marine-fps-mmo, Tabula Rasa, except to say they are fairly disappointed..."
+categories:
+  - "MMORPG"
+  - "Tabula Rasa"
+  - "Vanguard"
+relatedPosts:
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+---
+NCSoft's first quarter report came out, and they don't want to talk about their space marine-fps-mmo, Tabula Rasa, except to say they are fairly disappointed...
+<!--more-->
+
+NCSoft's first quarter report came out, and  they don't want to talk about their space marine-fps-mmo, Tabula Rasa, except to say they are fairly disappointed bu its performance.
+
+I should refer to it by its full name, Richard Garriott's Tabula Rasa.
+
+Richard Garriott, if you don't know of him, is "the legendary video game programmer and designer, noted as one of the PC Gamer’s “Game Gods”. I found this little tidbit on a vanity web site called "[Richard in Space](http://www.richardinspace.com/)", where you can meet Richard Garriott as he prepares for his space tourist flight to the International Space Station aboard a Russian Soyuz rocket.
+
+Last year, Game God Brad McQuaid was likewise absent for the disappointment that was Vanguard: Saga of Heroes. I'm sure he was as well paid as Richard Garriott, AKA the sixth Earth human to go to the space station as a tourist. We could be next, gushes the "Richard in Space" site. Maybe if we can get someone to shovel money at us because our Game God status demands it.
+
+I feel sad for the people who did their best to finish these games while the Gods got all the press and the limelight. All the real developers got were schedules, pressure, disappointment and exciting trips to the unemployment office.
+
+Now Brad is in hiding, and Richard Garriott is going up to space (still unknown: did he leave a clone behind in case he wanted to respec? Or in case the Soyuz castle lands just a little *too* hard this time?).
+
+Past success is no indicator of future success in this world. Maybe it makes a difference if you put as much as yourself into the next game as you did in the one that made you a Game God. I think you really have to step back and reassess your life if you find yourself being promoted as a Game God. Hey, you could say, don't call me that. I'm no better than anyone else. I had a hit game but all I have to show for it is that I have to work twice as hard on the next one.
+
+John Romero, American McGee, Brad McQuaid, Richard Garriott and many, many more; Game Gods all.

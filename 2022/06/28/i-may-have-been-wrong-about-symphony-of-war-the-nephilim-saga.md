@@ -1,0 +1,62 @@
+---
+date: '2022-06-28T08:36:57-05:00'
+draft: false
+title: "I may have been wrong about Symphony of War: The Nephilim Saga"
+slug: "i-may-have-been-wrong-about-symphony-of-war-the-nephilim-saga"
+author: "Tipa"
+disqusIdentifier: "2022/06/28/i-may-have-been-wrong-about-symphony-of-war-the-nephilim-saga"
+summary: "I wrote that this game was competently developed, but the plot was entirely vanilla. Then I played through more of the game. There are some..."
+categories:
+  - "Steam Games"
+  - "Tactical RPG"
+tags:
+  - "Symphony of War"
+  - "Tactics"
+relatedPosts:
+  - url: "/2022/07/02/symphony-of-war-done/"
+    title: "Symphony of War -- Done!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220702161823_1.jpg"
+  - url: "/2022/06/23/symphony-of-war-the-nephilim-saga/"
+    title: "Symphony of War: The Nephilim Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
+  - url: "/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+    title: "Ogre Battle 64: I am a Person of Lordly Caliber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+  - url: "/2022/07/25/those-who-rule-chapter-1/"
+    title: "Those Who Rule: Chapter 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-20220627230027_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-20220627230027_1.jpg"
+---
+I wrote that this game was competently developed, but the plot was entirely vanilla. Then I played through more of the game. There are some...
+<!--more-->
+
+I wrote that this game was competently developed, but the plot was entirely vanilla. Then I played through more of the game. There are some spoilers below the fold.
+
+I'm about thirty hours into the game and I *believe* I am heading toward the endgame. The game has managed to surprise me a couple of times so far. The *broad outlines* are normal enough -- five avatars of ancient heroes and gods, one of whom is evil, come together to recreate an ancient conflict. A plot so normal, even the Power Rangers used it.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220626205556_1-1024x576.jpg" title="Making friends" classes="center" >}}
+
+And then my main character died in an overwhelming fight (scripted, even if you win the battle somehow, you die). The next mission, you play on the *evil* side. And bad never felt so good.
+
+Then, as you now take on the part of another character, it's clear that the main character will be returning from death at some point.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/1-20220625222206_1.jpg" title="She's back!" classes="center" >}}
+
+And she does, with new powers. She raises her friend from the dead and then the game rejoins the main plot as it turns out her friends are also Nephilim, as is a turncoat rival from the other side -- AND the big bad as well.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220626152403_1-1024x576.jpg" title="An airship?" classes="center" >}}
+
+You know you're in a fantasy RPG when you are issued your first airship :-) Although there is no overworld map movement in Symphony of War, so the use of the airship is more implied than anything else.
+
+The game now gives you angelic powers that charge up over time as the Nephilim work through a scenario. Presumably Bad Dude's powers charge up the same way, but we're more or less avoiding them as we try to gather the sacred weapons of the Nephelim and see, now we're back in standard plot territory, likely to stay.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220625172717_1-1-1024x576.jpg" title="Big Bad Dude" classes="center" >}}
+
+This is where Dearth Fader kills the younglings at the temple. Well, he kills the paladins and priests, but steals the children, and the evil emperor is going to turn Max, the son of Diana, the paladin Nephelim, to the dark side.
+
+That's how I assume this is all going to play out. Maybe Dearth Fader will turn back to the light at the last moment and help the Good Guys against his former master because I've seen a movie that was just like that. But we'll see how it goes.
+
+I was just excited when the main character died and then the other characters played a desperate, losing war for awhile.
+
+See ya on the other side!

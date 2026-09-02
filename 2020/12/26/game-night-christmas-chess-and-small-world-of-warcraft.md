@@ -1,0 +1,80 @@
+---
+date: '2020-12-26T11:57:17-05:00'
+draft: false
+title: "Game Night: Christmas! Chess and Small World of Warcraft"
+slug: "game-night-christmas-chess-and-small-world-of-warcraft"
+author: "Tipa"
+disqusIdentifier: "2020/12/26/game-night-christmas-chess-and-small-world-of-warcraft"
+summary: "Gamers gotta game, even on Christmas Day..."
+categories:
+  - "Game Night"
+  - "Tabletop Games"
+tags:
+  - "Chess"
+  - "Small World of Warcraft"
+  - "Smallworld"
+  - "The Dragon Staff of Maladoria"
+relatedPosts:
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
+  - url: "/2026/08/24/frosthaven-scenario-16-derelict-elevator/"
+    title: "Frosthaven Scenario #16: Derelict Elevator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-IMG_5876-scaled.jpg"
+  - url: "/2026/07/21/frosthaven-scenario-23-spire-basement/"
+    title: "Frosthaven Scenario #23: Spire Basement"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/IMG_5818-scaled.jpg"
+  - url: "/2026/07/18/captain-sonar-the-first-mission/"
+    title: "Captain Sonar: The First Mission"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/captainsonar.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2-IMG_2047.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2-IMG_2047.jpg"
+---
+Gamers gotta game, even on Christmas Day...
+<!--more-->
+
+I don't think anyone could watch "The Queen's Gambit" and not immediately want to pull out a chessboard. After we watched the series, my son started getting into chess online again. I eventually remembered that I have a 3D printer (two, actually), and that I hadn't yet printed a chess set. I think if you have a 3D printer, you are obligated to eventually print one.
+
+I [documented the process on Twitter](https://twitter.com/search?q=%40tipadaknife%20chess). The pieces came out great -- I made special dragon knights for both sides, since my son's into dragons. The board... not so much. I should have screwed it to a wooden base and finished that nicely, but I was running out of time. It took three tubes of super glue to glue all the squares into the base frame pieces. It's still pretty flimsy and one of the squares will pop out if you give it a good reasons.
+
+My son and I played two games; I was white on the first game and opened with the Queen's Gambit, in honor of the show :-) He declined it and I was able to take the lead. In our second game he was white and did a King's Pawn opening. We had some battles in the middle of the board, when he let my knight into his home row and then I stupidly let him do the same to me. I recovered and made him choose between losing a bishop and a rook. He saved the bishop and that was the fatal mistake that cost him the game.
+
+Was fun to play chess again :-)
+
+## The Dragon Staff of Maladoria
+
+My BF bought me an adventure-a-day calendar; each day progresses the adventure, and you get into battles, meet other characters and such -- it came with a set of tiny, cute dice. I'll write more about that once the new year starts and I can begin to play it.
+
+It's called "2021: [The Dragon Staff of Maladoria](https://boardgamegeek.com/boardgame/321713/quest-calendar-dragon-staff-maladoria)", and I can't wait to try it. I peeked at the first few "days" and they're pretty hilarious...
+
+## Small World of Warcraft
+
+I'd seen a Youtube video about the "Small World" game a long time ago. My BF had played it, and liked it. When I saw that they were coming out with a World of Warcraft-themed edition of the game, I smelled a perfect Christmas gift.
+
+Fate wasn't with me, though. I went down to our local game shop, but no dice. Well, I mean, they did have actual dice, but no copies of Small World of Warcraft. So I went to the store of last resort that wasn't in a mall -- Amazon. And they had it, and would have it to me in a couple of days. Perfect. Ordered and done. Another Christmas present crossed off the list.
+
+I got a notice the next morning that they were actually out of stock, but they could have one to me by December 12th. Well, not *great*, but still before Christmas, so I said sure, that'll be fine. Come December 10th, they cancelled the order.
+
+Blizzard had been sending me mail for days urging me to check out their store. I did; Small World of Warcraft was on it *and in stock*, so I smashed that like and subscribe and had it in my greedy hands a couple of days later.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/4-IMG_2050.jpg" classes="center" >}}
+
+In all the Small World games, you and the other players each choose from a number of randomly selected race and ability pairs -- for instance, Rampaging Dwarves or Mountaineering Gnomes. Those can cost a number of Victory points to buy, depending on how far down on the stack they are. Once selected, you get their counters, usually about nine of them, and any other tokens that are used by your race or ability.
+
+The Pandaren, for instance, have Harmony tokens that are given out each turn to any player they did not attack that turn, and that makes them more expensive to fight. Beastmasters get tokens for beasts that can be played as normal units and are earned by having control of hills.
+
+Taking new territory requires spending units, and more units are required if units from some other race are there, or there are natural fortifications, as with mountains, or if an opponent's special ability just makes it more expensive, as with the Pandaren.
+
+Taken territory must be held, and if an opponent conquers you, you lose at least one unit permanently. You will not be able to keep expanding for very long before you simply have no more units to play.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/3-IMG_2049.jpg" classes="center" >}}
+
+This is where Small World brings in its unique mechanic: You can send your race into decline. You, the player, can keep control of the territory you have with that race, but you can no longer play that race -- it just remains on the board, potentially continuing to give you the victory points you earn for having territory.
+
+With that, you get to purchase a new race/ability combo and continue in the game.
+
+I started out with Pandaren, moved on to Trolls, then Gnomes and finally, on the last turn, Kobolds. Each played very differently. I love seeing asymmetry in board games, where all the players have different goals and abilities. You can sometimes stay out of the way of your opponents and try to do your own thing, but more often than not, you have to compete and make it too expensive for them to continue with their current race.
+
+It was a lot of fun -- it reminded me of such great games as Vast and Scythe.
+
+We haven't had a game night, even among us three, since the second lockdown began. It felt good to get back to gaming.

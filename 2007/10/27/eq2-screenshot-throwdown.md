@@ -1,0 +1,61 @@
+---
+date: '2007-10-27T08:39:57-05:00'
+draft: false
+title: "EQ2 Screenshot Throwdown!"
+slug: "eq2-screenshot-throwdown"
+author: "Tipa"
+disqusIdentifier: "2007/10/27/eq2-screenshot-throwdown"
+summary: "Syncaine over at Hardcore Casual thinks EQ2 is \"flat, boring and lifeless\", and as examples, puts up some rather poor EQ2 screenshots (which he got..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+relatedPosts:
+  - url: "/2026/08/10/everquest-legends-halfway-there/"
+    title: "EverQuest Legends: Halfway there"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/EQ000042.jpg"
+  - url: "/2026/08/07/buy-now-the-everquest-legends-cash-shop/"
+    title: "Buy Now! The EverQuest Legends Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000035.jpg"
+  - url: "/2026/08/02/everquest-legends-wheres-the-lore/"
+    title: "EverQuest Legends: Where's the lore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/08/1-EQ000032.jpg"
+  - url: "/2026/07/30/everquest-legends-the-best-laid-plans-of-mice-and-cats/"
+    title: "EverQuest Legends: The best laid plans of mice and cats..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/07/1-EQ000028.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/everquest2-2007-10-27-07-49-11-08.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/everquest2-2007-10-27-07-49-11-08.jpg"
+---
+Syncaine over at Hardcore Casual thinks EQ2 is "flat, boring and lifeless", and as examples, puts up some rather poor EQ2 screenshots (which he got...
+<!--more-->
+
+Syncaine over at [Hardcore Casual](http://syncaine.wordpress.com/2007/10/25/screen-shot-comparison/) thinks EQ2 is "flat, boring and lifeless", and as examples, puts up some [rather poor EQ2 screenshots](http://syncaine.files.wordpress.com/2007/10/eq2.thumbnail.jpg) (which he got from the official site so you'd expect better, though I suspect he got at least one of them from a player-submitted shot). Sure enough, in comparison, EQ2 suffers.
+
+Well, comparing Lord of the Rings Online's graphics to those of EverQuest 2's is legit... but at least use screenshots of similar quality. I went to the exact same spot of Syncaine's screenshot in the satyr area of New Tunaria (and thanks to having to come there a hundred times for the Sword of Destiny quest, I knew where that was), and snapped this shot:
+
+(Appearance armor: Actually, aside from the bandit mask, that's the armor I wear...) I turned around and caught this nice scene looking the other way:
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/eq1.jpg" classes="center" >}}
+
+Boring, flat and lifeless? I don't think so. Here's another from near zone-in. Walking into New Tunaria -- this is what you see.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/everquest2-2007-10-27-07-40-11-45.jpg" classes="center" >}}
+
+(Appearance armor: Some dress I made. I wanted to dress kinda elfy or something so they wouldn't catch on I wasn't one of them hoighty-toighty high elves. They caught on to me right away -- friggen bandit mask. But it's soooo comfortable...)
+
+So people say, yeah, Echoes of Faydwer looks great, but those old world zones -- BLECH! Especially FREEPORT!
+
+I dunno. I *like* the way Freeport looks. Here's a shot I took in West Freeport while doing the Hallowe'en mask quest. This is Overlord Lucan D'Lere's floating fortress, with the un-blowed-up moon Drinal high in the sky:
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/everquest2-2007-10-27-07-15-46-35.jpg" classes="center" >}}
+
+And this shot is of the Pit of Execution in front of the militia house. Jump in that smoky, dusty pit and find yourself out in the Commonlands. Well, I guess being sentenced to the Commonlands is *like* death... unless you're an orc or an armadillo.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/everquest2-2007-10-27-07-14-21-39.jpg" classes="center" >}}
+
+You can judge EQ2 many ways, but please, if you're going to compare screenshots, make sure you at least try to get decent ones...
+
+Oh yeah, before I end this, check out this screen shot. Undergrowth, trees, a little hobbit home in the background, smoke rising lazily from a chimney, ruins, monsters, it's got it all.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/thicket.jpg" classes="center" >}}
+
+THAT shot... is from Everquest 1. Misty Thicket. My old home town....

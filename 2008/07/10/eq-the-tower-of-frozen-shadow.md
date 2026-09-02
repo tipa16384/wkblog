@@ -1,0 +1,49 @@
+---
+date: '2008-07-10T06:36:13-05:00'
+draft: false
+title: "EQ: The Tower of Frozen Shadow"
+slug: "eq-the-tower-of-frozen-shadow"
+author: "Tipa"
+disqusIdentifier: "2008/07/10/eq-the-tower-of-frozen-shadow"
+summary: "No, I totally don't like this screen shot. My only excuse is this is the only one I took!..."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+  - "Nostalgia the Guild"
+tags:
+  - "Fada Deaths"
+  - "Tower of Frozen Shadow"
+relatedPosts:
+  - url: "/2008/07/16/eq-tower-of-frozen-shadow-floors-2-and-3/"
+    title: "EQ: Tower of Frozen Shadow, floors 2 and 3."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg"
+---
+No, I totally don't like this screen shot. My only excuse is this is the only one I took!...
+<!--more-->
+
+
+
+No, I totally don't like this screen shot. My only excuse is this is the only one I took!
+
+The Tuesday group may have found its home for the next few weeks. Yes, we've started exploring that den of mystery and key-farming, Iceclad's most notorious dungeon, the Tower of Frozen Shadow. Eschewing the standard Velious all-purpose building material, velium, the vampire queen Tserrina built her fortress instead out of the same solidified shadow that so many Luclin buildings were made from. It's seven floors of fun, and each is separated from the other by teleport mirrors that take keys. Really RARE keys. We spent half the night farming the key to the Library, floor two. That included me getting hilariously stuck in the pit and being unable to get out because the skeletons at the bottom kept stunning me (finally we killed them and I was able to get out, exhausted from all that jumping).
+
+Once we finally made it to the second floor, we settled in for a long evening's grind farming the floor 3 (living quarters) keys. They didn't drop. Two or three pieces of Defiant plate armor dropped (yay me), a Defiant beastlord weapon dropped (yay Tesser), a bunch of cool augs dropped (yay other people), but no key.
+
+So we'll probably head back next week and just continue from the library. ToFS was meant for exactly this sort of group -- a slow progression through the floors. Sure, once we reach floor 7, I imagine we'll farm the daylights out of Tserrina just like everyone else does, but it's gonna take us a few nights to get there, and all the time, we'll be leveling so when we DO get there, we'll be able to take her down.
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/outsidetofs.jpg" classes="center" >}}
+
+It just wouldn't be a good night if it didn't start out with some hot Fada death action. And he was kind enough to die three times. Getting IN to ToFS is no easy task; it's guarded by these bone, stick and ice creatures, and if you have one now, you'll have a dozen in ten seconds and fifty half a minute later. Every strategy we tried to get outside and rez met with more death. Well, we eventually got everyone alive and inside... it wasn't a great way to start, but this is EverQuest we're talking about. "Easy" is for the other guys :)
+
+We had a new Nostalgia member along with the Tuesday group; we were thrilled to meet and group with the iksar shaman Ebonfang. And we ALSO met a new rogue named Rayzr, both of whom seem to be headed for more dragon slayin' action with the Friday group. WELCOME!

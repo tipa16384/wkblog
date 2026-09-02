@@ -1,0 +1,68 @@
+---
+date: '2021-08-30T07:33:01-05:00'
+draft: false
+title: "DCUO: Disconnected"
+slug: "dcuo-disconnected"
+author: "Tipa"
+disqusIdentifier: "2021/08/30/dcuo-disconnected"
+summary: "I mean that literally. Since House of Legends launched, I haven't been able to play reliably. Here's what I've been able to find out...."
+categories:
+  - "Blaugust"
+  - "Real Life"
+tags:
+  - "Arris"
+  - "DC Universe Online"
+  - "Router"
+  - "Tp-Link"
+relatedPosts:
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2022/11/14/gotham-knights-completed/"
+    title: "Gotham Knights completed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/dcuodisconnected.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/dcuodisconnected.png"
+---
+I mean that literally. Since House of Legends launched, I haven't been able to play reliably. Here's what I've been able to find out....
+<!--more-->
+
+I mean that literally. Since House of Legends launched, I haven't been able to play reliably. Here's what I've been able to find out.
+
+I like DCUO. I play a lot of DCUO. Steam says I've played 1,053 hours of it on Steam. I also have some time on the Switch, the PlayStation, and a bit more time in the non-Steam client.
+
+I never had a problem playing the game.
+
+That changed last Wednesday, when the House of Legends launched. I was watching the servers come up on the DCUO Discord channel and wanted to log on immediately to claim the daily rewards and just look around. The world came up, I couldn't connect.
+
+I saw that the population of the US PC/PS world was medium, then high. I couldn't log in. I asked in chat if anyone else was simply unable to log in. No reply. I looked in the forums. Nobody had mentioned it. All the posts were about player reactions to the new episode.
+
+I thought maybe it had something to do with the Steam client. I verified the files, then completely uninstalled and reinstalled the game. Nope. I downloaded the PC client directly from Daybreak, and... hey, I could connect!
+
+I went around and enjoyed the HoL content. Somehow, Steam was borked, but I had a workaround I could live with.
+
+Until I couldn't. Saturday, I couldn't connect with any client. Not only that, I couldn't connect with EverQuest or Project Gorgon. Whatever the issue was, it was spreading. Final Fantasy XIV still worked fine, though.
+
+DCUO is a fun game, but I mostly play it to hang around with Team Spode. I don't have a lot of friends, and I have very few I've known as long as the Spoders. Not being able to meet up every Sunday because of some stupid technical glitch... not happening. This has to be fixed.
+
+The issue happened with both my PCs and my PlayStation, so the issue wasn't my machines. Nobody else was reporting the problem, so it wasn't DCUO.
+
+It had to be something to do with my Internet.
+
+I called my ISP, Frontier, and they asked me to try all the things I'd already tried. Resetting the router, unplugging the box where the fiber enters the house, etc. They also tried resetting the line and "clearing the ports", whatever that was.
+
+And all this time, DCUO wasn't coming back up -- although all the other games came back. I then thought to check the DCUO server status and it was down -- for everyone. I breathed a sigh of relief, happy that the issue was fixed. Thanked the tech and went on with my life. When the servers came back up, I could log in and play.
+
+Until I couldn't.
+
+It almost has to be the router. The router comes from Frontier; apparently it's a model that only they use. Still, it's got good reviews on Amazon and looks like it does the job. Now, I suppose I could ask Frontier to swap me out a new one. But it's a good time to try my luck with a better brand.
+
+I've ordered a new router which looks pretty good. It's by TP-Link -- I have some of their tech in the house already, some home automation stuff. I'm hoping, desperately, that this solves the issue.
+
+I can't let Team Spode down!

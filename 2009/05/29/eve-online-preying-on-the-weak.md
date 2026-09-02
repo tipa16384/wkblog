@@ -1,0 +1,53 @@
+---
+date: '2009-05-29T06:27:17-05:00'
+draft: false
+title: "EVE Online: Preying on the Weak"
+slug: "eve-online-preying-on-the-weak"
+author: "Tipa"
+disqusIdentifier: "2009/05/29/eve-online-preying-on-the-weak"
+summary: "[..."
+categories:
+  - "EVE Online"
+  - "MMORPG"
+tags:
+  - "PvP"
+relatedPosts:
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+  - url: "/2009/05/15/wizard-101-arena-season-1-and-automagic/"
+    title: "Wizard 101: Arena Season 1 and Automagic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/w101pvppreview.jpg"
+  - url: "/2008/12/20/wizard-101-killing-me-softly-with-your-spells/"
+    title: "Wizard 101: Killing me softly with your spells"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/crowdscene.jpg"
+  - url: "/2008/12/15/wizard-101-arena-season-1/"
+    title: "Wizard 101 Arena Season 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-28-21-38-08-42-479x405.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-28-21-38-08-42-479x405.jpg"
+---
+[...
+<!--more-->
+
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-28-21-38-08-42.jpg)
+
+Click to make this larger
+
+Tracker Wolf has taken it upon himself to teach this noob the basics of PvP in EVE Online. The game is pretty complicated to begin with, but PvP is like lifting up the control panel for Boeing 747 and finding the controls for the space shuttle underneath.
+
+Hanging in a safe spot deep within lowsec, narrowing in on lone pilots using half intuitive, half trial and error pings from the system scanner? Done that. Bringing up information about the pilot and their ship, length of play, corporation and so forth to see how likely they are to put up a fight? Done that.
+
+Swooped in like an angel of death, warp scrambler pinning them in place while drones and missiles slam into their hull again and again?
+
+Done that.
+
+I'm not really a killer, and mostly (when Tracker Wolf asked after) I just felt kinda bad for the guy. He'd just killed a couple of rats, was in a destroyer but clearly damaged, and then WE swoop in like vultures and rip him apart. I didn't want to pod him, because everyone loses ships, but podding someone is just being mean.
+
+But hanging motionless in deadspace in the Tin Empress (my PvP Tristan), using an imperfect tool like the system scanner to place someone in the vastness of the system -- now THAT'S cool. Like being the submarine person who has to listen for the tell-tale cavitation of the propellers of enemy ships to guess if they are the hunters or the hunted. In lowsec, you are both.
+
+Fate had its way with me later on, as a sudden swarm of NPCs tore my Catalyst, Corner Time Out, apart on a mission. I'd refit my salvager as a mission runner/salvager so that I wouldn't have to always be swapping ships, and it had been working out fine until I met the Morgun. I wasn't prepared for how quickly they could take apart my shields -- and plus, I was webbed. I went back with my PvE Tristan, Isis' Dark Laughter, but just barely escaped before that ship was also blown away.
+
+So tonight I will just lie low, I think, and let the last skill I need before I can fly my Retriever mining barge finish training. Sunday starts the training for the Vexor, but before I get that, I need to fit another mission Catalyst -- one that can tank a little better. Tracker Wolf sent me a couple PvP Tristan builds, so the Empress will likely be getting an upgrade as well.
