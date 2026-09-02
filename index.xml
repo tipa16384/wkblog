@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 31 Aug 2026 08:30:36 -0500</lastBuildDate>
+			<lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://tipa16384.github.io/wkblog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Temp related test</title>
+				<link>https://tipa16384.github.io/wkblog/2026/09/temp-related-test/</link>
+				<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>https://tipa16384.github.io/wkblog/2026/09/temp-related-test/</guid>
+				<description>Test</description>
+			</item>
 			<item>
 				<title>EverQuest Legends: The True Endgame</title>
 				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-the-true-endgame/</link>
@@ -75,13 +82,6 @@
 				<pubDate>Wed, 19 Aug 2026 23:43:02 -0500</pubDate>
 				<guid>https://tipa16384.github.io/wkblog/2026/08/confessions-of-a-superbacker-blaugust-2026-edition/</guid>
 				<description>&lt;p&gt;Only been a few months since my last one, but what the heck, I&amp;rsquo;ve superbacked stuff since then.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>EverQuest Legends: There&#39;s no way this is going to last.</title>
-				<link>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-theres-no-way-this-is-going-to-last/</link>
-				<pubDate>Tue, 18 Aug 2026 23:25:29 -0500</pubDate>
-				<guid>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-theres-no-way-this-is-going-to-last/</guid>
-				<description>&lt;p&gt;Enjoy it while you can!&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

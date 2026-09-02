@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tipa16384.github.io/wkblog/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tipa16384.github.io/wkblog/posts/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tipa16384.github.io/wkblog/2026/09/temp-related-test/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tipa16384.github.io/wkblog/categories/blaugust/</loc>
     <lastmod>2026-08-31T08:30:36-05:00</lastmod>
   </url><url>
@@ -11,9 +20,6 @@
     <loc>https://tipa16384.github.io/wkblog/categories/</loc>
     <lastmod>2026-08-31T08:30:36-05:00</lastmod>
   </url><url>
-    <loc>https://tipa16384.github.io/wkblog/</loc>
-    <lastmod>2026-08-31T08:30:36-05:00</lastmod>
-  </url><url>
     <loc>https://tipa16384.github.io/wkblog/categories/everquest/</loc>
     <lastmod>2026-08-31T08:30:36-05:00</lastmod>
   </url><url>
@@ -21,9 +27,6 @@
     <lastmod>2026-08-31T08:30:36-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/2026/08/everquest-legends-the-true-endgame/</loc>
-    <lastmod>2026-08-31T08:30:36-05:00</lastmod>
-  </url><url>
-    <loc>https://tipa16384.github.io/wkblog/posts/</loc>
     <lastmod>2026-08-31T08:30:36-05:00</lastmod>
   </url><url>
     <loc>https://tipa16384.github.io/wkblog/tags/</loc>
